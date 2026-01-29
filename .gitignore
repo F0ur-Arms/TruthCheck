@@ -4,3 +4,4 @@ venv311/
 __pycache__/
 logs/
 .cache/
+models/language/*.bin
