@@ -1,0 +1,20 @@
+[
+  {
+    "claim_subject": "warm water",
+    "verdict": "TRUE",
+    "scientific_truth": "Warm water can help break down food faster and improve digestion.",
+    "risk_level": "Low"
+  },
+  {
+    "claim_subject": "gym",
+    "verdict": "FALSE",
+    "scientific_truth": "Moderate exercise is highly beneficial; only extreme unguided overexertion is harmful.",
+    "risk_level": "Low"
+  },
+  {
+    "claim_subject": "curd",
+    "verdict": "FALSE",
+    "scientific_truth": "Curd is a probiotic and does not cause colds; however, some people prefer it at room temperature.",
+    "risk_level": "Low"
+  }
+]

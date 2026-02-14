@@ -1,0 +1,9 @@
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "curd"}, {"LOWER": "at"}, {"LOWER": "night"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "warm"}, {"LOWER": "water"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "water"}, {"LOWER": "while"}, {"LOWER": "standing"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sleeping"}, {"LOWER": "at"}, {"LOWER": "noon"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "haldi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ashwagandha"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "warm"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "khali"}, {"LOWER": "pet"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "digestion"}]}
