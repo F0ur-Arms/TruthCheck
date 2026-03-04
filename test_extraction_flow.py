@@ -1,7 +1,7 @@
 import spacy
 from src.preprocessor import HinglishMapper
 from src.lifestyle_ner import build_lifestyle_ner
-from src.refine_extraction import extract_triples
+from src.refine_extractor import extract_triples
 
 def run_full_test():
     # 1. Initialize Components

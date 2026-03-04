@@ -1,5 +1,5 @@
 import spacy
-
+#no data used
 def extract_health_triples(text, nlp):
     doc = nlp(text)
     triples = []
