@@ -1,0 +1,706 @@
+SOURCE: PUBMED
+TOPIC: obesity type 2 diabetes India epidemiology
+────────────────────────────────────────────────────────────
+
+1. Compr Physiol. 2025 Feb;15(1):e70003. doi: 10.1002/cph4.70003.
+
+Type 2 Diabetes Mellitus: A Comprehensive Review of Pathophysiology, 
+Comorbidities, and Emerging Therapies.
+
+Singh A(1), Shadangi S(1), Gupta PK(1), Rana S(1).
+
+Author information:
+(1)Chemical Biology Laboratory, School of Basic Sciences, Indian Institute of 
+Technology Bhubaneswar, Odisha, India.
+
+Humans are perhaps evolutionarily engineered to get deeply addicted to sugar, as 
+it not only provides energy but also helps in storing fats, which helps in 
+survival during starvation. Additionally, sugars (glucose and fructose) 
+stimulate the feel-good factor, as they trigger the secretion of serotonin and 
+dopamine in the brain, associated with the reward sensation, uplifting the mood 
+in general. However, when consumed in excess, it contributes to energy 
+imbalance, weight gain, and obesity, leading to the onset of a complex metabolic 
+disorder, generally referred to as diabetes. Type 2 diabetes mellitus (T2DM) is 
+one of the most prevalent forms of diabetes, nearly affecting all age groups. 
+T2DM is clinically diagnosed with a cardinal sign of chronic hyperglycemia 
+(excessive sugar in the blood). Chronic hyperglycemia, coupled with dysfunctions 
+of pancreatic β-cells, insulin resistance, and immune inflammation, further 
+exacerbate the pathology of T2DM. Uncontrolled T2DM, a major public health 
+concern, also contributes significantly toward the onset and progression of 
+several micro- and macrovascular diseases, such as diabetic retinopathy, 
+nephropathy, neuropathy, atherosclerosis, and cardiovascular diseases, including 
+cancer. The current review discusses the epidemiology, causative factors, 
+pathophysiology, and associated comorbidities, including the existing and 
+emerging therapies related to T2DM. It also provides a future roadmap for 
+alternative drug discovery for the management of T2DM.
+
+© 2025 American Physiological Society.
+
+DOI: 10.1002/cph4.70003
+PMID: 39980164 [Indexed for MEDLINE]
+
+
+2. Indian J Ophthalmol. 2021 Nov;69(11):2932-2938. doi: 10.4103/ijo.IJO_1627_21.
+
+Epidemiology of type 2 diabetes in India.
+
+Pradeepa R(1), Mohan V(1).
+
+Author information:
+(1)Madras Diabetes Research Foundation and Dr. Mohan's Diabetes Specialities 
+Centre, IDF Centre of Excellence in Diabetes Care and ICMR Centre for Advanced 
+Research on Diabetes, Chennai, Tamil Nadu, India.
+
+The burden of diabetes is high and increasing globally, and in developing 
+economies like India, mainly fueled by the increasing prevalence of 
+overweight/obesity and unhealthy lifestyles. The estimates in 2019 showed that 
+77 million individuals had diabetes in India, which is expected to rise to over 
+134 million by 2045. Approximately 57% of these individuals remain undiagnosed. 
+Type 2 diabetes, which accounts for majority of the cases, can lead to 
+multiorgan complications, broadly divided into microvascular and macrovascular 
+complications. These complications are a significant cause for increased 
+premature morbidity and mortality among individuals with diabetes, leading to 
+reduced life expectancy and financial and other costs of diabetes leading to 
+profound economic burden on the Indian health care system. The risk for diabetes 
+is largely influence by ethnicity, age, obesity and physical inactivity, 
+unhealthy diet, and behavioral habits in addition to genetics and family 
+history. Good control of blood sugar blood pressure and blood lipid levels can 
+prevent and/or delay the onset of diabetes complications. The prevention and 
+management of diabetes and associated complications is a huge challenge in India 
+due to several issues and barriers, including lack of multisectoral approach, 
+surveillance data, awareness regarding diabetes, its risk factors and 
+complications, access to health care settings, access to affordable medicines, 
+etc. Thus, effective health promotion and primary prevention, at both, 
+individual and population levels are the need of the hour to curb the diabetes 
+epidemic and reduce diabetes-related complications in India.
+
+DOI: 10.4103/ijo.IJO_1627_21
+PMCID: PMC8725109
+PMID: 34708726 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+3. Lancet Diabetes Endocrinol. 2023 Oct;11(10):768-782. doi: 
+10.1016/S2213-8587(23)00225-5. Epub 2023 Sep 11.
+
+Current insights and emerging trends in early-onset type 2 diabetes.
+
+Misra S(1), Ke C(2), Srinivasan S(3), Goyal A(4), Nyriyenda MJ(5), Florez JC(6), 
+Khunti K(7), Magliano DJ(8), Luk A(9).
+
+Author information:
+(1)Division of Metabolism, Digestion and Reproduction, Imperial College London, 
+London, UK; Department of Diabetes and Endocrinology, Imperial College 
+Healthcare NHS Trust, London, UK. Electronic address: s.misra@imperial.ac.uk.
+(2)Department of Medicine, University of Toronto, Toronto, Ontario, Canada; 
+Department of Medicine, Toronto General Hospital, University Health Network, 
+Toronto, Ontario, Canada; Institute for Clinical Evaluative Sciences, Toronto, 
+Ontario, Canada.
+(3)Division of Pediatric Endocrinology and Diabetes, Department of Pediatrics, 
+University of California at San Francisco, San Francisco, CA, USA.
+(4)Department of Endocrinology and Metabolism, All India Institute of Medical 
+Sciences, New Delhi, India.
+(5)Medical Research Council-Uganda Virus Research Institute and London School of 
+Hygiene & Tropical Medicine, Uganda Research Unit, Entebbe, Uganda; London 
+School of Hygiene and Tropical Medicine, London, UK.
+(6)Diabetes Unit and Center for Genomic Medicine, Massachusetts General 
+Hospital, Boston, MA, USA; Programs in Metabolism and Medical and Population 
+Genetics, Broad Institute, Cambridge, MA, USA; Department of Medicine, Harvard 
+Medical School, Boston, MA, USA.
+(7)Diabetes Research Centre, Leicester General Hospital, University of 
+Leicester, Leicester, UK.
+(8)Baker Heart and Diabetes Institute, Melbourne, Australia; School of Public 
+Health and Prevention, Monash University Melbourne, Melbourne, Australia.
+(9)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong Special Administrative Region, China.
+
+Type 2 diabetes diagnosed in childhood or early adulthood is termed early-onset 
+type 2 diabetes. Cases of early-onset type 2 diabetes are increasing rapidly 
+globally, alongside rising obesity. Compared with a diagnosis later in life, an 
+earlier-onset diagnosis carries an unexplained excess risk of microvascular 
+complications, adverse cardiovascular outcomes, and earlier death. Women with 
+early-onset type 2 diabetes also have a higher risk of adverse pregnancy 
+outcomes. The high burden of complications renders individuals with early-onset 
+type 2 diabetes at future risk of multimorbidity and interventions to reverse 
+these concerning trends should be a priority. Within the early-onset cohort, 
+disease pathophysiology and interventions have been better studied in 
+paediatric-onset (<19 years) type 2 diabetes compared to adults; however, young 
+adults aged 19-39 years (a larger number proportionally) are not well 
+characterised and are also invisible in the current evidence base supporting 
+management, which is derived from trials in later-onset type 2 diabetes. Young 
+adults with type 2 diabetes face challenges in self-management that older 
+individuals are less likely to experience (being in education or of working age, 
+higher diabetes distress, and possible obesity-related stigma and 
+diabetes-related stigma). There is a major research gap as to the optimal 
+strategies to deploy in managing type 2 diabetes in adolescents and young 
+adults, given that current models of care appear to not work as well in this age 
+group. In the face of manifold risk factors (obesity, female sex, social 
+deprivation, non-White European ethnicity, and genetic risk factors) prevention 
+strategies with tailored lifestyle interventions, where needed, are likely to 
+have greater success, but more evidence is needed. In this Review, we draw on 
+evidence from both adolescents and young adults to provide a contemporary update 
+on the current insights and emerging trends in early-onset type 2 diabetes.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2213-8587(23)00225-5
+PMID: 37708901 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests SM is in receipt of an 
+investigator-initiated grant from DexCom, has received speaker fees (donated to 
+institution) from Sanofi for a scientific talk over which she had full control 
+of the content, and serves as Trustee to the Diabetes Research and Wellness 
+Foundation charity, UK. CK reports receiving personal fees from Abbott, Sanofi, 
+and AstraZeneca. AL reports receiving funding from research contracts and grants 
+from Amgen, AstraZeneca, Boehringer Ingelheim, Eli Lilly, Lee Pharmaceutical, 
+MSD, Novo Nordisk, Roche, Sanofi, Sugardown, and Takeda. JCF has received 
+consulting honorarium from AstraZeneca and speaker fees from Novo Nordisk for a 
+scientific talk over which he had full control of content. The spouse of JCF has 
+received a consulting honorarium from Novartis. KK has acted as a consultant, 
+speaker, or received grants for investigator-initiated studies for Astra Zeneca, 
+Bayer, Novartis, Novo Nordisk, Sanofi-Aventis, Lilly, and Merck Sharp and Dohme, 
+Boehringer Ingelheim, Oramed Pharmaceuticals, Roche, and Applied Therapeutics. 
+All other authors declare no competing interests.
+
+
+4. Curr Probl Cardiol. 2024 Feb;49(2):102344. doi:
+10.1016/j.cpcardiol.2023.102344.  Epub 2023 Dec 14.
+
+Cardiovascular-Kidney-Metabolic (CKM) syndrome: A state-of-the-art review.
+
+Sebastian SA(1), Padda I(2), Johal G(3).
+
+Author information:
+(1)Department of Internal Medicine, Azeezia Medical College, Kollam, Kerala, 
+India. Electronic address: snehaann1991@gmail.com.
+(2)Department of Internal Medicine, Richmond University Medical Center/Mount 
+Sinai, Staten Island, NY, USA.
+(3)Department of Cardiology, Valley Medical Center, University of Washington, 
+Seattle, USA.
+
+The correlation between obesity, type 2 diabetes mellitus (DM), cardiovascular 
+disease (CVD), and chronic kidney disease (CKD) is an escalating and widely 
+acknowledged epidemic in industrialized nations. Recently, this complex web of 
+interrelated health conditions has been collectively defined as the 
+Cardiovascular-Kidney-Metabolic (CKM) syndrome by the American Heart Association 
+(AHA). The molecular mechanisms underlying CKM disease contain a spectrum of 
+interconnected factors, including hyperglycemia, insulin resistance, heightened 
+activity of the renin-angiotensin-aldosterone system (RAAS), the generation of 
+advanced glycation end-products, oxidative stress, lipotoxicity, endoplasmic 
+reticulum stress, abnormalities in calcium handling, malfunctioning of 
+mitochondria and impaired energy production, as well as persistent chronic 
+inflammation. Addressing their prevention, management, and treatment is of 
+paramount importance to promote better patient health outcomes. The objective of 
+this review is to provide a comprehensive and critical examination of the 
+current state-of-the-art regarding the recently defined CKM syndrome. This 
+includes an exploration of epidemiological evidence establishing connections 
+between cardio-renal-metabolic diseases, an examination of the underlying 
+pathophysiological mechanisms, and a comprehensive overview of existing 
+treatment modalities.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cpcardiol.2023.102344
+PMID: 38103820 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. J Hepatol. 2020 Jul;73(1):202-209. doi: 10.1016/j.jhep.2020.03.039. Epub 2020 
+Apr 8.
+
+A new definition for metabolic dysfunction-associated fatty liver disease: An 
+international expert consensus statement.
+
+Eslam M(1), Newsome PN(2), Sarin SK(3), Anstee QM(4), Targher G(5), Romero-Gomez 
+M(6), Zelber-Sagi S(7), Wai-Sun Wong V(8), Dufour JF(9), Schattenberg JM(10), 
+Kawaguchi T(11), Arrese M(12), Valenti L(13), Shiha G(14), Tiribelli C(15), 
+Yki-Järvinen H(16), Fan JG(17), Grønbæk H(18), Yilmaz Y(19), Cortez-Pinto H(20), 
+Oliveira CP(21), Bedossa P(22), Adams LA(23), Zheng MH(24), Fouad Y(25), Chan 
+WK(26), Mendez-Sanchez N(27), Ahn SH(28), Castera L(29), Bugianesi E(30), Ratziu 
+V(31), George J(32).
+
+Author information:
+(1)Storr Liver Centre, Westmead Institute for Medical Research, Westmead 
+Hospital and University of Sydney, NSW, Australia. Electronic address: 
+mohammed.eslam@sydney.edu.au.
+(2)National Institute for Health Research Biomedical Research Centre at 
+University Hospitals Birmingham NHS Foundation Trust and the University of 
+Birmingham, UK; Centre for Liver and Gastrointestinal Research, Institute of 
+Immunology and Immunotherapy, University of Birmingham, UK; Liver Unit, 
+University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK. Electronic 
+address: p.n.newsome@bham.ac.uk.
+(3)Department of Hepatology, Institute of Liver and Biliary Sciences, New Delhi, 
+India.
+(4)Translational & Clinical Research Institute, Faculty of Medical Sciences, 
+Newcastle University, Newcastle upon Tyne, United Kingdom; Newcastle NIHR 
+Biomedical Research Centre, Newcastle upon Tyne Hospitals NHS Foundation Trust, 
+Newcastle upon Tyne, United Kingdom.
+(5)Section of Endocrinology, Diabetes and Metabolism, Department of Medicine, 
+University and Azienda Ospedaliera Universitaria Integrata of Verona, Verona, 
+Italy.
+(6)UCM Digestive Diseases, Virgen del Rocio University Hospital, Instituto de 
+Biomedicina de Sevilla, CIBEREHD, University of Seville, Sevilla, Spain.
+(7)School of Public Health, University of Haifa, Haifa, Israel; Department of 
+Gastroenterology, Tel Aviv Medical Center, Tel Aviv, Israel.
+(8)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong.
+(9)University Clinic for Visceral Surgery and Medicine, Inselspital, University 
+of Bern, Switzerland; Department of Biomedical Research, University of Bern, 
+Switzerland.
+(10)Department of Medicine, University Medical Centre, Johannes Gutenberg 
+University Mainz, Germany.
+(11)Division of Gastroenterology, Department of Medicine, Kurume University 
+School of Medicine, Kurume, Japan.
+(12)Departamento de Gastroenterología, Escuela de Medicina, Pontificia 
+Universidad Católica de Chile, Santiago, Chile and Centro de Envejecimiento y 
+Regeneracion (CARE), Departamento de Biologia Celular y Molecular, Facultad de 
+Ciencias Biologicas Pontificia Universidad Catolica de Chile, Santiago, Chile.
+(13)Department of Pathophysiology and Transplantation, Università degli Studi di 
+Milano, and Translational Medicine, Department of Transfusion Medicine and 
+Hematology, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milano, 
+Italy.
+(14)Hepatology and Gastroenterology Unit, Internal Medicine Department, Faculty 
+of Medicine, Mansoura University, Egypt.
+(15)Liver Center, Italian Liver Foundation, Trieste, Italy.
+(16)Department of Medicine, University of Helsinki and Helsinki University 
+Hospital, and Minerva Foundation Institute for Medical Research, Helsinki, 
+Finland.
+(17)Center for Fatty Liver, Department of Gastroenterology, Xin Hua Hospital 
+Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai Key Lab 
+of Pediatric Gastroenterology and Nutrition, Shanghai, China.
+(18)Department of Hepatology & Gastroenterology, Aarhus University Hospital, 
+Aarhus, Denmark.
+(19)Department of Gastroenterology, School of Medicine, Marmara University, 
+Istanbul, Turkey; Institute of Gastroenterology, Marmara University, Istanbul, 
+Turkey.
+(20)Clínica Universitária de Gastrenterologia, Laboratório de Nutrição, 
+Faculdade de Medicina, Universidade de Lisboa, Portugal.
+(21)Department of Gastroenterology, University of Sao Paulo, School of Medicine, 
+Sao Paulo, Brazil.
+(22)Department of Pathology, Physiology and Imaging, Beaujon Hospital Paris 
+Diderot University, Paris, France.
+(23)Medical School, Sir Charles Gairdner Hospital Unit, University of Western 
+Australia, Nedlands, WA, Australia.
+(24)NAFLD Research Center, Department of Hepatology, the First Affiliated 
+Hospital of Wenzhou Medical University, Wenzhou, China; Institute of Hepatology, 
+Wenzhou Medical University, Wenzhou, China.
+(25)Department of Gastroenterology, Hepatology and Endemic Medicine, Faculty of 
+Medicine, Minia University Hospitals, Minya, Egypt.
+(26)Gastroenterology and Hepatology Unit, Department of Medicine, Faculty of 
+Medicine, University of Malaya, Kuala Lumpur, Malaysia.
+(27)Liver Research Unit, Medica Sur Clinic & Foundation and Faculty of Medicine, 
+National Autonomous University of Mexico, Mexico City, Mexico.
+(28)Department of Internal Medicine, Yonsei University College of Medicine, 
+Seoul, South Korea.
+(29)Université Paris VII, Inserm Umr 1149, Centre de Recherche Sur 
+L'inflammation, Paris, France.
+(30)Division of Gastroenterology and Hepatology, Department of Medical Sciences, 
+University of Turin, Turin, Italy.
+(31)Sorbonne Université, Assistance Publique-Hôpitaux de Paris, Hôpital Pitié 
+Salpêtrière-, Institute of Cardiometabolism and Nutrition (ICAN), Paris, France. 
+Electronic address: vlad.ratziu@inserm.fr.
+(32)Storr Liver Centre, Westmead Institute for Medical Research, Westmead 
+Hospital and University of Sydney, NSW, Australia. Electronic address: 
+jacob.george@sydney.edu.au.
+
+Comment in
+    Nat Rev Gastroenterol Hepatol. 2020 Jul;17(7):387-388. doi: 
+10.1038/s41575-020-0316-6.
+    J Hepatol. 2020 Nov;73(5):1268-1269. doi: 10.1016/j.jhep.2020.06.036.
+    J Hepatol. 2020 Nov;73(5):1265-1267. doi: 10.1016/j.jhep.2020.06.016.
+    J Hepatol. 2020 Nov;73(5):1264-1265. doi: 10.1016/j.jhep.2020.06.003.
+    J Hepatol. 2020 Dec;73(6):1307-1309. doi: 10.1016/j.jhep.2020.08.028.
+    J Hepatol. 2020 Dec;73(6):1575. doi: 10.1016/j.jhep.2020.07.045.
+    J Hepatol. 2020 Dec;73(6):1573-1574. doi: 10.1016/j.jhep.2020.07.008.
+    J Hepatol. 2020 Dec;73(6):1571-1573. doi: 10.1016/j.jhep.2020.06.042.
+    J Hepatol. 2021 Apr;74(4):982-983. doi: 10.1016/j.jhep.2020.09.002.
+    J Hepatol. 2021 Apr;74(4):972-974. doi: 10.1016/j.jhep.2020.10.015.
+    J Hepatol. 2021 Apr;74(4):974-977. doi: 10.1016/j.jhep.2020.10.019.
+    J Hepatol. 2021 Apr;74(4):988. doi: 10.1016/j.jhep.2020.11.011.
+    J Hepatol. 2021 Apr;74(4):979-982. doi: 10.1016/j.jhep.2020.11.004.
+    J Hepatol. 2021 Apr;74(4):989-991. doi: 10.1016/j.jhep.2020.12.016.
+    J Hepatol. 2021 Apr;74(4):992-994. doi: 10.1016/j.jhep.2021.01.004.
+    J Hepatol. 2021 Apr;74(4):983-985. doi: 10.1016/j.jhep.2020.12.027.
+    J Hepatol. 2021 Apr;74(4):977-979. doi: 10.1016/j.jhep.2020.12.025.
+    J Hepatol. 2021 May;74(5):1256-1258. doi: 10.1016/j.jhep.2021.01.015.
+    J Hepatol. 2021 May;74(5):1258-1260. doi: 10.1016/j.jhep.2021.01.019.
+    J Hepatol. 2021 Apr;74(4):991-992. doi: 10.1016/j.jhep.2020.12.032.
+    J Hepatol. 2021 May;74(5):1261-1262. doi: 10.1016/j.jhep.2021.01.022.
+    J Hepatol. 2021 May;74(5):1254-1256. doi: 10.1016/j.jhep.2020.12.035.
+    J Hepatol. 2021 May;74(5):1262-1263. doi: 10.1016/j.jhep.2021.02.002.
+    MMW Fortschr Med. 2021 May;163(9):10-11. doi: 10.1007/s15006-021-9914-7.
+    J Hepatol. 2021 Sep;75(3):726-728. doi: 10.1016/j.jhep.2021.05.039.
+    Hepatol Int. 2023 Apr;17(2):507-508. doi: 10.1007/s12072-022-10448-y.
+
+The exclusion of other chronic liver diseases including "excess" alcohol intake 
+has until now been necessary to establish a diagnosis of metabolic 
+dysfunction-associated fatty liver disease (MAFLD). However, given our current 
+understanding of the pathogenesis of MAFLD and its rising prevalence, "positive 
+criteria" to diagnose the disease are required. In this work, a panel of 
+international experts from 22 countries propose a new definition for the 
+diagnosis of MAFLD that is both comprehensive and simple, and is independent of 
+other liver diseases. The criteria are based on evidence of hepatic steatosis, 
+in addition to one of the following three criteria, namely overweight/obesity, 
+presence of type 2 diabetes mellitus, or evidence of metabolic dysregulation. We 
+propose that disease assessment and stratification of severity should extend 
+beyond a simple dichotomous classification to steatohepatitis vs. 
+non-steatohepatitis. The group also suggests a set of criteria to define 
+MAFLD-associated cirrhosis and proposes a conceptual framework to consider other 
+causes of fatty liver disease. Finally, we bring clarity to the distinction 
+between diagnostic criteria and inclusion criteria for research studies and 
+clinical trials. Reaching consensus on the criteria for MAFLD will help unify 
+the terminology (e.g. for ICD-coding), enhance the legitimacy of clinical 
+practice and clinical trials, improve clinical care and move the clinical and 
+scientific field of liver research forward.
+
+Copyright © 2020 European Association for the Study of the Liver. Published by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2020.03.039
+PMID: 32278004 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflicts of interest that pertain to this work. Please refer to the 
+accompanying ICMJE disclosure forms for further details.
+
+
+6. Lancet. 2025 Jun 28;405(10497):2313-2326. doi: 10.1016/S0140-6736(25)00830-X. 
+Epub 2025 Jun 23.
+
+Early-onset type 2 diabetes: the next major diabetes transition.
+
+Luk A(1), Wild SH(2), Jones S(3), Anjana RM(4), Hivert MF(5), McCaffrey J(6), 
+Gregg EW(6), Misra S(7).
+
+Author information:
+(1)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong Special Administrative Region, China.
+(2)Usher Institute, University of Edinburgh, Edinburgh, UK.
+(3)Department of Metabolism, Digestion and Reproduction, Imperial College 
+London, London, UK.
+(4)Madras Diabetes Research Foundation & Dr Mohan's Diabetes Specialities 
+Centre, Chennai, India.
+(5)Department of Population Medicine, Division of Chronic Disease Research 
+Across the Lifecourse, Harvard Pilgrim Health Care Institute, Harvard Medical 
+School, Harvard University, Boston, MA, USA; Diabetes Unit, Massachusetts 
+General Hospital, Boston, MA, USA.
+(6)School of Population Health, RCSI University of Medicine and Health Sciences, 
+Dublin, Ireland.
+(7)Department of Metabolism, Digestion and Reproduction, Imperial College 
+London, London, UK; Department of Diabetes & Endocrinology, Imperial College 
+Healthcare NHS Trust, London, UK. Electronic address: smisra@ic.ac.uk.
+
+Erratum in
+    Lancet. 2025 Oct 11;406(10512):1564. doi: 10.1016/S0140-6736(25)02057-4.
+
+The incidence of early-onset type 2 diabetes is increasing, with a growing 
+number of cases now occurring in children, adolescents, and young adults. This 
+transition is primarily driven by the rising prevalence of obesity in younger 
+populations, especially in high-income countries. However, the relationship 
+between obesity and early-onset type 2 diabetes varies across ethnic groups, 
+with some populations exhibiting a higher risk at lower BMI thresholds, possibly 
+due to differences in insulin resistance and β-cell function. Socioeconomic 
+factors further shape disease patterns, with early-onset type 2 diabetes 
+disproportionately affecting lower-income populations in high-income settings, 
+whereas in low-income and middle-income countries, economic development and 
+urbanisation have contributed to increasing incidence among more affluent 
+groups. The consequences of this transition to early-onset type 2 diabetes are 
+severe, with accelerated disease progression, heightened risks of microvascular 
+and macrovascular complications, and considerable societal and health-care 
+burdens compared with later-onset disease. Given the continuing rise in 
+childhood and adolescent obesity, the incidence of early-onset type 2 diabetes 
+is expected to increase further, placing mounting pressure on health-care 
+systems worldwide. In the first of three papers in this Series, we examine 
+global trends in the incidence and prevalence of early-onset type 2 diabetes, 
+identify key drivers of this transition to diagnosis at younger ages, and review 
+the evidence for risk factors both at population and individual level.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+data mining, AI training, and similar technologies.
+
+DOI: 10.1016/S0140-6736(25)00830-X
+PMID: 40570862 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests SM has received speaker 
+honoraria from Lilly UK, Sanofi, and Menarini. All other authors declare no 
+competing interests.
+
+
+7. Metabolism. 2024 Nov;160:155999. doi: 10.1016/j.metabol.2024.155999. Epub 2024
+ Aug 14.
+
+Global burden of metabolic diseases, 1990-2021.
+
+Zhang H(1), Zhou XD(2), Shapiro MD(3), Lip GYH(4), Tilg H(5), Valenti L(6), 
+Somers VK(7), Byrne CD(8), Targher G(9), Yang W(10), Viveiros O(11), Opio 
+CK(12), Mantzoros CS(13), Ryan JD(14), Kok KYY(15), Jumaev NA(16), Perera N(17), 
+Robertson AG(18), Abu-Abeid A(19), Misra A(20), Wong YJ(21), Ruiz-Úcar E(22), 
+Ospanov O(23), Kızılkaya MC(24), Luo F(25), Méndez-Sánchez N(26), Zuluaga M(27), 
+Lonardo A(28), Al Momani H(29), Toro-Huamanchumo CJ(30), Adams L(31), Al-Busafi 
+SA(32), Sharara AI(33), Chan WK(34), Abbas SI(35), Sookoian S(36), 
+Treeprasertsuk S(37), Ocama P(38), Alswat K(39), Kong AP(40), Ataya K(41), 
+Lim-Loo MC(42), Oviedo RJ(43), Szepietowski O(44), Fouad Y(45), Zhang H(46), 
+Abdelbaki TN(47), Katsouras CS(48), Prasad A(49), Thaher O(50), Ali A(51), 
+Molina GA(52), Sung KC(53), Chen QF(54), Lesmana CRA(55), Zheng MH(56).
+
+Author information:
+(1)Department of Medical Record, the First Affiliated Hospital of Wenzhou 
+Medical University, Wenzhou, China; MAFLD Research Center, Department of 
+Hepatology, The First Affiliated Hospital of Wenzhou Medical University, 
+Wenzhou, China.
+(2)Department of Cardiovascular Medicine, The Heart Center, The First Affiliated 
+Hospital of Wenzhou Medical University, Wenzhou, China.
+(3)Center for Prevention of Cardiovascular Disease, Section on Cardiovascular 
+Medicine, Wake Forest University School of Medicine, Winston-Salem, NC, USA.
+(4)Liverpool Centre for Cardiovascular Science at University of Liverpool, 
+Liverpool John Moores University and Liverpool Heart & Chest Hospital, 
+Liverpool, UK; Department of Clinical Medicine, Aalborg University, Aalborg, 
+Denmark.
+(5)Department of Internal Medicine I, Gastroenterology, Endocrinology & 
+Metabolism, Medical University Innsbruck, Innsbruck, Austria.
+(6)Department of Pathophysiology and Transplantation, Università degli Studi di 
+Milano, Milan, Italy; Precision Medicine, Biological Resource Center Unit, 
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+(7)Department of Cardiovascular Medicine, Mayo Clinic College of Medicine, 
+Rochester, USA.
+(8)Southampton National Institute for Health and Care Research Biomedical 
+Research Centre, University Hospital Southampton, University of Southampton, 
+Southampton General Hospital, Southampton, UK.
+(9)Department of Medicine, University of Verona, Verona, Italy; Metabolic 
+Diseases Research Unit, IRCCS Sacro Cuore-Don Calabria Hospital, Negrar di 
+Valpolicella, Italy.
+(10)Department of Metabolic and Bariatric Surgery, The First Affiliated Hospital 
+of Jinan University, Guangzhou, China.
+(11)Department of Metabolic and Bariatric Surgery, Hospital Lusiadas Amadora, 
+Amadora, Lisbon, Portugal.
+(12)Department of Medicine, Aga Khan University, Nairobi, Kenya.
+(13)Department of Medicine, Beth Israel Deaconess Medical Center, Harvard 
+Medical School, Boston, MA, USA; Section of Endocrinology, Boston VA Healthcare 
+System, Harvard Medical School, Boston, MA, USA.
+(14)Department of Hepatology, RCSI School of Medicine and Medical Sciences, 
+Dublin/Beaumont Hospital, Dublin, Ireland.
+(15)Pengiran Anak Puteri Rashidah Sa'adatul Bolkiah Institute of Health 
+Sciences, Universiti Brunei Darussalam, Bandar Seri Begawan, Brunei-Muara, 
+Brunei.
+(16)Department Surgical Diseases, Tashkent Medical Academy, Almazar, Tashkent, 
+Uzbekistan.
+(17)Department of Medicine, University of Sri Jayewardenepura, Nugegoda, Sri 
+Lanka.
+(18)Department of Upper Gastrointestinal Surgery, Royal Infirmary Edinburgh, 
+Edinburgh, United Kingdom.
+(19)Division of Surgery, Tel Aviv Sourasky Medical Center affiliated to Tel Aviv 
+University, Tel Aviv, Israel.
+(20)Fortis-CDOC Center of Excellence for Diabetes, Metabolic Diseases, and 
+Endocrinology, National Diabetes Obesity and Cholesterol Foundation and Diabetes 
+Foundation, New Delhi, India.
+(21)Department of Gastroenterology & Hepatology, Changi General Hospital, 
+Singapore; Duke-NUS Medical School, Singapore.
+(22)Department of Metabolic, Bariatric and Endocrine Surgery, Fuenlabrada 
+University Hospital, Madrid, Spain.
+(23)Surgical Disease and Bariatric Surgery, Astana Medical University, Astana, 
+Aqmola, Kazakhstan.
+(24)Department of Metabolic and Bariatric Surgery, Acibadem Atakent University 
+Hospital, Istanbul, Türkiye.
+(25)Department of Cardiovascular Medicine, The Second Xiangya Hospital, Central 
+South University, Changsha, China.
+(26)Liver Research Unit, Medica Sur Clinic & Foundation, Mexico City, Mexico.
+(27)Department of Surgery, Universidad del Valle, Cali, Valle del Cauca, 
+Colombia.
+(28)Department of Internal Medicine, Ospedale Civile di Baggiovara (-2023), 
+Azienda Ospedaliero-Universitaria di Modena, Modena, Italy.
+(29)Weight Management Unit, Royal NMC Hospital, Khalifa City, Abu Dhabi, United 
+Arab Emirates.
+(30)Universidad San Ignacio de Loyola, Lima, Peru; OBEMET Center for Obesity and 
+Metabolic Health, Lima, Peru; Nutrition and Health Innovation Research 
+Institute, School of Medical and Health Sciences, Edith Cowan University, 
+Western Australia, Australia.
+(31)Department of Hepatology, Sir Charles Gairdner Hospital, Perth, Australia; 
+Medical School, The University of Western Australia, Perth, Australia.
+(32)Department of Medicine, College of Medicine and Health Sciences, Sultan 
+Qaboos University, Muscat, Oman.
+(33)Division of Gastroenterology and Hepatology, Department of Internal 
+Medicine, American University of Beirut Medical center, Beirut, Lebanon.
+(34)Gastroenterology and Hepatology Unit, Department of Medicine, Faculty of 
+Medicine, University of Malaya, Kuala Lumpur, Malaysia.
+(35)Department of Metabolic and Bariatric Surgery, Iranian Hospital Dubai, 
+Dubai, United Arab Emirates.
+(36)Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos 
+Aires, Argentina; Faculty of Health Science, Maimónides University, Buenos 
+Aires, Argentina; Clinical and Molecular Hepatology, Translational Health 
+Research Center (CENITRES), Maimónides University, Buenos Aires, Argentina.
+(37)Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand.
+(38)Department of Medicine, Makerere University of College of Health Sciences, 
+Kampala, Uganda.
+(39)Liver Disease Research Center, Department of Medicine, College of Medicine, 
+King Saud University, Riyadh, Saudi Arabia.
+(40)Department of Medicine and Therapeutics, The Chinese University of Hong 
+Kong, Hong Kong, China; Hong Kong Institute of Diabetes and Obesity, The Chinese 
+University of Hong Kong, Hong Kong, China.
+(41)Department of Bariatric Surgery, University of Montreal, Montreal, Quebec, 
+Canada.
+(42)Department of Surgery, Chinese General Hospital and Medical Center, Manila, 
+Philippines.
+(43)Nacogdoches Center for Metabolic & Weight Loss Surgery, Nacogdoches Medical 
+Center, Nacogdoches, TX, USA.
+(44)Department of Surgery, Ashford and St Peter's Hospital, Chertsey, Surrey, 
+United Kingdom.
+(45)Department of Gastroenterology, Hepatology and Endemic Medicine, Faculty of 
+Medicine, Minia University, Minia, Egypt.
+(46)Department of Endocrinology and Metabolism, Nanfang Hospital, Southern 
+Medical University, Guangzhou, China.
+(47)Department of General Surgery, Alexandria University Faculty of Medicine, 
+Alexandria, Egypt.
+(48)First Department of Cardiology, University Hospital of Ioannina and Faculty 
+of Medicine, School of Health Sciences, University of Ioannina, Ioannina 45110, 
+Greece.
+(49)Surgical Gastroenterology, Bariatric and Robotic Surgery, Apollo Hospital, 
+New Delhi, India.
+(50)Department of Surgery, Marien Hospital Herne, University Hospital of the 
+Ruhr-University of Bochum, Herne, NRW, Germany.
+(51)Metabolic and Bariatric, Fatimah Hospital, Tehran, Iran.
+(52)Department of Surgery, USFQ (Universidad San Francisco), Quito, Pichincha, 
+Ecuador.
+(53)Department of Internal Medicine, Division of Cardiology, Kangbuk Samsung 
+Hospital, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.
+(54)Medical Care Center, the First Affiliated Hospital of Wenzhou Medical 
+University, Wenzhou, China.
+(55)Hepatobiliary Division, Department of Internal Medicine, Dr. Cipto 
+Mangunkusumo National General Hospital, Medical Faculty Universitas Indonesia, 
+Jakarta, Indonesia; Digestive Disease & GI Oncology Center, Medistra Hospital, 
+Jakarta, Indonesia; Gastrointestinal Cancer Center, Mochtar Riyadi Comprehensive 
+Cancer Center (MRCCC) Siloam Semanggi Hospital, Jakarta, Indonesia.
+(56)MAFLD Research Center, Department of Hepatology, The First Affiliated 
+Hospital of Wenzhou Medical University, Wenzhou, China; Key Laboratory of 
+Diagnosis and Treatment for the Development of Chronic Liver Disease in Zhejiang 
+Province, Wenzhou, Zhejiang, China. Electronic address: zhengmh@wmu.edu.cn.
+
+BACKGROUND: Common metabolic diseases, such as type 2 diabetes mellitus (T2DM), 
+hypertension, obesity, hypercholesterolemia, and metabolic 
+dysfunction-associated steatotic liver disease (MASLD), have become a global 
+health burden in the last three decades. The Global Burden of Disease, Injuries, 
+and Risk Factors Study (GBD) data enables the first insights into the trends and 
+burdens of these metabolic diseases from 1990 to 2021, highlighting regional, 
+temporal and differences by sex.
+METHODS: Global estimates of disability-adjusted life years (DALYs) and deaths 
+from GBD 2021 were analyzed for common metabolic diseases (T2DM, hypertension, 
+obesity, hypercholesterolemia, and MASLD). Age-standardized DALYs (mortality) 
+per 100,000 population and annual percentage change (APC) between 1990 and 2021 
+were estimated for trend analyses. Estimates are reported with uncertainty 
+intervals (UI).
+RESULTS: In 2021, among five common metabolic diseases, hypertension had the 
+greatest burden (226 million [95 % UI: 190-259] DALYs), whilst T2DM (75 million 
+[95 % UI: 63-90] DALYs) conferred much greater disability than MASLD (3.67 
+million [95 % UI: 2.90-4.61]). The highest absolute burden continues to be found 
+in the most populous countries of the world, particularly India, China, and the 
+United States, whilst the highest relative burden was mostly concentrated in 
+Oceania Island states. The burden of these metabolic diseases has continued to 
+increase over the past three decades but has varied in the rate of increase 
+(1.6-fold to 3-fold increase). The burden of T2DM (0.42 % [95 % UI: 0.34-0.51]) 
+and obesity (0.26 % [95 % UI: 0.17-0.34]) has increased at an accelerated rate, 
+while the rate of increase for the burden of hypertension (-0.30 % [95 % UI: 
+-0.34 to -0.25]) and hypercholesterolemia (-0.33 % [95 % UI: -0.37 to -0.30]) is 
+slowing. There is no significant change in MASLD over time (0.05 % [95 % UI: 
+-0.06 to 0.17]).
+CONCLUSION: In the 21st century, common metabolic diseases are presenting a 
+significant global health challenge. There is a concerning surge in DALYs and 
+mortality associated with these conditions, underscoring the necessity for a 
+coordinated global health initiative to stem the tide of these debilitating 
+diseases and improve population health outcomes worldwide.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.metabol.2024.155999
+PMID: 39151887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest John D. Ryan 
+received consultancy fees from Falk, Gilead, Pfizer and a speaker honorarium 
+from Takeda. Luca Valenti reports consulting fees from Gilead, Pfizer, Astra 
+Zeneca, Novo Nordisk, Intercept pharmaceuticals, Diatech Pharmacogenetics, 
+IONIS, Viatris; honoraria from MSD, Gilead, AlfaSigma, AbbVie, Resalis, grants 
+from Gilead. Alice Pik-Shan Kong has received research grants and/or speaker 
+honoraria from Abbott, Astra Zeneca, Bayer, Boehringer Ingelheim, Dexcom, 
+Eli-Lilly, Kyowa Kirin, Merck Serono, Nestle, Novo-Nordisk, Pfizer and Sanofi 
+and Zuellig Pharma. Gregory Y. H. Lip serves as consultant and speaker for 
+BMS/Pfizer, Boehringer Ingelheim, Daiichi-Sankyo, Anthos. He is a National 
+Institute for Health and Care Research (NIHR) Senior Investigator and co-PI of 
+the AFFIRMO project on multimorbidity in AF (grant agreement No 899871), TARGET 
+project on digital twins for personalised management of atrial fibrillation and 
+stroke (grant agreement No 101136244) and ARISTOTELES project on artificial 
+intelligence for management of chronic long term conditions (grant agreement No 
+101080189), which are all funded by the EU's Horizon Europe Research & 
+Innovation programme. Anoop Misra has received honorarium from Abbott, Roche, 
+Jannsen, Boehringer Ingelheim, Lupin, Cipla, US Vitamins, and Novo Nordisk. 
+Christopher D. Byrne has received grant support from Echosens. Wah-Kheong Chan 
+is a consultant or advisory board member for Abbott, Roche, Abbvie, Boehringer 
+Ingelheim and Novo Nordisk; and a speaker for Abbott, Novo Nordisk, Echosens, 
+Viatris and Hisky Medical. Christos S. Mantzoros reports grants through his 
+institution from Merck, Massachusetts Life Sciences Center and Boehringer 
+Ingelheim, has received grants through his Institution and personal consulting 
+fees from Coherus Inc. and AltrixBio, he reports personal consulting fees and 
+support with research reagents from Ansh Inc., collaborative research support 
+from LabCorp Inc., reports personal consulting fees from Olympus, Genfit, Lumos, 
+Novo Nordisk, Amgen, Biodexa, Laekna, Corcept, Intercept, 89 Bio, Madrigal, 
+Aligos, Esperion and Regeneron, travel support and fees from UptoDate, TMIOA, 
+Elsevier, and the Cardio Metabolic Health Conference. Ming-Hua Zheng has 
+received honoraria for lectures from AstraZeneca, Hisky Medical Technologies and 
+Novo Nordisk, consulting fees from Boehringer Ingelheim. No other disclosures 
+were reported.
+
+
+8. Diabetes Res Clin Pract. 2022 Mar;185:109785. doi: 
+10.1016/j.diabres.2022.109785. Epub 2022 Feb 18.
+
+Worldwide estimates of incidence of type 2 diabetes in children and adolescents 
+in 2021.
+
+Wu H(1), Patterson CC(2), Zhang X(1), Ghani RBA(3), Magliano DJ(4), Boyko EJ(5), 
+Ogle GD(6), Luk AOY(7).
+
+Author information:
+(1)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong Special Administrative Region, People's Republic of China.
+(2)Centre for Public Health, Queen's University Belfast, United Kingdom.
+(3)Centre for Public Health, Queen's University Belfast, United Kingdom; Health, 
+Nutrition and Population Programme, BRAC, Bangladesh.
+(4)Baker Heart and Diabetes Institute, Melbourne, Australia.
+(5)Seattle Epidemiologic Research and Information Center, VA Puget Sound, and 
+Department of Medicine, University of Washington, Seattle, WA, USA.
+(6)Life for a Child Program, Diabetes NSW & ACT, 26 Arundel St., Glebe NSW 2037, 
+Australia.
+(7)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong Special Administrative Region, People's Republic of China; Hong Kong 
+Institute of Diabetes and Obesity, The Chinese University of Hong Kong, Hong 
+Kong Special Administrative Region, People's Republic of China; Li Ka Shing 
+Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong 
+Special Administrative Region, People's Republic of China. Electronic address: 
+andrealuk@cuhk.edu.hk.
+
+AIMS: We aimed to conduct a systematic review of published studies on the 
+incidence of type 2 diabetes in children and adolescents aged under 20 years and 
+provide worldwide incidence estimates for 2021.
+METHODS: We used MEDLINE and EMBASE to identify studies reporting type 2 
+diabetes incidence in children and adolescents published between Jan 2000 and 
+April 2021. We used a negative binomial regression model to develop a prediction 
+equation to estimate incidence rates from country characteristics. We applied 
+the resulting incidence predictions to country population data to estimate 
+numbers of incident cases in children and adolescents by International Diabetes 
+Federation (IDF) region and World Bank income classification group.
+RESULTS: We estimate that there are approximately 41,600 new cases of diagnosed 
+type 2 diabetes among children and adolescents in 2021 worldwide. Around 30% and 
+40% of the worldwide total incident cases are in IDF Western Pacific region and 
+in World Bank upper-middle-income countries, respectively. The three countries 
+with the highest estimated number of incident cases are China, India, and United 
+States of America.
+CONCLUSIONS: The number of newly diagnosed type 2 diabetes in children and 
+adolescents is substantial. More reliable data are needed to track the incidence 
+of type 2 diabetes in children and adolescents.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.diabres.2022.109785
+PMID: 35189261 [Indexed for MEDLINE]

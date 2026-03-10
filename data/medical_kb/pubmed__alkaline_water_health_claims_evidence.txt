@@ -1,0 +1,429 @@
+SOURCE: PUBMED
+TOPIC: alkaline water health claims evidence
+────────────────────────────────────────────────────────────
+
+1. Rev Environ Health. 2022 Dec 27;39(2):339-349. doi: 10.1515/reveh-2022-0057. 
+Print 2024 Jun 25.
+
+Health effects of alkaline, oxygenated, and demineralized water compared to 
+mineral water among healthy population: a systematic review.
+
+Sunardi D(1)(2), Chandra DN(1)(2), Medise BE(1)(3), Manikam NRM(1)(2), Friska 
+D(1)(4), Lestari W(1)(2), Insani PNC(1).
+
+Author information:
+(1)Indonesian Hydration Working Group, Faculty of Medicine Universitas 
+Indonesia, Jakarta, Indonesia.
+(2)Department of Nutrition, Faculty of Medicine Universitas Indonesia - Dr. 
+Cipto Mangunkusumo Hospital, Jakarta, Indonesia.
+(3)Child Health Department, Faculty of Medicine Universitas Indonesia - Dr.Cipto 
+Mangunkusumo Hospital, Jakarta, Indonesia.
+(4)Occupational Medicine, Department of Community Medicine, Faculty of Medicine 
+Universitas Indonesia, Jakarta, Indonesia.
+
+OBJECTIVES: There are many water types available on the market. They are widely 
+known in public with health claims. The questions are, are those claims are 
+scientifically proven or those are just testimonies from the consumers or 
+overclaimed by the producers. This study aims to systematically review evidences 
+on the health effects of alkaline, oxygenated, and demineralized water in 
+comparison with mineral water among healthy population.
+CONTENTS: Data were obtained from databases PubMed, Cochrane, Scopus, EBSCO, dan 
+Science Direct since January 2000 until July 2022. There were 10 eligible 
+articles, consisted of two articles on alkaline, four articles on oxygenated, 
+and four articles on demineralized water, that furtherly being analyzed.
+SUMMARY: Compared to consumption of mineral water, consumption of alkaline and 
+oxygenated water did not show any significant difference on gut microbiota, 
+urine pH, blood parameter, or fitness parameter. While, consumption of 
+demineralized water in the long term resulted in lower quality of certain 
+nutrient intake.
+OUTLOOK: Recent evidences do not prove any additional health effects of 
+alkaline, oxygenated, or demineralized water compared to mineral water. In 
+contrast, demineralized water consumption in the long run was proven to lead to 
+adverse effect.
+
+© 2022 the author(s), published by De Gruyter, Berlin/Boston.
+
+DOI: 10.1515/reveh-2022-0057
+PMID: 36571558
+
+
+2. Public Health Nutr. 2018 Feb;21(3):627-631. doi: 10.1017/S1368980017003123.
+Epub  2017 Nov 16.
+
+Health claims and product endorsements on child-oriented beverages in Guatemala.
+
+Perry A(1), Chacon V(2), Barnoya J(2).
+
+Author information:
+(1)1Washington University in St. Louis School of Medicine,St. Louis,MO,USA.
+(2)2Cardiovascular Surgery Unit of Guatemala,9 Ave. 8-00 zone 11,Guatemala 
+City,Guatemala, 01011.
+
+OBJECTIVE: We sought to describe front-of-package marketing strategies and 
+nutritional quality of child-oriented beverages in Guatemala.
+DESIGN: We purchased all child-oriented ready-to-drink fruit drinks, milks and 
+carbonated beverages in three convenience stores and one supermarket in 
+Guatemala City. Front-of-package marketing was defined as the presence of 
+spokes-characters, cartoons, celebrities, or health-related images, words, 
+claims or endorsements on beverage packaging. We used the UK Nutrition Profiling 
+Model (NPM) to classify beverages as healthy or less healthy.
+SETTING: Guatemala City, Guatemala.
+RESULTS: We purchased eighty-nine beverages; most were fruit drinks (n 52, 58 
+%), milk (15, 17 %), carbonated beverages (5, 17 %), rice/soya products (5, 6·0 
+%), water (1, 1 %) and energy drinks (1, 1 %). Two-thirds (57, 64 %) had health 
+claims. Of those with a nutrition facts label (85, 96 %), nearly all (76, 89 %) 
+were classified as less healthy. No association between the presence of health 
+claims and NPM score (P=0·26) was found. Eight beverages had health-related 
+endorsements. However, only one beverage was classified as healthy.
+CONCLUSIONS: In this sample of beverages in Guatemala City, health claims and 
+health-related endorsements are used to promote beverages with poor nutritional 
+quality. Our data support evidence-based policies to regulate the use of 
+front-of-package health claims and endorsements based on nutritional quality.
+
+DOI: 10.1017/S1368980017003123
+PMCID: PMC10260860
+PMID: 29143691 [Indexed for MEDLINE]
+
+
+3. PLoS One. 2022 Oct 31;17(10):e0275640. doi: 10.1371/journal.pone.0275640. 
+eCollection 2022.
+
+Associations of alkaline water with metabolic risks, sleep quality, muscle 
+strength: A cross-sectional study among postmenopausal women.
+
+Chan YM(1)(2)(3), Shariff ZM(4), Chin YS(2)(4), Ghazali SS(5), Lee PY(6), Chan 
+KS(1).
+
+Author information:
+(1)Faculty of Medicine and Health Sciences, Department of Dietetics, Universiti 
+Putra Malaysia (UPM), Serdang, Malaysia.
+(2)Faculty of Medicine and Health Sciences, Research Center of Excellence 
+Nutrition and Non-Communicable Diseases, Universiti Putra Malaysia (UPM), 
+Serdang, Malaysia.
+(3)Malaysian Research Institute on Ageing, Universiti Putra Malaysia, Serdang, 
+Malaysia.
+(4)Faculty of Medicine and Health Sciences, Department of Nutrition, Universiti 
+Putra Malaysia (UPM), Serdang, Malaysia.
+(5)Faculty of Medicine and Health Sciences, Department of Family Medicine, 
+Universiti Putra Malaysia (UPM), Serdang, Malaysia.
+(6)Faculty of Medicine, UMeHealth Unit, Universiti Malaya (UM), Kuala Lumpur, 
+Malaysia.
+
+Much has been claimed on the health benefits of alkaline water including 
+metabolic syndrome (MetS) and its features with scarcity of scientific evidence. 
+Methods: This cross-sectional comparative study was conducted to determine 
+whether regular consumption of alkaline water confers health advantage on blood 
+metabolites, anthropometric measures, sleep quality and muscle strength among 
+postmenopausal women. A total of 304 community-dwelling postmenopausal women 
+were recruited with comparable proportion of regular drinkers of alkaline water 
+and non-drinkers. Participants were ascertained on dietary intake, lifestyle 
+factors, anthropometric and biochemical measurements. Diagnosis of MetS was made 
+according to Joint Interim Statement definition. A total of 47.7% of the 
+participants met MS criteria, with a significant lower proportion of MetS among 
+the alkaline water drinkers. The observed lower fasting plasma glucose (F(1,294) 
+= 24.20, p = 0.025, partial η2 = 0.435), triglyceride/high-density lipoprotein 
+concentration ratio (F(1,294) = 21.06, p = 0.023, partial η2 = 0.360), diastolic 
+blood pressure (F(1,294) = 7.85, p = 0.046, partial η2 = 0.258) and waist 
+circumference (F(1,294) = 9.261, p = 0.038, partial η2 = 0.263) in the alkaline 
+water drinkers could be considered as favourable outcomes of regular consumption 
+of alkaline water. In addition, water alkalization improved duration of sleep 
+(F(1,294) = 32.05, p = 0.007, partial η2 = 0.451) and handgrip strength F(1,294) 
+= 27.51, p = 0.011, partial η2 = 0.448). Low density lipoprotein cholesterol 
+concentration (F(1,294) = 1.772, p = 0.287, partial η2 = 0.014), body weight 
+(F(1,294) = 1.985, p = 0.145, partial η2 = 0.013) and systolic blood pressure 
+(F(1,294) = 1.656, p = 0.301, partial η2 = 0.010) were comparable between the 
+two different water drinking behaviours. In conclusion, drinking adequate of 
+water is paramount for public health with access to good quality drinking water 
+remains a critical issue. While consumption of alkaline water may be considered 
+as a source of easy-to implement lifestyle to modulate metabolic features, sleep 
+duration and muscle strength, further studies are warranted for unravelling the 
+precise mechanism of alkaline water consumption on the improvement and 
+prevention of MetS and its individual features, muscle strength and sleep 
+duration as well as identification of full spectrum of individuals that could 
+benefit from its consumption.
+
+DOI: 10.1371/journal.pone.0275640
+PMCID: PMC9621423
+PMID: 36315555 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+4. BMC Geriatr. 2017 Jan 25;17(1):31. doi: 10.1186/s12877-017-0425-4.
+
+How does washing without water perform compared to the traditional bed bath: a 
+systematic review.
+
+Groven FM(1)(2), Zwakhalen SM(3), Odekerken-Schröder G(4), Joosten EJ(5), Hamers 
+JP(3).
+
+Author information:
+(1)Department of Health Services Research, School for Public Health and Primary 
+Care (CAPHRI), Maastricht University, Duboisdomein 30, 6229 GT, Maastricht, The 
+Netherlands. f.groven@maastrichtuniversity.nl.
+(2)Department of Health Services Research, School for Public Health and Primary 
+Care (CAPHRI), Maastricht University, PO box 616, 6200 MD, Maastricht, The 
+Netherlands. f.groven@maastrichtuniversity.nl.
+(3)Department of Health Services Research, School for Public Health and Primary 
+Care (CAPHRI), Maastricht University, Duboisdomein 30, 6229 GT, Maastricht, The 
+Netherlands.
+(4)Department of Marketing & Supply Chain Management, School of Business and 
+Economics, Maastricht University, Tongersestraat 53, 6211 LM, Maastricht, The 
+Netherlands.
+(5)Arion Holding, Vouersweg 103, 6161 AG, Geleen, The Netherlands.
+
+BACKGROUND: For immobile patients, a body wash in bed is sometimes the only 
+bathing option. Traditionally, the bed bath is performed with water and soap. 
+However, alternatives are increasingly used in health care. Washing without 
+water is one such alternative that has been claimed to offer several advantages, 
+such as improved hygiene and skin condition. This systematic review aims to 
+provide a comprehensive overview of the evidence on outcomes of the washing 
+without water concept compared to the traditional bed bath.
+METHODS: Controlled trials about washing without water outcomes published after 
+1994 were collected by means of a systematic literature search in CINAHL, 
+Embase, MEDLINE, and PUBMED at the 25th of February, 2016. Additionally, 
+references and citations were searched and experts contacted. Studies were 
+eligible if (1) the study designs included outcomes of washing without water 
+products developed for the full body wash compared to the traditional bed bath, 
+and (2) they were controlled trials. Two researchers independently used a 
+standardized quality checklist to assess the methodological quality of the 
+eligible studies. Finally, outcomes were categorized in (1) physiological 
+outcomes related to hygiene and skin condition, (2) stakeholder-related 
+outcomes, and (3) organizational outcomes in the data synthesis.
+RESULTS: Out of 33 potentially relevant articles subjected to full text 
+screening, six studies met the eligibility criteria. Only two studies (of the 
+same research group) were considered of high quality. The results of these high 
+quality studies show that washing without water performed better than the 
+traditional bed bath regarding skin abnormalities and bathing completeness. No 
+differences between washing without water and the traditional bed bath were 
+found for outcomes related to significant skin lesions, resistance during 
+bathing and costs in the studies of high quality.
+CONCLUSIONS: There is limited moderate to high quality evidence that washing 
+without water is not inferior to the traditional bed bath. Future research on 
+washing without water is needed and should pay special attention to costs, 
+hygiene, and to stakeholder-related outcomes, such as experiences and value 
+perceptions of patients, nursing staff and family.
+
+DOI: 10.1186/s12877-017-0425-4
+PMCID: PMC5264342
+PMID: 28118815 [Indexed for MEDLINE]
+
+
+5. J Med Entomol. 2021 Mar 12;58(2):767-772. doi: 10.1093/jme/tjaa214.
+
+No Evidence That Salt Water Ingestion Kills Adult Mosquitoes (Diptera: 
+Culicidae).
+
+Yee DA(1), Dean C(1), Webb C(2)(3), Henke JA(4), Perezchica-Harvey G(4), White 
+GS(5), Faraji A(5), Macaluso JD(6), Christofferson R(6).
+
+Author information:
+(1)School of Biological, Environmental, and Earth Sciences, University of 
+Southern Mississippi, Hattiesburg, MS.
+(2)Discipline of Medicine, Westmead Clinical School, Sydney Medical School, 
+University of Sydney, New South Wales, Australia.
+(3)Medical Entomology, NSW Health Pathology, Westmead Hospital, Westmead, New 
+South Wales, Australia.
+(4)Coachella Valley Mosquito and Vector Control District, Indio, CA.
+(5)Salt Lake City Mosquito Abatement District, Salt Lake City, UT.
+(6)Pathobiological Sciences, School of Veterinary Medicine, Louisiana State 
+University, Baton Rough, LA.
+
+Various products and insecticides are available that purport to reduce wild 
+populations of adult mosquitoes. Recently, several manufacturers and general 
+public comments on the internet have promoted devices that claim that ingestion 
+of salt will significantly reduce populations of wild mosquitoes to near zero; 
+there are no known scientific efficacy data that support these claims. We tested 
+the survival of nine mosquito species of pest and public health importance 
+across four adult diets: Water Only, Sugar Water Only (8.00%), Salt Water Only 
+(1.03%), and Sugar + Salt Water. Species included the following: Aedes aegypti 
+(L.), Aedes albopictus (Skuse), Aedes dorsalis (Meigen), Aedes notoscriptus 
+(Skuse), Aedes vigilax (Skuse), Anopheles quadrimaculatus (Say), Culex pipiens 
+(L.), Culex quinquefasciatus (Say), and Culex tarsalis (Coquillett). Male and 
+female mosquitoes were placed in cages and allowed to feed on liquid diets under 
+controlled environmental conditions for 1 wk. For seven of the nine species, 
+adult survival was significantly higher in the presence (Sugar Water, Sugar + 
+Salt Water) versus the absence (Water Only, Salt Only) of sugar, with no 
+indication that salt had any effect on survival. Anopheles quadrimaculatus 
+showed intermediate survival in Sugar + Salt to either Sugar Only or no sugar 
+diets, whereas Aedes dorsalis showed low survival in Salt Only versus other 
+diets. Based on our data and coupled with the fact that mosquitoes have 
+physiological and behavioral adaptations that allow them to avoid or process 
+excess salt (as found in blood meals), we conclude that there is no scientific 
+foundation for salt-based control methods of mosquitoes.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of 
+Entomological Society of America.
+
+DOI: 10.1093/jme/tjaa214
+PMCID: PMC7954108
+PMID: 33219381 [Indexed for MEDLINE]
+
+
+6. J Water Health. 2018 Dec;16(6):893-903. doi: 10.2166/wh.2018.107.
+
+Critical elements for local Indigenous water security in Canada: a narrative 
+review.
+
+Latchmore T(1), Schuster-Wallace CJ(2), Longboat DR(3), Dickson-Anderson SE(4), 
+Majury A(5).
+
+Author information:
+(1)School of Environmental Studies, Queen's University, Kingston, Canada E-mail: 
+anna.majury@oahpp.ca.
+(2)Department of Geography and Planning, University of Saskatchewan, Saskatoon, 
+Canada.
+(3)Department of Indigenous Studies, Trent University, Peterborough, Canada.
+(4)Department of Civil Engineering, McMaster University, Hamilton, Canada.
+(5)School of Environmental Studies, Queen's University, Kingston, Canada E-mail: 
+anna.majury@oahpp.ca; Public Health Ontario, Kingston, Canada.
+
+Indigenous communities in Canada are over-represented with respect to poor water 
+quality and water advisories. To date, approaches to solve this water crisis 
+have been founded in the Western Science (WS) context with little to no 
+consultation or dialogue with those communities most impacted, and without 
+regard for culture. A literature review was undertaken to: (i) document 
+Indigenous Knowledge (IK), and perspectives regarding water and (ii) to identify 
+current local water security tools utilized by Indigenous communities. The aim 
+is to provide sound evidence regarding the value of ownership and leadership by 
+Indigenous communities in the context of current and appropriate resources 
+available to (re)claim these roles. Solutions must remain consistent with, and 
+founded upon, traditional Indigenous worldviews and cultural values to ensure 
+sustainable water security. Literature reviewed from the past ten years revealed 
+one overarching creation theme with three water-specific themes in Indigenous 
+communities; namely, water from natural sources, water as a life-giving entity, 
+and water and gender. Ultimately, there needs to be a new framing of local water 
+security with the development of tools which engage IK and WS in order to assess 
+local water security and appropriately inform interventions, policies, 
+regulations and legislation.
+
+DOI: 10.2166/wh.2018.107
+PMID: 30540263 [Indexed for MEDLINE]
+
+
+7. J Healthc Eng. 2020 Jan 30;2020:1323270. doi: 10.1155/2020/1323270.
+eCollection  2020.
+
+Effects of Highly Oxygenated Water in a Hyperuricemia Rat Model.
+
+Fang CH(1), Tsai CC(2)(3), Shyong YJ(4), Yang CT(1), Li KY(1), Lin YW(1), Chang 
+KC(5), Wang MH(6), Wu TM(7), Lin FH(1)(7).
+
+Author information:
+(1)Institute of Biomedical Engineering, National Taiwan University, No. 1, Sec. 
+4, Roosevelt Rd., Taipei 10617, Taiwan.
+(2)Department of Neurosurgery, Mackay Memorial Hospital, No. 92, Sec. 2, 
+Zhongshan N. Rd., Taipei 10449, Taiwan.
+(3)Graduate Institute of Injury Prevention and Control, Taipei Medical 
+University, 250 Wuxing St., Taipei 11031, Taipei, Taiwan.
+(4)School of Pharmacy and Institute of Clinical Pharmacy and Pharmaceutical 
+Sciences, National Cheng Kung University, No. 1, University Road, Tainan 701, 
+Taiwan.
+(5)Department of Chemical Engineering and Biotechnology, National Taipei 
+University of Technology, No. 1, Sec. 3, Zhongxiao E. Rd., Taipei 10608, Taiwan.
+(6)Department of Anesthesia, En Chu Kong Hospital, No. 399, Fuxing Rd., Sanxia 
+District, Taipei 237, Taiwan.
+(7)Division of Medical Engineering, National Health Research Institute, 35 Keyan 
+Road, Zhunan, Miaoli County 35053, Taiwan.
+
+Recent years have seen a rapidly rising number of oxygenated water brands that 
+claim to impart health benefits and increase athletic performance by improving 
+oxygen availability in the body. Drinks with higher dissolved oxygen 
+concentrations have in recent times gained popularity as potential ergogenic 
+aids, despite the lack of evidence regarding their efficacy. The aim of this 
+study was to characterize oxygenated water and assess the improvement in uric 
+acid metabolism while identifying performance enhancements in animals 
+administered oxygenated water. Oxygenated water was characterized by hydrogen 
+and oxygen nuclear magnetic resonance (NMR) spectroscopy. Hyperuricemia in rats 
+was induced by treatment with oxonic acid potassium salt, and the animals were 
+given oxygenated drinking water before, during, or after oxonic acid treatment. 
+Serum uric acid was measured to confirm the effects on uric acid metabolism. 
+Following oxygenation, the full width at half maximum (FWHM) was reduced to 
+11.56 Hz and 64.16 Hz in the hydrogen and oxygen NMR spectra, respectively. 
+Oxygenated water molecule clusters were reduced in size due to the reduction in 
+FWHM. Oxygen concentration did not vary significantly with increased 
+temperature. However, standing time played a critical role in the amount of 
+oxygen dissolved in the water. The rat studies indicated that oxygenated water 
+reduced serum uric acid levels and their rate of increase and enhanced uric acid 
+metabolism. A significant improvement in uric acid metabolism and rate of 
+increase in serum uric acid concentration was observed in hyperuricemic rats 
+administered oxygenated water compared to that in rats administered regular 
+water. High oxygen concentrations enhanced the rate of oxygen absorption, 
+leading to increased glycolysis and mitochondrial protein synthesis. Therefore, 
+oxygenated water is a potential adjuvant therapy or health food for treatment of 
+hyperuricemia.
+
+Copyright © 2020 Chih-Hsiang Fang et al.
+
+DOI: 10.1155/2020/1323270
+PMCID: PMC7013358
+PMID: 32076494 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+8. BMC Public Health. 2017 Nov 7;17(Suppl 4):776. doi: 10.1186/s12889-017-4746-1.
+
+Water, sanitation and hygiene interventions for acute childhood diarrhea: a 
+systematic review to provide estimates for the Lives Saved Tool.
+
+Darvesh N(1), Das JK(2), Vaivada T(1), Gaffey MF(1), Rasanathan K(3), Bhutta 
+ZA(4)(5); Social Determinants of Health Study Team.
+
+Collaborators: Bhutta ZA, Darvesh N, Seusan A, Savic J, Nurova N, Rattansi A, 
+Als D, Vaivada T, Gaffey MF, Cavill S, Rasanathan K, Das JK.
+
+Author information:
+(1)Centre for Global Child Health, The Hospital for Sick Children, 686 Bay 
+Street, Toronto, ON, M6S 1S6, Canada.
+(2)Division of Women and Child Health, Aga Khan University, Karachi, Pakistan.
+(3)UNICEF, New York, NY, USA.
+(4)Centre for Global Child Health, The Hospital for Sick Children, 686 Bay 
+Street, Toronto, ON, M6S 1S6, Canada. zulfiqar.bhutta@sickkids.ca.
+(5)Centre of Excellence in Women and Child Health, Aga Khan University, Karachi, 
+Pakistan. zulfiqar.bhutta@sickkids.ca.
+
+BACKGROUND: In the Sustainable Development Goals (SDGs) era, there is growing 
+recognition of the responsibilities of non-health sectors in improving the 
+health of children. Interventions to improve access to clean water, sanitation 
+facilities, and hygiene behaviours (WASH) represent key opportunities to improve 
+child health and well-being by preventing the spread of infectious diseases and 
+improving nutritional status.
+METHODS: We conducted a systematic review of studies evaluating the effects of 
+WASH interventions on childhood diarrhea in children 0-5 years old. Searches 
+were run up to September 2016. We screened the titles and abstracts of retrieved 
+articles, followed by screening of the full-text reports of relevant studies. We 
+abstracted study characteristics and quantitative data, and assessed study 
+quality. Meta-analyses were performed for similar intervention and outcome 
+pairs.
+RESULTS: Pooled analyses showed diarrhea risk reductions from the following 
+interventions: point-of-use water filtration (pooled risk ratio (RR): 0.47, 95% 
+confidence interval (CI): 0.36-0.62), point-of-use water disinfection (pooled 
+RR: 0.69, 95% CI: 0.60-0.79), and hygiene education with soap provision (pooled 
+RR: 0.73, 95% CI: 0.57-0.94). Quality ratings were low or very low for most 
+studies, and heterogeneity was high in pooled analyses. Improvements to the 
+water supply and water disinfection at source did not show significant effects 
+on diarrhea risk, nor did the one eligible study examining the effect of latrine 
+construction.
+CONCLUSIONS: Various WASH interventions show diarrhea risk reductions between 
+27% and 53% in children 0-5 years old, depending on intervention type, providing 
+ample evidence to support the scale-up of WASH in low and middle-income 
+countries (LMICs). Due to the overall low quality of the evidence and high 
+heterogeneity, further research is required to accurately estimate the magnitude 
+of the effects of these interventions in different contexts.
+
+DOI: 10.1186/s12889-017-4746-1
+PMCID: PMC5688426
+PMID: 29143638 [Indexed for MEDLINE]
+
+Conflict of interest statement: AUTHORS’ INFORMATION: Social Determinants of 
+Health Study Team. Zulfiqar A Bhutta, Nazia Darvesh, Andreea Seusan, Jelena 
+Savic, Nisso Nurova, Azim Rattansi, Daina Als, Tyler Vaivada, Michelle F Gaffey 
+(SickKids Centre for Global Child Health); Sue Cavill, Kumananan Rasanathan 
+(UNICEF); Jai K Das (AKU). ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: We do 
+not have any financial or non-financial competing interests for this review. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.

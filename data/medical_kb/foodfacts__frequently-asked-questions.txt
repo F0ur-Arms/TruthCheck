@@ -1,0 +1,40 @@
+SOURCE: FoodFacts.org.za
+TITLE: FAQ
+URL: https://foodfacts.org.za/frequently-asked-questions/
+────────────────────────────────────────────────────────────
+
+Food science is the study of the physical, biological (including microbiological) and chemical makeup of food. Food scientists and technologists apply many scientific disciplines, including chemistry, engineering, microbiology, epidemiology, nutrition and molecular biology to the study of food to improve the safety, nutrition, wholesomeness and availability of food.
+Depending on their area of specialization, food scientists may develop ways to process, preserve, package and /or store food, according to industry and government specifications and regulations.
+- Understanding scientific studies (EUFIC)
+Food processing can be defined as the use of methods and techniques involving equipment, energy, and tools to transform agricultural products such as grains, meats, vegetables, fruits, and milk into food ingredients or processed food products.
+- Processed Foods – a review (EUFIC)
+- The Power of Food Processing (FACS)
+Food preservation, any of a number of methods by which food is kept from spoilage after harvest or slaughter. Such practices date to prehistoric times. Among the oldest methods of preservation are drying, refrigeration, and fermentation. Modern methods include canning, pasteurization, freezing, irradiation, and the addition of chemicals. Advances in packaging materials have played an important role in modern food preservation.
+What are Preservatives or Additives?
+Preservatives are food additives that play an important role in making foods last longer or taste better. Specifically, preservatives help to control and prevent the deterioration of food, providing protection against spoilage from micro-organisms (e.g., bacteria, yeast, moulds), life-threatening botulism and other organisms that can cause food poisoning (antimicrobial function).1 High-risk foods such as meat, seafood, dairy, and cheese serve as a breeding ground for potentially dangerous micro-organisms, therefore, the addition of a preservative is usually required to ensure food safety.2 Next to spoilage caused by micro-organisms, it can also be brought about by chemical (e.g., oxidation) or physical (e.g., temperature, light) factors.1 Preservatives are also used to prevent these types of spoiling reactions in order to prevent any alterations in foodstuff’s taste or, in some cases, their appearance (antioxidant function). Without the addition of a preservative, certain foods may turn rancid or change in colour. Ultimately, preservatives protect the quality of foods and beverages, reduce food cost, improve convenience, lengthen shelf-life, and reduce food waste.
+- Monosodium Glutamate (MSG) – the facts (FACS)
+- What is monosodium glutamate and is it bad for you? (EUFIC)
+- Colours in food (Food Insight)
+Where do I find Food Labeling regulations/ what should be on a food label in SA
+Visit the Department of Health website for detailed information on the South African Food Labelling Regulations.
+What is Food Safety or when is food safe to eat?
+Food safety: Assurance that food will not cause harm to the consumer when it is prepared and/or eaten according to its intended use (Codex Alimentarius Commission, 1969). Safety is one of the most important specifications of all products. Food safety refers to the legislation and measures implemented by countries and international organizations to ensure the safety of food for human consumption.
+- Food Poisoning (See also Salmonella below) (FACS)
+- Food Safety (Foodsafety.gov)
+- Food Safety & The Science of Toxicology (FACS)
+- Safe Food – 5 Keys to Safer Food (WHO)
+- Bacteria and Viruses in Food(Foodsafety.gov)
+Foodborne viral infections (IFST)- Foodborne Illness (or Food Safety) (EUFIC)
+A food contaminant refers to any substance that is present in food and can potentially cause harm to consumers. Food can be contaminated in a number of ways, whether it is prepared and served by street vendors, in restaurants, in food manufacturing, or in our own house. Food contamination happens when unwanted item had been introduced to the food along the process in food chain that can bring adverse health effect to human consumption. There are three types of food contamination, (i) biological; (ii) physical; and (iii) chemical.
+Biological contamination refers to food that is contaminated by organisms or substances they produce. This includes biological matter produced by humans, rodents, insects, and microorganisms.
+Bacteria and viruses are typically the two biggest causes of biological contamination and can result in some of the most common types of food poisoning including Salmonella, E. coli, Listeria, and norovirus.
+Physical contamination is when a foreign object contaminates food. This can happen at any stage of the production process and could include Band-Aids, steel wool, or pieces of plastic.
+Physical contamination can cause injury to an individual who inadvertently consumes the foreign object. The added risk associated with physical contamination is that the foreign object could be carrying biological contamination.
+Chemical contamination refers to food that has been contaminated with a natural or artificial chemical substance. These contaminants are particularly dangerous as they expose people to any number of toxic substances, some of which can be fatal.
+Chemicals can also contaminate food at any time of the food process, whether by pesticides transferred from the soil the food is grown in or during the manufacturing process.
+Cross-contamination occurs when bacteria or pathogens are transported from one object to another.
+- Questions and Answers: Animal Antibiotics, Antimicrobial Resistance and Impact on Food Safety (Food Insight)
+- Antibiotics & Veterinary Drug Residues (FACS)
+- Dioxins and their effects on human health (WHO)
+How do I test for components and/ or contaminants in food?
+A number of Food testing laboratories can do this in South Africa. Any food transgressions or labeling violations should be reported to The Department of Health’s Food Control section.

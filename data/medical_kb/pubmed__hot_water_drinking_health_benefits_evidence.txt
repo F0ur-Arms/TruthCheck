@@ -1,0 +1,335 @@
+SOURCE: PUBMED
+TOPIC: hot water drinking health benefits evidence
+────────────────────────────────────────────────────────────
+
+1. J Therm Biol. 2022 Jan;103:103100. doi: 10.1016/j.jtherbio.2021.103100. Epub 
+2021 Sep 20.
+
+Effects of Spirulina (Arthrospira platensis) as a drinking water supplement 
+during cyclical chronic heat stress on broiler chickens: Assessing algal 
+composition, production, stress, health and immune-biochemical indices.
+
+Kolluri G(1), Marappan G(2), Yadav AS(3), Kumar A(4), Mariappan AK(5), Tyagi 
+JS(2), Rokade JJ(6), Govinthasamy P(2).
+
+Author information:
+(1)Avian Medicine Section, ICAR-Central Avian Research Institute, Izatnagar, 
+243122, U.P, India; Division of Avian Physiology and Reproduction, ICAR-Central 
+Avian Research Institute, Izatnagar, 243122, U.P, India. Electronic address: 
+Gautham.Kolluri@icar.gov.in.
+(2)Division of Avian Physiology and Reproduction, ICAR-Central Avian Research 
+Institute, Izatnagar, 243122, U.P, India.
+(3)Avian Medicine Section, ICAR-Central Avian Research Institute, Izatnagar, 
+243122, U.P, India.
+(4)Division of Medicine, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+243122, U.P, India.
+(5)Avian Disease Section, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+243122, U.P, India.
+(6)Experimental Broiler Farm, ICAR-Central Avian Research Institute, Izatnagar, 
+243122, U.P, India.
+
+Spirulina, the blue green algae is considered to exhibit multifaceted benefits 
+on both human health and animal production. Three hundred sixty day old unsexed 
+broiler chicks of CARIBROVISHAL strain were assigned to five treatment groups 
+each comprising nine replicates of 8 chicks. The experiment was carried out 
+during the hot humid summer season (Mid-April to May) under deep litter rearing 
+system with uniform managemental conditions. Birds were administered orally with 
+Spirulina through drinking water in the morning (06:00-12:00 PM) on daily basis 
+throughout the experimental period at 5, 10, 15 and 20 gL-1 concentration. 
+Spirulina supplementation neither improved nor compromised production 
+performance of broilers reared during hot climatic condition. Results based on 
+one way analysis of variance indicated a significant effect on haemoglobin and 
+total red blood cell count. Serum lipid content and transaminases were reduced, 
+while serum protein concentration was higher (P < 0.01) in the groups 
+administered with 15 and 20 gL-1 of Spirulina. The extent of imparting shank 
+pigmentation was improved in all the supplemented groups. Cell mediated and 
+humoral immunity against Phytoheamagglutunin-P and Newcastle disease vaccination 
+respectively were maximized (P < 0.05) at 20 gL-1. These findings provide direct 
+evidence of dose-related modulation of production, physiological and 
+immunological attributes by Spirulina engendering its further investigation as a 
+potential source of drinking water supplement for stress alleviation in 
+broilers. From the results, it may concluded that Spirulina can be incorporated 
+at 15 or 20 gL-1 for achieving optimal improvement of health and welfare 
+attributes in broilers reared during hot summer without compromising production.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jtherbio.2021.103100
+PMID: 35027195 [Indexed for MEDLINE]
+
+
+2. Saf Health Work. 2017 Dec;8(4):327-328. doi: 10.1016/j.shaw.2017.07.001. Epub 
+2017 Jul 11.
+
+Should Workers Avoid Consumption of Chilled Fluids in a Hot and Humid Climate?
+
+Brearley MB(1)(2).
+
+Author information:
+(1)National Critical Care and Trauma Response Centre, Darwin, NT, Australia.
+(2)Thermal Hyperformance, Howard Springs, NT, Australia.
+
+Despite provision of drinking water as the most common method of occupational 
+heat stress prevention, there remains confusion in hydration messaging to 
+workers. During work site interactions in a hot and humid climate, workers 
+commonly report being informed to consume tepid fluids to accelerate 
+rehydration. When questioned on the evidence supporting such advice, workers 
+typically cite that fluid absorption is delayed by ingestion of chilled 
+beverages. Presumably, delayed absorption would be a product of fluid delivery 
+from the gut to the intestines, otherwise known as gastric emptying. Regulation 
+of gastric emptying is multifactorial, with gastric volume and beverage energy 
+density the primary factors. If gastric emptying is temperature dependent, the 
+impact of cooling is modest in both magnitude and duration (≤ 5 minutes) due to 
+the warming of fluids upon ingestion, particularly where workers have elevated 
+core temperature. Given that chilled beverages are most preferred by workers, 
+and result in greater consumption than warm fluids during and following physical 
+activity, the resultant increased consumption of chilled fluids would promote 
+gastric emptying through superior gastric volume. Hence, advising workers to 
+avoid cool/cold fluids during rehydration appears to be a misinterpretation of 
+the research. More appropriate messaging to workers would include the thermal 
+benefits of cool/cold fluid consumption in hot and humid conditions, thereby 
+promoting autonomy to trial chilled beverages and determine personal preference. 
+In doing so, temperature-based palatability would be maximized and increase the 
+likelihood of workers maintaining or restoring hydration status during and after 
+their work shift.
+
+DOI: 10.1016/j.shaw.2017.07.001
+PMCID: PMC5715486
+PMID: 29276629
+
+
+3. Food Chem. 2024 Dec 1;460(Pt 1):140510. doi: 10.1016/j.foodchem.2024.140510. 
+Epub 2024 Jul 17.
+
+Unraveling anti-aging mystery of green tea in C. elegans: Chemical truth and 
+multiple mechanisms.
+
+Ke JP(1), Li JY(1), Yang Z(1), Wu HY(1), Yu JY(1), Yang Y(1), Chen CH(1), Zhou 
+P(2), Hua F(3), Wang W(4), Hu F(5), Chu GX(6), Wan XC(7), Bao GH(8).
+
+Author information:
+(1)Natural Products Laboratory, International Joint Laboratory of Tea Chemistry 
+and Health Effects, State Key Laboratory of Tea Plant Biology and Utilization, 
+Anhui Agricultural University, Hefei, People's Republic of China.
+(2)School of Pharmacy, Anhui University of Chinese Medicine, Hefei 230012, 
+China.
+(3)School of Pharmacy, Anhui Xinhua University, Hefei, Anhui, People's Republic 
+of China.
+(4)Anhui Engineering Research Center for Eco-agriculture of Traditional Chinese 
+Medicine, West Anhui University, Lu'an 237012, China.
+(5)Engineering Research Center of Fungal Biotechnology, Ministry of Education, 
+Anhui Agricultural University, Hefei, 230036, China. Electronic address: 
+hufenglin@ahau.edu.cn.
+(6)School of Information and Artificial Intelligence, Anhui Agricultural 
+University, Hefei, 230036, China. Electronic address: 31083@ahau.edu.cn.
+(7)Natural Products Laboratory, International Joint Laboratory of Tea Chemistry 
+and Health Effects, State Key Laboratory of Tea Plant Biology and Utilization, 
+Anhui Agricultural University, Hefei, People's Republic of China. Electronic 
+address: xcwan@ahau.edu.cn.
+(8)Natural Products Laboratory, International Joint Laboratory of Tea Chemistry 
+and Health Effects, State Key Laboratory of Tea Plant Biology and Utilization, 
+Anhui Agricultural University, Hefei, People's Republic of China; Joint Research 
+Center for Food Nutrition and Health of IHM, Hefei, China. Electronic address: 
+baoguanhu@ahau.edu.cn.
+
+Tea drinking impacts aging and aging-related diseases. However, knowledge of 
+anti-aging molecules other than the major catechins in complex tea extracts 
+remains limited. Here we used Caenorhabditis elegans to analyze the longevity 
+effects of tea extracts and constituents comprehensively. We found that the hot 
+water extract of green tea prolonged lifespan and heathspan. Further, the MeOH 
+fraction prolonged lifespan significantly longer than other fractions. 
+Correlation analysis between mass spectroscopic data and anti-aging activity 
+suggests that ester-type catechins (ETCs) are the major anti-aging components, 
+including 4 common ETCs, 6 phenylpropanoid-substituted ester-type catechins 
+(PSECs), 5 cinnamoylated catechins (CCs), 7 ester-type flavoalkaloids (ETFs), 
+and 4 cinnamoylated flavoalkaloids (CFs). CFs (200 μM) are the strongest 
+anti-aging ETCs (with the longest 73% lifespan extension). Green tea hot water 
+extracts and ETCs improved healthspan by enhancing stress resistance and 
+reducing ROS accumulation. The mechanistic study suggests that they work by 
+multiple pathways. Moreover, ETCs modulated gut microbial homeostasis, increased 
+the content of short-chain fatty acids, and reduced fat content. Altogether, our 
+study provides new evidence for the anti-aging benefits of green tea and 
+insights into a deep understanding of the chemical truth and multi-target 
+mechanism.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2024.140510
+PMID: 39033639 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Guan-Hu Bao reports financial 
+support was provided by National Natural Science Foundation of China. If there 
+are other authors, they declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence the 
+work reported in this paper.
+
+
+4. Am J Clin Nutr. 2020 Nov 11;112(5):1348-1357. doi: 10.1093/ajcn/nqaa219.
+
+Morning diurnal preference and food intake: a Mendelian randomization study.
+
+Dashti HS(1)(2)(3), Chen A(1), Daghlas I(1)(2), Saxena R(1)(2)(3)(4).
+
+Author information:
+(1)Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA.
+(2)Broad Institute, Cambridge, MA, USA.
+(3)Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts 
+General Hospital and Harvard Medical School, Boston, MA, USA.
+(4)Division of Sleep Medicine, Harvard Medical School, Boston, MA, USA.
+
+BACKGROUND: Poor dietary choices may underlie known associations between having 
+an evening diurnal preference and cardiometabolic diseases. Assessing causal 
+links between diurnal preference and food intake is now possible in Mendelian 
+randomization (MR) analyses.
+OBJECTIVES: We aimed to use a 2-sample MR to determine potential causal effects 
+of genetic liability to a morning preference on food intake. We also examined 
+potential causal effects of a morning preference on objectively captured 
+response performances to email-administered 24-h diet recalls.
+METHODS: We used genetic variants associated with a morning preference from a 
+published genome-wide association meta-analysis. Our outcomes included 61 food 
+items with estimates from a food-frequency questionnaire in the UK Biobank 
+(n = 361,194). For significant findings, we repeated the analysis using intake 
+estimates from modified 24-h diet recalls in a subset of overlapping 
+participants (n = 146,086). In addition, we examined 7 response performance 
+outcomes, including the time and duration of responses to 24-h diet recalls 
+(n = 123,035). MR effects were estimated using an inverse-variance weighted 
+analysis.
+RESULTS: Genetic liability to a morning preference was associated with increased 
+intake of 6 food items (fresh fruit, alcohol with meals, bran cereal, cereals, 
+dried fruit, and water), decreased intake of 4 food items (beer plus cider, 
+processed meat, other cereals [e.g., corn or frosted flakes], and full cream 
+milk), increased temperature of hot drinks, and decreased variation in diet 
+(PFalse Discovery Rate < 0.05). There was no evidence for an effect on coffee or 
+tea intake. Findings for fresh fruit, beer plus cider, bran cereal, and cereal 
+were consistent when intakes were estimated by 24-h diet recalls (P < 0.05). We 
+also identified potential causal links between a morning preference with earlier 
+timing and a shorter duration for completing email-administered 24-h diet 
+recalls.
+CONCLUSIONS: Our findings provide evidence for a potentially causal effect of a 
+morning preference with the increased intake of foods known to constitute a 
+healthy diet, suggesting possible health benefits of adopting a more morning 
+diurnal preference.
+
+Copyright © The Author(s) on behalf of the American Society for Nutrition 2020.
+
+DOI: 10.1093/ajcn/nqaa219
+PMCID: PMC7657324
+PMID: 32860398 [Indexed for MEDLINE]
+
+
+5. ACS Omega. 2020 Dec 3;5(49):31792-31800. doi: 10.1021/acsomega.0c04489. 
+eCollection 2020 Dec 15.
+
+Melissa officinalis Extract Induces Apoptosis and Inhibits Migration in Human 
+Colorectal Cancer Cells.
+
+Kuo TT(1), Chang HY(2)(3), Chen TY(4), Liu BC(3), Chen HY(1)(3), Hsiung YC(5), 
+Hsia SM(6), Chang CJ(4), Huang TC(1)(3)(7)(8).
+
+Author information:
+(1)Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of 
+Medical Science and Technology, Taipei Medical University and Academia Sinica, 
+Taipei 11031, Taiwan.
+(2)Graduate Institute of Metabolism and Obesity Sciences, College of Nutrition, 
+Taipei Medical University, Taipei 11031, Taiwan.
+(3)Graduate Institute of Cancer Biology and Drug Discovery, College of Medical 
+Science and Technology, Taipei Medical University, Taipei 11031, Taiwan.
+(4)Department of Food Science, National Taiwan Ocean University, Keelung 20224, 
+Taiwan.
+(5)TMU Core Facility Center, Taipei Medical University, Taipei 11031, Taiwan.
+(6)School of Nutrition and Health Sciences, College of Nutrition, Taipei Medical 
+University, Taipei 11031, Taiwan.
+(7)TMU Research Center of Cancer Translational Medicine, Taipei Medical 
+University, Taipei 11031, Taiwan.
+(8)Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei 11696, 
+Taiwan.
+
+Erratum in
+    ACS Omega. 2021 Feb 18;6(8):6030. doi: 10.1021/acsomega.1c00428.
+
+Colorectal cancer (CRC) is one of the most frequently diagnosed cancers 
+worldwide. Lifestyle-related factors, such as diet, are associated with the 
+development of CRC. Cumulating evidence indicates noticeable chemopreventive 
+effects of phytochemicals on CRC, suggesting that drinking herbal tea 
+potentially reduces the risk of distal colon cancer via its antiproliferative 
+and anti-angiogenic activities. We examine the antitumor effects of nine 
+components frequently found in herbal tea and uncover the underlying molecular 
+mechanism. Among them, the hot water extract of Melissa officinalis (MO) 
+exhibited the highest anticancer activity on CRC cells. We revealed that MO 
+reduced cell proliferation, induced cell cycle arrest at the G2/M phase, 
+triggered caspase-dependent apoptotic cell death, and inhibited cell migration 
+ability by modulating the epithelial-mesenchymal transition in HCT116 CRC cells. 
+To examine the metabolite composition in the MO hot water extract, we applied 
+mass spectrometry-based analysis and identified 67 compounds. Among them, the 
+phenolic compounds, including lignans, phenylpropanoids, and polyketides, are 
+widely found in natural products and possess various bioactivities such as 
+anti-inflammatory, antioxidation, and anticancer effects. The results indicate 
+that herbal tea consumption benefits CRC prevention and management.
+
+© 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c04489
+PMCID: PMC7745433
+PMID: 33344833
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+6. Front Sports Act Living. 2025 Feb 18;7:1514963. doi:
+10.3389/fspor.2025.1514963.  eCollection 2025.
+
+Cold water ingestion ameliorates increase in core temperature and discomfort 
+during simulated motor racing in a hot environment: a randomized trial.
+
+Bird SR(1), Troynikov O(2), Watson C(2), Cohen M(3), Sostaric S(4).
+
+Author information:
+(1)School of Health Sciences, Swinburne University of Technology, Melbourne, 
+VIC, Australia.
+(2)School of Engineering, Royal Melbourne Institute of Technology University, 
+Melbourne, VIC, Australia.
+(3)Extreme Wellness Institute, Melbourne, VIC, Australia.
+(4)Melbourne Sports and Allied Health Clinic, Essendon, VIC, Australia.
+
+INTRODUCTION: Formula One and other motor car racing drivers race for prolonged 
+periods in hot conditions wearing protective apparel that impairs heat loss. 
+They are thus at risk of a significantly elevated core temperature. The aims of 
+this study were to determine whether the voluntary ingestion of cold fluid aided 
+thermoregulation more effectively than the voluntary ingestion of ambient 
+temperature fluid in a simulated motor racing environment.
+METHODS: Eight male participants commenced two 120-min simulated motor racing 
+trials in an environmental chamber (40°C, 50% humidity). During one trial they 
+were provided with 1 L of ambient temperature water (AWT), whilst in the other 
+trial the water temperature was ∼5°C (CWT). A drinking schedule of "1 sip every 
+four minutes" was advocated. Participant core temperature, skin temperature and 
+heart rate were recorded continuously, whilst thermal comfort, response time and 
+cognitive function were assessed at 30-min intervals.
+RESULTS: All participants successfully completed their CWT, but only two 
+completed the full 120-mins of their AWT (AWT trial duration ranged from 80 to 
+120 min). Despite encouragement to drink more, both the rate of consumption (AWT 
+333 ± 103 v CWT 436 ± 99 ml/h) and total volume of water consumed (AWT 585 ± 233 
+v CWT 872 ± 198 ml) were less in the AWT (p < 0.005). At the 75-min point of the 
+trials, participant core temperatures had increased by 1.26 ± 0.29 in AWT and 
+0.81 ± 0.30 in CWT. Furthermore, at the point of trial cessation, core 
+temperature in the AWT had increased by 1.69 ± 0.36°C, but only 1.17 ± 0.52°C in 
+the CWT (p < 0.05). Participants reported less discomfort and a lower rating of 
+perceived exertion during the CWT. In both trials, response time to the 
+cognitive test decreased as the trials progressed, with no evident difference in 
+response time nor cognitive function between the two trials.
+DISCUSSION: The ingestion of cold water was associated with an ability to 
+continue with volitional performance and associated with an ameliorated increase 
+in core temperature as well as providing psychological benefits of cold 
+"refreshment".
+
+© 2025 Bird, Troynikov, Watson, Cohen and Sostaric.
+
+DOI: 10.3389/fspor.2025.1514963
+PMCID: PMC11876140
+PMID: 40040778
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

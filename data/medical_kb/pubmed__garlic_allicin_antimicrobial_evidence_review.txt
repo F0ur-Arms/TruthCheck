@@ -1,0 +1,355 @@
+SOURCE: PUBMED
+TOPIC: garlic allicin antimicrobial evidence review
+────────────────────────────────────────────────────────────
+
+1. Nutrients. 2024 Aug 29;16(17):2895. doi: 10.3390/nu16172895.
+
+Garlic and Hypertension: Efficacy, Mechanism of Action, and Clinical 
+Implications.
+
+Sleiman C(1), Daou RM(1), Al Hazzouri A(1), Hamdan Z(1), Ghadieh HE(1), Harbieh 
+B(1), Romani M(2).
+
+Author information:
+(1)Department of Biomedical Sciences, Faculty of Medicine and Medical Sciences, 
+University of Balamand, Tripoli 1300, Lebanon.
+(2)Department of Family Medicine, American University of Beirut, Beirut 
+1107-2020, Lebanon.
+
+Hypertension is a major risk factor for heart disease and stroke. Garlic has a 
+long history of use in traditional medicine for various conditions, including 
+hypertension. This narrative review examined the scientific evidence on the 
+efficacy of garlic in lowering blood pressure. It explores the historical uses 
+of garlic in different cultures for medicinal purposes and delves into the 
+phytochemical composition of garlic, highlighting key components, like allicin 
+and ajoene, that are believed to contribute to its potential health benefits. 
+Clinical studies that investigated the effects of garlic and garlic-based 
+supplements on blood pressure are presented, with the findings suggesting that 
+garlic consumption may modestly reduce blood pressure, particularly in 
+individuals with mild hypertension. Potential mechanisms of action include 
+increased nitric oxide production, improved endothelial function, and 
+antioxidant properties. While garlic may offer some benefits for blood pressure 
+management, it should not be considered a substitute for conventional 
+antihypertensive medications. Further large-scale, long-term clinical trials are 
+warranted to establish the efficacy of garlic in managing hypertension, 
+including the optimal dosage and formulation.
+
+DOI: 10.3390/nu16172895
+PMCID: PMC11397061
+PMID: 39275211 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Folia Microbiol (Praha). 2020 Jun;65(3):451-465. doi: 
+10.1007/s12223-020-00786-5. Epub 2020 Mar 23.
+
+Review: antimicrobial properties of allicin used alone or in combination with 
+other medications.
+
+Choo S(1), Chin VK(1), Wong EH(2), Madhavan P(2), Tay ST(3), Yong PVC(1), Chong 
+PP(4).
+
+Author information:
+(1)School of Biosciences, Taylor's University, Subang Jaya, Selangor, Malaysia.
+(2)School of Medicine, Taylor's University, Subang Jaya, Selangor, Malaysia.
+(3)Department of Medical Microbiology, Faculty of Medicine, Universiti of 
+Malaya, Kuala Lumpur, Malaysia.
+(4)School of Biosciences, Taylor's University, Subang Jaya, Selangor, Malaysia. 
+PeiPei.Chong@taylors.edu.my.
+
+Garlic (Allium sativum L.) is a well-known spice widely utilised for its 
+medicinal properties. There is an extensive record of the many beneficial health 
+effects of garlic which can be traced back to as early as the ancient Egyptian 
+era. One of the most studied properties of garlic is its ability to cure certain 
+ailments caused by infections. In the 1940s, the antimicrobial activities 
+exhibited by garlic were first reported to be due to allicin, a volatile 
+compound extracted from raw garlic. Since then, allicin has been widely 
+investigated for its putative inhibitory activities against a wide range of 
+microorganisms. Allicin has demonstrated a preference for targeting the 
+thiol-containing proteins and/or enzymes in microorganisms. It has also 
+demonstrated the ability to regulate several genes essential for the virulence 
+of microorganisms. Recently, it was reported that allicin may function better in 
+combination with other antimicrobials compared to when used alone. When used in 
+combination with antibiotics or antifungals, allicin enhanced the antimicrobial 
+activities of these substances and improved the antimicrobial efficacy. Hence, 
+it is likely that combination therapy of allicin with additional antimicrobial 
+drug(s) could serve as a viable alternative for combating rising antimicrobial 
+resistance. This review focuses on the antimicrobial activities exhibited by 
+allicin alone as well as in combination with other substances. The mechanisms of 
+action of allicin elucidated by some of the studies are also highlighted in the 
+present review in order to provide a comprehensive overview of this versatile 
+bioactive compound and the mechanistic evidence supporting its potential use in 
+antimicrobial therapy.
+
+DOI: 10.1007/s12223-020-00786-5
+PMID: 32207097 [Indexed for MEDLINE]
+
+
+3. J Nutr. 2016 Feb;146(2):403S-409S. doi: 10.3945/jn.114.208066. Epub 2016 Jan
+13.
+
+Garlic-Derived Organic Polysulfides and Myocardial Protection.
+
+Bradley JM(1), Organ CL(1), Lefer DJ(2).
+
+Author information:
+(1)Department of Pharmacology and Experimental Therapeutics and Cardiovascular 
+Center of Excellence, LSU Health Sciences Center, New Orleans, LA.
+(2)Department of Pharmacology and Experimental Therapeutics and Cardiovascular 
+Center of Excellence, LSU Health Sciences Center, New Orleans, LA 
+dlefe1@lsuhsc.edu.
+
+For centuries, garlic has been shown to exert substantial medicinal effects and 
+is considered to be one of the best disease-preventative foods. Diet is 
+important in the maintenance of health and prevention of many diseases including 
+cardiovascular disease (CVD). Preclinical and clinical evidence has shown that 
+garlic reduces risks associated with CVD by lowering cholesterol, inhibiting 
+platelet aggregation, and lowering blood pressure. In recent years, emerging 
+evidence has shown that hydrogen sulfide (H2S) has cardioprotective and 
+cytoprotective properties. The active metabolite in garlic, allicin, is readily 
+degraded into organic diallyl polysulfides that are potent H2S donors in the 
+presence of thiols. Preclinical studies have shown that enhancement of 
+endogenous H2S has an impact on vascular reactivity. In CVD models, the 
+administration of H2S prevents myocardial injury and dysfunction. It is 
+hypothesized that these beneficial effects of garlic may be mediated by 
+H2S-dependent mechanisms. This review evaluates the current knowledge concerning 
+the cardioprotective effects of garlic-derived diallyl polysulfides.
+
+© 2016 American Society for Nutrition.
+
+DOI: 10.3945/jn.114.208066
+PMCID: PMC4725427
+PMID: 26764335 [Indexed for MEDLINE]
+
+Conflict of interest statement: Author disclosures: JM Bradley, CL Organ, and DJ 
+Lefer, no conflicts of interest.
+
+
+4. Cochrane Database Syst Rev. 2014 Nov 11;2014(11):CD006206. doi: 
+10.1002/14651858.CD006206.pub4.
+
+Garlic for the common cold.
+
+Lissiman E(1), Bhasale AL, Cohen M.
+
+Author information:
+(1)Faculty of Medicine, Dentistry & Health Sciences, The University ofWestern 
+Australia, Crawley, WA, 6009, Australia. libby.lissiman@gmail.com.
+
+Update of
+    Cochrane Database Syst Rev. 2012 Mar 14;(3):CD006206. doi: 
+10.1002/14651858.CD006206.pub3.
+
+Background Garlic is alleged to have antimicrobial and antiviral properties that 
+relieve the common cold, among other beneficial effects. There is widespread 
+usage of garlic supplements. The common cold is associated with significant 
+morbidity and economic consequences. On average, children have six to eight 
+colds per year and adults have two to four.Objectives To determine whether 
+garlic (Allium sativum) is effective for the prevention or treatment of the 
+common cold, when compared to placebo, no treatment or other treatments.Search 
+methods We searched CENTRAL (2014, Issue 7),OLDMEDLINE (1950 to 1965),MEDLINE 
+(January 1966 to July week 5, 2014), EMBASE(1974 to August 2014) and AMED (1985 
+to August 2014).Selection criteria Randomised controlled trials of common cold 
+prevention and treatment comparing garlic with placebo, no treatment or standard 
+treatment.Data collection and analysis Two review authors independently reviewed 
+and selected trials from searches, assessed and rated study quality and 
+extracted relevant data.Main results In this updated review, we identified eight 
+trials as potentially relevant from our searches. Again, only one trial met the 
+inclusion criteria.This trial randomly assigned 146 participants to either a 
+garlic supplement (with 180 mg of allicin content) or a placebo (once daily)for 
+12 weeks. The trial reported 24 occurrences of the common cold in the garlic 
+intervention group compared with 65 in the placebo group (P value < 0.001), 
+resulting in fewer days of illness in the garlic group compared with the placebo 
+group (111 versus 366). The number of days to recovery from an occurrence of the 
+common cold was similar in both groups (4.63 versus 5.63). Only one trial met 
+the inclusion criteria, therefore limited conclusions can be drawn. The trial 
+relied on self reported episodes of the common cold but was of reasonable 
+quality in terms of randomisation and allocation concealment. Adverse effects 
+included rash and odour. Authors' conclusions There is insufficient clinical 
+trial evidence regarding the effects of garlic in preventing or treating the 
+common cold. A single trial suggested that garlic may prevent occurrences of the 
+common cold but more studies are needed to validate this finding. Claims of 
+effectiveness appear to rely largely on poor-quality evidence.
+
+DOI: 10.1002/14651858.CD006206.pub4
+PMCID: PMC6465033
+PMID: 25386977 [Indexed for MEDLINE]
+
+Conflict of interest statement: Elizabeth Lissiman: none known. Alice Bhasale: 
+support was received for professional development to learn Cochrane methodology, 
+but not to conduct this particular review. Marc Cohen: none known.
+
+
+5. Am Fam Physician. 2005 Jul 1;72(1):103-6.
+
+Health effects of garlic.
+
+Tattelman E(1).
+
+Author information:
+(1)Department of Family and Social Medicine, Albert Einstein College of Medicine 
+of Yeshiva University, Bronx, New York 10467, USA. etattelm@montefiore.org
+
+Garlic has long been used medicinally, most recently for its cardiovascular, 
+antineoplastic, and antimicrobial properties. Sulfur compounds, including 
+allicin, appear to be the active components in the root bulb of the garlic 
+plant. Studies show significant but modest lipid-lowering effects and 
+antiplatelet activity. Significant blood pressure reduction is not consistently 
+noted. There is some evidence for antineoplastic activity and insufficient 
+evidence for clinical antimicrobial activity. Side effects generally are mild 
+and uncommon. Garlic appears to have no effect on drug metabolism, but patients 
+taking anticoagulants should be cautious. It seems prudent to stop taking high 
+dosages of garlic seven to 10 days before surgery because garlic can prolong 
+bleeding time.
+
+PMID: 16035690 [Indexed for MEDLINE]
+
+
+6. Gen Dent. 2020 May-Jun;68(3):27-33.
+
+Activity of bioactive garlic compounds on the oral microbiome: a literature 
+review.
+
+Hoglund KB, Barnett BK, Watson SA, Melgarejo MB, Kang Y.
+
+Recently there has been an increased demand for natural remedies for management 
+of dental and oral diseases. The bioactive antimicrobial compounds in garlic 
+(Allium sativum) may provide an alternative to traditional management of oral 
+health maladies. This literature review summarizes the evidence regarding 
+potential uses of garlic in dental medicine. Keywords were searched in the 
+EBSCOhost, PubMed, Cochrane, and Scopus databases to obtain original research, 
+reviews, and data relating to the influence of garlic on pathogens, 
+inflammation, and oral disease. Garlic derivatives have shown antimicrobial 
+effects against periodontal and carious pathogens, including Porphyromonas 
+gingivalis, Aggregatibacter actinomycetemcomitans, and Streptococcus mutans. 
+Comparisons to sodium hypochlorite and calcium hydroxide treatments yielded 
+significant support for the effectiveness of garlic extract on the management of 
+endodontic infections. The use of garlic for the treatment of oral candidiasis 
+and recurrent aphthous ulcers also exhibited success without the complications 
+associated with traditional therapy. Current promising results and the 
+limitations of the findings warrant supplemental evidence. Researchers should 
+further explore the use of garlic in vivo to determine its efficacy in treating 
+oral disease. With additional clinical evidence, garlic could satisfy the 
+growing demand for natural remedies. The current evidence for garlic's activity 
+on oral microbes could support clinical trials and opportunities for the 
+development of natural and effective products.
+
+PMID: 32348240 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest 
+pertaining to the topics discussed in this article.
+
+
+7. Cochrane Database Syst Rev. 2012 Mar 14;(3):CD006206. doi: 
+10.1002/14651858.CD006206.pub3.
+
+Garlic for the common cold.
+
+Lissiman E(1), Bhasale AL, Cohen M.
+
+Author information:
+(1)Faculty of Medicine, Dentistry & Health Sciences, The University of Western 
+Australia, Crawley, WA, Australia. elizabeth.lissiman@health.wa.gov.au.
+
+Update in
+    Cochrane Database Syst Rev. 2014 Nov 11;(11):CD006206. doi: 
+10.1002/14651858.CD006206.pub4.
+
+Update of
+    Cochrane Database Syst Rev. 2009 Jul 08;(3):CD006206. doi: 
+10.1002/14651858.CD006206.pub2.
+
+BACKGROUND: Garlic is alleged to have antimicrobial and antiviral properties 
+that relieve the common cold, among other beneficial effects. There is 
+widespread usage of garlic supplements. The common cold is associated with 
+significant morbidity and economic consequences. On average, children have six 
+to eight colds per year and adults have two to four.
+OBJECTIVES: To determine whether garlic (allium sativum) is effective for either 
+the prevention or treatment of the common cold, when compared to placebo, no 
+treatment or other treatments.
+SEARCH METHODS: We searched the Cochrane Central Register of Controlled Trials 
+(CENTRAL) (2011, Issue 4), which includes the Cochrane Acute Respiratory 
+Infections Group Specialised Register, OLDMEDLINE (1950 to 1965), MEDLINE 
+(January 1966 to November week 3, 2011), EMBASE (1974 to December 2011) and AMED 
+(1985 to December 2011).
+SELECTION CRITERIA: Randomised controlled trials of common cold prevention and 
+treatment comparing garlic with placebo, no treatment or standard treatment.
+DATA COLLECTION AND ANALYSIS: Two review authors independently reviewed and 
+selected trials from searches, assessed and rated study quality and extracted 
+relevant data.
+MAIN RESULTS: Of the six trials identified as potentially relevant from our 
+searches, only one trial met the inclusion criteria. This trial randomly 
+assigned 146 participants to either a garlic supplement (with 180 mg of allicin 
+content) or a placebo (once daily) for 12 weeks. The trial reported 24 
+occurrences of the common cold in the garlic intervention group compared with 65 
+in the placebo group (P < 0.001), resulting in fewer days of illness in the 
+garlic group compared with the placebo group (111 versus 366). The number of 
+days to recovery from an occurrence of the common cold was similar in both 
+groups (4.63 versus 5.63). Only one trial met the inclusion criteria, therefore 
+limited conclusions can be drawn. The trial relied on self reported episodes of 
+the common cold but was of reasonable quality in terms of randomisation and 
+allocation concealment. Adverse effects included rash and odour.
+AUTHORS' CONCLUSIONS: There is insufficient clinical trial evidence regarding 
+the effects of garlic in preventing or treating the common cold. A single trial 
+suggested that garlic may prevent occurrences of the common cold but more 
+studies are needed to validate this finding. Claims of effectiveness appear to 
+rely largely on poor-quality evidence.
+
+DOI: 10.1002/14651858.CD006206.pub3
+PMID: 22419312 [Indexed for MEDLINE]
+
+
+8. Cochrane Database Syst Rev. 2009 Jul 8;(3):CD006206. doi: 
+10.1002/14651858.CD006206.pub2.
+
+Garlic for the common cold.
+
+Lissiman E(1), Bhasale AL, Cohen M.
+
+Author information:
+(1)Faculty of Medicine, Dentistry & Health Sciences, University of Western 
+Australia, Crawley, WA, Australia, 6009.
+
+Update in
+    Cochrane Database Syst Rev. 2012 Mar 14;(3):CD006206. doi: 
+10.1002/14651858.CD006206.pub3.
+
+BACKGROUND: Garlic is alleged to have antimicrobial and antiviral properties 
+that relieve the common cold, among other beneficial effects. There is 
+widespread usage of garlic supplements. The common cold is associated with 
+significant morbidity and economic consequences. On average, children have six 
+to eight colds per year, and adults have two to four.
+OBJECTIVES: To determine whether garlic (allium sativum) is effective for either 
+the prevention or treatment of the common cold, when compared to placebo, no 
+treatment or other treatments.
+SEARCH STRATEGY: We searched the Cochrane Central Register of Controlled Trials 
+(CENTRAL) (The Cochrane Library 2009, issue 1), which includes the Acute 
+Respiratory Infections Group Specialised Register; OLDMEDLINE (1950 to 1965); 
+MEDLINE (January 1966 to March Week 3, 2009); EMBASE (1974 to March 2009); and 
+AMED (1985 to March 2009).
+SELECTION CRITERIA: Randomised controlled trials of common cold prevention and 
+treatment comparing garlic with placebo, no treatment or standard treatment.
+DATA COLLECTION AND ANALYSIS: Two review authors independently reviewed and 
+selected trials from searches, assessed and rated study quality, and extracted 
+relevant data.
+MAIN RESULTS: Of the five trials identified as potentially relevant from our 
+searches, only one trial met the inclusion criteria. This trial randomly 
+assigned 146 volunteer participants to either a garlic supplement (with 180 mg 
+of allicin content) or a placebo (once daily) for 12 weeks. The trial reported 
+65 occurrences of the common cold in the placebo group compared with 24 in the 
+garlic intervention group (P < 0.001). The number of days of illness was lower 
+in the garlic group compared with the placebo group (111 versus 366). The number 
+of days to recovery was similar in both groups (4.63 versus 5.63). Because only 
+one trial met the inclusion criteria, limited conclusions can be drawn. The 
+trial relied on self-reported episodes of the common cold, but was of reasonable 
+quality in terms of randomisation and allocation concealment. Adverse effects 
+included rash and odour.
+AUTHORS' CONCLUSIONS: There is insufficient clinical trial evidence regarding 
+the effects of garlic in preventing or treating the common cold. A single trial 
+suggested that garlic may prevent occurrences of the common cold, but more 
+studies are needed to validate this finding. Claims of effectiveness appear to 
+rely largely on poor quality evidence.
+
+DOI: 10.1002/14651858.CD006206.pub2
+PMID: 19588383 [Indexed for MEDLINE]

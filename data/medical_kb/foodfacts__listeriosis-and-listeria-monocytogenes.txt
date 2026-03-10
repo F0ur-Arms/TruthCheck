@@ -1,0 +1,42 @@
+SOURCE: FoodFacts.org.za
+TITLE: Listeriosis and Listeria monocytogenes
+URL: https://foodfacts.org.za/listeriosis-and-listeria-monocytogenes/
+────────────────────────────────────────────────────────────
+
+- Febrile gastroenteritis(mild and usually self-limiting within a few days). Symptoms are similar to other foodborne diseases and unless specifically diagnosed as listeriosis, the affected person would most likely not know he/she was infected with monocytogenes, therefore this form of the illness is most likely under-reported. Symptoms are:
+This type of illness normally occurs 24h after ingesting the food containing high levels of L. monocytogenes [>105 colony forming units per gram (cfu/g)]. Symptoms however can appear as soon as 6 hours or as late as 10 days after ingestion of the contaminated food. The illness usually lasts 2 days, but can last up to 1 week.
+- Invasive listeriosisis the severe form of the disease and causes septicaemia, meningitis, encephalitis. Symptoms appear between 3-70 days after ingestion of the contaminated food. In some cases, symptoms can appear as quickly as the following day and as late as 90 days later.
+Invasive listeriosis affects mainly the susceptible sectors of the population i.e.:
+- Pregnant women – usually contract flu-like symptoms; mainly self-limiting. The woman transmits the microorganism via the placenta to the foetus possibly resulting in:
+- Pre-term delivery with associated complications
+- Births with neonates exhibiting septicaemia, encephalitis, meningitis.
+- Elderly >65 years (can be lower)
+- Immuno-compromised individuals, for example
+- Persons with auto-immune diseases (suppression of immune system due to cortisone and other treatments)
+The invasive form sometimes affects young healthy adults resulting mainly in brain-stem encephalitis.
+Growth and survival limits of the microorganism are shown in Table 1.
+Table 1: Growth and Survival Limits of Listeria monocytogenes (FSAI, 2011 – adapted)
+| Parameter | Range | Optimal | Survival (no growth) |
+| Temperature (°C) | -1.5 – 45 | 30 – 37 | -18 |
+| pH | 4.2 – 9.5 | 7 | 3.3 – 4.2 |
+| Water activity | 0.92 – 0.99 | 0.97 | <0.92 |
+| Salt (%) | 0.5 – 12 | N/A | =20 |
+- monocytogenesis able to survive freezing and drying. It is a unique foodborne pathogen in that it can grow at refrigeration temperatures, where it outcompetes other microorganisms, particularly mesophiles, that may be present. It is therefore capable of growing at temperatures below 4°C, even at -1.5°C, albeit slowly.
+- monocytogenesis killed by thorough cooking and by pasteurization temperatures of milk. Transmission of the microorganism to humans is via contaminated food in 90-99% of cases. Person-to-person transmission does not occur, other than transmission from pregnant woman to foetus/baby. It is naturally present in the environment i.e. soil, water, decaying vegetation, sewage, manure etc. It is therefore likely to be present in low numbers in raw commodities. At low levels (<100 cfu/g), the microorganism poses an insignificant risk to human health. However, serving size and frequency of consumption of a contaminated food are important elements that need to be considered when determining risk.
+- monocytogenesis able to establish itself in the environment of food plants where it could persist for months, even years. It does this by entering niches in food plants, where it may be difficult to reach and eradicate. Unhygienic design of equipment, older plants not designed for high risk foods or not properly maintained are amongst the causes of persistence of L. monocytogenes. The ability to produce biofilms and resistance to some chemical disinfectants makes it difficult to eradicate once established, at times impossible. Persistence in the environment is believed to be the primary source of post-processing contamination. Most Ready-To-Eat (RTE) foods are therefore considered high risk for L. monocytogenes. An effective environmental monitoring programme is a vital part of the overall management of the microorganism in a processed food plant.
+A further area of concern is that the multitude of adverse environmental conditions in food processing environments can lead to the appearance of viable but non-culturable (VBNC) cells that have lost their ability to form colonies on conventional media, but remain alive. Considering that detection of L. monocytogenes in surface samples from food processing environments is based on using conventional microbiological methods, VBNC cells represent a real risk because they are not detected but are potentially a source of contamination of food products, particularly RTE foods.
+Different strains have different capacities to cause illness (virulence); the st6 strain (the current outbreak strain in South Africa) falls in the higher virulence grouping and where meningitis occurs, the outcome prognosis is poor. Limited research shows a 2–fold increase in the rate of unfavourable outcome in the period 2006–2012, caused mainly by L. monocytogenes genotype ST6. However, before this becomes a conclusive fact, more research is required.
+The invasiveness of the microorganism depends on host immunity, virulence of the infecting strain and size of the inoculum (level of microorganism ingested). The infectious dosage for L. monocytogenes is not known but current data suggests it to be between 10 000 – 1000 000 cfu per serving of food. This translates to greater than 2000 cfu/g for a 50g serving of food.
+It appears from new research, that L. monocytogenes is capable of becoming resistant to certain disinfectants. The antibacterial effect of disinfectants is crucial for the control of L. monocytogenes in food processing environments. Tolerance of L. monocytogenes to sublethal levels of disinfectants based on quaternary ammonium compounds (QAC) is conferred by the resistance determinants qacH and bcrABC. L. monocytogenes strains harbouring the two QAC resistance genes are prevalent in the food industry. Residuals of QAC may be present in concentrations after disinfection in the industry that result in a growth advantage for bacteria with such resistance genes, when other bacteria are killed, thus allowing the growth of L. monocytogenes with little to no competition. For this reason and because of mounting evidence, a number of food processing companies in other countries have ceased the use of single-chain QAC and in some cases, QACs altogether.
+Foods most often associated with outbreaks
+Foods most often associated with human listeriosis include those which:
+- Support the growth of monocytogenes and
+- Have a long shelf-life under refrigeration (monocytogenes can grow to significant numbers in food held at refrigeration temperatures when given sufficient time)
+- Are consumed without further listericidal treatments, i.e. treatments which would kill
+EFSA (2018) Listeria monocytogenes Contamination of Ready-To-Eat foods and the Risk for Human Health in the EU, doi: 10.2903/j.efsa.2018.5134.
+FSAI (2011) Food Safety Authority of Ireland. https://www.fsai.ie/
+Koopmans Merel M., Brouwer Matthijs C., Bijlsma Merijn W., Bovenkerk Sandra, Keijzers Wendy, van der Ende Arie and van de Beek Diederik (2013) Listeria monocytogenes Sequence Type 6 and Increased Rate of Unfavourable Outcome in Meningitis: Epidemiologic Cohort Study. Clinical Infectious Diseases, Oxford University Press.
+Møretrø Trond, Schirmer Bjørn C.T., Heir Even, Fagerlund Annette, Hjemli Pernille, Langsrud Solveig (2017) Tolerance to Quaternary Ammonium Compound Disinfectants may Enhance Growth of Listeria monocytogenes in the Food Industry. International Journal of Food Microbiology, Elsevier.
+Anelich LE www.listeriosisfacts.co.za
+NICD National Institute for Communicable Diseases www.nicd.ac.za
+Prepared for FACS by LAn (2019)

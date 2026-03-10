@@ -1,0 +1,322 @@
+SOURCE: PUBMED
+TOPIC: protein requirement vegetarian diet India
+────────────────────────────────────────────────────────────
+
+1. Indian J Med Res. 1983 May;77:658-67.
+
+Determination of protein requirements in healthy male volunteers on vegetarian 
+diet.
+
+Bhatia BD, Agarwal DK, Agarwal KN.
+
+PMID: 6618539 [Indexed for MEDLINE]
+
+
+2. Front Nutr. 2023 May 18;10:1110750. doi: 10.3389/fnut.2023.1110750.
+eCollection  2023.
+
+Underutilized legumes: nutrient status and advanced breeding approaches for 
+qualitative and quantitative enhancement.
+
+Samal I(1), Bhoi TK(2), Raj MN(3), Majhi PK(4), Murmu S(5), Pradhan AK(6), Kumar 
+D(7), Paschapur AU(8), Joshi DC(8), Guru PN(9).
+
+Author information:
+(1)Department of Entomology, Faculty of Agriculture, Sri Sri University, 
+Cuttack, Odisha, India.
+(2)Forest Protection Division, ICFRE-Arid Forest Research Institute, Jodhpur, 
+India.
+(3)Division of Entomology, ICAR-Indian Agricultural Research Institute, New 
+Delhi, India.
+(4)Regional Research and Technology Transfer Station, Odisha University of 
+Agriculture and Technology, Keonjhar, Odisha, India.
+(5)ICAR-Indian Agricultural Statistics Research Institute, New Delhi, India.
+(6)ICAR-National Rice Research Institute, Cuttack, Odisha, India.
+(7)ICAR-National Institute of Agricultural Economics and Policy Research, New 
+Delhi, India.
+(8)ICAR-Vivekananda Parvatiya Krishi Anusandhan Sansthan, Uttarakhand, India.
+(9)ICAR-Central Institute of Post-Harvest Engineering and Technology, Ludhiana, 
+India.
+
+Underutilized/orphan legumes provide food and nutritional security to 
+resource-poor rural populations during periods of drought and extreme hunger, 
+thus, saving millions of lives. The Leguminaceae, which is the third largest 
+flowering plant family, has approximately 650 genera and 20,000 species and are 
+distributed globally. There are various protein-rich accessible and edible 
+legumes, such as soybean, cowpea, and others; nevertheless, their consumption 
+rate is far higher than production, owing to ever-increasing demand. The growing 
+global urge to switch from an animal-based protein diet to a vegetarian-based 
+protein diet has also accelerated their demand. In this context, underutilized 
+legumes offer significant potential for food security, nutritional requirements, 
+and agricultural development. Many of the known legumes like Mucuna spp., 
+Canavalia spp., Sesbania spp., Phaseolus spp., and others are reported to 
+contain comparable amounts of protein, essential amino acids, polyunsaturated 
+fatty acids (PUFAs), dietary fiber, essential minerals and vitamins along with 
+other bioactive compounds. Keeping this in mind, the current review focuses on 
+the potential of discovering underutilized legumes as a source of food, feed and 
+pharmaceutically valuable chemicals, in order to provide baseline data for 
+addressing malnutrition-related problems and sustaining pulse needs across the 
+globe. There is a scarcity of information about underutilized legumes and is 
+restricted to specific geographical zones with local or traditional 
+significance. Around 700 genera and 20,000 species remain for domestication, 
+improvement, and mainstreaming. Significant efforts in research, breeding, and 
+development are required to transform existing local landraces of carefully 
+selected, promising crops into types with broad adaptability and economic 
+viability. Different breeding efforts and the use of biotechnological methods 
+such as micro-propagation, molecular markers research and genetic transformation 
+for the development of underutilized crops are offered to popularize 
+lesser-known legume crops and help farmers diversify their agricultural systems 
+and boost their profitability.
+
+Copyright © 2023 Samal, Bhoi, Raj, Majhi, Murmu, Pradhan, Kumar, Paschapur, 
+Joshi and Guru.
+
+DOI: 10.3389/fnut.2023.1110750
+PMCID: PMC10232757
+PMID: 37275642
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Nutrition. 2010 Apr;26(4):390-8. doi: 10.1016/j.nut.2009.05.018. Epub 2009 Jul
+ 22.
+
+Diet patterns of lactovegetarian adolescent girls: need for devising recipes 
+with high zinc bioavailability.
+
+Tupe R(1), Chiplonkar SA.
+
+Author information:
+(1)Agharkar Research Institute, Pune, India.
+
+OBJECTIVE: Populations subsisting on plant foods are believed to be at a high 
+risk of mineral deficiencies. The aim of the present study was to examine the 
+diet patterns of vegetarian adolescent girls for zinc adequacy and devise 
+recipes to improve bioavailable zinc intakes.
+METHODS: A cross-sectional survey was carried out in 630 schoolgirls (10-16 y 
+old) from Pune, India, from 2006 to 2007. Diet was assessed by a 24-h recall 
+method on 3 random days. Diet patterns were identified by principal component 
+analysis. Nutrient intakes were estimated using the cooked-foods database of our 
+laboratory. Twenty recipes representing the diet patterns were formulated using 
+foods that have a high zinc content and using methods such as 
+sprouting/fermentation. In vitro zinc dialyzability of the recipes was 
+determined by simulating gastrointestinal conditions and atomic absorption 
+spectrometry.
+RESULTS: Five diet patterns were identified reflecting intakes of different 
+cereals. Girls in the five diet patterns had inadequate intakes of energy, 
+protein, and micronutrients including zinc compared with the recommended dietary 
+intakes of India. In the new cereal-based recipes, the average contents of 
+energy, protein, iron, calcium, zinc, beta-carotene, and vitamin C per 100g of 
+cooked weight were 205 kcal, 6.2g, 2.5mg, 105 mg, 1.5mg, 716 microg, and 4.4 mg, 
+respectively. Therefore, a supplement of 200 g of the recipe would fulfil 75% of 
+the daily zinc requirement of adolescents and increase other micronutrient 
+intake manifolds.
+CONCLUSION: Diets of Indian schoolgirls were deficient in zinc. Zinc-rich 
+recipes with high bioavailability have the potential to alleviate zinc 
+deficiency in adolescents.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2009.05.018
+PMID: 19628369 [Indexed for MEDLINE]
+
+
+4. Nutr J. 2014 Jun 4;13:55. doi: 10.1186/1475-2891-13-55.
+
+Nutritional profile of Indian vegetarian diets--the Indian Migration Study 
+(IMS).
+
+Shridhar K(1), Dhillon PK, Bowen L, Kinra S, Bharathi AV, Prabhakaran D, Reddy 
+KS, Ebrahim S.
+
+Author information:
+(1)South Asia Network of Chronic Disease, Public Health Foundation of India, 
+Building 47, Sector 44 Gurgaon, New Delhi, Haryana 122002, India. 
+g.krithiga@phfi.org.
+
+BACKGROUND: The cardiovascular and other health benefits and potential harms of 
+protein and micronutrient deficiency of vegetarian diets continue to be debated.
+METHODS: Study participants included urban migrants, their rural siblings and 
+urban residents (n = 6555, mean age - 40.9 yrs) of the Indian Migration Study 
+from Lucknow, Nagpur, Hyderabad and Bangalore. Information on diet (validated 
+interviewer-administered semi-quantitative food frequency questionnaire), 
+tobacco, alcohol, physical activity, medical histories, as well as blood 
+pressure, fasting blood and anthropometric measurements were collected. Nutrient 
+databases were used to calculate nutrient content of regional recipes. 
+Vegetarians ate no eggs, fish, poultry and meat. Using multivariate linear 
+regression with robust standard error model, we compared the macro- and 
+micro-nutrient profile of vegetarian and non-vegetarian diets.
+RESULTS: Vegetarians, (32.8% of the population), consumed greater amounts of 
+legumes, vegetables, roots and tubers, dairy and sugar, while non-vegetarians 
+had a greater intake of cereals, fruits, spices, salt (p < 0.01), fats and oils. 
+Vegetarians had a higher socioeconomic status, and were less likely to smoke, 
+drink alcohol (p < 0.0001) and engage in less physical activity (p = 0.04). On 
+multivariate analysis, vegetarians consumed more carbohydrates (β = 7.0 g/day 
+(95% CI: 9.9 to 4.0), p < 0.0001), vitamin C (β = 8.7 mg/day (95% CI: 4.3 
+to13.0), p < 0.0001) and folate (β = 8.0 mcg/day (95% CI: 3.3 to 12.7), 
+p = 0.001) and lower levels of fat (β = -1.6 g/day (95% CI: -0.62 to -2.7), 
+p = 0.002), protein (β = -6.4 g/day (95% CI: -5.8 to -7.0), p < 0.0001), vitamin 
+B12 (β = -1.4 mcg/day (95% CI: -1.2 to -1.5), p < 0.0001) and zinc 
+(β = -0.6 mg/day (95% CI: -0.4 to -0.7), p < 0.0001).
+CONCLUSION: Overall, Indian vegetarian diets were found to be adequate to 
+sustain nutritional demands according to recommended dietary allowances with 
+less fat. Lower vitamin B12 bio-availability remains a concern and requires 
+exploration of acceptable dietary sources for vegetarians.
+
+DOI: 10.1186/1475-2891-13-55
+PMCID: PMC4055802
+PMID: 24899080 [Indexed for MEDLINE]
+
+
+5. Ecol Food Nutr. 2017 Sep-Oct;56(5):351-363. doi:
+10.1080/03670244.2017.1337570.  Epub 2017 Sep 11.
+
+Lacto-Vegetarian Diet and Correlation of Fasting Blood Sugar with Lipids in 
+Population Practicing Sedentary Lifestyle.
+
+Praharaj AB(1), Goenka RK(2), Dixit S(1), Gupta MK(1), Kar SK(1), Negi S(3).
+
+Author information:
+(1)a Regional Medical Research Centre (ICMR), Chandrasekharpur , Bhubaneswar , 
+Odisha , India.
+(2)b Kalinga Institute of Medical Sciences , Bhubaneswar , Odisha , India.
+(3)c National Institute of Pathology (ICMR) , New Delhi , India.
+
+Rising burden of diabetes in India requires quick intervention that integrates 
+policies and programs for effective prevention and control of disease. This 
+retrospective cross-sectional study was conducted to observe effect of diet in 
+two Indian communities practicing sedentary lifestyle. Fasting blood samples 
+were analyzed for blood sugar, glycated-hemoglobin (HbA1C), and lipid profile. 
+Body mass index (BMI) and waist circumference (WC) measurements were recorded. 
+Diabetes incidence was lower in lacto-vegetarian (1.7%) than in non-vegetarian 
+group (5.3%) despite similar lipid profiles and BMI/WC between the groups. 
+Fasting blood sugar (FBS) was positively correlated with LDL and VLDL levels and 
+negatively correlated with HDL, only in lacto-vegetarian group. Study suggests: 
+(1) Indian lacto-vegetarian diet has beneficial effects on diabetes incidence 
+irrespective of high body weight and sedentary lifestyle; (2) intervention to 
+reduce body lipids, such as lipid-lowering drugs and exercise, may have greater 
+effect in reducing FBS levels in this lacto-vegetarian group.
+
+DOI: 10.1080/03670244.2017.1337570
+PMID: 28891681 [Indexed for MEDLINE]
+
+
+6. Food Res Int. 2023 Feb;164:112318. doi: 10.1016/j.foodres.2022.112318. Epub
+2022  Dec 9.
+
+Filamentous fungi for sustainable vegan food production systems within a 
+circular economy: Present status and future prospects.
+
+Awasthi MK(1), Kumar V(2), Hellwig C(3), Wikandari R(4), Harirchi S(3), Sar 
+T(3), Wainaina S(3), Sindhu R(5), Binod P(6), Zhang Z(7), Taherzadeh MJ(3).
+
+Author information:
+(1)College of Natural Resources and Environment, Northwest A&F University, 
+Yangling, Shaanxi Province 712100, China. Electronic address: 
+mukesh_awasthi45@yahoo.com.
+(2)Department of Community Medicine, Saveetha Medical College, Saveetha 
+Institute of Medical and Technical Sciences (SIMATS), Thandalam 602105, India.
+(3)Swedish Centre for Resource Recovery, University of Borås, Borås 50190, 
+Sweden.
+(4)Department of Food and Agricultural Product Technology, Faculty of 
+Agricultural Technology, Gadjah Mada University, Jalan Flora, Bulaksumur, 
+Yogyakarta 55281, Indonesia.
+(5)Department of Food Technology, TKM Institute of Technology, Kollam 691 505, 
+Kerala, India.
+(6)Microbial Processes and Technology Division, CSIR-National Institute for 
+Interdisciplinary Science and Technology (CSIR-NIIST), Trivandrum 695 019, 
+Kerala, India.
+(7)College of Natural Resources and Environment, Northwest A&F University, 
+Yangling, Shaanxi Province 712100, China.
+
+Filamentous fungi serve as potential candidates in the production of different 
+value-added products. In the context of food, there are several advantages of 
+using filamentous fungi for food. Among the main advantages is that the fungal 
+biomass used food not only meets basic nutritional requirements but that it is 
+also rich in protein, low in fat, and free of cholesterol. This speaks to the 
+potential of filamentous fungi in the production of food that can substitute 
+animal-derived protein sources such as meat. Moreover, life-cycle analyses and 
+techno-economic analyses reveal that fungal proteins perform better than 
+animal-derived proteins in terms of land use efficiency as well as global 
+warming. The present article provides an overview of the potential of 
+filamentous fungi as a source of food and food supplements. The 
+commercialization potential as well as social, legal and safety issues of 
+fungi-based food products are discussed.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2022.112318
+PMID: 36737911 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+7. Perit Dial Int. 2001;21 Suppl 3:S322-5.
+
+Vegetarianism in India.
+
+Jayanthi V(1).
+
+Author information:
+(1)Tamil Nad Hospital, Devaki Hospital Ltd., Chennai, India. 
+jayanthyjoel@yahoo.com
+
+PMID: 11887845 [Indexed for MEDLINE]
+
+
+8. J Nutr. 2020 Oct 12;150(10):2748-2754. doi: 10.1093/jn/nxaa235.
+
+Metabolic Availability of Lysine in Milk and a Vegetarian Cereal-Legume Meal 
+Determined by the Indicator Amino Acid Oxidation Method in Indian Men.
+
+Bandyopadhyay S(1), Kuriyan R(1), Shivakumar N(1), Ghosh S(2), Ananthan R(3), 
+Devi S(1), Kurpad AV(4).
+
+Author information:
+(1)Division of Nutrition, St. John's Research Institute, Research Center of 
+University of Mysore, St. John's National Academy of Health Sciences, Bengaluru, 
+India.
+(2)Department of Biostatistics, St. John's Medical College, St. John's National 
+Academy of Health Sciences, Bengaluru, India.
+(3)Food Chemistry Division, ICMR-National Institute of Nutrition, Jamai-Osmania, 
+Hyderabad, India.
+(4)Department of Physiology, St. John's Medical College, St. John's National 
+Academy of Health Sciences, Bengaluru, India.
+
+BACKGROUND: Lysine rich foods such as milk and legumes serve as important food 
+additions to the lysine deficient cereal-based diets of vegetarian populations 
+in low- and middle-income countries (LMICs) to alleviate the risk of quality 
+corrected dietary protein inadequacy. Dietary protein quality can be determined 
+by estimating the metabolic availability (MA) of lysine.
+OBJECTIVES: The study aimed to estimate the MA of lysine in spray-dried cow milk 
+powder (SMP), heat-treated spray-dried cow milk powder (HSMP), and a habitually 
+consumed cereal-legume based vegetarian meal (VM), using the indicator amino 
+acid oxidation (IAAO) slope-ratio method.
+METHODS: The MA of lysine in SMP, HSMP, and VM was estimated in 7 healthy young 
+men aged 19-24 y with BMI of 21.5 ± 0.5 kg/m2 in a repeated measures design. The 
+IAAO response slopes with 2 graded lysine intakes (10.5 and 15.0 mg·kg-1·d-1) 
+from the SMP and VM were compared with the response slope generated with 3 
+graded crystalline lysine intakes (6.0, 10.5, and 15.0 mg·kg-1·d-1) at the 
+subrequirement level. To produce HSMP, pasteurized cow milk was heat treated and 
+spray dried. The MA of lysine in HSMP was tested at a single level of lysine 
+intake (15 mg·kg-1·d-1). A total of 8 IAAO experiments were conducted on each 
+participant in randomized order. The IAAO slopes were estimated using a linear 
+mixed-effect regression model.
+RESULTS: The MA of lysine in SMP, HSMP, and VM was 91.9%, 69.9%, and 86.6% 
+respectively.
+CONCLUSIONS: Heat treatment reduced the MA of lysine by 22% in HSMP compared 
+with SMP in healthy Indian adults. The lysine MA estimates can be used to 
+optimize lysine limited cereal-based diets, with the addition of appropriately 
+processed legumes and milk powder, to meet the protein requirement. This trial 
+was registered at Clinical Trials Registry of India (http://ctri.nic.in) as 
+CTRI/2019/08/020568.
+
+Copyright © The Author(s) on behalf of the American Society for Nutrition 2020.
+
+DOI: 10.1093/jn/nxaa235
+PMID: 32840572 [Indexed for MEDLINE]

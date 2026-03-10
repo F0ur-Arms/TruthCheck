@@ -1,0 +1,683 @@
+SOURCE: PUBMED
+TOPIC: sugar cancer relationship evidence review
+────────────────────────────────────────────────────────────
+
+1. BMJ. 2023 Apr 5;381:e071609. doi: 10.1136/bmj-2022-071609.
+
+Dietary sugar consumption and health: umbrella review.
+
+Huang Y(1), Chen Z(1), Chen B(1), Li J(1), Yuan X(2), Li J(1), Wang W(3), Dai 
+T(4), Chen H(5), Wang Y(5), Wang R(1), Wang P(1), Guo J(1), Dong Q(1), Liu C(6), 
+Wei Q(1), Cao D(1), Liu L(7).
+
+Author information:
+(1)Department of Urology/Institute of Urology, West China Hospital, Sichuan 
+University, Chengdu, China.
+(2)Department of Oncology, West China Hospital, Sichuan University, Chengdu, 
+China.
+(3)Chinese Evidence-based Medicine Center, West China Hospital, Sichuan 
+University, Chengdu, China.
+(4)Department of Clinical Nutrition, West China Hospital, Sichuan University, 
+Chengdu, China.
+(5)Research Core Facility, West China Hospital, Sichuan University, Chengdu, 
+China.
+(6)Department of Urologic Surgery, UC Davis School of Medicine, Sacramento, CA, 
+USA liuliangren@scu.edu.cn.
+(7)Department of Urology/Institute of Urology, West China Hospital, Sichuan 
+University, Chengdu, China liuliangren@scu.edu.cn.
+
+Comment in
+    Lancet Diabetes Endocrinol. 2023 Jul;11(7):448-451. doi: 
+10.1016/S2213-8587(23)00151-1.
+
+OBJECTIVE: To evaluate the quality of evidence, potential biases, and validity 
+of all available studies on dietary sugar consumption and health outcomes.
+DESIGN: Umbrella review of existing meta-analyses.
+DATA SOURCES: PubMed, Embase, Web of Science, Cochrane Database of Systematic 
+Reviews, and hand searching of reference lists.
+INCLUSION CRITERIA: Systematic reviews and meta-analyses of randomised 
+controlled trials, cohort studies, case-control studies, or cross sectional 
+studies that evaluated the effect of dietary sugar consumption on any health 
+outcomes in humans free from acute or chronic diseases.
+RESULTS: The search identified 73 meta-analyses and 83 health outcomes from 8601 
+unique articles, including 74 unique outcomes in meta-analyses of observational 
+studies and nine unique outcomes in meta-analyses of randomised controlled 
+trials. Significant harmful associations between dietary sugar consumption and 
+18 endocrine/metabolic outcomes, 10 cardiovascular outcomes, seven cancer 
+outcomes, and 10 other outcomes (neuropsychiatric, dental, hepatic, osteal, and 
+allergic) were detected. Moderate quality evidence suggested that the highest 
+versus lowest dietary sugar consumption was associated with increased body 
+weight (sugar sweetened beverages) (class IV evidence) and ectopic fatty 
+accumulation (added sugars) (class IV evidence). Low quality evidence indicated 
+that each serving/week increment of sugar sweetened beverage consumption was 
+associated with a 4% higher risk of gout (class III evidence) and each 250 
+mL/day increment of sugar sweetened beverage consumption was associated with a 
+17% and 4% higher risk of coronary heart disease (class II evidence) and all 
+cause mortality (class III evidence), respectively. In addition, low quality 
+evidence suggested that every 25 g/day increment of fructose consumption was 
+associated with a 22% higher risk of pancreatic cancer (class III evidence).
+CONCLUSIONS: High dietary sugar consumption is generally more harmful than 
+beneficial for health, especially in cardiometabolic disease. Reducing the 
+consumption of free sugars or added sugars to below 25 g/day (approximately 6 
+teaspoons/day) and limiting the consumption of sugar sweetened beverages to less 
+than one serving/week (approximately 200-355 mL/week) are recommended to reduce 
+the adverse effect of sugars on health.
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42022300982.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2022-071609
+PMCID: PMC10074550
+PMID: 37019448 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/ and 
+declare: support from the National Natural Science Foundation of China and 
+Program from the Department of Science and Technology of Sichuan Province for 
+the submitted work; no financial relationship with any organisations that might 
+have an interest in the submitted work in the previous three years; no other 
+relationships or activities that could appear to have influenced the submitted 
+work.
+
+
+2. Regul Toxicol Pharmacol. 2023 Mar;139:105369. doi:
+10.1016/j.yrtph.2023.105369.  Epub 2023 Mar 3.
+
+Non-sugar sweeteners and cancer: Toxicological and epidemiological evidence.
+
+Pavanello S(1), Moretto A(2), La Vecchia C(3), Alicandro G(4).
+
+Author information:
+(1)Department of Cardiac Thoracic Vascular Sciences and Public Health, 
+Università degli Studi di Padova, Padua, Italy; University Hospital of Padova, 
+Padua, Italy.
+(2)Department of Cardiac Thoracic Vascular Sciences and Public Health, 
+Università degli Studi di Padova, Padua, Italy; University Hospital of Padova, 
+Padua, Italy. Electronic address: angelo.moretto@unipd.it.
+(3)Department of Clinical Sciences and Community Health, Università degli Studi 
+di Milano, Milan, Italy.
+(4)Department of Pathophysiology and Transplantation, Università degli Studi di 
+Milano, Milan, Italy; Cystic Fibrosis Centre, Fondazione IRCCS Ca' Granda 
+Ospedale Maggiore Policlinico, Milan, Italy.
+
+Several toxicological and epidemiological studies were published during the last 
+five decades on non-sugar sweeteners (NSS) and cancer. Despite the large amount 
+of research, the issue still continues to be of interest. In this review, we 
+provided a comprehensive quantitative review of the toxicological and 
+epidemiological evidence on the possible relation between NSS and cancer. The 
+toxicological section includes the evaluation of genotoxicity and 
+carcinogenicity data for acesulfame K, advantame, aspartame, cyclamates, 
+saccharin, steviol glycosides and sucralose. The epidemiological section 
+includes the results of a systematic search of cohort and case-control studies. 
+The majority of the 22 cohort studies and 46 case-control studies showed no 
+associations. Some risks for bladder, pancreas and hematopoietic cancers found 
+in a few studies were not confirmed in other studies. Based on the review of 
+both the experimental data on genotoxicity or carcinogenicity of the specific 
+NSS evaluated, and the epidemiological studies it can be concluded that there is 
+no evidence of cancer risk associated to NSS consumption.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yrtph.2023.105369
+PMID: 36870410 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Melete srl provided financial 
+support through a grant form ISA (International Sweeteners Association). The 
+conclusions are those of the authors; the sponsors did not have any role in 
+study design; in the collection, analysis and interpretation of data; in the 
+writing of the report; and in the decision to submit the article for 
+publication.
+
+
+3. Nutrients. 2022 Sep 15;14(18):3809. doi: 10.3390/nu14183809.
+
+The Burden of Carbohydrates in Health and Disease.
+
+Clemente-Suárez VJ(1)(2)(3), Mielgo-Ayuso J(4), Martín-Rodríguez A(1), 
+Ramos-Campo DJ(5), Redondo-Flórez L(6), Tornero-Aguilera JF(1)(3).
+
+Author information:
+(1)Faculty of Sports Sciences, Universidad Europea de Madrid, Tajo Street, s/n, 
+28670 Madrid, Spain.
+(2)Grupo de Investigación en Cultura, Educación y Sociedad, Universidad de la 
+Costa, Barranquilla 080002, Colombia.
+(3)Studies Centre in Applied Combat (CESCA), 45007 Toledo, Spain.
+(4)Department of Health Sciences, Faculty of Health Sciences, University of 
+Burgos, 09001 Burgos, Spain.
+(5)LFE Research Group, Department of Health and Human Performance, Faculty of 
+Physical Activity and Sport Science-INEF, Universidad Politécnica de Madrid, 
+28670 Madrid, Spain.
+(6)Department of Health Sciences, Faculty of Biomedical and Health Sciences, 
+Universidad Europea de Madrid, C/Tajo, s/n, Villaviciosa de Odón, 28670 Madrid, 
+Spain.
+
+Foods high in carbohydrates are an important part of a healthy diet, since they 
+provide the body with glucose to support bodily functions and physical activity. 
+However, the abusive consumption of refined, simple, and low-quality 
+carbohydrates has a direct implication on the physical and mental 
+pathophysiology. Then, carbohydrate consumption is postulated as a crucial 
+factor in the development of the main Western diseases of the 21st century. We 
+conducted this narrative critical review using MedLine (Pubmed), Cochrane 
+(Wiley), Embase, and CinAhl databases with the MeSH-compliant keywords: 
+carbohydrates and evolution, development, phylogenetic, GUT, microbiota, stress, 
+metabolic health, consumption behaviors, metabolic disease, cardiovascular 
+disease, mental disease, anxiety, depression, cancer, chronic kidney failure, 
+allergies, and asthma in order to analyze the impact of carbohydrates on health. 
+Evidence suggests that carbohydrates, especially fiber, are beneficial for the 
+well-being and growth of gut microorganisms and consequently for the host in 
+this symbiotic relationship, producing microbial alterations a negative effect 
+on mental health and different organic systems. In addition, evidence suggests a 
+negative impact of simple carbohydrates and refined carbohydrates on mood 
+categories, including alertness and tiredness, reinforcing a vicious circle. 
+Regarding physical health, sugar intake can affect the development and prognosis 
+of metabolic disease, as an uncontrolled intake of refined carbohydrates puts 
+individuals at risk of developing metabolic syndrome and subsequently developing 
+metabolic disease.
+
+DOI: 10.3390/nu14183809
+PMCID: PMC9505863
+PMID: 36145184 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Front Oncol. 2023 May 5;13:1132306. doi: 10.3389/fonc.2023.1132306.
+eCollection  2023.
+
+Risk factors for early-onset colorectal cancer: systematic review and 
+meta-analysis.
+
+Hua H(1), Jiang Q(1), Sun P(1), Xu X(1).
+
+Author information:
+(1)Department of Nursing, The Second Affiliated Hospital of Zhejiang University 
+School of Medicine, Hangzhou, Zhejiang, China.
+
+BACKGROUND: The incidence of early-onset colorectal cancer (EOCRC), which means 
+colorectal cancer diagnosed in patients under 50 years, has been increasing 
+around the world. However, the etiology remains unclear. This study aims to 
+identify risk factors for EOCRC.
+METHODS: This systematic review was conducted in PubMed, Embase, Scopus, and 
+Cochrane Library databases from inception to November 25, 2022. We examined risk 
+factors for EOCRC, including demographic factors, chronic conditions, and 
+lifestyle behaviors or environmental factors. Random-effects/fixed-effects 
+meta-analysis was adopted to combine effect estimates from published data. Study 
+quality was evaluated with the Newcastle-Ottawa Scale (NOS). Statistical 
+analysis was performed Revman5.3. Studies not suitable for the meta-analysis 
+were analyzed by a systematic review.
+RESULTS: A total of 36 studies were identified for this review, and 30 studies 
+were included in the meta-analysis. Significant risk factors for EOCRC included 
+male (OR=1.20; 95% CI, 1.08-1.33), Caucasian (OR=1.44; 95% CI, 1.15-1.80), a 
+family history of CRC (OR=5.90; 95% CI, 3.67-9.48), inflammatory bowel disease 
+(OR=4.43; 95% CI, 4.05-4.84), obesity (OR=1.52; 95%CI, 1.20-1.91), overweight 
+(OR=1.18; 95% CI, 1.12-1.25), triglycerides (OR=1.12; 95% CI, 1, 08-1.18), 
+hypertension (OR=1.16; 95% CI, 1.12-1.21), metabolic syndrome (OR=1.29; 95% CI, 
+1.15-1.45), smoking (OR=1.44; 95% CI, 1.10-1.88), alcohol consumption (OR=1.41; 
+95% CI, 1.22-1.62), a sedentary lifestyle (OR=1.24; 95% CI, 1.05-1.46), red meat 
+(OR=1.10; 95% CI, 1.04-1.16), processed meat (OR=1.53; 95% CI, 1.13-2.06), 
+Western dietary patterns (OR=1.43; 95% CI, 1.18-1.73) and sugar-sweetened 
+beverages (OR=1.55; 95% CI, 1.23-1.95). However, no statistical differences were 
+found for hyperlipidemia and hyperglycemia. Vitamin D may be a protective factor 
+(OR=0.72; 95% CI, 0.56-0.92). There was considerable heterogeneity among studies 
+(I2>60%).
+CONCLUSIONS: The study provides an overview of the etiology and risk factors of 
+EOCRC. Current evidence can provide baseline data for risk prediction models 
+specific to EOCRC and risk-tailored screening strategies.
+
+Copyright © 2023 Hua, Jiang, Sun and Xu.
+
+DOI: 10.3389/fonc.2023.1132306
+PMCID: PMC10196487
+PMID: 37213277
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+5. Nutr Cancer. 2022;74(9):3077-3095. doi: 10.1080/01635581.2022.2069827. Epub
+2022  Apr 29.
+
+Sugar-Sweetened Beverages and Cancer Risk: A Narrative Review.
+
+Arroyo-Quiroz C(1), Brunauer R(2), Alavez S(1)(3).
+
+Author information:
+(1)Departamento de Ciencias de la Salud, Universidad Autónoma Metropolitana, 
+Lerma de Villada, Mexico.
+(2)Department of Veterinary Physiology and Pharmacology, College of Veterinary 
+Medicine and Biomedical Sciences, Texas A&M University, College Station, TX, 
+USA.
+(3)Centro de Ciencias de la Complejidad (C3), Universidad Nacional Autónoma de 
+México, México City, Mexico.
+
+Cancer continues to be a major public health challenge worldwide, not only for 
+being one of the leading causes of death but also because the number of incident 
+cases is projected to grow in the next decades. Meanwhile, sugar-sweetened 
+beverages (SSB) consumption has risen since the past century and constitutes a 
+considerable fraction of added sugars in daily diet. Several studies have 
+analyzed the relationship between SSB intake and health and found substantial 
+evidence for effects on obesity, type 2 diabetes and metabolic syndrome. 
+However, there is little knowledge about the relationship of SSB with cancer 
+risk. It may be speculated that there is an indirect relationship between SSB 
+and cancer through obesity and metabolic syndrome, but obesity-independent 
+associations through hormonal imbalances or chronic inflammation could also 
+exist. In this review, we describe the epidemiological evidence of the 
+association of SSB and the risk of cancer in adults. Although the 
+epidemiological evidence linking SSB consumption and cancer risk is still 
+limited, prospective studies suggest that high SSB intake may increase the risk 
+of obesity-related cancers, breast and prostate cancer.
+
+DOI: 10.1080/01635581.2022.2069827
+PMID: 35486421 [Indexed for MEDLINE]
+
+
+6. Adv Nutr. 2021 Jun 1;12(3):809-849. doi: 10.1093/advances/nmaa147.
+
+Intake of Various Food Groups and Risk of Breast Cancer: A Systematic Review and 
+Dose-Response Meta-Analysis of Prospective Studies.
+
+Kazemi A(1), Barati-Boldaji R(1), Soltani S(2), Mohammadipoor N(3), 
+Esmaeilinezhad Z(1), Clark CCT(4), Babajafari S(1), Akbarzadeh M(3).
+
+Author information:
+(1)Nutrition Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran.
+(2)Yazd Cardiovascular Research Center, Shahid Sadoughi University of Medical 
+Sciences, Yazd, Iran.
+(3)Nurtition Research Center, School of Nutrition and Food Sciences, Shiraz 
+University of Medical Sciences, Shiraz, Iran.
+(4)Centre for Intelligent Healthcare, Coventry University, Coventry, UK.
+
+Despite increasing evidence for the association of food-based dietary patterns 
+with breast cancer risk, knowledge about the shape of the relationship and the 
+quality of meta-evidence are insufficient. We aimed to summarize the 
+associations between food groups and risks of breast cancer. We performed a 
+systematic literature search of the PubMed and Embase databases up to March 
+2020. We included cohort, case-cohort, nested case-control studies, and 
+follow-up studies of randomized controlled trials that investigated the 
+relationship between breast cancer risk and at least 1 of the following food 
+groups: red meat, processed meat, fish, poultry, egg, vegetables, fruit, dairy 
+product (overall, milk, yogurt, and cheese), grains/cereals, nuts, legumes, soy, 
+and sugar-sweetened beverages. Summary risk ratios (RRs) and 95% CIs were 
+estimated using a random-effects model for linear and nonlinear relationships. 
+Inverse linear associations were observed for vegetables (RR per 100 
+g/d, 0.97; 95% CI, 0.95-0.99), fruit (RR per 100 g/d, 0.97; 95% CI, 0.95-0.99), 
+cheese (RR per 30 g/d, 0.95; 95% CI, 0.91-1.00), and soy (RR per 30 
+g/d, 0.96; 95% CI, 0.94-0.99), while positive associations were observed for red 
+(RR per 100 g/d, 1.10; 95% CI, 1.03-1.18) and processed meat (RR per 50 
+g/d, 1.18; 95% CI, 1.04-1.33). None of the other food groups were significantly 
+associated with breast cancer risk. A nonlinear association was observed only 
+for milk, such that the intake of >450 g/d increased the risk, while no 
+association was observed for lower intake amounts. High intakes of vegetables, 
+fruit, cheese, and soy products and low intakes of red and processed meat were 
+associated with lower risks of breast cancer. However, causality cannot be 
+inferred from these statistical correlations.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/advances/nmaa147
+PMCID: PMC8166564
+PMID: 33271590 [Indexed for MEDLINE]
+
+
+7. Diabetes Metab Syndr. 2024 Jul;18(7):103092. doi: 10.1016/j.dsx.2024.103092. 
+Epub 2024 Jul 29.
+
+Effect of stevia on blood glucose and HbA1C: A meta-analysis.
+
+Zare M(1), Zeinalabedini M(2), Ebrahimpour-Koujan S(3), Bellissimo N(4), 
+Azadbakht L(5).
+
+Author information:
+(1)Department of Community Nutrition, School of Nutritional Sciences and 
+Dietetics, Tehran University of Medical Sciences, Tehran, Iran. Electronic 
+address: zaremarzie78@gmail.com.
+(2)Department of Community Nutrition, School of Nutritional Sciences and 
+Dietetics, Tehran University of Medical Sciences, Tehran, Iran. Electronic 
+address: Mobinazein@gmail.com.
+(3)Department of Clinical Nutrition, School of Nutritional Sciences and 
+Dietetics, Tehran University of Medical Sciences, Tehran, Iran; Cancer Research 
+Center, Cancer Institute of Iran, Tehran University of Medical Sciences, Tehran, 
+Iran. Electronic address: nutri.seam1@gmail.com.
+(4)School of Nutrition, Toronto Metropolitan University, Toronto, ON, Canada. 
+Electronic address: nick.bellissimo@torontomu.ca.
+(5)Department of Community Nutrition, School of Nutritional Sciences and 
+Dietetics, Tehran University of Medical Sciences, Tehran, Iran; Diabetes 
+Research Center, Endocrinology and Metabolism Clinical Sciences Institute, 
+Tehran University of Medical Sciences, Tehran, Iran; Department of Community 
+Nutrition, School of Nutrition and Food Science, Isfahan University of Medical 
+Sciences, Isfahan, Iran. Electronic address: azadbakhtleila@gmail.com.
+
+BACKGROUND: The study investigates substituting non-nutritive sweeteners (NNS) 
+for sugar to address health concerns related to excess sugar intake. It 
+specifically examines how stevia affects insulin and blood glucose levels. The 
+systematic review and meta-analysis aim to evaluate stevia's impact on glycemic 
+indices.
+METHODS: We conducted a systematic review and meta-analysis following PRISMA 
+guidelines, including 26 studies with 1439 participants. The PROSPERO 
+registration number for this research is CRD42023414411. We systematically 
+searched PubMed (MEDLINE), Scopus, Web of Science, and Google Scholar. 
+Additionally, we thoroughly reviewed the reference lists of the articles we 
+extracted and relevant reviews. Two evaluators independently carried out 
+screening, quality assessment, and data extraction. The GRADE (grading of 
+recommendations, assessment, development, and evaluation) approach was utilized 
+to evaluate the certainty of the evidence.
+RESULTS: Stevia consumption was associated with significantly reducing blood 
+glucose levels (WMD: -3.84; 95 % CI: -7.15, -0.53; P = 0.02, low certainty), 
+especially in individuals with higher BMI, diabetes, and hypertension. 
+Dose-response analysis revealed a decrease in blood glucose for ≥3342 mg/day of 
+stevia consumption. Stevia consumption has been shown to reduce blood glucose 
+levels within 1-4 months, as evidenced by dose-response analysis (less than 120 
+days) and subgroup analysis (more than four weeks). However, stevia did not 
+significantly affect insulin concentration or HbA1C levels (very low and low 
+certainty, respectively).
+CONCLUSIONS: Low certainty evidence showed that stevia improved blood glucose 
+control, especially when consumed for less than 120 days. However, more 
+randomized trials with higher stevia dosages are required.
+
+Copyright © 2024 Research Trust of DiabetesIndia (DiabetesIndia) and National 
+Diabetes Obesity and Cholesterol Foundation (N-DOC). Published by Elsevier Ltd. 
+All rights reserved.
+
+DOI: 10.1016/j.dsx.2024.103092
+PMID: 39098209 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. Crit Rev Toxicol. 2024 Sep;54(8):485-617. doi: 10.1080/10408444.2024.2362985. 
+Epub 2024 Aug 16.
+
+Dietary glycation compounds - implications for human health.
+
+Hellwig M(1), Diel P(2), Eisenbrand G(3), Grune T(4), Guth S(5), Henle T(6), 
+Humpf HU(7), Joost HG(8), Marko D(9), Raupbach J(10), Roth A(5), Vieths S(11), 
+Mally A(12).
+
+Author information:
+(1)Chair of Special Food Chemistry, Technische Universität Dresden, Dresden, 
+Germany.
+(2)Department of Molecular and Cellular Sports Medicine, Institute of 
+Cardiovascular Research and Sports Medicine, German Sport University Cologne, 
+Cologne, Germany.
+(3)Kühler Grund 48/1, Heidelberg, Germany.
+(4)Department of Molecular Toxicology, German Institute of Human Nutrition 
+(DIfE), Nuthetal, Germany.
+(5)Leibniz Research Centre for Working Environment and Human Factors (IfADo), 
+Dortmund, Germany.
+(6)Chair of Food Chemistry, TU Dresden, Dresden, Germany.
+(7)Institute of Food Chemistry, Universität Münster, Münster, Germany.
+(8)Department of Experimental Diabetology, German Institute of Human Nutrition 
+(DIfE), Nuthetal, Germany.
+(9)Department of Food Chemistry and Toxicology, Faculty of Chemistry, University 
+of Vienna, Vienna, Austria.
+(10)Institute of Food Chemistry, Technische Universität Braunschweig, 
+Braunschweig, Germany.
+(11)Paul-Ehrlich-Institut, Langen, Germany.
+(12)Department of Toxicology, University of Würzburg, Würzburg, Germany.
+
+The term "glycation compounds" comprises a wide range of structurally diverse 
+compounds that are formed endogenously and in food via the Maillard reaction, a 
+chemical reaction between reducing sugars and amino acids. Glycation compounds 
+produced endogenously are considered to contribute to a range of diseases. This 
+has led to the hypothesis that glycation compounds present in food may also 
+cause adverse effects and thus pose a nutritional risk to human health. In this 
+work, the Senate Commission on Food Safety (SKLM) of the German Research 
+Foundation (DFG) summarized data on formation, occurrence, exposure and toxicity 
+of glycation compounds (Part A) and systematically assessed potential 
+associations between dietary intake of defined glycation compounds and disease, 
+including allergy, diabetes, cardiovascular and renal disease, 
+gut/gastrotoxicity, brain/cognitive impairment and cancer (Part B). A systematic 
+search in Pubmed (Medline), Scopus and Web of Science using a combination of 
+keywords defining individual glycation compounds and relevant disease patterns 
+linked to the subject area of food, nutrition and diet retrieved 253 original 
+publications relevant to the research question. Of these, only 192 were found to 
+comply with previously defined quality criteria and were thus considered 
+suitable to assess potential health risks of dietary glycation compounds. For 
+each adverse health effect considered in this assessment, however, only limited 
+numbers of human, animal and in vitro studies were identified. While studies in 
+humans were often limited due to small cohort size, short study duration, and 
+confounders, experimental studies in animals that allow for controlled exposure 
+to individual glycation compounds provided some evidence for impaired glucose 
+tolerance, insulin resistance, cardiovascular effects and renal injury in 
+response to oral exposure to dicarbonyl compounds, albeit at dose levels by far 
+exceeding estimated human exposures. The overall database was generally 
+inconsistent or inconclusive. Based on this systematic review, the SKLM 
+concludes that there is at present no convincing evidence for a causal 
+association between dietary intake of glycation compounds and adverse health 
+effects.
+
+Plain Language Summary: Considering the implication of endogenous glycation 
+compounds in aging and disease, dietary exposure via consumption of an “AGE 
+(advanced glycation end product) rich diet” is increasingly suggested to pose a 
+potential health risk. However, studies attempting to assess an association 
+between dietary glycation compounds and adverse health effects frequently suffer 
+from insufficient chemical analysis of glycation compounds, including inadequate 
+structural characterization and limited quantitative data. The Senate Commission 
+on Food Safety (SKLM) of the German Research Foundation (DFG) previously defined 
+quality criteria for studies designed to assess the effects of dietary glycation 
+compounds on human health. The aim of the present work is to summarize data on 
+formation, occurrence, exposure and toxicity of glycation compounds (Part A) and 
+to systematically evaluate if the currently available scientific database allows 
+for a conclusive assessment of potential health effects of defined glycation 
+compounds (Part B).The term “glycation compounds” comprises a wide range of 
+structurally diverse compounds that derive from the Maillard reaction, a 
+chemical reaction between reducing carbohydrates and amino compounds that occurs 
+during food processing. In the first stage of the Maillard reaction, reducing 
+sugars such as glucose and fructose react for instance with the ε-amino group of 
+lysine, which is most abundant in food (“glycation” of lysine). Subsequently, 
+these primary reaction products undergo Amadori rearrangement to yield products 
+(ARP) such as fructosyllysine (FL) from glucose and also Heyns rearrangement 
+products (HRPs) such as glucosyl- and mannosyllysine from fructose. While ARPs 
+are rapidly formed during food processing, they are not stable and undergo 
+degradation reactions, predominantly to 1,2-dicarbonyl compounds such as glyoxal 
+(GO), methylglyoxal (MGO) and 3-deoxyglucosone (3-DG), which are highly 
+reactive. The last stage of the Maillard reaction is characterized predominantly 
+by the reaction of these dicarbonyl compounds with nucleophilic groups of 
+proteins. The side-chains of lysine and arginine residues as well as the 
+N-termini of proteins are important reaction sites. Carboxyalkylated amino acids 
+such as N-ε-carboxymethyllysine (CML) and N-ε-carboxyethyllysine (CEL) result 
+from reaction of the ε-amino group of lysine with the dicarbonyl compounds GO 
+and MGO. Dicarbonyl compounds with C5 or C6 chains can form cyclic pyrrole 
+derivatives at the ε-amino group of lysine. The most important example for this 
+reaction is pyrraline, which is formed from reaction of 3-DG and lysine. The 
+reaction of dicarbonyl compounds with the guanidino group of arginine mainly 
+leads to hydroimidazolones, of which the MGO-derived hydroimidazolone 1 (MG-H1) 
+is best described in food systems.ARPs are the most abundant glycation products 
+found in food. Up to 55% of the lysine residues in food may be modified to ARPs 
+at the side-chain. Food items particularly rich in ARPs include bread, rusk, 
+biscuits, chocolate, and powdered infant formulas. Exposure estimates range 
+between 0.6–1.6 mg/kg body weight (bw), although exposure may be as high as 
+14.3 mg/kg bw in individuals consuming foods with extreme ARP concentrations. 
+Foods particularly rich in dicarbonyl compounds include heat-treated or 
+long-term stored items rich in reducing sugars such as jams, alternative 
+sweeteners, soft drinks, honey, candies, cookies, and vinegars, especially 
+balsamico-type vinegars. The main contributors to the daily intake of MGO, GO, 
+and 3-DG are coffee and bread. Dietary exposure to dicarbonyl compounds has been 
+estimated to range between 0.02–0.29 mg/kg bw/d for MGO, 0.04–0.16 mg/kg bw/d 
+for GO, 0.14–2.3 mg/kg bw/d for 3-DG, and 0.08–0.13 mg/kg bw/d for 
+3-deoxygalactosone (3-DGal). Dietary intake of 5-hydroxymethylfurfural (HMF), 
+which can be formed from 3-DG, is estimated to range between 0.0001–0.9 mg/kg 
+bw/d. Exposure estimates for individual glycated amino acids range from 
+0.03–0.35 mg/kg bw/d for CML, 0.02–0.04 mg/kg bw/d for CEL and 0.19–0.41 mg/kg 
+bw/d for MG-H1. From a model diet consisting of 1 L milk, 500 g bakery products 
+and 400 mL coffee, an intake of pyrraline corresponding to 0.36 mg/kg bw/d for a 
+70 kg person was estimated.Quantitative analysis of individual glycation 
+compounds or their metabolites in tissues or body fluids as well as their 
+reaction products with amino acids, proteins or DNA may serve to monitor 
+exposure to glycation compounds. However, since glycation compounds are also 
+formed endogenously, these biomarkers reflect the totality of the exposure, 
+making it inherently difficult to define the body burden due to dietary intake 
+against the background of endogenous formation.Information on the toxicokinetics 
+and toxicity of glycation compounds is scarce and mostly limited to the reactive 
+dicarbonyl compounds GO, MGO, 3-DG, HMF, and individual glycated amino acids 
+such as CML and CEL. Acute toxicity of dicarbonyl compounds is low to moderate. 
+There are some data to suggest that rapid detoxification of dicarbonyls in the 
+gastrointestinal tract and liver may limit their oral bioavailability. 
+Biotransformation of GO and MGO occurs predominantly via the glutathione 
+(GSH)-dependent glyoxalase system, and to a lesser extent via 
+glutathione-independent aldo-keto-reductases, which are also responsible for 
+biotransformation of 3-DG. GO, MGO and 3-DG readily react with DNA bases 
+in vitro, giving rise to DNA adducts. There is clear evidence for genotoxicity 
+of GO, MGO and 3-DG. Repeated dose toxicity studies on GO consistently reported 
+reduced body weight gain concomitant with reduced food and water consumption but 
+did not identify compound related changes in clinical chemistry and hematology 
+or histopathological lesions. There is also no evidence for systemic 
+carcinogenicity of GO and MGO based on the available studies. However, 
+initiation/promotion studies indicate that oral exposure to GO may exhibit 
+genotoxic and tumor promoting activity locally in the gastrointestinal tract. 
+From a 2-year chronic toxicity and carcinogenicity study in rats, a NOAEL for 
+systemic toxicity of GO administered via drinking water of 25 mg/kg bw was 
+reported based on reduced body weight and erosions/ulcer in the glandular 
+stomach. Other non-neoplastic and neoplastic lesions were not observed. Acute 
+toxicity of HMF is also low. From a 90-day repeated dose toxicity study in mice, 
+a NOAEL of 94 mg/kg bw was derived based on cytoplasmic alterations of proximal 
+tubule epithelial cells of the kidney. HMF was mostly negative in in vitro 
+genotoxicity tests, although positive findings for mutagenicity were obtained 
+under conditions that promote formation of the chemically reactive sulfuric acid 
+ester 5-sulfoxymethylfurfural. There is some evidence of carcinogenic activity 
+of HMF in female B6C3F1 mice based on increased incidences of hepatocellular 
+adenoma, but not in male mice and rats of both sexes. Although data on oral 
+bioavailability of glycated amino acids are mostly limited to CML, it appears 
+that glycated amino acids may be absorbed from the gastrointestinal tract after 
+oral exposure to their free and protein bound form. Glycated amino acids that 
+are not absorbed in the intestine may be subject to metabolism by the gut 
+microbiome. Glycated amino acids present in the systemic circulation are rapidly 
+eliminated via the urine. Acute oral toxicity of CML is low. Studies in mice and 
+rats reported changes in clinical chemistry parameters indicative of impaired 
+renal and hepatic function. However, these changes were not dose-related and not 
+supported by histopathological evaluation.Previous risk assessments of 
+individual glycation compounds did not identify a health concern at estimated 
+human exposures (GO, HMF) but also noted the lack of data to draw firm 
+conclusions on health risks associated with exposure to MGO.To identify 
+potential associations between dietary intake of defined glycation compounds and 
+disease a systematic review was carried out according to the Preferred Reporting 
+Items for Systematic reviews and Meta-Analyses (PRISMA) model, applying the 
+quality criteria previously defined by the SKLM. Using a combination of keywords 
+defining individual glycation compounds and relevant disease patterns linked to 
+the subject area of food, nutrition and diet, a systematic search in Pubmed 
+(Medline), Scopus and Web of Science was performed. Although the present 
+systematic review identified numerous studies that investigated an association 
+between an “AGE-rich diet” and adverse health effects, only a subset of studies 
+was found to comply with the quality criteria defined by the SKLM and was thus 
+considered suitable to assess potential health risks of dietary glycation 
+compounds.For each adverse health effect considered in this assessment, only 
+limited numbers of human studies were identified. Although studies in humans 
+offer the advantage of investigating effects at relevant human exposures, these 
+studies did not provide compelling evidence for adverse effects of dietary 
+glycation compounds. Animal studies identified in this systematic review provide 
+some evidence for induction of impaired glucose tolerance, insulin resistance, 
+cardiovascular effects and renal injury in response to oral exposure to GO and 
+MGO as representatives of dicarbonyl compounds. Only limited evidence points to 
+a link between high intake of glycated amino acids and metabolic disorders. 
+However, these effects were typically reported to occur at dose levels that 
+exceed human dietary exposure, often by several orders of magnitude. 
+Unfortunately, most studies employed only one dose level, precluding 
+characterization of dose-response and derivation of a point of departure for 
+risk assessment. While in vitro studies provide some evidence for a potential 
+mechanistic link between individual glycation compounds and presumed adverse 
+health effects, the clinical and toxicological relevance of the in vitro 
+findings is often limited by the use of high concentrations of glycation 
+compounds that by far exceed human dietary exposure and by insufficient evidence 
+for corresponding adverse effects in vivo. A key question that has not been 
+adequately considered in most studies investigating systemic effects of 
+glycation compounds is the extent of oral bioavailability of dietary glycation 
+compounds, including the form in which MRPs may be taken up (e.g. free vs. 
+peptide bound glycated amino acids). Understanding how much dietary glycation 
+compounds really add to the significant endogenous background is critical to 
+appraise the relevance of dietary MRPs for human health.While it appears 
+mechanistically plausible that glycation of dietary allergens may affect their 
+allergenic potential, the currently available data do not support the hypothesis 
+that dietary glycation compounds may increase the risk for diet-induced 
+allergies. There are no human studies addressing the immunological effects of 
+dietary AGEs. Accordingly, there are no data on whether dietary AGEs promote the 
+development of allergies, nor whether existing allergies are enhanced or 
+attenuated. In numerous in vitro studies, the IgG/E binding ability of antigens 
+and therefore their allergenic potential has been predominantly reported to be 
+reduced by glycation. However, some in vitro studies showed that glycated 
+proteins bind to receptors of immunological cells, and thus may have promoting 
+effects on immune response and inflammation.Although experimental data from 
+animal studies provide some evidence that high doses of individual glycation 
+compounds such as MGO and protein-bound CML may produce certain adverse health 
+effects, including diabetogenic, cardiovascular, metabolic and renal effects, 
+the doses required to achieve these effects by far exceed human dietary 
+exposures. Of note, in the only long-term study identified, a high dose of MGO 
+administered via drinking water to mice for 18 months had no adverse effects on 
+the kidneys, cardiovascular system, or development of diabetes.Experimental data 
+from animal studies provide evidence that high doses of defined glycation 
+compounds such as MGO or protein-bound CML may affect glucose homeostasis. 
+However, the doses required to produce these effects markedly exceed human 
+dietary exposure. Results from human studies are inconclusive: Three short-term 
+intervention studies suggested that diets rich in AGEs may impair glucose 
+homeostasis, whereas one recent intervention study and two observational studies 
+failed to show such an effect.For the cardiovascular system, there is some 
+evidence from in vitro and in vivo studies that high concentrations of MRPs, 
+well above the dietary exposure of humans, may enhance inflammation in the 
+cardiovascular system, induce endothelial damage, increase blood pressure and 
+increase the risk of thrombosis. Only a limited number of human intervention 
+studies investigated potential effects of short-term exposure and longer-term 
+effects of glycation compounds on the cardiovascular system, and yielded 
+inconsistent results. The few observational studies available either found no 
+association between dietary MRP intake and cardiovascular function or even 
+reported beneficial effects. Therefore, currently no definitive conclusion on 
+potential acute and chronic effects of dietary MRPs on inflammation and 
+cardiovascular function can be drawn. However, there is currently also no 
+convincing evidence that potential adverse effects on the cardiovascular system 
+are triggered by dietary MRP intake.Furthermore, human studies did not provide 
+evidence for an adverse effect of dietary MRPs on kidney function. In animal 
+studies with high levels of oral intake, MGO was reported to cause structural 
+and functional effects in the kidney. Several studies show that the 
+concentration of modified proteins and amino acids, such as CML, increases 
+significantly in kidney tissue after oral intake. One study showed a negative 
+effect of a high-temperature-treated diet containing increased CML 
+concentrations on kidney structure integrity and impaired glomerular filtration. 
+The causative relationship of accumulation of dietary MRPs and a functional 
+decline of the kidneys, however, needs further confirmation.With regard to gut 
+health, there is some evidence for alterations in gut microflora composition and 
+the production of individual short-chain fatty acids (SCFAs) upon dietary 
+exposure to glycation compounds. However, this has not been linked to adverse 
+health effects in humans and may rather reflect adaptation of the gut microbiota 
+to changing nutrients. In particular, a human observational study and several 
+animal studies did not find a correlation between the intake of glycation 
+compounds and increased intestinal inflammation. In animal studies, positive 
+effects of glycation compounds on gut tissue damage and dysbiosis during colitis 
+were described.Considering clear evidence for DNA reactivity and genotoxicity of 
+the dicarbonyl compounds GO, MGO and 3-DG, it is plausible to suspect that 
+dicarbonyl compounds may induce mutations and cancer. Although there is some 
+evidence for tumor promoting activity of GO locally in the gastrointestinal 
+tract, the only guideline-compatible chronic rodent bioassays reported erosions 
+and ulcer in the glandular stomach but no treatment-related neoplastic lesions. 
+A recent multinational cohort study with focus on CEL, CML, and MG-H1 found no 
+evidence to support the hypothesis that dietary AGEs are linked to cancer 
+risk.Evidence for an association between human exposure to dietary glycation 
+compounds and detrimental effects on the brain and on cognitive performance is 
+far from being compelling. No human studies fully complying with the defined 
+quality criteria were identified. A few experimental studies reported 
+neuroinflammation and cognitive impairment following dietary MRP exposure, but 
+these can be considered indicative at best and do not support firm conclusions 
+for human health. In addition to utilizing exceedingly high dosages of 
+individual agents like CML, harsh processing conditions causing a multitude of 
+major process-related changes do not allow to convincingly reconcile effects 
+observed with measured/supposed contents of free and protein-bound CML 
+alone.Overall, although dietary glycation compounds have been claimed to 
+contribute to a wide range of adverse health effects, the present critical 
+evaluation of the literature allows the conclusion that the available data are 
+insufficient, inadequate or inconclusive and do not compellingly support the 
+hypothesis of human health risks being related to the presence of glycation 
+compounds in food. The study limitations detailed above, together with the fact 
+that a large number of studies did not comply with the defined quality criteria 
+and therefore had to be excluded highlight the importance of performing 
+adequately designed human or animal studies to inform scientifically reliable 
+health risk assessment.To achieve this, high quality, dependable scientific 
+cooperation within various disciplines is pivotal.
+
+DOI: 10.1080/10408444.2024.2362985
+PMID: 39150724 [Indexed for MEDLINE]

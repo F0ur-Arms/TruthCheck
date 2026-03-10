@@ -1,0 +1,365 @@
+SOURCE: PUBMED
+TOPIC: green tea antioxidant health claims
+────────────────────────────────────────────────────────────
+
+1. Molecules. 2020 Dec 27;26(1):85. doi: 10.3390/molecules26010085.
+
+Health Benefits and Chemical Composition of Matcha Green Tea: A Review.
+
+Kochman J(1), Jakubczyk K(1), Antoniewicz J(1), Mruk H(1), Janda K(1).
+
+Author information:
+(1)Department of Human Nutrition and Metabolomics, Pomeranian Medical 
+University, 24 Broniewskiego Street, 71-460 Szczecin, Poland.
+
+Japanese matcha is a type of powdered green tea, grown in a traditional way. 
+Shading of the plants during the growth period enhances the processes of 
+synthesis and accumulation of biologically active compounds, including theanine, 
+caffeine, chlorophyll and various types of catechins. Green tea contains four 
+main catechins, i.e., (-)-epicatechin (EC), (-)-epicatechin-3-gallate (ECG), 
+(-)-epigallocatechin (EGC) and (-)-epigallocatechin-3-gallate (EGCG), of which 
+the latter is the most active and abundant and matcha is their best condensed 
+source. Due to its unique chemical composition and prized flavour, which sets it 
+apart from other tea beverages, it is considered the highest quality tea. Its 
+health-promoting properties are attributed to the high content of antioxidant 
+and anti-inflammatory substances. Studies confirming the high antioxidant 
+potential of tea beverages claim that it originates from the considerable 
+content of catechins, a type of phenolic compound with beneficial effects on 
+human health. Due to its potential for preventing many diseases and supporting 
+cognitive function, regular consumption of matcha may have a positive effect on 
+both physical and mental health. The aim of this review was to compile the 
+health benefits of matcha tea. It is the first such review to be undertaken, and 
+presents its main bioactive compounds in a systematic manner.
+
+DOI: 10.3390/molecules26010085
+PMCID: PMC7796401
+PMID: 33375458 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Curr Res Food Sci. 2022 Feb 4;5:360-365. doi: 10.1016/j.crfs.2022.01.023. 
+eCollection 2022.
+
+Kombucha: Formulation, chemical composition, and therapeutic potentialities.
+
+Júnior JCDS(1), Meireles Mafaldo Í(1), de Lima Brito I(2), Tribuzy de Magalhães 
+Cordeiro AM(1).
+
+Author information:
+(1)Department of Food Technology, Federal University of Paraíba, João Pessoa, 
+PB, Brazil.
+(2)Department of Agroindustrial Management and Technology, Federal University of 
+Paraíba, João Pessoa, PB, Brazil.
+
+Kombucha is a millennial beverage with great potential due to its functional 
+claims. The infusion of black or green tea leaves (Camellia sinensis) and sugar 
+is fermented by a symbiotic culture of bacteria and yeasts (SCOBY) resulting in 
+an acidic and lightly carbonated beverage, kombucha. It offers in its 
+composition phytoconstituents with relevant nutritional valor, among these, 
+flavonoids that stand out for their antioxidant, anti-inflammatory 
+characteristics and their association with decreasing the risks of various 
+diseases. Previous studies in vivo and in vitro have shown promising results 
+using kombucha as a functional beverage. Those studies promote the search for 
+alternative raw materials for the production of kombucha, in addition, new 
+ingredients interfere in the production, constitution, and nutritional 
+potentialities of the beverage, as well as its functionality in the face of 
+diseases. Thus, this graphical review compiles relevant scientific data on 
+kombucha involving its origin, production, nutritional potential, and possible 
+health benefits associated with its consumption.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.crfs.2022.01.023
+PMCID: PMC8844156
+PMID: 35198995
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+3. Plants (Basel). 2023 Sep 11;12(18):3231. doi: 10.3390/plants12183231.
+
+Biological Activities and Polyphenol Content of Qi Cha Tea(®), a Functional 
+Beverage of White Tea Containing Botanicals and Dry Botanical Extracts with 
+European Health Claims.
+
+Maixent JM(1)(2)(3), Belaiba M(4), Pons O(2), Roulleau E(1)(3)(5), Bouajila 
+J(4), Zeil JM(5).
+
+Author information:
+(1)Pierre Deniker Clinical Research Unit, Henri Laborit University Hospital, 
+University of Poitiers, F-86000 Poitiers, France.
+(2)Laboratory Impact of Physical Activity, Health (I.A.P.S.) Toulon University, 
+F-83000 Toulon, France.
+(3)School of Sciences, Poitiers University, F-86000 Poitiers, France.
+(4)Laboratoire de Génie Chimique, University Paul Sabatier, CNRS, INPT, UPS, 
+F-31100 Toulouse, France.
+(5)Thés de la Pagode, 4, Avenue Bertie Albrecht, 75008 Paris, France.
+
+Infusions of Camellia sinensis leaves have been known for their health benefits. 
+The Bio Concentrate Assets® (ABC) method is a method of enriching organic 
+infusion leaves (from Camellia sinensis) with organic dry and concentrated 
+extracts using organic acacia gum, and its application to white tea has provided 
+Qi cha tea®. In the present study, the content of tea polyphenols and caffeine, 
+and the biochemical properties of Qi cha tea® and its botanical constituents 
+(elderberry, tulsi, Echinacea purpurea, orange peel, lemongrass, and acacia gum) 
+were assessed. Antioxidant and cell viability activities were determined by the 
+1,1-diphenyl-2-picrylhydrazyl (DPPH) assay and MTT (3-(4, 5-dimethyl 
+thiazol-2-yl)-2, 5-diphenyl tetrazolium bromide) assay in human Caco-2 and 
+HCT-116 cell lines, and ascorbic acid and tamoxifen, respectively. The caffeine 
+and polyphenol composition of Qi cha tea® was modified with less caffeine and 
+gallic acid and more epigallocatechin gallate (EGCG) than the original white 
+tea. The majority of the tested botanical samples including Qi cha tea® at 50 
+µg/mL show similar antioxidant activities, with the exception of Echinacea 
+purpurea. The greatest effect was found for white tea. The antioxidant power of 
+the Qi cha tea® (90% at 50 µg/mL for pressurized liquid extraction (PLE) was 
+divided by approximately a factor of two (61% at 50 µg/mL for pressurized liquid 
+extraction products (PLEP)), which corresponds to the 48.3% (mass/mass) white 
+tea original content in the Qi cha tea®. Qi cha tea® shows the lowest cytotoxic 
+activity in the viability of the two cell lines when compared to white tea. The 
+application of the ABC method to Qi cha tea® using various botanicals and dry 
+extract with acacia gum as blinder has allowed the development of a new 
+innovative functional health beverage that complies with European health claims.
+
+DOI: 10.3390/plants12183231
+PMCID: PMC10536379
+PMID: 37765396
+
+Conflict of interest statement: J.-M.Z. as Thés de la Pagode and funder. J.M.M., 
+O.P., J.B., M.B., and E.R. authors declare no conflicts of interest. J.M.Z. as 
+funder had no role in the design of the analytical study and in the collection, 
+analyses, or interpretation of data.
+
+
+4. Adv Biomed Res. 2014 Mar 25;3:100. doi: 10.4103/2277-9175.129371. eCollection 
+2014.
+
+Potent health effects of pomegranate.
+
+Zarfeshany A(1), Asgary S(2), Javanmard SH(1).
+
+Author information:
+(1)Physiology Research Center, Isfahan Cardiovascular Research Institute, 
+Isfahan, Iran.
+(2)Isfahan Cardiovascular Research Center, Isfahan Cardiovascular Research 
+Institute, Isfahan, Iran.
+
+Accumulating data clearly claimed that Punica granatum L. (pomegranate) has 
+several health benefits. Pomegranates can help prevent or treat various disease 
+risk factors including high blood pressure, high cholesterol, oxidative stress, 
+hyperglycemia, and inflammatory activities. It is demonstrated that certain 
+components of pomegranate such as polyphenols have potential antioxidant, 
+anti-inflammatory, and anticarcinogenic effects. The antioxidant potential of 
+pomegranate juice is more than that of red wine and green tea, which is induced 
+through ellagitannins and hydrosable tannins. Pomegranate juice can reduce 
+macrophage oxidative stress, free radicals, and lipid peroxidation. Moreover, 
+pomegranate fruit extract prevents cell growth and induces apoptosis, which can 
+lead to its anticarcinogenic effects. In addition, promoter inhibition of some 
+inflammatory markers and their production are blocked via ellagitannins. In this 
+article, we highlight different studies on the therapeutic effects of 
+pomegranate and their suggested mechanisms of actions.
+
+DOI: 10.4103/2277-9175.129371
+PMCID: PMC4007340
+PMID: 24800189
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+5. J Agric Food Chem. 2006 Mar 8;54(5):1599-603. doi: 10.1021/jf052857r.
+
+Catechin and caffeine content of green tea dietary supplements and correlation 
+with antioxidant capacity.
+
+Seeram NP(1), Henning SM, Niu Y, Lee R, Scheuller HS, Heber D.
+
+Author information:
+(1)Center for Human Nutrition, David Geffen School of Medicine, University of 
+California, Los Angeles, California 90095, USA. nseeram@mednet.ucla.edu
+
+The health benefits associated with tea consumption have resulted in the wide 
+inclusion of green tea extracts in botanical dietary supplements, which are 
+widely consumed as adjuvants for complementary and alternative medicines. Tea 
+contains polyphenols such as catechins or flavan-3-ols including epicatechin, 
+epigallocatechin, epicatechin gallate, and epigallocatechin gallate (EGCG), as 
+well as the alkaloid, caffeine. Polyphenols are antioxidants, and EGCG, due to 
+its high levels, is widely accepted as the major antioxidant in green tea. 
+Therefore, commercial green tea dietary supplements (GTDS) may be chemically 
+standardized to EGCG levels and/or biologically standardized to antioxidant 
+capacity. However, label claims on GTDS may not correlate with actual 
+phytochemical content or antioxidant capacity nor provide information about the 
+presence and levels of caffeine. In the current study, 19 commonly available 
+GTDS were evaluated for catechin and caffeine content (using high-performance 
+liquid chromatography) and for antioxidative activity [using trolox equivalent 
+antioxidant capacity (TEAC) and oxygen radical antioxidant capacity (ORAC) 
+assays]. Product labels varied in the information provided and were inconsistent 
+with actual phytochemical contents. Only seven of the GTDS studied made label 
+claims of caffeine content, 11 made claims of EGCG content, and five specified 
+total polyphenol content. Caffeine, EGCG, and total polyphenol contents in the 
+GTDS varied from 28 to 183, 12-143, and 14-36% tablet or capsule weight, 
+respectively. TEAC and ORAC values for GTDS ranged from 187 to 15340 and from 
+166 to 13690 mumol Trolox/g for tablet or capsule, respectively. The antioxidant 
+activities for GTDS determined by TEAC and ORAC were well-correlated with each 
+other and with the total polyphenol content. Reliable labeling information and 
+standardized manufacturing practices, based on both chemical standardization and 
+biological assays, are recommended for the quality control of botanical dietary 
+supplements.
+
+DOI: 10.1021/jf052857r
+PMID: 16506807 [Indexed for MEDLINE]
+
+
+6. Recent Pat Food Nutr Agric. 2009 Nov;1(3):203-15. doi: 
+10.2174/2212798410901030203.
+
+Green tea extract-patents and diversity of uses.
+
+Saito ST(1), Gosmann G, Pungartnik C, Brendel M.
+
+Author information:
+(1)Programa de Pós-Graduação em Genética e Biologia Molecular, Universidade 
+Estadual de Santa Cruz (UESC), Ilhéus, BA, Brazil. samuelsaito@hotmail.com
+
+Green tea is one of the most consumed beverages in the world. Presently, 
+Camellia sinensis has become a source not only for the development of several 
+food extracts but also nutraceutical, cosmetic and medicinal purposes. The 
+technology developed to produce these extracts aims to improve the organoleptic 
+characteristics of the products as taste and smell, and their shelf life. But it 
+also searches to demonstrate some medicinal attributes like antioxidant, 
+anti-aging, anti-tumor and anti-viral activities in relation to the chemical 
+composition of the green tea catechins, especially (-)-epigallocatechin gallate 
+(EGCG). The target of this review is to present the various patents related to 
+the extraction methods and their claims, and to discuss the evidence found in 
+the literature about the pharmacological activities of green tea. It summarizes 
+the recent progress in technology to obtain the green tea extract and in 
+clinical studies on its applications. Health-promoting products and 
+disease-preventing applications of green tea extract or compounds isolated from 
+it also take part of this text.
+
+DOI: 10.2174/2212798410901030203
+PMID: 20653541 [Indexed for MEDLINE]
+
+
+7. J Int Soc Sports Nutr. 2019 Mar 21;16(1):13. doi: 10.1186/s12970-019-0280-0.
+
+Effects of medium-term green tea extract supplementation combined with CrossFit 
+workout on blood antioxidant status and serum brain-derived neurotrophic factor 
+in young men: a pilot study.
+
+Sadowska-Krępa E(1), Domaszewski P(2), Pokora I(3), Żebrowska A(3), Gdańska 
+A(3), Podgórski T(4).
+
+Author information:
+(1)Department of Physiological and Medical Sciences, the Jerzy Kukuczka Academy 
+of Physical Education, Katowice, Poland. e.sadowska-krepa@awf.katowice.pl.
+(2)Department of Tourism and Health Promotion, University of Technology, Faculty 
+of Physical Education and Physiotherapy, Opole, Poland.
+(3)Department of Physiological and Medical Sciences, the Jerzy Kukuczka Academy 
+of Physical Education, Katowice, Poland.
+(4)Department of Biochemistry, Poznan University of Physical Education, Poznań, 
+Poland.
+
+BACKGROUND: Potential health benefits are attributed to the antioxidant 
+properties of green tea polyphenolic compounds. The main aim of the study was to 
+evaluate the effects of a six-week green tea extract (GTE) supplementation 
+combined with CrossFit workout on blood antioxidant status and serum 
+brain-derived neurotrophic factor (BDNF) in men.
+METHODS: Sixteen young males involved in CrossFit training were randomized into 
+two groups supplemented with GTE or placebo for six weeks. Each participant 
+performed an exercise test for the evaluation of maximum oxygen uptake (VO2max) 
+twice, i.e., before starting (1st trial) and after completing the 
+supplementation combined with CrosFit workout (2nd trial). Venous blood samples 
+were drawn at rest, immediately post-test and after one hour of recovery in 
+order to estimate activities of antioxidant enzymes (superoxide dismutase [SOD], 
+catalase [CAT], glutathione peroxidase [GPx], reduced glutathione [GR]), 
+non-enzymatic antioxidants (reduced glutathione [GSH], uric acid [UA], total 
+phenolics), total antioxidant capacity (FRAP), lipid peroxidation products 
+(TBARS), and BDNF.
+RESULTS: Except for a significantly higher SOD activity and FRAP level recorded 
+at rest and post-exercise in the 2nd trial compared to the corresponding values 
+in the 1st trial, no significant differences were recorded among other assayed 
+measures such as CAT, GPx, GR, GSH and BDNF. Moreover, a percentage increase in 
+FRAP level was twice as high after six weeks' GTE consumption than after 
+placebo. Regardless of the trial, an increase in plasma UA concentration and a 
+decrease in plasma total phenolics level were observed after exercise test. 
+Plasma TBARS concentrations were significantly higher in PLA group after six 
+weeks' CrossFit training, while in GTE group they were slightly lower compared 
+to the corresponding values in the 1st trial. Moreover, there was a significant 
+inverse correlation between FRAP and TBARS in the GTE-supplemented group 
+(r = - 0.40, p < 0.05).
+CONCLUSIONS: A six weeks' consumption of GTE had marginal effect on aerobic 
+capacity and serum BDNF level in CrossFit-trained men, but it caused a marked 
+increase in the blood antioxidant capacity and a moderate attenuation of the 
+training-induced lipid peroxidation.
+
+DOI: 10.1186/s12970-019-0280-0
+PMCID: PMC6429762
+PMID: 30898134 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+subjects were informed of the study goals and test protocols before giving their 
+signed informed consent for participation. The study protocol received approval 
+from the the Local Bioethics Committee (certificate of approval No. 4/2013) of 
+the Jerzy Kukuczka Academy of Physical Education in Katowice (Poland) according 
+to the principles and policies of the Declaration of Helsinki. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare no 
+conflict of interest. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+8. J Am Nutr Assoc. 2024 Feb;43(2):167-182. doi: 10.1080/27697061.2023.2244031. 
+Epub 2023 Aug 10.
+
+The Role of Dietary Ingredients in Mental Energy - A Scoping Review of 
+Randomized Controlled Trials.
+
+Nieman KM(1), Zhu Y(2), Tucker M(2), Koecher K(2).
+
+Author information:
+(1)Katalyses, Ankeny, Iowa, USA.
+(2)Bell Institute of Health and Nutrition, General Mills, Inc, Minneapolis, 
+Minnesota, USA.
+
+Low mental energy can contribute to decreased productivity, altered life 
+balance, decreased physical performance, and ultimately affect quality of life. 
+As such, there is a great demand for food and beverage products that positively 
+impact mental energy. Numerous products claim to alter mental energy making 
+continued review of the scientific evidence critical. The objective of this 
+study was to conduct a scoping review of randomized controlled trials to 
+evaluate the effect of 18 dietary ingredients on mental energy outcomes in 
+adults without severe disease. Methods: A literature search, completed using 
+PubMed, resulted in the identification of 2261 articles, 190 of which met 
+eligibility from initial abstract review. Full-text review was completed on the 
+190 studies which resulted in 101 articles that fully met eligibility for 
+inclusion in this study. The search strategy for two ingredients did not yield 
+any eligible studies, leaving studies for 16 ingredients that were extracted and 
+summarized by reported significantly improved outcomes for cognition, mood and 
+perceived feelings, and sleep assessments. The preliminary results for several 
+dietary ingredients directionally suggested a mental energy benefit (≥20% of 
+outcomes), including ashwagandha, chamomile, dark chocolate, ginseng, green tea, 
+lavender, lion's mane mushroom, maca, tart cherries, turmeric, and valerian 
+root. The results of this scoping review suggest that of the 16 dietary 
+ingredients reviewed, 11 may be promising for further exploration on their 
+potential benefits in supporting mental energy. Given consumer demand and market 
+growth for food and beverage products that positively impact mental energy; 
+continued efforts in assessment method alignment and additional evaluation in 
+well-designed trials is warranted.KEY TEACHING POINTSOf the 16 dietary 
+ingredients reviewed, 11 (ashwagandha, chamomile, dark chocolate, ginseng, green 
+tea, lavender, lion's mane mushroom, maca, melatonin foods, turmeric, and 
+valerian root) may be promising for further exploration on their potential 
+mental energy benefits.Dark chocolate, ginseng, ashwagandha, and lion's mane 
+mushroom were the most promising ingredients for further evaluation in the 
+cognition domain of the ingredients evaluated.Turmeric, maca, lavendar, and 
+ashwagandha were the most promising ingredients for further evaluation in the 
+mood and perceived feelings domain of the ingredients evaluated.Ashwagandha, 
+chamomile, green tea, melatonin foods, valerian root were the most promising 
+ingredients for further evaluation in the sleep domain of the ingredients 
+evaluated.Additional, well-designed, consistent, clinical trials and systematic 
+reviews are warranted as the challenge of heterogeneity in mental energy study 
+design remains.
+
+DOI: 10.1080/27697061.2023.2244031
+PMID: 37561965 [Indexed for MEDLINE]

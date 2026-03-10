@@ -1,0 +1,350 @@
+SOURCE: PUBMED
+TOPIC: turmeric curcumin health benefits clinical trial
+────────────────────────────────────────────────────────────
+
+1. Int J Mol Sci. 2023 Feb 24;24(5):4476. doi: 10.3390/ijms24054476.
+
+Curcumin Supplementation and Human Disease: A Scoping Review of Clinical Trials.
+
+Panknin TM(1), Howe CL(2), Hauer M(1), Bucchireddigari B(3), Rossi AM(4), Funk 
+JL(5).
+
+Author information:
+(1)College of Medicine, University of Arizona, Tucson, AZ 85724, USA.
+(2)The University of Arizona Health Science Library, Tucson, AZ 85724, USA.
+(3)University of Arizona Cancer Center, University of Arizona, Tucson, AZ 85724, 
+USA.
+(4)Department of Physiology, Honors College, University of Arizona, Tucson, AZ 
+85724, USA.
+(5)Department of Medicine and School of Nutritional Sciences and Wellness, 
+University of Arizona, Tucson, AZ 85724, USA.
+
+Medicinal properties of turmeric (Curcuma longa L.), a plant used for centuries 
+as an anti-inflammatory, are attributed to its polyphenolic curcuminoids, where 
+curcumin predominates. Although "curcumin" supplements are a top-selling 
+botanical with promising pre-clinical effects, questions remain regarding 
+biological activity in humans. To address this, a scoping review was conducted 
+to assess human clinical trials reporting oral curcumin effects on disease 
+outcomes. Eight databases were searched using established guidelines, yielding 
+389 citations (from 9528 initial) that met inclusion criteria. Half focused on 
+obesity-associated metabolic disorders (29%) or musculoskeletal disorders (17%), 
+where inflammation is a key driver, and beneficial effects on clinical outcomes 
+and/or biomarkers were reported for most citations (75%) in studies that were 
+primarily double-blind, randomized, and placebo-controlled trials (77%, D-RCT). 
+Citations for the next most studied disease categories (neurocognitive [11%] or 
+gastrointestinal disorders [10%], or cancer [9%]), were far fewer in number and 
+yielded mixed results depending on study quality and condition studied. Although 
+additional research is needed, including systematic evaluation of diverse 
+curcumin formulations and doses in larger D-RCT studies, the preponderance of 
+current evidence for several highly studied diseases (e.g., metabolic syndrome, 
+osteoarthritis), which are also clinically common, are suggestive of clinical 
+benefits.
+
+DOI: 10.3390/ijms24054476
+PMCID: PMC10003109
+PMID: 36901908 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Nutrients. 2024 Nov 30;16(23):4177. doi: 10.3390/nu16234177.
+
+Curcumin Attenuates Hyperglycemia and Inflammation in Type 2 Diabetes Mellitus: 
+Quantitative Analysis of Randomized Controlled Trial.
+
+Mokgalaboni K(1), Mashaba RG(2), Phoswa WN(1), Lebelo SL(1).
+
+Author information:
+(1)Department of Life and Consumer Sciences, College of Agriculture and 
+Environmental Sciences, Florida Campus, Roodepoort 1709, South Africa.
+(2)DIMAMO Population Health Research Centre, University of Limpopo, Sovenga, 
+Private Bag X1106, Polokwane 0727, South Africa.
+
+Controlling hyperglycemia and inflammation in type 2 diabetes (T2D) remains an 
+important approach to control diabetes. The use of phytochemicals found in 
+natural herbs has been investigated widely, and there are inconsistent findings 
+in clinical trials, likely associated with a small sample size. A meta-analysis 
+of clinical trials was performed by conducting a comprehensive literature search 
+on PubMed, Scopus, EBSCOHost, and Web of Sciences. The search terms included 
+Curcumin longa, turmeric, curcumin, curcuma xanthorrhiza, diferuloylmethane, and 
+type 2 diabetes. Data were analyzed using an online meta-analysis tool, Jamovi 
+version 2.4.8 and IBM SPSS statistics version 29. The data were reported as 
+either mean difference (MD) or standard mean difference (SMD) and 95% confidence 
+intervals. The evidence from 18 trials with 1382 T2D with a mean age of 55.9 
+years was analyzed. Supplementation with curcumin led to a significant decrease 
+in fasting blood glucose, MD = -11.48 mg/dL, 95%CI (-14.26, -8.70), p < 0.01 and 
+glycated hemoglobin, MD = -0.54%, 95%CI (-0.73, -0.35), p < 0.01. Additionally, 
+there was a significant decrease in C-Reactive Protein in curcumin compared to a 
+placebo, SMD = -0.59, 95%CI (-1.11, -0.07), p = 0.03. The findings observed in 
+this study suggest that curcumin can ameliorate hyperglycemia and inflammation 
+in T2D compared to a placebo. While the potential benefits were observed, it is 
+recommended that future trials focus on finding a suitable dose and duration of 
+intervention and incorporate formulation in curcumin to enhance its absorption.
+
+DOI: 10.3390/nu16234177
+PMCID: PMC11644433
+PMID: 39683570 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Adv Exp Med Biol. 2021;1291:1-13. doi: 10.1007/978-3-030-56153-6_1.
+
+Research in the Middle East into the Health Benefits of Curcumin.
+
+Guest PC(1), Sahebkar A(2)(3)(4)(5).
+
+Author information:
+(1)Laboratory of Neuroproteomics, Department of Biochemistry and Tissue Biology, 
+Institute of Biology, University of Campinas (UNICAMP), Campinas, Brazil.
+(2)Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad 
+University of Medical Sciences, Mashhad, Iran. sahebkara@mums.ac.ir.
+(3)Neurogenic Inflammation Research Center, Mashhad University of Medical 
+Sciences, Mashhad, Iran. sahebkara@mums.ac.ir.
+(4)Halal Research Center of IRI, FDA, Tehran, Iran. sahebkara@mums.ac.ir.
+(5)Polish Mother's Memorial Hospital Research Institute (PMMHRI), Lodz, Poland. 
+sahebkara@mums.ac.ir.
+
+The Middle East is known as the cradle of civilization. It was the crossroads of 
+ancient empires and the birthplace of major world religions. Today, it is the 
+center of many world issues due to economic, religious, and political reasons. 
+Although it has lagged behind many other regions of the world in medicinal 
+research, this has increased dramatically in recent years with increasing 
+numbers of relevant publications. Much of this research has focused on 
+increasing our understanding of the aging process and attempting to identify 
+biomarkers and natural products to improve the human health span. This review 
+provides a brief overview of the research conducted in the Middle East on the 
+health benefits of curcumin, a phytochemical derived from the famous spice 
+turmeric. These efforts have been mainly spearheaded by Iran.
+
+© 2021. The Editor(s) (if applicable) and The Author(s), under exclusive license 
+to Springer Nature Switzerland AG.
+
+DOI: 10.1007/978-3-030-56153-6_1
+PMID: 34331681 [Indexed for MEDLINE]
+
+
+4. J Prev Alzheimers Dis. 2025 Sep;12(8):100248. doi:
+10.1016/j.tjpad.2025.100248.  Epub 2025 Jun 26.
+
+Targeting cognitive aging with curcumin supplementation: A systematic review and 
+meta-analysis.
+
+Yu L(1), Li N(2), Li B(3), Ye KX(4), Guo J(4), Shan J(4), Cao L(4), Song M(5), 
+Wang Y(6), Lee TS(7), Maier AB(8), Feng L(9).
+
+Author information:
+(1)School of Nursing, Shandong Second Medical University, Weifang, China.
+(2)Laboratory of Molecular Pharmacology, Jilin Provincial Key Laboratory of 
+Biomacromolecules of Chinese Medicine, Jilin Ginseng Academy, Changchun 
+University of Chinese Medicine, Changchun, China.
+(3)Department of Geriatrics, Hospital of Chengdu University of Traditional 
+Chinese Medicine, Chengdu, China.
+(4)Healthy Longevity Translational Research Program, Yong Loo Lin School of 
+Medicine, National University of Singapore, Singapore; Department of 
+Psychological Medicine, Yong Loo Lin School of Medicine, National University of 
+Singapore, Singapore; Centre for Healthy Longevity, @AgeSingapore, National 
+University Health System, Singapore.
+(5)Department of Obstetrics and Gynecology, Gynecology Oncology, Qingdao Central 
+Hospital, University of Health and Rehabilitation Sciences, Qingdao, China.
+(6)School of Psychology, Shandong Second Medical University, Weifang, China.
+(7)Neuroscience and Behavioural Disorders Programme, Duke-NUS Medical School, 
+Singapore.
+(8)Healthy Longevity Translational Research Program, Yong Loo Lin School of 
+Medicine, National University of Singapore, Singapore; NUS Academy for Healthy 
+Longevity, Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore; Department of Human Movement Sciences, Faculty of Behavioral and 
+Movement Sciences, Amsterdam Movement Sciences, Vrije Universiteit, Amsterdam, 
+Netherlands. Electronic address: a.maier@nus.edu.sg.
+(9)Healthy Longevity Translational Research Program, Yong Loo Lin School of 
+Medicine, National University of Singapore, Singapore; Department of 
+Psychological Medicine, Yong Loo Lin School of Medicine, National University of 
+Singapore, Singapore; Centre for Healthy Longevity, @AgeSingapore, National 
+University Health System, Singapore. Electronic address: 
+fenglei2020sg@nus.edu.sg.
+
+BACKGROUND: Cognitive aging is a growing public health concern, and curcumin, a 
+bioactive compound derived from turmeric, has been proposed as a potential 
+intervention to support cognitive function due to its anti-inflammatory and 
+antioxidant properties.
+OBJECTIVES: This systematic review and meta-analysis aimed to evaluate the 
+effects of curcumin on cognitive outcomes related to aging.
+METHODS: A comprehensive search of PubMed, Embase, Cochrane Library, Web of 
+Science, and Scopus was conducted to identify studies published up to June 18, 
+2024, including both in vivo preclinical animal studies and randomized 
+controlled trials (RCTs) assessing curcumin's effects on cognitive function. In 
+vivo animal studies using Alzheimer's disease (AD) models and RCTs in human 
+participants were included. Data were extracted and analyzed using meta-analytic 
+techniques.
+RESULTS: In preclinical in vivo murine studies (n = 25; total animals = 572), 
+curcumin consistently improved both acquisition memory (SMD = -1.78, 95 % CI: 
+-2.12 to -1.43) and retention memory (SMD = 2.36, 95 % CI: 1.72 to 3.00) in 
+rodent models of AD. Ten human studies include 531 participants. Overall, 
+curcumin showed no significant effect on global cognitive outcomes compared to 
+placebo (SMD = 0.14, 95 % CI: -0.78 to 1.07). Subgroup analyses revealed 
+significant improvements in working memory (SMD = 1.01, 95 % CI: 0.15 to 1.87) 
+and processing speed (SMD = 0.37, 95 % CI: 0.07 to 0.67). The incidence of 
+adverse events was higher in the curcumin group than in the control group.
+CONCLUSIONS: Preclinical in vivo evidence suggests curcumin enhances cognitive 
+function in AD models. However, human studies show inconsistent findings with 
+benefits limited to specific cognitive domains. Larger, well-designed randomized 
+controlled trials are needed to establish curcumin's efficacy and safety in 
+cognitive aging.
+
+Copyright © 2025. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.tjpad.2025.100248
+PMCID: PMC12413726
+PMID: 40579315 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Curr Opin Clin Nutr Metab Care. 2014 Nov;17(6):558-66. doi: 
+10.1097/MCO.0000000000000115.
+
+The role of phytochemicals as micronutrients in health and disease.
+
+Howes MJ(1), Simmonds MS.
+
+Author information:
+(1)Royal Botanic Gardens, Kew, Richmond, Surrey, UK.
+
+PURPOSE OF REVIEW: Intake of dietary phytochemicals has frequently been 
+associated with health benefits. Noninfectious diseases including cardiovascular 
+disease (CVD), cancer and diabetes are major causes of death, whereas dementia 
+cases are also increasing to 'epidemic' proportion. This review will focus on 
+recent progress on mechanisms underlying the potential role of dietary 
+phytochemicals in CVD, diabetes, cancer and dementia, with consideration of the 
+latest clinical data.
+RECENT FINDINGS: The association of tea (Camellia sinensis), particularly 
+catechins, with reported mechanistic effects for CVD, diabetes, cancer and 
+cognition contributes to our understanding of the suggested benefits of tea 
+consumption on health from limited and inconclusive clinical trial and 
+epidemiological data. Resveratrol, which occurs in grapes (Vitis vinifera) and 
+wine, and curcumin, a component of turmeric (Curcuma longa), are also emerging 
+as potentially relevant to health, particularly for CVD and dementia, with some 
+promising data also concluded for curcumin in cancer. Other phytochemicals 
+mechanistically relevant for health include anthocyanins, isoflavones and 
+glucosinolates, which are also discussed.
+SUMMARY: Evidence for the role of phytochemicals in health and disease is 
+growing, but associations between phytochemicals and disease need to be more 
+firmly understood and established from more robust clinical data using 
+preparations that have been phytochemically characterized.
+
+DOI: 10.1097/MCO.0000000000000115
+PMID: 25252018 [Indexed for MEDLINE]
+
+
+6. Oral Dis. 2019 Apr;25(3):720-725. doi: 10.1111/odi.13034. Epub 2019 Jan 25.
+
+Curcumin, a turmeric extract, for oral lichen planus: A systematic review.
+
+White CM(1)(2), Chamberlin K(1)(3), Eisenberg E(4)(5).
+
+Author information:
+(1)University of Connecticut School of Pharmacy, Storrs, Connecticut.
+(2)UConn/Hartford Hospital HOPES Group, Hartford, Connecticut.
+(3)Pharmacy, UConn Health, Farmington, Connecticut.
+(4)University of Connecticut School Dental Medicine, Farmington, Connecticut.
+(5)Oral and Maxillofacial Pathology, UConn Health, Farmington, Connecticut.
+
+OBJECTIVE: Conduct a PROSPERO registered (CRD42018105227) systematic review of 
+the efficacy of curcumin in the treatment of oral lichen planus (OLP).
+DATA SOURCES: Medline from the earliest possible date to the present (December 
+18, 2018) using the terms "turmeric" OR "curcumin" OR "curcuma" AND "oral lichen 
+planus".
+STUDY SELECTION AND DATA EXTRACTION: Studies assessing patient outcomes in OLP. 
+There were four trials assessing the comparative efficacy of topical curcumin 
+vs. topical corticosteroids and three trials assessing the efficacy of oral 
+curcumin vs. placebo.
+DATA SYNTHESIS: Clinical and methodological heterogeneity precluded statistical 
+pooling. There were many limitations in the literature weakening the strength 
+and applicability of evidence. Topical curcumin provided reductions in pain, 
+burning, and clinical manifestations of OLP versus baseline, effects similar or 
+inferior to topical corticosteroids. In oral curcumin trials, there were no 
+significant benefits of curcumin therapy versus placebo but there were some 
+potential benefits and reasonable safety in an observational extension study.
+CONCLUSIONS: It is difficult to determine whether topical or oral curcumin is a 
+viable therapy for oral lichen planus. Topically applied curcumin in particular 
+shows promising preliminary data but would likely not supplant topical 
+corticosteroids as the modality of choice for most patients.
+
+© 2019 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd. All rights 
+reserved.
+
+DOI: 10.1111/odi.13034
+PMID: 30614166 [Indexed for MEDLINE]
+
+
+7. Nutr J. 2014 Jan 24;13:11. doi: 10.1186/1475-2891-13-11.
+
+Comparative absorption of curcumin formulations.
+
+Jäger R(1), Lowery RP, Calvanese AV, Joy JM, Purpura M, Wilson JM.
+
+Author information:
+(1)Increnovo LLC, 2138 E Lafayette Pl, Milwaukee, WI 53202, USA. 
+ralf.jaeger@increnovo.com.
+
+BACKGROUND: The potential health benefits of curcumin are limited by its poor 
+solubility, low absorption from the gut, rapid metabolism and rapid systemic 
+elimination. The purpose of this study was the comparative measurement of the 
+increases in levels of curcuminoids (curcumin, demethoxycurcumin, 
+bisdemethoxycurcumin) and the metabolite tetrahydrocurcumin after oral 
+administration of three different curcumin formulations in comparison to 
+unformulated standard.
+METHODS: The relative absorption of a curcumin phytosome formulation (CP), a 
+formulation with volatile oils of turmeric rhizome (CTR) and a formulation of 
+curcumin with a combination of hydrophilic carrier, cellulosic derivatives and 
+natural antioxidants (CHC) in comparison to a standardized curcumin mixture (CS) 
+was investigated in a randomized, double-blind, crossover human study in healthy 
+volunteers. Samples were analyzed by HPLC-MS/MS.
+RESULTS: Total curcuminoids appearance in the blood was 1.3-fold higher for CTR 
+and 7.9-fold higher for CP in comparison to unformulated CS. CHC showed a 
+45.9-fold higher absorption over CS and significantly improved absorption over 
+CP (5.8-fold) and CTR (34.9-fold, all p < 0.001).
+CONCLUSION: A formulation of curcumin with a combination of hydrophilic carrier, 
+cellulosic derivatives and natural antioxidants significantly increases 
+curcuminoid appearance in the blood in comparison to unformulated standard 
+curcumin CS, CTR and CP.
+
+DOI: 10.1186/1475-2891-13-11
+PMCID: PMC3918227
+PMID: 24461029 [Indexed for MEDLINE]
+
+
+8. Am J Lifestyle Med. 2022 Aug 7;16(6):684-686. doi: 10.1177/15598276221116063. 
+eCollection 2022 Nov-Dec.
+
+Potential Benefits of Curcumin in Rheumatoid Arthritis.
+
+Sotebeer M(1), White ND(2).
+
+Author information:
+(1)School of Pharmacy and Health Professions, Creighton University, Omaha, NE, 
+USA.
+(2)Pharmacy Practice, Department of Pharmacy Practice, Omaha, NE, USA.
+
+Widely known as a curry spice, curcumin has a long history of use in the 
+treatment of inflammatory conditions in Eastern Medicine. The spice is gaining 
+interest in modern medicine for a diverse array of conditions, including 
+rheumatoid arthritis. Evidence indicates curcumin can effectively suppress 
+inflammation through inhibition of pro-inflammatory cytokine production as well 
+as modulate B cell and T cell differentiation and function. The following 
+article will evaluate the existing clinical trial literature assessing the 
+impact of curcumin on patients with rheumatoid arthritis. Potential mechanisms 
+of action, bioavailability issues, and effective dosing will be described.
+
+Copyright © 2022 The Author(s).
+
+DOI: 10.1177/15598276221116063
+PMCID: PMC9644149
+PMID: 36389049
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

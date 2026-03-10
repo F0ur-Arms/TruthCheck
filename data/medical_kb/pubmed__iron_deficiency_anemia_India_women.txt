@@ -1,0 +1,686 @@
+SOURCE: PUBMED
+TOPIC: iron deficiency anemia India women
+────────────────────────────────────────────────────────────
+
+1. Nutrients. 2022 Jul 20;14(14):2976. doi: 10.3390/nu14142976.
+
+Iron Deficiency Anemia: Efficacy and Limitations of Nutritional and 
+Comprehensive Mitigation Strategies.
+
+Kumar SB(1), Arnipalli SR(1), Mehta P(1), Carrau S(1), Ziouzenkova O(1).
+
+Author information:
+(1)Department of Human Sciences, The Ohio State University, Columbus, OH 43210, 
+USA.
+
+Iron deficiency anemia (IDA) has reached epidemic proportions in developing 
+countries and has become a major global public health problem, affecting mainly 
+0-5-year-old children and young women of childbearing age, especially during 
+pregnancy. Iron deficiency can lead to life-threatening loss of red blood cells, 
+muscle function, and energy production. Therefore, the pathogenic features 
+associated with IDA are weakness and impaired growth, motor, and cognitive 
+performance. IDA affects the well-being of the young generation and the economic 
+advancement of developing countries, such as India. The imbalance between iron 
+intake/absorption/storage and iron utilization/loss culminates into IDA. 
+However, numerous strategic programs aimed to increase iron intake have shown 
+that improvement of iron intake alone has not been sufficient to mitigate IDA. 
+Emerging critical risk factors for IDA include a composition of cultural diets, 
+infections, genetics, inflammatory conditions, metabolic diseases, dysbiosis, 
+and socioeconomic parameters. In this review, we discuss numerous IDA mitigation 
+programs in India and their limitations. The new multifactorial mechanism of IDA 
+pathogenesis opens perspectives for the improvement of mitigation programs and 
+relief of IDA in India and worldwide.
+
+DOI: 10.3390/nu14142976
+PMCID: PMC9315959
+PMID: 35889932 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Nutrients. 2023 Jul 13;15(14):3125. doi: 10.3390/nu15143125.
+
+Prevention and Management of Iron Deficiency/Iron-Deficiency Anemia in Women: An 
+Asian Expert Consensus.
+
+Pai RD(1), Chong YS(2), Clemente-Chua LR(3), Irwinda R(4), Huynh TNK(5), Wibowo 
+N(4), Gamilla MCZ(6), Mahdy ZA(7).
+
+Author information:
+(1)Department of Obstetrics and Gynaecology, Lilavati Hospital, Mumbai 400050, 
+India.
+(2)Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore 117597, Singapore.
+(3)Department of Obstetrics and Gynecology, The Medical City, Pasig 1605, 
+Philippines.
+(4)Fetomaternal Division, Department of Obstetrics and Gynecology, Faculty of 
+Medicine, University of Indonesia-Cipto Mangunkusumo Hospital, Jakarta 10430, 
+Indonesia.
+(5)Department of Obstetrics and Gynecology, Pham Ngoc Thach University of 
+Medicine, Ho Chi Minh 700000, Vietnam.
+(6)Department of Obstetrics and Gynecology, University of Santo Tomas Hospital, 
+Manila 1008, Philippines.
+(7)Department of Obstetrics and Gynaecology, Faculty of Medicine, Universiti 
+Kebangsaan Malaysia, Kuala Lumpur 56000, Malaysia.
+
+The lack of standardized clinical practice impeding the optimal management of 
+iron deficiency (ID) and iron deficiency anemia (IDA) in women is a global 
+concern, particularly in the Asia-Pacific region. The aim of this study was to 
+determine best practices through a Delphi consensus process. In Round 1, 
+panelists were asked to rate their level of agreement with 99 statements across 
+four domains: identification, diagnosis and assessment, prevention, and 
+treatment of ID/IDA in women. In Round 2, panelists reappraised their ratings in 
+view of the collective feedback and responses to Round 1. After two rounds, 
+consensus (≥85% agreement) was reached for 84% of the Delphi statements. Experts 
+agreed on the role of presenting symptoms and risk factors in prompting 
+assessments of anemia and iron status in women. Experts repeatedly called for 
+prevention, recommending preventive iron supplementation for pregnant women 
+irrespective of anemia prevalence levels, and for non-pregnant adult women, 
+adolescent girls, and perimenopausal women living in areas with a high 
+prevalence of anemia. Experts unanimously agreed to prescribing oral ferrous 
+iron as first-line therapy for uncomplicated ID/IDA. The recommendations and 
+clinical pathway algorithms generated should be used to inform clinical practice 
+and standardize the care of women at risk or presenting with ID/IDA in the 
+Asia-Pacific region.
+
+DOI: 10.3390/nu15143125
+PMCID: PMC10383547
+PMID: 37513543 [Indexed for MEDLINE]
+
+Conflict of interest statement: The expert panel consensus meeting was organized 
+in association with Procter & Gamble Health. We acknowledge Jass Liew and Vinod 
+Malve, employees of Procter & Gamble Health, for organizing the logistics of the 
+consensus meeting.
+
+
+3. Am J Obstet Gynecol. 2025 Aug;233(2):120.e1-120.e18. doi: 
+10.1016/j.ajog.2025.01.037. Epub 2025 Feb 3.
+
+Single-dose intravenous iron vs oral iron for treatment of maternal iron 
+deficiency anemia: a randomized clinical trial.
+
+Derman RJ(1), Bellad MB(2), Somannavar MS(3), Bhandari S(4), Mehta S(4), Mehta 
+S(5), Sharma DK(6), Yogeshkumar S(7), Charantimath U(7), Patil AP(8), Mallapur 
+AA(9), Ramadurg U(10), Sangavi R(11), Patil PS(12), Roy S(13), Vastrad P(14), 
+Shekhar C(1), Leiby BE(15), Hartman RL(15), Georgieff M(16), Mennemeyer S(17), 
+Aghai Z(18), Thind S(1), Boelig RC(19); RAPIDIRON Trial Group (Appendix).
+
+Author information:
+(1)Department of Global Affairs, Thomas Jefferson University, Philadelphia, PA.
+(2)Department of Obstetrics and Gynaecology, KLE Academy of Higher Education and 
+Research's J N Medical College, Belagavi, Karnataka, India.
+(3)Department of Biochemistry, KLE Academy of Higher Education and Research's J 
+N Medical College, Belagavi, Karnataka, India.
+(4)Department of Medicine, Sawai Man Singh Medical College (SMSMC), Jaipur, 
+Rajasthan, India.
+(5)Department of Obstetrics and Gynecology, Sawai Man Singh Medical College 
+(SMSMC), Jaipur, Rajasthan, India.
+(6)Department of Preventative and Social Medicine, Sawai Man Singh Medical 
+College (SMSMC), Jaipur, Rajasthan, India.
+(7)Department of Community Medicine, KLE Academy of Higher Education and 
+Research's J N Medical College, Belagavi, Karnataka, India.
+(8)Women's and Children's Health Research Unit, KLE Academy of Higher Education 
+and Research's J N Medical College, Belagavi, Karnataka, India.
+(9)Department of Obstetrics and Gynaecology, S Nijalingappa Medical and HSK 
+Hospital and Research Centre, Bagalkote, Karnataka, India.
+(10)Department of Community Medicine, S Nijalingappa Medical and HSK Hospital 
+and Research Centre, Bagalkote, Karnataka, India.
+(11)Department of Obstetrics and Gynaecology, Raichur Institute of Medical 
+Sciences (RIMS), Raichur, Karnataka, India.
+(12)Department of Physiology, Raichur Institute of Medical Sciences (RIMS), 
+Raichur, Karnataka, India.
+(13)Model Rural Health Research Unit (MRHRU), Sirwar, Karnataka, India; ICMR - 
+National Institute of Traditional Medicine (ICMR/NITM), Belagavi, Karnataka, 
+India.
+(14)Model Rural Health Research Unit (MRHRU), Sirwar, Karnataka, India.
+(15)Department of Pharmacology, Physiology, and Cancer Biology, Thomas Jefferson 
+University, Philadelphia, PA.
+(16)Department of Pediatrics, University of Minnesota, Minneapolis, MN.
+(17)Department of Health Care Organization and Policy, School of Public Health, 
+University of Alabama at Birmingham, Birmingham, AL.
+(18)Department of Neonatology, Thomas Jefferson University, Philadelphia, PA.
+(19)Division of Maternal Fetal Medicine, Department of Obstetrics and 
+Gynecology, Thomas Jefferson University, Philadelphia, PA. Electronic address: 
+Rupsa.Boelig@jefferson.edu.
+
+BACKGROUND: Maternal iron deficiency anemia is a persistent global health 
+challenge with increased risk of adverse perinatal outcomes. Obstetric 
+guidelines advocate for first-line treatment of moderate iron deficiency anemia 
+with twice-daily oral iron; however, rates of iron deficiency anemia in 
+pregnancy remain above global targets and are rising.
+OBJECTIVE: Determine whether single-dose intravenous iron for primary treatment 
+of maternal iron deficiency anemia in the second trimester is superior to twice 
+daily oral iron in reducing incidence of low birth weight infants and maternal 
+anemia at delivery.
+STUDY DESIGN: This is a parallel, 3-arm, semiblind superiority randomized 
+controlled multicenter trial across 4 sites in India from March 15, 2021-May 12, 
+2023. Participants were singleton pregnancies at 14 to 17 weeks with moderate 
+iron deficiency anemia (hemoglobin 7.0-9.9 g/dL) who were randomized 1:1:1 to 
+(1) 60 mg oral ferrous sulfate twice daily; or single-dose infusion of (2) 
+intravenous ferric derisomaltose or (3) intravenous ferric carboxymaltose. Two 
+intravenous arms were selected as these are the only 2 intravenous iron 
+formulations publicly available in India. All participants received folic acid 
+supplementation throughout pregnancy and antihelminthic therapy, as recommended 
+by national guidelines. The dual primary outcomes were: (1) low birth weight 
+(<2500 grams) and (2) attainment of a maternal nonanemic state (hemoglobin ≥11.0 
+g/dL at 30-34 weeks or delivery) for each intravenous iron arm vs oral iron; 
+intravenous iron arms were not compared to each other. Secondary outcomes 
+included safety measures, and other maternal and infant outcomes. Participants 
+with hemoglobin <7 g/dL or <1 g/dL improvement on therapy received rescue 
+treatment with intravenous iron or blood transfusion as determined by their 
+provider. Sensitivity analyses included defining nonanemic state as achieving 
+hemoglobin ≥11.0 without need for additional IV iron or transfusion. Comparison 
+of each intravenous iron arm to oral iron was conducted with a 2-sided alpha set 
+at 0.0005 for achieving nonanemic state and 0.0245 for low birth weight for each 
+intravenous iron arm using a Cochran-Mantel-Haenszel chi-square test stratified 
+by enrollment site.
+RESULTS: The oral iron, ferric derisomaltose, and ferric carboxymaltose arms 
+included 1450, 1456, and 1462 participants respectively. There was a reduced 
+rate of low birth weight with intravenous ferric carboxymaltose (25·2%, relative 
+risk 0·87 [97·55% confidence interval 0.75, 0.99], P=.017), but not intravenous 
+ferric derisomaltose (29.1%, relative risk 0.98 [97.55% confidence interval 
+0.86, 1.12], P=.71) vs oral iron (29.3%). Achievement of nonanemic state was not 
+improved: intravenous ferric carboxymaltose (relative risk 1.05 [99.95% 
+confidence interval 0.97-1.15]) and intravenous ferric derisomaltose (relative 
+risk 1.06 [99.95% confidence interval 0.98, 1.16]) vs oral (69.7%). In 
+sensitivity analysis, there was increased rate of achieving nonanemic state 
+without use of additional IV iron or transfusion in both intravenous ferric 
+derisomaltose (relative risk 1.25 (1.13-1.396), P<.0001) and intravenous ferric 
+carboxymaltose (relative risk 1.24 (1.12-1.38), P<.0001) vs oral iron.
+CONCLUSION: First-line treatment of moderate maternal iron deficiency anemia 
+with single-dose infusion of intravenous iron results in a reduced incidence of 
+low birth weight infants (intravenous ferric carboxymaltose vs oral) and a 
+higher incidence of attaining maternal nonanemic state without use of additional 
+iron or blood transfusion (intravenous ferric carboxymaltose and ferric 
+derisomaltose vs oral). Clinical guidelines should address the potential benefit 
+of single-dose intravenous iron as the primary treatment of moderate iron 
+deficiency anemia in pregnancy.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajog.2025.01.037
+PMID: 39909327 [Indexed for MEDLINE]
+
+
+4. Eur J Clin Nutr. 2020 Jan;74(1):112-125. doi: 10.1038/s41430-019-0464-3. Epub 
+2019 Jul 11.
+
+Anaemia and iron deficiency in pregnancy and adverse perinatal outcomes in 
+Southern India.
+
+Finkelstein JL(1)(2), Kurpad AV(3)(4), Bose B(3), Thomas T(3), Srinivasan K(4), 
+Duggan C(5)(6).
+
+Author information:
+(1)Division of Nutritional Sciences, Cornell University, Ithaca, NY, USA. 
+jfinkelstein@cornell.edu.
+(2)St. John's Research Institute, Bangalore, India. jfinkelstein@cornell.edu.
+(3)St. John's Research Institute, Bangalore, India.
+(4)St. John's Medical College, Bangalore, India.
+(5)St. John's Research Institute, Bangalore, India. 
+Christopher.duggan@childrens.harvard.edu.
+(6)Department of Nutrition, Harvard T.H. Chan School of Public Health and Center 
+for Nutrition, Boston Children's Hospital, Boston, MA, USA. 
+Christopher.duggan@childrens.harvard.edu.
+
+BACKGROUND/OBJECTIVES: We examined the prevalence of anaemia, iron deficiency, 
+and inflammation during pregnancy and their associations with adverse pregnancy 
+and infant outcomes in India.
+SUBJECTS/METHODS: Three hundred and sixty-six women participating in a 
+randomised trial of vitamin B12 supplementation were monitored to assess 
+haemoglobin (Hb), serum ferritin (SF), hepcidin, C-reactive protein (CRP), and 
+alpha-1-acid glycoprotein (AGP) during pregnancy. Women received vitamin B12 
+supplementation (50 µg per day) or placebo daily; all women received daily 
+prenatal iron-folic acid supplementation. Binomial and linear regression models 
+were used to examine the associations of maternal iron biomarkers with pregnancy 
+and infant outcomes.
+RESULTS: Thirty percent of women were anaemic (Hb < 11.0 g/dl), 48% were iron 
+deficient (SF < 15.0 µg/l), and 23% had iron deficiency anaemia at their first 
+prenatal visit. The prevalence of inflammation (CRP > 5.0 mg/l: 17%; 
+AGP > 1.0 g/l: 11%) and anaemia of inflammation (Hb < 11.0 g/dl, SF > 15.0 µg/l, 
+plus CRP > 5.0 mg/l or AGP > 1.0 g/l: 2%) were low. Infants born to anaemic 
+women had a twofold higher risk of low birth weight (<2500 g; risk ratio [RR]: 
+2.15, 95%CI: 1.20-3.84, p = 0.01), preterm delivery (RR: 2.67 (1.43-5.00); 
+p = 0.002), underweight (WAZ < -2; RR: 2.20, 95%CI: 1.16-4.15, p = 0.02), and 
+lower MUAC (β(SE): -0.94 (0.45)cm, p = 0.03). Similarly, maternal Hb 
+concentrations predicted higher infant birth weight (p = 0.02) and greater 
+gestational age at delivery (β(SE): 0.28 (0.08) weeks, p = 0.001), lower risk of 
+preterm delivery (<37 weeks; RR: 0.76, 95%CI: 0.66-86, p < 0.0001); and higher 
+infant MUAC (β(SE): 0.36 (0.13) cm, p = 0.006). Maternal SF concentrations were 
+associated with greater birth length (β(SE): 0.44 (0.20) cm, p < 0.03). Findings 
+were similar after adjusting SF concentrations for inflammation. IDA was 
+associated with higher risk of low birth weight (RR: 1.99 (1.08-3.68); p = 0.03) 
+and preterm birth (RR: 3.46 (1.81-6.61); p = 0.0002); and lower birth weight 
+(p = 0.02), gestational age at birth (p = 0.0002), and infant WAZ scores 
+(p = 0.02).
+CONCLUSIONS: The prevalence of anaemia and iron deficiency was high early in 
+pregnancy and associated with increased risk of adverse pregnancy and infant 
+outcomes. A comprehensive approach to prevent anaemia is needed in women of 
+reproductive age, to enhance haematological status and improve maternal and 
+child health outcomes.
+
+DOI: 10.1038/s41430-019-0464-3
+PMCID: PMC10122513
+PMID: 31296936 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+they have no conflict of interest.
+
+
+5. Ann Hematol. 2024 Aug;103(8):2637-2646. doi: 10.1007/s00277-023-05481-2. Epub 
+2023 Oct 3.
+
+Pathophysiology and management of iron deficiency anaemia in pregnancy: a 
+review.
+
+Kirthan JPA(1), Somannavar MS(2).
+
+Author information:
+(1)Department of Biochemistry, JN Medical College, KLE Academy of Higher 
+Education and Research, Nehru Nagar, Belgaum, 590010, Karnataka, India. 
+akshay.kirthan.jp@gmail.com.
+(2)Department of Biochemistry, JN Medical College, KLE Academy of Higher 
+Education and Research, Nehru Nagar, Belgaum, 590010, Karnataka, India.
+
+According to World Health Organization (WHO), iron deficiency anaemia (IDA) is 
+considered the most prevalent nutritional deficiency worldwide, affecting 
+approximately 30% of the global population. While gastrointestinal bleeding and 
+menstruation in women are the primary causes of IDA, insufficient dietary iron 
+intake and reduced iron absorption contribute to the condition. The aim of IDA 
+treatment is to restore iron stores and normalise haemoglobin levels in affected 
+patients. Iron plays a critical role in various cellular mechanisms, including 
+oxygen delivery, electron transport, and enzymatic activity. During pregnancy, 
+the mother's blood volume increases, and the growing foetus requires a 
+significant increase in iron. Iron deficiency during pregnancy is associated 
+with adverse outcomes such as maternal illness, low birth weight, preterm birth, 
+and intrauterine growth restriction. Iron supplementation is commonly used to 
+treat IDA; however, not all patients benefit from this therapy due to factors 
+such as low compliance and ineffectiveness. In the past, IV iron therapy was 
+underutilised due to its unfavourable and occasionally unsafe side effects. 
+Nevertheless, the development of new type II and III iron complexes has improved 
+compliance, tolerability, efficacy, and safety profiles. This article aims to 
+provide an updated overview of the diagnosis and management of IDA during 
+pregnancy. It will discuss the advantages and limitations of oral versus 
+intravenous iron and the pathophysiology, diagnosis, treatment, and overall 
+management of IDA in pregnancy.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00277-023-05481-2
+PMID: 37787837 [Indexed for MEDLINE]
+
+
+6. Cureus. 2022 Aug 29;14(8):e28565. doi: 10.7759/cureus.28565. eCollection 2022 
+Aug.
+
+Non-iron Deficiency Anemia in Rural Indian Women: A Cross-Sectional Study.
+
+Saha S(1)(2), Puwar T(1)(3), Shah K(4), Pandya A(5), Wanjari MB(6), Saxena 
+D(1)(7).
+
+Author information:
+(1)Public Health, Indian Institute of Public Health Gandhinagar, Gandhinagar, 
+IND.
+(2)Public Health, Jawaharlal Nehru Medical College, Datta Meghe Institute of 
+Medical Sciences (Deemed to be University), Wardha, IND.
+(3)Community Medicine, Indian Institute of Public Health Gandhinagar, 
+Gandhinagar, IND.
+(4)Public Health, Indian Institute of Public Health (IIPH) Gandhinagar, 
+Ahmedabad, IND.
+(5)Epidemiology and Public Health, Parul Institute of Public Health, Parul 
+University, Vadodara, IND.
+(6)Research and Development, Jawaharlal Nehru Medical College, Datta Meghe 
+Institute of Medical Sciences (Deemed to be University), Wardha, IND.
+(7)School of Epidemiology and Public Health, Jawaharlal Nehru Medical College, 
+Datta Meghe Institute of Medical Sciences (Deemed to be University), Wardha, 
+IND.
+
+Introduction Anemia is an important public health concern, affecting almost 25% 
+of the global population. In India, these statistics are even more worrisome 
+with more than half of the children, non-pregnant and pregnant women being 
+affected by the disease. Though the major cause of anemia is iron deficiency, 
+other causes cannot be neglected considering the magnitude of the problem. The 
+present study was designed to estimate the prevalence of non-iron deficiency 
+anemia (NIDA) in Devbhoomi Dwarka District of Gujarat. Methods For this 
+cross-sectional study, total of 258 mothers (antenatal and postnatal) were 
+enrolled from 27 primary health centers. Apart from demographic details and 
+obstetric history, hemoglobin and ferritin levels were measured from the 
+participant's blood after obtaining consent. Clinical information such as the 
+history of recent illness and fever were also noted through questionnaires. 
+Prevalence was anemia was calculated using a standard threshold of blood 
+hemoglobin and NIDM was defined using ferritin levels. Results As per hemoglobin 
+levels, anemia was present in 65.9% of the mothers, which was relatively higher 
+in antenatal women (90%) as compared to postnatal women (57%). Ferritin levels 
+showed that out of this total anemic mothers, 61.8% (105/258) have normal 
+ferritin levels indicating the presence of non-iron deficiency. Trimester-wise 
+analysis of anemia in AN showed that NIDM prevalence increases with increasing 
+trimester in contrast to IDA where a considerable reduction was found with iron 
+supplementation. Conclusion The study indicated that two out of every three 
+women were anemic and only one out of four were anemic with depleted iron 
+storage. These findings have important policy implications as in India the 
+anemia control programs address only iron deficiency anemia and not NIDA. The 
+development of a framework for diagnosis and appropriate treatment can be 
+recommended for integration into national guidelines.
+
+Copyright © 2022, Saha et al.
+
+DOI: 10.7759/cureus.28565
+PMCID: PMC9520231
+PMID: 36185907
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+7. Rev Bras Ginecol Obstet. 2024 Mar 15;46:e-rbgo21. doi: 10.61622/rbgo/2024AO21.
+ eCollection 2024.
+
+A meta-analysis of ferric carboxymaltose versus other intravenous iron 
+preparations for the management of iron deficiency anemia during pregnancy.
+
+Gupte S(1), Mukhopadhyay A(2), Puri M(3), Gopinath PM(4), Wani R(5), Sharma 
+JB(6), Swami OC(7).
+
+Author information:
+(1)Gupte Hospital & Center for Research in Reproduction Department of Obstetrics 
+and Gynecology India Department of Obstetrics and Gynecology, Gupte Hospital & 
+Center for Research in Reproduction, India.
+(2)CSS College of Obstetrics Gynae. & Child health Department of Gynecology 
+Kolkata India Department of Gynecology, CSS College of Obstetrics, Gynae. & 
+Child health, Kolkata, India.
+(3)Lady Hardinge Medical College Department of Obstetrics and Gynecology New 
+Delhi India Department of Obstetrics and Gynecology, Lady Hardinge Medical 
+College, New Delhi, India.
+(4)Institute of Obg & IVF SIMS Hospital Department of Obstetrics and Gynecology 
+VadapalaniChennai India Department of Obstetrics and Gynecology, Institute of 
+Obg & IVF SIMS Hospital, Vadapalani, Chennai, India.
+(5)HBTMC & Dr RN Cooper Hospital Department of Obstetrics and Gynecology Mumbai 
+India Department of Obstetrics and Gynecology, HBTMC & Dr RN Cooper Hospital, 
+Mumbai, India.
+(6)Department of Obstetrics and Gynecology AIIMSNew Delhi India Department of 
+Obstetrics and Gynecology, AIIMS, New Delhi, India.
+(7)Emcure Pharmaceuticals Ltd Pune India Emcure Pharmaceuticals Ltd, Pune, 
+India.
+
+OBJECTIVE: We conducted a meta-analysis of randomized clinical trials evaluating 
+the clinical effects of ferric carboxymaltose therapy compared to other 
+intravenous iron in improving hemoglobin and serum ferritin in pregnant women. 
+We also assessed the safety of ferric carboxymaltose vs. other intravenous iron.
+DATA SOURCE: EMBASE, PubMed, and Web of Science were searched for trials related 
+to ferric carboxymaltose in pregnant women, published between 2005 and 2021. We 
+also reviewed articles from google scholar. The keywords "ferric 
+carboxymaltose," "FCM," "intravenous," "randomized," "pregnancy," "quality of 
+life," and "neonatal outcomes" were used to search the literature. The search 
+was limited to pregnant women.
+SELECTION OF STUDIES: Studies related to ferric carboxymaltose in pregnancy were 
+scanned. Observational studies, review articles, and case reports were excluded. 
+Randomized studies in pregnant women involving ferric carboxymaltose and other 
+intravenous iron formulations were shortlisted. Of 256 studies, nine randomized 
+control trials were selected.
+DATA COLLECTION: Two reviewers independently extracted data from nine selected 
+trials.
+DATA SYNTHESIS: The final effect size for increase in hemoglobin after treatment 
+was significant for ferric carboxymaltose vs. iron sucrose/iron polymaltose 
+(standard mean difference 0.89g/dl [95% confidence interval 0.27,1.51]). The 
+final effect size for the increase in ferritin after treatment was more for 
+ferric carboxymaltose vs. iron sucrose/iron polymaltose (standard mean 
+difference 22.53µg/L [-7.26, 52.33]). No serious adverse events were reported 
+with ferric carboxymaltose or other intravenous iron.
+CONCLUSION: Ferric carboxymaltose demonstrated better efficacy than other 
+intravenous iron in increasing hemoglobin and ferritin levels in treating iron 
+deficiency anemia in pregnant women.
+
+© 2024. Federação Brasileira de Ginecologia e Obstetrícia. All rights reserved.
+
+DOI: 10.61622/rbgo/2024AO21
+PMCID: PMC11075392
+PMID: 38765534 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts to interest: none to declare.
+
+
+8. Lancet Haematol. 2023 Sep;10(9):e713-e734. doi: 10.1016/S2352-3026(23)00160-6.
+ Epub 2023 Jul 31.
+
+Prevalence, years lived with disability, and trends in anaemia burden by 
+severity and cause, 1990-2021: findings from the Global Burden of Disease Study 
+2021.
+
+GBD 2021 Anaemia Collaborators.
+
+Collaborators: Gardner WM, Razo C, McHugh TA, Hagins H, Vilchis-Tella VM, 
+Hennessy C, Taylor HJ, Perumal N, Fuller K, Cercy KM, Zoeckler LZ, Chen CS, Lim 
+SS, Aali A, Abate KH, Abd-Elsalam S, Abdurehman AM, Abebe G, Abidi H, Aboagye 
+RG, Abolhassani H, Aboye GBA, Abtew YD, Accrombessi MMK, Adane DEA, Adane TD, 
+Addo IY, Adesina MA, Adeyinka DA, Adnani QES, Afzal MS, Afzal S, Agustina R, 
+Ahinkorah BO, Ahmad A, Ahmad S, Ahmadi S, Ahmed A, Ahmed Rashid T, Aiman W, 
+Ajami M, Akbarialiabad H, Alahdab F, Al-Aly Z, Alam N, Alemayehu A, Alhassan RK, 
+Ali MA, Almustanyir S, Al-Raddadi RM, Al-Rifai RH, Altirkawi KA, Alvand S, 
+Alvis-Guzman N, Amer YSAD, Ameyaw EK, Amu H, Anagaw TF, Ancuceanu R, 
+Anoushirvani AA, Antwi MH, Anvari D, Arabloo J, Aravkin AY, Ariffin H, Aripov T, 
+Arja A, Arndt MB, Arulappan J, Aruleba RT, Ashraf T, Asresie MB, Athari SS, 
+Atlaw D, Aujayeb A, Awoke AA, Awoke MA, Azadnajafabad S, Azangou-Khyavy M, B DB, 
+Badawi A, Badiye AD, Baghcheghi N, Bagheri N, Bagherieh S, Baig AA, Banach M, 
+Banik PC, Bantie AT, Barr RD, Barrow A, Bashiri A, Basu S, Batiha AM, Begum T, 
+Belete MA, Belo L, Bensenor IM, Berhie AY, Bhagavathula AS, Bhardwaj N, Bhardwaj 
+P, Bhat AN, Bhutta ZA, Bikbov B, Billah SM, Birara S, Bishai JD, Bitaraf S, 
+Boloor A, Botelho JSB, Burkart K, Calina D, Cembranel F, Chakraborty PA, Chanie 
+GS, Chattu VK, Chien JH, Chukwu IS, Chung E, Criqui MH, Cruz-Martins N, Dadras 
+O, Dagnew GW, Dai X, Danawi HA, Dandona L, Dandona R, Darwesh AM, Das JK, Das S, 
+De la Cruz-Góngora V, Demisse FW, Demissie S, Demsie DG, Desai HD, Desalegn MD, 
+Dessalegn FN, Dessie G, Dharmaratne SD, Dhimal M, Dhingra S, Diaz D, Didehdar M, 
+Dirac MA, Diress M, Doaei S, Dodangeh M, Doku PN, Dongarwar D, Dora BT, Dsouza 
+HL, Edinur HA, Ekholuenetale M, Elagali AEM, Elbahnasawy MA, Elbarazi I, 
+ElGohary GMT, Elhadi M, El-Huneidi W, Elmonem MA, Enyew DB, Eshetu HB, Ewald SB, 
+Ezzeddini R, Fagbamigbe AF, Fasanmi AO, Fatehizadeh A, Fekadu G, Feyisa BR, 
+Fischer F, Fitzgerald R, Foroutan M, Fowobaje KR, Gadanya MA, Gaidhane AM, 
+Gaihre S, Gaipov A, Galali Y, Galehdar N, Garg P, Garg T, Gebremariam YH, 
+Gebremedhin KB, Gebremichael B, Gela YY, Gerema U, Getacher L, Ghaffari K, 
+Ghafourifard M, Ghamari SH, Ghasemi Nour M, Ghashghaee A, Gholamalizadeh M, 
+Ghozy S, Gizaw ATT, Glasbey JC, Golechha M, Goleij P, Golitaleb M, Goulart AC, 
+Goyomsa GG, Guadie HA, Gubari MIM, Gudisa Z, Gunawardane DA, Gupta R, Gupta RD, 
+Gupta S, Gupta VK, Guta A, Habibzadeh P, Hamidi S, Handal AJ, Hanif A, Hannan 
+MA, Harapan H, Harorani M, Hasaballah AI, Hasan MM, Hasani H, Hassankhani H, 
+Hassen MB, Hay SI, Hayat K, Heidari G, Hess SY, Heyi DZ, Hezam K, Hiraike Y, 
+Holla R, Hossain SJ, Hosseini K, Hosseini MS, Hosseinzadeh M, Hostiuc M, Hostiuc 
+S, Huang J, Hussain S, Hussien FM, Ibitoye SE, Ilesanmi OS, Ilic IM, Immurana M, 
+Inbaraj LR, Islam SMS, Ismail NE, J LM, Jamshidi E, Janodia MD, Jayarajah U, 
+Jayaram S, Jebai R, Jemal B, Jeyakumar A, Jha RP, Jonas JB, Joseph N, Jozwiak 
+JJ, Kabir A, Kalankesh LR, Kalhor R, Kamal VK, Kandel H, Kanko TK, Karaye IM, 
+Kashoo FZ, Katoto PD, Kauppila JH, Kaur H, Kayode GA, Kebede AD, Keshri VR, 
+Keykhaei M, Khader YS, Khajuria H, Khalid N, Khammarnia M, Khan IA, Khan MA, 
+Khatab K, Khazaei Z, Khubchandani J, Kim YJ, Kimokoti RW, Kisa S, Kompani F, 
+Kosen S, Koulmane Laxminarayana SL, Krishan K, Kuate Defo B, Kuddus M, Kumar GA, 
+Kumar N, Kumar N, Kurmi OP, Kuti O, Lal DK, Landires I, Larsson AO, Lassi ZS, 
+Latief K, Laxmaiah A, Ledda C, Lee SW, Legesse SM, Liu X, Lorenzovici L, Machado 
+VSM, Mahajan PB, Mahjoub S, Mahmoodpoor A, Mahmoudi E, Malakan Rad E, Mallhi TH, 
+Malta DC, Masoudi S, Masoumi SZ, Medina JRC, Mejia-Rodriguez F, Mendes JJM, 
+Mendoza W, Mendoza-Cano O, Mentis AA, Meresa HA, Mestrovic T, Miazgowski T, 
+Mirghafourvand M, Mirica A, Mirza M, Misganaw A, Misra S, Mohammad DK, Mohammadi 
+S, Mohammed S, Mohan S, Moka N, Mokdad AH, Momtazmanesh S, Monasta L, Moni MA, 
+Moosavi D, Moradi M, Mosapour A, Mostafavi E, Muche T, Mulita F, Mulu GB, Murray 
+CJL, Musina AM, Mustafa G, Nagarajan AJ, Nair TS, Narasimha Swamy S, 
+Nassereldine H, Natto ZS, Nayak BP, Naz S, Negoi I, Negoi RI, Nguefack-Tsague G, 
+Ngunjiri JW, Niazi RK, Noori M, Nowroozi A, Nurrika D, Nuruzzaman KM, Nzoputam 
+OJ, Oancea B, Obaidur RM, Obsa MMSS, Odhiambo JN, Ogunsakin RE, Okati-Aliabad H, 
+Okonji OC, Oladunjoye AO, Oladunjoye OO, Olagunju AT, Olufadewa II, Omar Bali A, 
+Omonisi AEE, Ortiz A, Owolabi MO, Padubidri JR, Pakzad R, Palicz T, Pandey A, 
+Pandya AK, Papadopoulou P, Pardhan S, Patel J, Pathak A, Pathan AR, Paudel R, 
+Paudel U, Pawar S, Pereira G, Perico N, Perna S, Perumalsamy N, Petcu IR, 
+Pickering BV, Piracha ZZ, Pollok RCG, Pradhan PMS, Prashant A, Qattea I, Quazi 
+Syed Z, Rahim F, Rahimi M, Rahman A, Rahman MHU, Rahman M, Rahmani AM, Rahmani 
+S, Rai RK, Raimondo I, Rajaa S, Ram P, Rana J, Ranjha MMAN, Rao CR, Rao SJ, 
+Rashedi S, Rashidi MM, Rawaf S, Rawal L, Raza RZ, Redwan EMM, Remuzzi G, Rezaei 
+M, Rezaei N, Rezaei N, Richards T, Rickard J, Rodriguez JAB, Roever L, Roshandel 
+G, Roy B, Rwegerera GM, Saad AMA, Sabour S, Saddik B, Sadeghi M, Sadeghian S, 
+Saeed U, Sahebkar A, Sahoo H, Salem MR, Samy AM, Sankararaman S, Santoro R, 
+Santos IS, Satpathy M, Saya GK, Seboka BT, Senbeta AM, Senthilkumaran S, Seylani 
+A, Shafeghat M, Shah PA, Shaikh MA, Shanawaz M, Shannawaz M, Sharew MMS, Sharma 
+P, Sheikhi RA, Shenoy SM, Shetty A, Shetty BSK, Shetty JK, Shetty PH, Shin JI, 
+Shivalli S, Shivarov V, Shobeiri P, Shorofi SA, Sikder MK, Sima AR, Simegn W, 
+Singh JA, Singh NP, Singh P, Singh S, Siraj MS, Sisay Y, Skryabina AA, Solomon 
+Y, Song Y, Sorensen RJD, Stanaway JD, Suchdev PS, Sufiyan MB, Sultana S, Szeto 
+MD, Tabaeian SP, Tahamtan A, Taheri M, Taheri Soodejani M, Tamir Z, Tan KK, 
+Tariqujjaman M, Tarkang EE, Tat NY, Tefera YM, Temsah MH, Thapar R, Thiyagarajan 
+A, Ticoalu JHV, Tigabu BM, Tiyuri A, Tobe-Gai R, Tovani-Palone MR, Tran MTN, 
+Tusa BS, Ullah I, Umer AA, Unnikrishnan B, Vacante M, Valadan Tahbaz S, Valdez 
+PR, Vart P, Varthya SB, Vaziri S, Verma MV, Veroux M, Vervoort D, Vu LG, Wagaye 
+B, Weldegebreal F, Wickramasinghe ND, Woldemariam M, Wonde TE, Wubetie GA, Xu X, 
+Yari K, Yazdanpanah F, Yehualashet SS, Yigit A, Yiğit V, Yisihak E, Yon DK, 
+Yonemoto N, Young MF, Yu C, Yunusa I, Zahir M, Zaki L, Zaman BA, Zamora N, Zare 
+I, Zareshahrabadi Z, Zenebe GA, Zhang ZJ, Zheng P, Zoladl M, Kassebaum NJ.
+
+Erratum in
+    Lancet Haematol. 2023 Oct;10(10):e796. doi: 10.1016/S2352-3026(23)00283-1.
+    Lancet Haematol. 2024 Jan;11(1):e10. doi: 10.1016/S2352-3026(23)00373-3.
+
+Comment in
+    Lancet Haematol. 2023 Sep;10(9):e702-e704. doi: 
+10.1016/S2352-3026(23)00168-0.
+
+BACKGROUND: Anaemia is a major health problem worldwide. Global estimates of 
+anaemia burden are crucial for developing appropriate interventions to meet 
+current international targets for disease mitigation. We describe the 
+prevalence, years lived with disability, and trends of anaemia and its 
+underlying causes in 204 countries and territories.
+METHODS: We estimated population-level distributions of haemoglobin 
+concentration by age and sex for each location from 1990 to 2021. We then 
+calculated anaemia burden by severity and associated years lived with disability 
+(YLDs). With data on prevalence of the causes of anaemia and associated 
+cause-specific shifts in haemoglobin concentrations, we modelled the proportion 
+of anaemia attributed to 37 underlying causes for all locations, years, and 
+demographics in the Global Burden of Disease Study 2021.
+FINDINGS: In 2021, the global prevalence of anaemia across all ages was 24·3% 
+(95% uncertainty interval [UI] 23·9-24·7), corresponding to 1·92 billion 
+(1·89-1·95) prevalent cases, compared with a prevalence of 28·2% (27·8-28·5) and 
+1·50 billion (1·48-1·52) prevalent cases in 1990. Large variations were observed 
+in anaemia burden by age, sex, and geography, with children younger than 5 
+years, women, and countries in sub-Saharan Africa and south Asia being 
+particularly affected. Anaemia caused 52·0 million (35·1-75·1) YLDs in 2021, and 
+the YLD rate due to anaemia declined with increasing Socio-demographic Index. 
+The most common causes of anaemia YLDs in 2021 were dietary iron deficiency 
+(cause-specific anaemia YLD rate per 100 000 population: 422·4 [95% UI 
+286·1-612·9]), haemoglobinopathies and haemolytic anaemias (89·0 [58·2-123·7]), 
+and other neglected tropical diseases (36·3 [24·4-52·8]), collectively 
+accounting for 84·7% (84·1-85·2) of anaemia YLDs.
+INTERPRETATION: Anaemia remains a substantial global health challenge, with 
+persistent disparities according to age, sex, and geography. Estimates of 
+cause-specific anaemia burden can be used to design locally relevant health 
+interventions aimed at improving anaemia management and prevention.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2352-3026(23)00160-6
+PMCID: PMC10465717
+PMID: 37536353 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests S Afzal reports 
+participation on a data safety monitoring board or advisory board with the 
+National Bioethics Committee of Pakistan, King Edward Medical University 
+Institutional Review Board, and the Ethics Review Board in Board of Studies; a 
+leadership or fiduciary role with the Pakistan Association of Medical Editors, 
+as a Fellow of Faculty of Public Health (FFPH) Royal Colleges UK, and an 
+advocacy role in the Society of Prevention and Advocacy Research with King 
+Edward Medical University, Lahore, Pakistan, all outside the submitted work. R 
+Agustina reports leadership or fiduciary roles with the Multiple Micronutrient 
+Supplementation Technical Advisory Group of the New York Academy of Sciences and 
+with the Indonesia Technical Advisory Board for Multimicronutrient 
+Supplemenation, outside the submitted work. R Ancuceanu reports payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing or 
+educational events from AbbVie, Sandoz, B Braun, and Laropharm, outside the 
+submitted work. S Das is a member of the Personalized Medicine Division of the 
+American Association of Clinical Chemistry and a member of the Royal College of 
+Biology; and reports other financial interests through a research grant of 1·6 
+million INR from the Department of Science and Technology, Government of India; 
+all outside the submitted work. C Hennessy reports support for the present work 
+from the Institute for Health Metrics and Evaluation and the Center for Health 
+System Effectiveness. N E Ismail is a council member of the Malaysian Academy of 
+Pharmacy, outside the submitted work. J J Jozwiak reports payment or honoraria 
+for lectures, presentations, speakers bureaus, manuscript writing or educational 
+events from Novartis and Adamed as personal payments, outside the submitted 
+work. N J Kassebaum reports support for this manuscript from the Bill & Melinda 
+Gates Foundation as grant payments to their institution (Institute of Health 
+Metrics and Evaluation, University of Washington, Seattle, WA, USA). K Krishan 
+reports non-financial support from UGC Centre of Advanced Study, CAS II, 
+Department of Anthropology, Panjab University, Chandigarh, India, outside the 
+submitted work. W Mendoza is a staff member at the UNFPA Peru Country Office, 
+which does not necessarily endorse these results. A-F A Mentis reports grants or 
+contracts from MilkSafe: a novel pipeline to enrich formula milk using omics 
+technologies, a project co-financed by the European Regional Development Fund of 
+the European Union and Greek national funds through the Operational Program 
+Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH – 
+CREATE – INNOVATE (project code T2EDK-02222) and from ELIDEK (Hellenic 
+Foundation for Research and Innovation, MIMS-860); has received payment for 
+expert testimony as a peer-reviewer for Fondazione Cariplo, Italy; serves as an 
+editorial board member for the journals Systematic Reviews and Annals of 
+Epidemiology, and as an Associate Editor for Translational Psychiatry; and is a 
+scientific officer with the BGI Group; all outside the submitted work. N Moka is 
+Treasurer of the Kentucky Society of Clinical Oncology, outside the submitted 
+work. A Ortiz reports grants or contracts from Sanofi as payments to their 
+institution (IIS-Fundacion Jiménez Díaz UAM, Madrid, Spain); consulting fees 
+from Advicienne, Astellas Pharma, AstraZeneca, Amicus Therapeutics, Amgen, 
+Boehringer Ingelheim, Fresenius Medical Care, GSK, Bayer, Sanofi-Genzyme, 
+Menarini, Mundipharma, Kyowa Kirin, Lilly, Alexion Pharmaceuticals, Freeline 
+Therapeutics, Idorsia, Chiesi, Otsuka Pharmaceutical, Novo Nordisk, Sysmex, and 
+Vifor Fresenius Medical Care Renal Pharma; support for travel from Advicienne, 
+Astellas Pharma, AstraZeneca, Amicus Therapeutics, Amgen, Boehringer Ingelheim, 
+Fresenius Medical Care, GSK, Bayer, Sanofi-Genzyme, Menarini, Mundipharma, Kyowa 
+Kirin, Lilly, Alexion Pharmaceuticals, Freeline Therapeutics, Idorsia, Chiesi, 
+Otsuka Pharmaceutical, Novo Nordisk, Sysmex, and Vifor Fresenius Medical Care 
+Renal Pharma; a leadership or fiduciary role with the European Renal 
+Association, a role as Director of the Catedra Mundipharma-UAM of diabetic 
+kidney disease and the Catedra AstraZeneca-UAM of chronic kidney disease and 
+electrolytes; and stock or stock options in Telara Pharma; all outside the 
+submitted work. Z Quazi Syed reports support for this manuscript from the South 
+Asia Infant Feeding Research Network and Datta Meghe Institute of Higher 
+Education and Research, Wardha, India; grants or contracts from the Global 
+Consortium for Public Health and Research and Datta Meghe Institute of Higher 
+Education and Research; support for attending meetings and/or travel from the 
+Division of Evidence Synthesis, Jawaharlal Nehru Medical College, Wardha, India, 
+and Datta Meghe Institute of Medical Sciences, Wardha, India, outside the 
+submitted work. T Richards reports grants or contracts from Vifor Pharma for 
+PREVENT laboratory analysis; consulting fees from BioAge Labs for a clinical 
+trial design; payment or honoraria for lectures, presentations, speakers 
+bureaus, manuscript writing or educational events from Pharmacosmos through the 
+CAVIAR education grant and from Pfizer for the IRONWOMAN trial; support for 
+attending meetings from Pfizer, Pharmacosmos, and Vifor Pharma; a role as 
+treasurer with NATA; and a role as Director of The Iron Clinic; all outside the 
+submitted work. V Shivarov is an employee of ICON and reports stock or stock 
+options in the company, all outside the submitted work. J A Singh reports 
+consulting fees from Crealta/Horizon, MediSys, Fidia Farmaceutici, PK Med, Two 
+Labs, Adept Field Solutions, Clinical Care Options, Clearview Healthcare 
+Partners, Putnam Associates, Focus Forward, Navigant Consulting, Spherix Global 
+Insights, Mediq, Jupiter Life Science, UBM, Trio Health, Medscape, WebMD, and 
+Practice Point Communications, the National Institutes of Health, and the 
+American College of Rheumatology; payment or honoraria for speakers bureaus from 
+Simply Speaking; support for attending meetings or travel from the steering 
+committee of OMERACT; participation on a data safety monitoring board or 
+advisory board with the US Food and Drug Administration Arthritis Advisory 
+Committee; membership of the steering committee of OMERACT, a role as Chair 
+(unpaid) of the Veterans Affairs Rheumatology Field Advisory Committee, and 
+roles as Editor and Director (unpaid) with the UAB Cochrane Musculoskeletal 
+Group Satellite Center on Network Meta-analysis; stock or stock options in TPT 
+Global Tech, Vaxart Pharmaceuticals, Aytu BioPharma, Adaptimmune Therapeutics, 
+GeoVax Labs, Pieris Pharmaceuticals, Enzolytics, Seres Therapeutics, Tonix 
+Pharmaceuticals, and Charlotte's Web Holdings, and previous stock options in 
+Amarin, Viking Therapeutics, and Moderna Pharmaceuticals; all outside the 
+submitted work. J D Stanaway reports support for this manuscript from the Bill & 
+Melinda Gates Foundation as grants to their institution (Institute of Health 
+Metrics and Evaluation, University of Washington, Seattle, WA, USA). P S Suchdev 
+reports grants or contracts from the Centers for Disease Control and Prevention 
+(CDC) and the Bill & Melinda Gates Foundation, all outside the submitted work. M 
+F Young reports grants from the Bill & Melinda Gates Foundation and the CDC for 
+a project titled Biomarkers reflecting inflammation and nutritional determinants 
+of anemia (BRINDA) and from the National Institutes of Health for a project 
+titled Mother–child hemoglobin at preconception and first 1000 days and child 
+development at 6 years; roles in the Lancet Haematology Commission on anaemia, 
+the Anaemia Evidence Gap Map Advisory Group, as a subject matter expert on the 
+advisory committee related to the Improving Estimates of Anemia in Global Burden 
+of Disease research project, as a member of the technical advisory group for the 
+Redefining Maternal Anaemia in Pregnancy and Postpartum project and a member of 
+the WHO Guideline Development Group for Anemia; all outside the submitted work. 
+All other authors declare no competing interests.

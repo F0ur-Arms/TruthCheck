@@ -1,0 +1,361 @@
+SOURCE: PUBMED
+TOPIC: vitamin D deficiency Indian population
+────────────────────────────────────────────────────────────
+
+1. Indian J Pediatr. 2022 Aug;89(8):746. doi: 10.1007/s12098-022-04307-9. Epub
+2022  Jun 17.
+
+Vitamin D Deficiency in Indian Adolescents-Time for Targeted Action.
+
+Bajpai A(1)(2).
+
+Author information:
+(1)Department of Pediatric Endocrinology, Regency Center for Diabetes 
+Endocrinology & Research, Regency City Clinic, Opposite PPN Market, Kanpur, 
+Uttar Pradesh 208001, India. dr_anuragbajpai@yahoo.com.
+(2)Fortis Memorial Research Institute, Gurgaon, Haryana, India. 
+dr_anuragbajpai@yahoo.com.
+
+Comment on
+    Indian J Pediatr. 2022 Aug;89(8):751-758. doi: 10.1007/s12098-021-04007-w.
+
+DOI: 10.1007/s12098-022-04307-9
+PMID: 35713771 [Indexed for MEDLINE]
+
+
+2. Indian J Pediatr. 2012 Aug;79(8):1062-8. doi: 10.1007/s12098-012-0765-1. Epub 
+2012 Apr 29.
+
+Vitamin D in chronic kidney disease.
+
+Chau YY(1), Kumar J.
+
+Author information:
+(1)Taipei Cathay General Hospital, Taipei, Taiwan.
+
+Vitamin D deficiency is widespread in both the pediatric and adult chronic 
+kidney disease (CKD) population. CKD is characterized by dysregulation of 
+vitamin D and mineral metabolism. Secondary hyperparathyroidism and its 
+management puts patients with CKD at increased cardiovascular risk. Emergence of 
+experimental and some clinical data suggesting beneficial effects of vitamin D 
+on proteinuria, blood pressure, inflammation and cardiovascular outcomes has 
+pushed it to the center stage of CKD research. Pediatric data on vitamin D 
+dysregulation and its consequences are still in its infancy. Ongoing prospective 
+studies such as Chronic Kidney disease in Children (CKiD) and the Cardiovascular 
+Comorbidity in Children with CKD (4 C) should help to delineate the evolution of 
+disturbances in mineral metabolism and its adverse effects on growth, CKD 
+progression and cardiovascular outcomes.
+
+DOI: 10.1007/s12098-012-0765-1
+PMCID: PMC4889119
+PMID: 22544696 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest None.
+
+
+3. J Family Med Prim Care. 2022 Jun;11(6):2884-2889. doi: 
+10.4103/jfmpc.jfmpc_1819_21. Epub 2022 Jun 30.
+
+Prevalence of vitamin D deficiency among South Indian pregnant women.
+
+Ravinder SS(1), Padmavathi R(1), Maheshkumar K(2), Mohankumar M(3), Maruthy 
+KN(4), Sankar S(5), Balakrishnan K(5).
+
+Author information:
+(1)Department of Physiology, Sri Ramachandra Medical College and Research 
+Institute, Chennai, Tamilnadu, India.
+(2)Department of Physiology and Biochemistry, Government Yoga and Naturopathy 
+College and Hospital, Chennai, Tamilnadu, India.
+(3)Department of Orthopaedics, Sri Ramachandra Medical College and Research 
+Institute, Chennai, Tamilnadu, India.
+(4)Department of Physiology, Narayana Medical College, Nellore, Andhra Pradesh, 
+India.
+(5)Department of Environmental Health Engineering, SRIHER, Porur, Chennai, 
+Tamilnadu, India.
+
+BACKGROUND: Deficiency of vitamin D is widespread across the globe. Expectant 
+women are one of the most vulnerable groups for vitamin D deficiency (VDD). Even 
+in South India with abundance of sunlight, pregnant women are believed to be at 
+a high risk of this deficiency. The objectives of this study are to assess the 
+prevalence of VDD in antenatal women, associate it with modifiable risk factors 
+and evaluate its correlation with low birth weight.
+METHODS: This cross-sectional study was conducted in a tertiary care hospital, 
+in Chennai, in 100 pregnant women in their last trimester on the basis of 
+inclusion and exclusion criteria and their vitamin D and calcium levels were 
+assessed. A detailed history regarding physical activity, diet, and sun exposure 
+were collected and results were analyzed.
+RESULTS: The point prevalence of VDD (serum 25-hydroxyvitamin D (25(OH) D) level 
+<20 ng/mL) among antenatal women in our study is 62%. Univariate analysis 
+revealed that sun exposure and socioeconomic status were the significant factors 
+associated with higher percentage of VDD. Linear regression analysis showed that 
+only sun exposure was a significant predictor for serum 25(OH) D levels. VDD is 
+also associated with increased risk of low-birth-weight babies.
+CONCLUSION: VDD is highly prevalent among pregnant women in South India leading 
+to adverse health consequences in the mother and offspring. Less physical 
+activity, decreased sun exposure, darker skin complexion, lower socioeconomic 
+status and lack of awareness are the major risk factors associated with VDD in 
+our study population.
+
+Copyright: © 2022 Journal of Family Medicine and Primary Care.
+
+DOI: 10.4103/jfmpc.jfmpc_1819_21
+PMCID: PMC9480695
+PMID: 36119194
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+4. Indian J Med Res. 2020 Oct;152(4):356-367. doi: 10.4103/ijmr.IJMR_1961_19.
+
+Nutritional rickets & osteomalacia: A practical approach to management.
+
+Uday S(1), Högler W(2).
+
+Author information:
+(1)Department of Endocrinology & Diabetes, Birmingham Women's & Children's NHS 
+Foundation Trust; Institute of Metabolism & Systems Research, University of 
+Birmingham, Edgbaston, Birmingham, UK.
+(2)Institute of Metabolism & Systems Research, University of Birmingham, 
+Edgbaston, Birmingham, UK; Department of Paediatrics & Adolescent Medicine, 
+Johannes Kepler University, Kepler University Hospital, Med Campus IV, Linz, 
+Austria.
+
+Defective mineralization of the growth plate and preformed osteoid result in 
+rickets and osteomalacia, respectively. The leading cause of rickets worldwide 
+is solar vitamin D deficiency and/or dietary calcium deficiency collectively 
+termed as nutritional rickets. Vitamin D deficiency predominates in 
+high-latitude countries in at-risk groups (dark skin, reduced sun exposure, 
+infants and pregnant and lactating women) but is emerging in some tropical 
+countries due to sun avoidance behaviour. Calcium deficiency predominates in 
+tropical countries, especially in the malnourished population. Nutritional 
+rickets can have devastating health consequences beyond bony deformities 
+(swollen wrist and ankle joints, rachitic rosary, soft skull, stunting and 
+bowing) and include life-threatening hypocalcaemic complications of seizures 
+and, in infancy, heart failure due to dilated cardiomyopathy. In children, 
+diagnosis of rickets (always associated with osteomalacia) is confirmed on 
+radiographs (cupping and flaring of metaphyses) and should be suspected in high 
+risk individuals with the above clinical manifestations in the presence of 
+abnormal blood biochemistry (high alkaline phosphatase and parathyroid hormone, 
+low 25-hydroxyvitamin D and calcium and/or low phosphate). In adults or 
+adolescents with closed growth plates, osteomalacia presents with non-specific 
+symptoms (fatigue, malaise and muscle weakness) and abnormal blood biochemistry, 
+but only in extreme cases, it is associated with radiographic findings of 
+Looser's zone fractures. Bone biopsies could confirm osteomalacia at earlier 
+disease stages, for definitive diagnosis. Treatment includes high-dose 
+cholecalciferol or ergocalciferol daily for a minimum of 12 wk or stoss therapy 
+in exceptional circumstances, each followed by lifelong maintenance 
+supplementation. In addition, adequate calcium intake through diet or 
+supplementation should be ensured. Preventative approaches should be tailored to 
+the population needs and incorporate multiple strategies including targeted 
+vitamin D supplementation of at-risk groups and food fortification with vitamin 
+D and/or calcium. Economically, food fortification is certainly the most 
+cost-effective way forward.
+
+DOI: 10.4103/ijmr.IJMR_1961_19
+PMCID: PMC8061584
+PMID: 33380700 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+5. J Clin Orthop Trauma. 2023 Nov 9;46:102278. doi: 10.1016/j.jcot.2023.102278. 
+eCollection 2023 Nov.
+
+Association between vitamin D and knee osteoarthritis in Indian population: A 
+systematic review and meta-analysis.
+
+Annamalai R(1), Sujhithra A(2), Danis Vijay D(3).
+
+Author information:
+(1)Department of Orthopedics, Karpaga Vinayaga Institute of Medical Sciences and 
+Research Centre, P.O, GST Road, Chinna Kolambakkam, Palayanoor, Maduranthakam, 
+603 308, Tamilnadu, India.
+(2)Department of Cardiology, Allied Health Sciences, Karpaga Vinayaga Institute 
+of Medical Sciences and Research Centre, P.O, GST Road, Chinna Kolambakkam, 
+Palayanoor, Maduranthakam, 603 308, Tamilnadu, India.
+(3)Department of Microbiology, Karpaga Vinayaga Institute of Medical Sciences 
+and Research Centre, P.O, GST Road, Chinna Kolambakkam, Palayanoor, 
+Maduranthakam, 603 308, Tamilnadu, India.
+
+BACKGROUND: Vitamin D deficiency (VDD) has been implicated in knee 
+osteoarthritis (KOA) development and progression. Prevalence of hypovitaminosis 
+D and osteoporosis in KOA is widely reported in Indian population. However, 
+there is no attempt to critically evaluate the outcome of these studies. We 
+aimed a systematic review of these studies.
+METHODS: Pubmed, Google Scholar and Web of Science last updated March 2023, were 
+searched. We reviewed eligible studies on the association between KOA and 
+vitamin D levels in Indian and Asian population for comparison. The mean 
+difference (MD) of vitamin D levels and odds ratio (OR) of vitamin D status were 
+calculated. Data were interpreted by RevMan 5.4 software. The risk of bias was 
+assessed using the Cochrane Risk of Bias tool.
+RESULTS: A total of 15 studies that involved 1503 KOA cases and 1609 controls 
+were included. There was significantly reduced level of vitamin D in KOA (MD 
+-8.68 ng/mL, 95%CI -12.21 to -5.15; P = <0.00001, I2 = 82 %) in Indian 
+population. Similarly, in other Asian population significantly reduced vitamin D 
+levels in KOA (MD 18.36 ng/mL, 95%CI -34.72 to -2.00; P = <0.00001, I2 = 100 %) 
+was observed in KOA. VDD was found to be positively correlated with an increased 
+risk of KOA.
+CONCLUSION: Early diagnosis and management of VDD may provide the opportunity to 
+delay the ongoing degenerative process of KOA and this study indicates the 
+importance of screening VDD even in sunlight rich regions.
+
+© 2023 Delhi Orthopedic Association. All rights reserved.
+
+DOI: 10.1016/j.jcot.2023.102278
+PMCID: PMC10696121
+PMID: 38059053
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+6. Prev Chronic Dis. 2025 Apr 3;22:E13. doi: 10.5888/pcd22.240354.
+
+Vitamin D Deficiency and Cardiovascular Disease Risk Factors Among American 
+Indian Adolescents: The Strong Heart Family Study.
+
+Reese JA(1)(2), Davis E(3), Fretts AM(4), Ali T(1)(2), Lee ET(1), Umans 
+JG(5)(6), Yarden R(7), Zhang Y(1)(2), Peck JD(8).
+
+Author information:
+(1)Center for American Indian Health Research, Hudson College of Public Health, 
+University of Oklahoma Health Sciences Center, Oklahoma City.
+(2)Department of Biostatistics and Epidemiology, Hudson College of Public 
+Health, University of Oklahoma Health Sciences Center, Oklahoma City.
+(3)Department of Anatomical Sciences and Neurobiology, University of Louisville, 
+Louisville, Kentucky.
+(4)Department of Epidemiology, University of Washington School of Public Health, 
+Seattle.
+(5)MedStar Health Research Institute, Hyattsville, Maryland.
+(6)Georgetown-Howard Universities Center for Clinical and Translational Science, 
+Washington, DC.
+(7)Division of Cardiovascular Sciences, National Heart, Lung, and Blood 
+Institute, Bethesda, Maryland.
+(8)Department of Biostatistics and Epidemiology, Hudson College of Public 
+Health, The University of Oklahoma Health Sciences Center, 801 NE 13th St, Room 
+331, Oklahoma City, OK 73104 (Jennifer-Peck@ouhsc.edu).
+
+INTRODUCTION: We aimed to describe the prevalence of vitamin D deficiency among 
+American Indian adolescents and determine its association with cardiovascular 
+disease (CVD) risk factors.
+METHODS: Our study population consisted of 307 adolescents (aged ≤20 years) 
+participating in the Strong Heart Family Study with serum 25-hydroxyvitamin D 
+(25[OH]D) measured on samples collected during baseline examinations 
+(2001-2003). We defined baseline prevalence of vitamin D deficiency as 25(OH)D 
+≤20 ng/mL. We evaluated outcomes related to obesity (BMI, waist circumference, 
+wait-to-hip ratio, and body fat percentage), diabetes, cholesterol, and 
+metabolic syndrome. We used generalized estimating equations to determine 
+whether the prevalence of the outcomes differed according to vitamin D 
+deficiency status, while controlling for covariates. To determine incidence, we 
+conducted a follow-up examination a median 5.8 years after baseline (2006-2009) 
+and a second follow-up a median of 13.3 years after baseline (2014-2018). We 
+calculated incidence rates (IR) per 100 person-years for the total group and 
+stratified by vitamin D deficiency status at baseline. Finally we used shared 
+frailty cox proportional hazards models to determine if the risk of the outcomes 
+differed according to vitamin D deficiency status, while controlling for 
+covariates.
+RESULTS: The prevalence of vitamin D deficiency was 50.8% at baseline, and it 
+was associated with the prevalence of obesity, low HDL-C, and metabolic 
+syndrome, while controlling for covariates. By the first follow-up, the IRs per 
+100 person-years were the following: obesity (5.03), diabetes (1.07), any 
+dyslipidemia (10.80), and metabolic syndrome (3.31). By the second follow-up, 
+the IR of diabetes was significantly higher among those with (vs without) 
+baseline vitamin D deficiency (1.32 vs 0.68 per 100 person-years; P = .02), 
+although the association was not significant after adjusting for covariates.
+CONCLUSION: Vitamin D deficiency in adolescence may be associated with the CVD 
+risk factors obesity, low HDL-C, and metabolic syndrome and may also contribute 
+to the development of diabetes later in life.
+
+DOI: 10.5888/pcd22.240354
+PMCID: PMC11974461
+PMID: 40179031 [Indexed for MEDLINE]
+
+
+7. Indian J Orthop. 2020 May 14;54(Suppl 1):183-187. doi: 
+10.1007/s43465-020-00134-2. eCollection 2020 Sep.
+
+Prevalence of Vitamin D Deficiency Amongst Indian Orthopaedic Surgeons.
+
+Purohit S(1), Srivastava S(1), Shankarkumar A(2), Raj A(1), Dalal B(2), Marathe 
+N(1), Shende C(1).
+
+Author information:
+(1)Department of Orthopedics, MS (ORTHO), 6th Floor, Multistorey Building, Seth 
+G.S Medical College and King Edward Memorial Hospital, Parel, Mumbai, 400012 
+India.
+(2)ICMR, King Edward Memorial Hospital, Parel, Mumbai, 400012 India.
+
+BACKGROUND: Vitamin D deficiency is a widely prevalent condition with patients 
+in both symptomatic and asymptomatic spectrum. With the lack of routine 
+screening there exists an unknown population of Indian Orthopaedic surgeons who 
+are deficient in Vitamin D and lead to an unexplained loss of quality of work 
+and increased susceptibility to various other diseases. The easiest access to 
+resources for supplementation is available to this group of treating physicians 
+however its use for their personal cure is rarely recognised. This study aims to 
+highlight this endemic disease and to find out its correlation with other 
+parameters.
+METHODS: It is a prospective observational study including 150 practicing 
+orthopaedic surgeons from entire India who visited our centre during 3 months 
+duration for various educational meetings. Venous sample was collected after due 
+informed consent and analysed at a single laboratory for 25-OH Cholecalciferol 
+levels by a chemiluminescent assay. All the samples were analysed and a 
+questionnaire was sent to the participants via google forms regarding various 
+parameters under study.
+RESULTS: The mean serum Vitamin D levels were 18.6 ± 9.67 ng/ml in the sample 
+studied. 17 out of 150 participants (11.3%) were found to have sufficient serum 
+levels of 25(OH) Cholecalciferol. 105 participants (70%) were having deficient 
+levels and 28 (18.7%) had insufficient levels of Vitamin D. Overall 88.7% 
+participants had Vitamin D deficiency among the sample studied.
+CONCLUSION: This widespread prevalence of Vitamin D deficiency warrants frequent 
+screening and routine supplementation of Vitamin D in orthopaedic surgeons 
+thereby providing a low cost solution to improve the troublesome situation among 
+healthcare providers.
+
+© Indian Orthopaedics Association 2020.
+
+DOI: 10.1007/s43465-020-00134-2
+PMCID: PMC7474029
+PMID: 32952928
+
+Conflict of interest statement: Conflict of interestAll authors declare that 
+they have no conflict of interest.
+
+
+8. Cardiovasc Hematol Agents Med Chem. 2017;14(2):82-89. doi: 
+10.2174/1871525714666160426150233.
+
+Vitamin D Deficiency and Oxidative Stress in Type 2 Diabetic Population of 
+India.
+
+Dhas Y, Mishra N(1), Banerjee J.
+
+Author information:
+(1)Symbiosis School of Biomedical Sciences, Symbiosis International University, 
+Lavale, Mulshi, Pune - 412115, India.
+
+Vitamin D deficiency is common in metropolitan cities of India and worldwide due 
+to faulty life style. The prevalence of vitamin D deficiency has tremendously 
+increased in India despite the fact that it is located between 8.4° and 37.6° 
+north latitude and majority of the Indian population exposed to ample sunlight 
+throughout the year. From published data regarding vitamin D deficiency in India 
+estimated prevalence of vitamin D deficiency is 70%-100% in the adult 
+population. The main identified reason for vitamin D deficiency is the lack of 
+appropriate sunlight exposure and no consumption (in case of vegetarian 
+population) or less consumption of vitamin D containing diet (e.g. fish, cod 
+liver oil, beef liver and eggs). Mild to moderate vitamin D deficiency is 
+identified as a risk factor for type 2 diabetes, due to its protective role 
+against development of type 2 diabetes mellitus and its complications. Vitamin D 
+may affect glucose homeostasis through increasing insulin resistance and 
+reducing insulin secretion from beta cells of the pancreas. Vitamin D plays an 
+important role against oxidative stress, because of its antioxidant property. 
+Till date very few studies determined the link between vitamin D and oxidative 
+stress in type 2 diabetes mellitus and its complications. However, more studies 
+are needed to evaluate an underlying mechanism of vitamin D in amelioration of 
+the oxidative stress in type 2 diabetes mellitus.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.
+
+DOI: 10.2174/1871525714666160426150233
+PMID: 27114101 [Indexed for MEDLINE]

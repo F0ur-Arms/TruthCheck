@@ -1,0 +1,116 @@
+SOURCE: NIN
+URL: https://www.nin.res.in/researchhighlights/2003-04.pdf
+────────────────────────────────────────────────────────────
+
+Being at the forefront of Nutrition Research in the country, the research endeavours of National
+Institute of Nutrition (NIN) encompassed a wide range of areas in food and nutrition related issues of
+national importance. The problems that have been dogging the nutritional well-being of population an d
+the emerging epidemiological issues were given considerable importance. While some clinical studies laid
+emphasis on issues like osteoporosis among women, the lab-based studies looked into a plethora of areas
+such as, molecular mechanisms of cataract, insulin resistance, ageing process, food compositions, cancer
+and xenobiotics. On the other hand, efforts were initiated to start a National Dried Blood Spot Facility for
+vitamin A estimation at NIN, while the community studies looked into different aspects of public hea lth
+interest like the prevalence of micronutrient deficiencies, iodine deficiency disorders, nutritional  status of
+population in drought-hit states and adolescent obesity.
+Several States in India have been experiencing recurring drought conditions during the past few
+years. The year 2002-03 was no different for many states. On a request from the Ministry of Agricult ure,
+a survey was carried out in nine drought-hit states to assess the impact of drought on diet and nutritional
+status of the community during May-June 2003.  The mean intakes of foodstuffs in almost all the stat es
+were low and the households in all these states were not meeting the recommended levels of cereals and
+millets. Food Security was also not too encouraging among the households. The survey also found that the
+prevalence of underweight among pre-schools children was more than 50% in all these states, while
+prevalence of chronic energy deficiency ranged between 26% and 49% among males and 30% and 51%
+A large scale, eight-state community based survey was carried out to study the prevalence of
+micronutrient deficiency disorders involving both clinical and biochemical forms of vitamin A defici ency
+(Bitot’s spots), iodine deficiency disorders and iron deficiency anaemia during this year . The overall prevalence
+of Bitot’s spots was 0.8% and total goiter was 4% (below the WHO cut-off level of 5% to indicate endemicity).
+About 42% of the households were using non-iodized salt. It was largely lactating and pregnant women ,
+adolescent girls and pre-school children who were found to be affected by anaemia. While IDD registered
+a decline well below the epidemic level, vitamin A deficiency continued to be a matter of public hea lth
+concern in many states. The results underscore the need to strengthen the existing national nutritio n
+programmes as well as nutrition education component embedded in them.
+An earlier country-wide survey carried out to assess the changes in the prevalence of IDD particularly
+in the districts with higher levels of endemicity has revealed that the overall prevalence of total goiter
+registered a significant decline from 14-69% during 1984-94 to 3-40% this year, especially in the North-
+The fact that prevalence of obesity among adolescents is increasing, attracted attention and prompted
+a study to assess the prevalence of over-weight and obesity in urban adolescent school children. The study
+proved that the prevalence was higher among urban school children than their rural counterparts.
+Yet another study established that consumption of breakfast was an important factor affecting
+cognitive functions especially attention concentration and immediate recall memory of the students. At the
+same time, it was also observed that the academic performance of regular breakfast eaters was better
+Osteopororsis results in increased bone fragility and may lead to fracture of spine, hip and arm
+which is both an active as well as an early symptom. Research findings have revealed that Indian women
+experience early onset of osteoporosis as compared to their Western counterparts. Hence, they are more
+Most of the Indian women belonging to the underprivileged sections of the society subsist on a diet
+low in calories, proteins as well as calcium. These women are seen to breastfeed their infants for prolonged
+period of time (>1 year). It is possible that their dietary calcium is inadequate for bone accretion during the
+recovery period and hence there may be a mobilization of calcium from mother’s skeleton leading to
+transient reduction in bone mineral density (BMD). Studies are being carried out to establish peak B MD
+reference values for both men and women and also to assess the prevalence of osteopenia and osteoporosis
+in Indian population groups in a multicentric ICMR Task Force Study. Another study is being conducted to
+assess the extent of loss of bone mass during post-partum period and also to find out if low calcium intakes
+are adequate for restoration of bone density. Conservation of calcium seemed to occur either through
+increased absorption or reduced excretion, or both. These compensatory mechanisms were observed to
+offset the breast milk calcium loss only in those women who enjoyed better nutritional status (in te rms of
+body weights and BMI). The link between body weight and BMI with peak bone mass will be explored in
+Assessment of vitamin A status in the population groups is a prerequisite to successful prevention
+and control of vitamin A deficiency disorders. A technology using the process of collecting dried blood spot
+(DBS) on filter paper and later analyzing for vitamin A using HPLC has been developed and made available
+at NIN. This National Facility was initiated with the support from Micronutrient Initiative and MOST, New
+The enzyme, aldose reductase (AR) in lens has been a drug target because of its involvement in the
+development of secondary complications of diabetes including cataract. A study was carried out to assess
+the inhibition of AR by the constituents of Emblica officinalis in vitro and in lens organ culture. It was found
+that aqueous extract of E.officinalis inhibited rat lens AR and recombinant human AR. The hydrolysab le
+tannoids of E. officinalis were found to be responsible for AR inhibition. In an alternative approac h,
+antiglycating agents (MAB1) have been worked out for delaying the onset of opacification of lens.
+A study was carried out to assess the effect of calorie restriction with/without micronutrient deficiency
+on oxidative stress and ageing. The findings of the study established the beneficial effect of calorie restriction
+per se in protecting animals against oxidative stress and hyperinsulinemia.
+Resistin, a cysteine rich adipocytokine, has shown to be implicated as a link between obesity and
+type 2 diabetes in mouse. Role of resistin in human was debatable. A study was carried out to characterize
+the structure of human resistin which revealed a reversible shift in secondary structure as a functi on of
+concentration and time. The level of expression of resistin gene in human will modulate the higher o rder
+structure and by implication its function.
+Studies were carried out to investigate the effects of increasing dietary long chain n-3 PUFA from
+fish oil on membrane lipid composition and insulin sensitivity in skeletal muscle and adipose tissue  of
+sucrose induced insulin-resistant rats. The results showed that replacement of 0.5en% long chain n-3
+PUFA (n-6/n-3 ratio = 10) prevented sucrose induced insulin resistance by increasing peripheral insu lin
+IV. FOOD COMPOSITION AND NUTRIENT AVAILABILITY
+Rice, being the staple food in many parts of India, research guidelines for improvements in yield is
+an important process. As a result, new varieties are produced by the scientists and subsequently they enter
+the markets. The protein quality depends on their essential amino acid composition, hence a study wa s
+conducted on varieties of rice by analysing them for protein and amino acids content before and afte r
+polishing and were compared to the values documented in NIN’s publication Nutritive Value of Indian
+Foods (NVIF). Results indicated that 8-10% polishing of rice decreased protein content by about 5%. In
+most cases, it was observed that the protein values of new rice varieties were higher than the earlier values
+reported in NVIF , with out any change in lysine content.
+Antimutagenic and antigenotoxic potential of ginger was clearly established in a study. Another
+study was conducted on the patients suffering from upper gastrointestinal tract cancers. Estimation of in
+vivo nitrosation potential after administering proline was carried out. The metabolites of nitroproline were
+In the field of social drug epidemiology, an educational intervention strategy comprising both print
+and traditional folk-form in Andhra Pradesh (Harikatha) was used to sensitize general public on the issues
+of Rational Usage of Drugs. Also, a rapid screening procedure ( in vitro and in vivo) was developed to
+assess the antioxidant activity of some herbal medicines.
+The institute is frequently approached by various agencies including governmental organizations
+to carry out community-based studies on public health issues. A rapid survey carried out in the villages of
+Bhandara district of Madhya Pradesh has revealed that several people were affected with toxicity-rel ated
+illness on consuming Khesari dal (Lathyrus sativus). Another study in the tribal districts of Orissa  showed
+that food samples were contaminated with aflatoxins and some other heavy metals including lead, cadmium,
+arsenic and mercury. In yet another study carried out in some villages of Nawadha district of Bihar, it was
+found that high fluoride concentration in drinking water was leading to vitamin D deficiency causing bone
+deformities in young children.  Appropriate strategies to combat the problem were suggested.
+A study was carried out to determine the effect of vitamin A restriction and supplementation on
+drug induced apoptosis of rat intestinal mucosal cells. It was observed that riboflavin and folic ac id
+supplementation helps in preventing DNA damage, mutations and the occurrence of cancer as well as
+chemotherapy restricted adverse effects.
+DNA finger printing of the obese mutant rats using random primers yielded a fairly constant DNA
+fingerprint for the GR-Ob strain. Similar pattern was not found in WNIN/Ob strain and hence alternative
+techniques to obtain results are being explored. Also, genetic typing of obese mutant rats using microsatellite
+markers was carried out. Out of 100 markers proposed to be screened, 60 primers spanning a majority
+The existing Pre-clinical Toxicology expertise in the Institute gained new emphasis and continued to
+carry out various service activities assigned to it. A research study was also taken up to carry out  toxicity
+and allergenicity evaluation of recombinant Hepatitis B vaccine in mice and guinea pigs.
+Thus research studies carried out in a wide array of fields epitomise the Institute’s consistent zest in
+exploring newer frontiers in the filed of nutrition, while addressing the current issues in a holistic approach.
+These research achievements would not have been possible without the co-operation extended by all the
+staff of NIN, with whose unstinted support the institute forges ahead to face newer challenges.

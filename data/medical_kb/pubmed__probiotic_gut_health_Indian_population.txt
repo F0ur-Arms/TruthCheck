@@ -1,0 +1,400 @@
+SOURCE: PUBMED
+TOPIC: probiotic gut health Indian population
+────────────────────────────────────────────────────────────
+
+1. Cureus. 2025 Mar 20;17(3):e80875. doi: 10.7759/cureus.80875. eCollection 2025 
+Mar.
+
+Expert Opinion on the Use of Probiotics in General Gynecological Conditions.
+
+Patki A(1), Pandit S(2), Ashraf N(3), Makhwana S(4), Ghosh Dastidar B(5).
+
+Author information:
+(1)Obstetrics and Gynecology, Indian Society For Assisted Reproduction (ISAR), 
+Mumbai, IND.
+(2)Obstetrics and Gynecology, Surya Hospitals, Mumbai, IND.
+(3)Obstetrics and Gynecology, Craft Hospital and Research Centre, Kochi, IND.
+(4)Obstetrics and Gynecology, Vasundhara IVF and Fertility Research Centre, 
+Jodhpur, IND.
+(5)Obstetrics and Gynecology, Ghosh Dastidar (GD) Institute for Fertility 
+Research, Kolkata, IND.
+
+Various gynecological conditions, including bacterial vaginosis, urinary tract 
+infection, genitourinary syndrome of menopause, polycystic ovarian syndrome, and 
+vulvovaginal candidiasis, impose a significant global burden, including among 
+the Indian population. This expert opinion emphasizes the importance of oral 
+probiotic supplementation in managing these conditions. A physical meeting with 
+14 experts was conducted on June 29-30, 2024, during which they highlighted that 
+probiotics, particularly Lactobacillus species, have beneficial effects on 
+restoring and maintaining healthy vaginal microbiota. Probiotics also promote 
+vaginal health and aid in treating conditions such as bacterial vaginosis, 
+vulvovaginal candidiasis, polycystic ovarian syndrome, and genitourinary 
+syndrome of menopause. Probiotics are proven effective in managing bacterial 
+vaginosis by enhancing beneficial bacteria and reducing harmful ones. They help 
+prevent and treat recurrent urinary tract infections by increasing lactobacilli 
+levels, inhibiting Candida growth, and maintaining vaginal pH to prevent 
+vulvovaginal candidiasis. Symptoms of genitourinary syndrome of menopause, such 
+as vaginal dryness, itching, and recurrent urinary tract infections, can be 
+alleviated through a combination of Lactobacillus-based probiotics and estrogen 
+therapy. Experts also recommended probiotic supplementation for women with 
+polycystic ovarian syndrome to improve both chemical and clinical pregnancy 
+rates. Probiotics help modulate gut microbiota; improve blood glucose levels, 
+insulin resistance, cholesterol, and androgen levels; restore the LH/FSH ratio; 
+and enhance reproductive health. This expert opinion underscores the key role 
+of Lactobacillus species in treating and preventing various gynecological 
+disorders such as bacterial vaginosis, vulvovaginal candidiasis, genitourinary 
+syndrome of menopause, urinary tract infection, and polycystic ovarian syndrome 
+by restoring and maintaining vaginal microbiota, thus supporting overall 
+feminine health.
+
+Copyright © 2025, Patki et al.
+
+DOI: 10.7759/cureus.80875
+PMCID: PMC12009168
+PMID: 40255841
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: This initiative was funded by JB Chemicals Private 
+Limited, Mumbai. . Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+2. Ther Adv Infect Dis. 2023 Feb 24;10:20499361231154443. doi: 
+10.1177/20499361231154443. eCollection 2023 Jan-Dec.
+
+Current understanding of antibiotic-associated dysbiosis and approaches for its 
+management.
+
+Kesavelu D(1), Jog P(2).
+
+Author information:
+(1)Apollo Children's Hospital, Chennai 600006, Tamil Nadu, India.
+(2)Dr. D.Y. Patil Medical College, Hospital & Research Centre, Pune, India.
+
+Increased exposure to antibiotics during early childhood increases the risk of 
+antibiotic-associated dysbiosis, which is associated with reduced diversity of 
+gut microbial species and abundance of certain taxa, disruption of host 
+immunity, and the emergence of antibiotic-resistant microbes. The disruption of 
+gut microbiota and host immunity in early life is linked to the development of 
+immune-related and metabolic disorders later in life. Antibiotic administration 
+in populations predisposed to gut microbiota dysbiosis, such as newborns, obese 
+children, and children with allergic rhinitis and recurrent infections; changes 
+microbial composition and diversity; exacerbating dysbiosis and resulting in 
+negative health outcomes. Antibiotic-associated diarrhea (AAD), Clostridiodes 
+difficile-associated diarrhea (CDAD), and Helicobacter pylori infection are all 
+short-term consequences of antibiotic treatment that persist from a few weeks to 
+months. Changes in gut microbiota, which persist even 2 years after antibiotic 
+exposure, and the development of obesity, allergies, and asthma are among the 
+long-term consequences. Probiotic bacteria and dietary supplements can 
+potentially prevent or reverse antibiotic-associated gut microbiota dysbiosis. 
+Probiotics have been demonstrated in clinical studies to help prevent AAD and, 
+to a lesser extent, CDAD, as well as to improve H pylori eradication rates. In 
+the Indian setting, probiotics (Saccharomyces boulardii and Bacillus clausii) 
+have been shown to reduce the duration and frequency of acute diarrhea in 
+children. Antibiotics may exaggerate the consequences of gut microbiota 
+dysbiosis in vulnerable populations already affected by the condition. 
+Therefore, prudent use of antibiotics among neonates and young children is 
+critical to prevent the detrimental effects on gut health.
+
+© The Author(s), 2023.
+
+DOI: 10.1177/20499361231154443
+PMCID: PMC9969474
+PMID: 36860273
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+3. Prog Mol Biol Transl Sci. 2024;208:59-81. doi: 10.1016/bs.pmbts.2024.07.008. 
+Epub 2024 Aug 22.
+
+Advances in CRISPR-Cas systems for gut microbiome.
+
+Ali N(1), Vora C(2), Mathuria A(3), Kataria N(3), Mani I(4).
+
+Author information:
+(1)Department of Microbiology, Gargi College, University of Delhi, New Delhi, 
+India.
+(2)Department of Biosciences and Biomedical Engineering, Indian Institute of 
+Technology, Indore, India.
+(3)Department of Biochemistry, Sri Venkateswara College, University of Delhi, 
+New Delhi, India.
+(4)Department of Microbiology, Gargi College, University of Delhi, New Delhi, 
+India. Electronic address: indra.mani@gargi.du.ac.in.
+
+CRISPR-Cas technology has revolutionized microbiome research by enabling precise 
+genetic manipulation of microbial communities. This review explores its diverse 
+applications in gut microbiome studies, probiotic development, microbiome 
+diagnostics, pathogen targeting, and microbial community engineering. Engineered 
+bacteriophages and conjugative probiotics exemplify CRISPR-Cas's capability for 
+targeted bacterial manipulation, offering promising strategies against 
+antibiotic-resistant infections and other gut-related disorders. CRISPR-Cas 
+systems also enhance probiotic efficacy by improving stress tolerance and 
+colonization in the gastrointestinal tract. CRISPR-based techniques in 
+diagnostics enable early intervention by enabling fast and sensitive pathogen 
+identification. Furthermore, CRISPR-mediated gene editing allows tailored 
+modification of microbial populations, mitigating risks associated with 
+horizontal gene transfer and enhancing environmental and health outcomes. 
+Despite its transformative potential, ethical and regulatory challenges loom 
+large, demanding robust frameworks to guide its responsible application. This 
+chapter highlights CRISPR-Cas's pivotal role in advancing microbiome research 
+toward personalized medicine and microbial therapeutics while emphasizing the 
+imperative of balanced ethical deliberations and comprehensive regulatory 
+oversight.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/bs.pmbts.2024.07.008
+PMID: 39266188 [Indexed for MEDLINE]
+
+
+4. Indian J Orthop. 2022 Mar 16;56(7):1150-1155. doi: 10.1007/s43465-021-00473-8.
+ eCollection 2022 Jul.
+
+Osteoarthritis Can Also Start in the Gut: The Gut-Joint Axis.
+
+Gleason B(1), Chisari E(1)(2), Parvizi J(1).
+
+Author information:
+(1)Rothman Orthopaedic Institute at Thomas Jefferson University, 125 S 9th St. 
+Ste 1000, Philadelphia, PA 19107 USA.
+(2)Department of Medical Microbiology and Infection Prevention, University of 
+Groningen, University Medical Center Groningen, Groningen, The Netherlands.
+
+BACKGROUND: Osteoarthritis is a common cause of pain and disability with an 
+increasing prevalence among the global population (Hunter and Bierma-Zeinstra in 
+Lancet 393(10182):1745-1759, 2019; Zhang and Jordan in Clinics in Geriatric 
+Medicine 26(3):355-369, 2010). Altered immune responses and low-grade systemic 
+inflammation driven by gut dysbiosis are being increasingly recognized as 
+contributing factors to the pathophysiology of OA (Tan et al. in International 
+Journal of Rheumatic Diseases. https://doi.org/10.1111/1756-185X.14123, 2021; 
+Binvignat et al. in Joint, Bone, Spine 88(5):105203, 2021; Ramasamy et al. in 
+Nutrients 13(4):1272, 2021), which increased the interest in the so-called 
+"gut-joint axis". The various microbiota in the gastrointestinal tract is 
+commonly referred to as the gut microbiome. The gut microbiome is affected by 
+age, sex, and immune system activity as well as medications, environment, and 
+diet (Arumugam in Nature. https://doi.org/10.1038/nature09944, 2011). The 
+microbiome is pivotal to maintain host health and contributes to nutrition, host 
+defense, and immune development (Nishida et al. in Clinical Journal of 
+Gastroenterology 11:1-10, 2018). Alterations in this microbiome can induce 
+dysbiosis, which is associated with many human disease states including 
+allergies, autoimmune disease, diabetes, and cancer (Lin and Zhang in BMC 
+Immunology 18(1):2, 2017). A gut-joint axis is proposed as a link involving the 
+gastrointestinal microbiome, the immune response that it induces, and joint 
+health.
+RESULTS: Emerging evidence has shown that there are specific changes in the 
+microbiome that are associated with osteoarthritis, including increased 
+Firmicutes/Bacteroides ratio, Streptococcus spp. prevalence, and local 
+inflammation (Collins in Osteoarthritis and Cartilage. 
+https://doi.org/10.1016/j.joca.2015.03.014, 2015; Rios in Science and Reports. 
+https://doi.org/10.1038/s41598-019-40601-x, 2019; Schott in JCI insight. 
+https://doi.org/10.1172/jci.insight.95997, 2018; Boer et al. in Nature 
+Communications 10:4881, 2019). Both the innate and adaptive immune systems are 
+affected by the gut microbiome and can become dysregulated in dysbiosis which 
+ultimately triggers events associated with joint OA.
+CONCLUSIONS: The gut is an intriguing and novel target for OA therapy. Dietary 
+modification or supplementation with fiber, probiotics, or prebiotics could 
+provide a positive impact on the gut joint axis.
+
+© Indian Orthopaedics Association 2022.
+
+DOI: 10.1007/s43465-021-00473-8
+PMCID: PMC9232669
+PMID: 35813544
+
+Conflict of interest statement: Conflict of InterestOn behalf of all authors, 
+the corresponding author states that there is no conflict of interest.
+
+
+5. Sci Rep. 2025 Dec 23;16(1):199. doi: 10.1038/s41598-025-29150-8.
+
+Awareness, attitude and practice of Indian population regarding probiotic foods 
+in everyday life.
+
+Thapar P(1), Niharika G(2), Maheswari UK(2).
+
+Author information:
+(1)Department of Life Sciences, Parul Institute of Applied Sciences, Parul 
+University, Vadodara, India. parul.thapar39675@paruluniversity.ac.in.
+(2)Department of Food Science and Technology, School of Science, GITAM (Deemed 
+to Be) University, Hyderabad, India.
+
+The gastrointestinal problems in India are among the most common diseases that 
+occur frequently. In an article it was mentioned that probiotics and related 
+products play an important role in prevention of gastrointestinal disorders. 
+There are numerous products available in the market but whether these are 
+readily being consumed by people and are known about their benefits. In this 
+paper, a study on knowledge, attitude and practice for probiotic foods among 
+Indian participants were conducted from July 2023 to September 2023 using a 
+structured questionnaire. It was circulated via emails and online social groups 
+within all the states of the country. The responses were analysed using 
+statistical package for social sciences v31 and through statistical tools like T 
+test, F test and linear regression. To assess the correlations between the 
+scores of knowledge, attitude and practice, Pearson correlation was applied. The 
+mean knowledge, attitude and practice scores were 16, 23 and 8 respectively as 
+determined by the scores from the responses. The knowledge, attitude and 
+practice scores varied from respondents for age (P = 0.000181), gender 
+(P = 0.000126), states (P = 4.19616433247292E-13), field of specialization 
+(P = 0.000148) and occupation (P = 0.000794). It is found that the participants 
+from the states of Uttarakhand and Haryana were significantly aware about the 
+benefits and applicability but somehow lack knowledge in the right amount of 
+consumption of these foods from nutritional aspects, whereas the participants 
+from Delhi and Karnataka were found to have a positive approach towards the 
+market value about the probiotic products in future. It is concluded that to 
+improve the demand in India, some training sessions at the household level could 
+be beneficial to increase right amount of consumption and awareness in the 
+country.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-29150-8
+PMCID: PMC12764869
+PMID: 41436767 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+6. Probiotics Antimicrob Proteins. 2022 Jun;14(3):523-534. doi: 
+10.1007/s12602-021-09821-4. Epub 2021 Jul 20.
+
+Microencapsulated and Lyophilized Lactobacillus acidophilus Improved Gut Health 
+and Immune Status of Preruminant Calves.
+
+Kumar M(1), Kala A(2), Chaudhary LC(1), Agarwal N(1), Kochewad SA(3).
+
+Author information:
+(1)Animal Nutrition Division, Indian Veterinary Research Institute, Izatnagar, 
+Bareilly, 243122, UP, India.
+(2)Animal Nutrition Division, Indian Veterinary Research Institute, Izatnagar, 
+Bareilly, 243122, UP, India. anjukalavet2002@gmail.com.
+(3)Livestock Production and Management Section, Indian Veterinary Research 
+Institute, Izatnagar, 243122, UP, India.
+
+The present study was conducted to study the effect of microencapsulated, 
+lyophilized, or fermented milk using Lactobacillus acidophilus NCDC15 as a 
+probiotic to improve gut health, growth, nutrient utilization, and immunity 
+status of young crossbred calves. The viable culture of L. acidophilus was used 
+for preparation of different probiotic forms/products. To compare the efficacy 
+of probiotic products, twenty crossbred calves (3-day old) were divided into 
+four groups (n = 5), control (C), fed only milk and basal diet, and treatment 
+groups, supplemented with microencapsulated, fermented, and lyophilized 
+probiotic at 108 colony-forming units, respectively. Probiotic-supplemented 
+groups showed reduction in faecal score, faecal pH, and ammonia concentration as 
+compared to control indicating decreased diarrheal incidence. There was an 
+increase (P < 0.05) in the concentration of faecal lactate and butyrate in the 
+probiotic-supplemented groups. The faecal count (log10 (CFU)/g of fresh faeces) 
+of lactobacilli and bifidobacteria was higher (P < 0.05), whereas faecal 
+coliforms and clostridia count were reduced (P < 0.001) in all the probiotic fed 
+groups as compared to control. The cell-mediated immunity was improved 
+(P < 0.05) in the microencapsulated and fermented probiotic groups. However, 
+there was no effect on the nutrient utilization, average daily gain, and blood 
+biochemical profile. Therefore, it is concluded that the fermented, 
+microencapsulated and lyophilized probiotic products were superior in improving 
+the gut health in terms of its microbiota and metabolites and cell-mediated 
+immunity response in calves, irrespective of form of probiotic. The increased 
+population of Lactobacillus and Bifidobacterium decreased the colonization of 
+the gut by pathogens such as Escherichia coli and Clostridium by exclusion and 
+production of organic acids in the intestine. This decreased the diarrhoeal 
+incidence (1.3 vs 1.8) and days in diarrhoea (3.9 vs 5.8) in calves in probiotic 
+fed groups as compared to control.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12602-021-09821-4
+PMID: 34286420 [Indexed for MEDLINE]
+
+
+7. Indian J Gastroenterol. 2015 Mar;34(2):93-107. doi: 10.1007/s12664-015-0547-6.
+ Epub 2015 Apr 29.
+
+Gut microbiome, gut function, and probiotics: Implications for health.
+
+Hajela N(1), Ramakrishna BS, Nair GB, Abraham P, Gopalan S, Ganguly NK.
+
+Author information:
+(1)Yakult India Microbiota and Probiotic Science Foundation, 52, Okhla 
+Industrial Estate, Phase 3, New Delhi, 110 020, India, 
+neerja.hajela@yakultfoundation.org.in.
+
+New insights from a rapidly developing field of research have ushered in a new 
+era of understanding of the complexity of host-microbe interactions within the 
+human body. The paradigm shift from culturing to metagenomics has provided an 
+insight into the complex diversity of the microbial species that we harbor, 
+revealing the fact that we are in fact more microbes than human cells. The 
+largest consortium of these microbes resides in the gut and is called the gut 
+microbiota. This new science has expanded the ability to document shifts in 
+microbial populations to an unparalleled degree. It is now understood that 
+signals from the microbiota provide trophic, nutritional, metabolic, and 
+protective effects for the development and maintenance of the host digestive, 
+immune, and neuroendocrine system. Evidence linking changes in the gut 
+microbiota to gastrointestinal and extraintestinal disorders like irritable 
+bowel syndrome, inflammatory bowel disease, obesity, diabetes, and celiac 
+disease have begun to emerge recently. Probiotics act through diverse mechanisms 
+positively affecting the composition and/or function of the commensal microbiota 
+and alter host immunological responses. Well-controlled intervention trials, 
+systematic reviews, and meta-analysis provide convincing evidence for the 
+benefit of probiotics in prevention and treatment of gastrointestinal as well as 
+extraintestinal disorders.
+
+DOI: 10.1007/s12664-015-0547-6
+PMID: 25917520 [Indexed for MEDLINE]
+
+
+8. Arch Microbiol. 2021 Aug;203(6):2895-2910. doi: 10.1007/s00203-021-02276-9.
+Epub  2021 Mar 24.
+
+Unravelling the potential of gut microbiota in sustaining brain health and their 
+current prospective towards development of neurotherapeutics.
+
+Banerjee A(#)(1), Pradhan LK(#)(1), Sahoo PK(1), Jena KK(2), Chauhan NR(2), 
+Chauhan S(#)(2), Das SK(3).
+
+Author information:
+(1)Neurobiology Laboratory, Centre for Biotechnology, Siksha 'O' Anusandhan 
+(Deemed to be University), Bhubaneswar, 751003, Odisha, India.
+(2)Autophagy Laboratory, Infectious Disease Biology Division, Institute of Life 
+Sciences, Bhubaneswar, 751023, Odisha, India.
+(3)Neurobiology Laboratory, Centre for Biotechnology, Siksha 'O' Anusandhan 
+(Deemed to be University), Bhubaneswar, 751003, Odisha, India. 
+sarojkumardas@hotmail.com.
+(#)Contributed equally
+
+Increasing incidences of neurological disorders, such as Parkinson's disease 
+(PD), multiple sclerosis (MS), Alzheimer's disease (AD) and amyotrophic lateral 
+sclerosis (ALS) are being reported, but an insight into their pathology remains 
+elusive. Findings have suggested that gut microbiota play a major role in 
+regulating brain functions through the gut-brain axis. A unique bidirectional 
+communication between gut microbiota and maintenance of brain health could play 
+a pivotal role in regulating incidences of neurodegenerative diseases. 
+Contrarily, the present life style with changing food habits and disturbed 
+circadian rhythm may contribute to gut homeostatic imbalance and dysbiosis 
+leading to progression of several neurological disorders. Therefore, dysbiosis, 
+as a primary factor behind intestinal disorders, may also augment inflammation, 
+intestinal and blood-brain barrier permeability through microbiota-gut-brain 
+axis. This review primarily focuses on the gut-brain axis functions, specific 
+gut microbial population, metabolites produced by gut microbiota, their role in 
+regulating various metabolic processes and role of gut microbiota towards 
+development of neurodegenerative diseases. However, several studies have 
+reported a decrease in abundance of a specific gut microbial population and a 
+corresponding increase in other microbial family, with few findings revealing 
+some contradictions. Reports also showed that colonization of gut microbiota 
+isolated from patients suffering from neurodegenerative disease leads to the 
+development of enhance pathological outcomes in animal models. Hence, a 
+systematic understanding of the dominant role of specific gut microbiome towards 
+development of different neurodegenerative diseases could possibly provide novel 
+insight into the use of probiotics and microbial transplantation as a substitute 
+approach for treating/preventing such health maladies.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00203-021-02276-9
+PMID: 33763767 [Indexed for MEDLINE]
