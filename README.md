@@ -368,6 +368,8 @@ Input (Text/Image/Audio)
     └─ Combined Risk Score & Label
     ↓
 Output Report
+![alt text](image.png)
+
 ```
 
 ---

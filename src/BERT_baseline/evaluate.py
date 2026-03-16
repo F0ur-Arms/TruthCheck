@@ -17,7 +17,7 @@ from sklearn.metrics import (classification_report, f1_score, recall_score,
                              confusion_matrix, matthews_corrcoef)
 
 # ── Config ────────────────────────────────────────────────────────────────────
-# ── Config ────────────────────────────────────────────────────────────────────
+
 TEST_PATH   = 'TruthCheck/src/BERT_baseline/data/berttest.csv'
 MODEL_PATH  = 'TruthCheck/src/BERT_baseline/outputs/saved_weights.pt'
 OUT_DIR     = 'outputs'

@@ -1,0 +1,6 @@
+1)python tfidf_lr.py
+2)structure:
+├── tfidf_lr.py
+├── preprocess.py
+└── data/
+    └── health_claims.csv 
