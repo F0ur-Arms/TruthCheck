@@ -7,3 +7,207 @@
 {"label": "DIET_HABIT", "pattern": [{"LOWER": "warm"}, {"LOWER": "water"}]}
 {"label": "DIET_HABIT", "pattern": [{"LOWER": "khali"}, {"LOWER": "pet"}]}
 {"label": "BODY_SYSTEM", "pattern": [{"LOWER": "digestion"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "haldi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ashwagandha"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "giloy"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "tulsi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "amla"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "neem"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ghee"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "honey"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "warm"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "garam"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "khali"}, {"LOWER": "pet"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "empty"}, {"LOWER": "stomach"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "curd"}, {"LOWER": "at"}, {"LOWER": "night"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "copper"}, {"LOWER": "vessel"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "water"}, {"LOWER": "while"}, {"LOWER": "standing"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sleeping"}, {"LOWER": "at"}, {"LOWER": "noon"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "vrat"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "fasting"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "digestion"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "pachan"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "immunity"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "metabolism"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "eyesight"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "giloy"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ashwagandha"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "amla"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "karela"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "karela"}, {"LOWER": "juice"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "tulsi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "haldi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "turmeric"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "turmeric"}, {"LOWER": "milk"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "haldi"}, {"LOWER": "doodh"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "neem"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "neem"}, {"LOWER": "leaves"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "aloe"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "aloe"}, {"LOWER": "vera"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ajwain"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "jeera"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "jeera"}, {"LOWER": "water"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "jeera"}, {"LOWER": "pani"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "methi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "methi"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "methi"}, {"LOWER": "water"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "moringa"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "triphala"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "shilajit"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "paneer"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "ghee"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "desi"}, {"LOWER": "ghee"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "cow"}, {"LOWER": "ghee"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "apple"}, {"LOWER": "cider"}, {"LOWER": "vinegar"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "acv"}]}
+
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "khali"}, {"LOWER": "pet"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "empty"}, {"LOWER": "stomach"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "garam"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "warm"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "hot"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "lemon"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "nimbu"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "honey"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "shahad"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "curd"}, {"LOWER": "at"}, {"LOWER": "night"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "dahi"}, {"LOWER": "raat"}, {"LOWER": "me"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "water"}, {"LOWER": "while"}, {"LOWER": "standing"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "standing"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "copper"}, {"LOWER": "vessel"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "copper"}, {"LOWER": "bottle"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "tambe"}, {"LOWER": "ka"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "overnight"}, {"LOWER": "soaked"}, {"LOWER": "almonds"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "bhige"}, {"LOWER": "badam"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "fruit"}, {"LOWER": "after"}, {"LOWER": "meal"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "fruit"}, {"LOWER": "before"}, {"LOWER": "meal"}]}
+
+{"label": "HABIT", "pattern": [{"LOWER": "yoga"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "pranayama"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "kapalbhati"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "anulom"}, {"LOWER": "vilom"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "morning"}, {"LOWER": "walk"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "evening"}, {"LOWER": "walk"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "walking"}, {"LOWER": "after"}, {"LOWER": "meals"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sleeping"}, {"LOWER": "after"}, {"LOWER": "lunch"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "afternoon"}, {"LOWER": "nap"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sleeping"}, {"LOWER": "at"}, {"LOWER": "noon"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "fasting"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "vrat"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "intermittent"}, {"LOWER": "fasting"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "oil"}, {"LOWER": "pulling"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "nasal"}, {"LOWER": "oil"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sun"}, {"LOWER": "gazing"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "cold"}, {"LOWER": "shower"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "detox"}, {"LOWER": "water"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "steam"}, {"LOWER": "inhalation"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "taking"}, {"LOWER": "steam"}]}
+
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "digestion"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "pachan"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "immunity"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "immune"}, {"LOWER": "system"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "sugar"}, {"LOWER": "levels"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "blood"}, {"LOWER": "sugar"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "bp"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "blood"}, {"LOWER": "pressure"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "cholesterol"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "heart"}, {"LOWER": "health"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "liver"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "kidney"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "eyesight"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "eye"}, {"LOWER": "health"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "metabolism"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "weight"}, {"LOWER": "loss"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "fat"}, {"LOWER": "burning"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "joint"}, {"LOWER": "pain"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "arthritis"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "gut"}, {"LOWER": "health"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "black"}, {"LOWER": "salt"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "kala"}, {"LOWER": "namak"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "rock"}, {"LOWER": "salt"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "sendha"}, {"LOWER": "namak"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "clove"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "laung"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "cinnamon"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "dalchini"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "cardamom"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "elaichi"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "black"}, {"LOWER": "pepper"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "kali"}, {"LOWER": "mirch"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "mustard"}, {"LOWER": "oil"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "sarson"}, {"LOWER": "tel"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "coconut"}, {"LOWER": "oil"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "nariyal"}, {"LOWER": "tel"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "flax"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "alsi"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "pumpkin"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "chia"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "sabja"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "basil"}, {"LOWER": "seeds"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "jaggery"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "gud"}]}
+{"label": "INGREDIENT", "pattern": [{"LOWER": "honey"}]}
+
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "hot"}, {"LOWER": "lemon"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "garam"}, {"LOWER": "nimbu"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "honey"}, {"LOWER": "with"}, {"LOWER": "lemon"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "shahad"}, {"LOWER": "aur"}, {"LOWER": "nimbu"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "jeera"}, {"LOWER": "water"}, {"LOWER": "morning"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "subah"}, {"LOWER": "jeera"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "methi"}, {"LOWER": "water"}, {"LOWER": "morning"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "subah"}, {"LOWER": "methi"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "apple"}, {"LOWER": "cider"}, {"LOWER": "vinegar"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "acv"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "turmeric"}, {"LOWER": "water"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "haldi"}, {"LOWER": "pani"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "eating"}, {"LOWER": "fruit"}, {"LOWER": "empty"}, {"LOWER": "stomach"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "khali"}, {"LOWER": "pet"}, {"LOWER": "fruit"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "milk"}, {"LOWER": "with"}, {"LOWER": "turmeric"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "haldi"}, {"LOWER": "milk"}, {"LOWER": "night"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "water"}, {"LOWER": "after"}, {"LOWER": "meal"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "water"}, {"LOWER": "before"}, {"LOWER": "meal"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "eating"}, {"LOWER": "banana"}, {"LOWER": "night"}]}
+{"label": "DIET_HABIT", "pattern": [{"LOWER": "banana"}, {"LOWER": "before"}, {"LOWER": "sleep"}]}
+
+{"label": "HABIT", "pattern": [{"LOWER": "deep"}, {"LOWER": "breathing"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "meditation"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "morning"}, {"LOWER": "sunlight"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sitting"}, {"LOWER": "in"}, {"LOWER": "sun"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "barefoot"}, {"LOWER": "walking"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "walking"}, {"LOWER": "barefoot"}, {"LOWER": "grass"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "detox"}, {"LOWER": "juice"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "green"}, {"LOWER": "juice"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "taking"}, {"LOWER": "herbal"}, {"LOWER": "tea"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "kadha"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "kadha"}, {"LOWER": "drinking"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "drinking"}, {"LOWER": "giloy"}, {"LOWER": "juice"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "taking"}, {"LOWER": "ashwagandha"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "daily"}, {"LOWER": "yoga"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "stretching"}, {"LOWER": "morning"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "early"}, {"LOWER": "morning"}, {"LOWER": "exercise"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "sleeping"}, {"LOWER": "early"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "waking"}, {"LOWER": "early"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "late"}, {"LOWER": "night"}, {"LOWER": "sleeping"}]}
+{"label": "HABIT", "pattern": [{"LOWER": "screen"}, {"LOWER": "before"}, {"LOWER": "sleep"}]}
+
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "skin"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "skin"}, {"LOWER": "glow"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "hair"}, {"LOWER": "growth"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "hair"}, {"LOWER": "fall"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "brain"}, {"LOWER": "health"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "memory"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "focus"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "energy"}, {"LOWER": "levels"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "stamina"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "respiratory"}, {"LOWER": "system"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "lungs"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "lung"}, {"LOWER": "health"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "thyroid"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "hormone"}, {"LOWER": "balance"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "blood"}, {"LOWER": "circulation"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "body"}, {"LOWER": "detox"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "toxins"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "acidity"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "gastric"}, {"LOWER": "problems"}]}
+{"label": "BODY_SYSTEM", "pattern": [{"LOWER": "stomach"}, {"LOWER": "health"}]}
