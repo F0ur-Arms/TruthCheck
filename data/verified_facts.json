@@ -1,20 +1,352 @@
 [
   {
-    "claim_subject": "warm water",
+    "claim_subject": "warm water digestion",
     "verdict": "TRUE",
-    "scientific_truth": "Warm water can help break down food faster and improve digestion.",
-    "risk_level": "Low"
+    "scientific_truth": "Warm water can help break down food faster and improve digestion by increasing blood flow to the digestive tract and altering gut motility.",
+    "risk_level": "Low",
+    "source": "Gastroenterology Medical Consensus"
   },
   {
-    "claim_subject": "gym",
-    "verdict": "FALSE",
-    "scientific_truth": "Moderate exercise is highly beneficial; only extreme unguided overexertion is harmful.",
-    "risk_level": "Low"
+    "claim_subject": "moderate exercise cardiovascular health",
+    "verdict": "TRUE",
+    "scientific_truth": "Moderate aerobic exercise reduces resting heart rate and improves endothelial function, lowering the risk of cardiovascular disease.",
+    "risk_level": "Low",
+    "source": "WHO Physical Activity Guidelines"
   },
   {
-    "claim_subject": "curd",
+    "claim_subject": "curd night cold",
     "verdict": "FALSE",
-    "scientific_truth": "Curd is a probiotic and does not cause colds; however, some people prefer it at room temperature.",
-    "risk_level": "Low"
+    "scientific_truth": "Curd is a probiotic-rich food safe to eat at night. It does not induce viral respiratory infections. The gut microbiome benefits regardless of the time.",
+    "risk_level": "Low",
+    "source": "FSSAI Nutritional Guidelines"
+  },
+  {
+    "claim_subject": "plastic rice market",
+    "verdict": "FALSE",
+    "scientific_truth": "FSSAI has confirmed 'plastic rice' is physically impossible to manufacture at the claimed cost. Rice grains are starch-based and undergo Maillard reaction when burnt.",
+    "risk_level": "High",
+    "source": "FSSAI Myth Busters"
+  },
+  {
+    "claim_subject": "packaged milk urea",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "While milk adulteration occurs, branded pasteurised milk from FSSAI-licensed dairies meets safety standards. The claim that all milk contains dangerous urea levels is false.",
+    "risk_level": "Medium",
+    "source": "FSSAI Annual Food Safety Report"
+  },
+  {
+    "claim_subject": "giloy covid cure",
+    "verdict": "FALSE",
+    "scientific_truth": "Giloy is an immunomodulator, but no peer-reviewed clinical trial has proven it cures COVID-19. It acts via macrophage activation but does not directly neutralize SARS-CoV-2.",
+    "risk_level": "High",
+    "source": "Ministry of AYUSH Advisory"
+  },
+  {
+    "claim_subject": "kadha fever cure",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Kadha provides symptomatic relief due to anti-inflammatory properties of ginger and tulsi. It does not replace antipyretics to lower body temperature via the hypothalamus.",
+    "risk_level": "Medium",
+    "source": "Ministry of AYUSH Guidelines"
+  },
+  {
+    "claim_subject": "turmeric cancer cure",
+    "verdict": "FALSE",
+    "scientific_truth": "Curcumin has poor bioavailability. While it shows apoptotic effects on cancer cells in vitro, no human clinical trial has proven dietary turmeric cures systemic cancer.",
+    "risk_level": "High",
+    "source": "National Cancer Institute"
+  },
+  {
+    "claim_subject": "neem type 2 diabetes",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Neem extracts show hypoglycaemic effects in animal models by increasing peripheral glucose uptake. However, it cannot replace insulin or metformin therapy safely.",
+    "risk_level": "High",
+    "source": "Indian Journal of Pharmacology"
+  },
+  {
+    "claim_subject": "drinking water standing arthritis",
+    "verdict": "FALSE",
+    "scientific_truth": "Drinking water while standing does not cause arthritis. Joint synovial fluid is not affected by gastric fluid dynamics. Water reaches the stomach regardless of posture.",
+    "risk_level": "Low",
+    "source": "Orthopaedic Medical Consensus"
+  },
+  {
+    "claim_subject": "eating after 7pm obesity",
+    "verdict": "FALSE",
+    "scientific_truth": "Weight gain is governed by total caloric surplus (thermodynamics), not meal timing. The basal metabolic rate does not abruptly decrease simply because it is 7pm.",
+    "risk_level": "Low",
+    "source": "American Journal of Clinical Nutrition"
+  },
+  {
+    "claim_subject": "ashwagandha chronic stress",
+    "verdict": "TRUE",
+    "scientific_truth": "Ashwagandha acts as an adaptogen, significantly reducing serum cortisol levels and modulating the HPA axis to alleviate self-reported chronic stress.",
+    "risk_level": "Low",
+    "source": "Journal of Clinical Medicine"
+  },
+  {
+    "claim_subject": "lemon water liver detox",
+    "verdict": "FALSE",
+    "scientific_truth": "The liver processes toxins via cytochrome P450 enzymes. Lemon water provides ascorbic acid but does not flush toxins or alter hepatic detoxification pathways.",
+    "risk_level": "Low",
+    "source": "British Liver Trust"
+  },
+  {
+    "claim_subject": "cow urine cancer cure",
+    "verdict": "FALSE",
+    "scientific_truth": "Cow urine contains nitrogenous waste (urea, creatinine). No clinical evidence supports its use against malignant neoplasms, and raw consumption risks zoonotic infection.",
+    "risk_level": "High",
+    "source": "ICMR Guidelines"
+  },
+  {
+    "claim_subject": "mobile phone radiation cancer",
+    "verdict": "FALSE",
+    "scientific_truth": "Mobile phones emit non-ionizing radiofrequency radiation, which lacks the quantum energy required to break DNA bonds or cause oncogenic mutations.",
+    "risk_level": "Medium",
+    "source": "WHO Electromagnetic Fields Report"
+  },
+  {
+    "claim_subject": "onion socks flu toxins",
+    "verdict": "FALSE",
+    "scientific_truth": "The dermal layers of the feet cannot absorb large organic molecules from onions, nor excrete blood-borne viral pathogens or toxins out of the body.",
+    "risk_level": "Low",
+    "source": "Dermatology Consensus"
+  },
+  {
+    "claim_subject": "tulsi khali pet panacea",
+    "verdict": "FALSE",
+    "scientific_truth": "Tulsi (Ocimum sanctum) contains eugenol with antimicrobial effects. While beneficial, it is not a panacea and cannot cure arbitrary systemic diseases.",
+    "risk_level": "Medium",
+    "source": "Journal of Ayurveda and Integrative Medicine"
+  },
+  {
+    "claim_subject": "sugar child hyperactivity",
+    "verdict": "FALSE",
+    "scientific_truth": "Double-blind studies show no link between dietary sucrose and ADHD symptoms. The perceived hyperactivity is attributed to parent expectation bias.",
+    "risk_level": "Low",
+    "source": "American Academy of Pediatrics"
+  },
+  {
+    "claim_subject": "cracking knuckles arthritis",
+    "verdict": "FALSE",
+    "scientific_truth": "The sound is caused by the sudden collapse of nitrogen gas cavitation bubbles in synovial fluid, which does not damage cartilage or cause osteoarthritis.",
+    "risk_level": "Low",
+    "source": "Arthritis & Rheumatism Journal"
+  },
+  {
+    "claim_subject": "ghee cardiovascular disease",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "While high in saturated fat, ghee contains conjugated linoleic acid. Moderate consumption does not inherently cause atherosclerosis if total caloric intake is managed.",
+    "risk_level": "Medium",
+    "source": "Indian Heart Journal"
+  },
+  {
+    "claim_subject": "papaya early pregnancy miscarriage",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Raw papaya contains latex and papain, which can stimulate uterine prostaglandin production. However, fully ripe papaya is generally safe during pregnancy.",
+    "risk_level": "Medium",
+    "source": "British Journal of Nutrition"
+  },
+  {
+    "claim_subject": "cold water digestion stop",
+    "verdict": "FALSE",
+    "scientific_truth": "Cold water does not solidify fats or halt enzymatic breakdown. The stomach's thermal regulation quickly equalizes liquid temperature to 37\u00b0C.",
+    "risk_level": "Low",
+    "source": "Gastroenterology Consensus"
+  },
+  {
+    "claim_subject": "vitamin C megadose cold prevention",
+    "verdict": "FALSE",
+    "scientific_truth": "Ascorbic acid megadoses (>1g/day) do not prevent viral rhinoviruses in the general population, and excess is excreted via renal filtration.",
+    "risk_level": "Medium",
+    "source": "Cochrane Review"
+  },
+  {
+    "claim_subject": "5G towers covid-19",
+    "verdict": "FALSE",
+    "scientific_truth": "SARS-CoV-2 is an RNA virus transmitted via respiratory droplets. Electromagnetic radio waves (5G) cannot carry or synthesize biological pathogens.",
+    "risk_level": "High",
+    "source": "WHO / ICNIRP"
+  },
+  {
+    "claim_subject": "drinking bleach virus cure",
+    "verdict": "FALSE",
+    "scientific_truth": "Sodium hypochlorite (bleach) causes severe mucosal saponification and chemical burns in the esophagus. It does not selectively target intracellular viruses.",
+    "risk_level": "High",
+    "source": "CDC / Poison Control"
+  },
+  {
+    "claim_subject": "dietary iron severe anaemia",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Non-haeme iron from spinach prevents mild deficiency, but clinical anaemia requires concentrated ferrous sulphate supplements due to low intestinal absorption rates (~5%).",
+    "risk_level": "Medium",
+    "source": "ICMR Nutritional Guidelines"
+  },
+  {
+    "claim_subject": "coconut oil alzheimer's",
+    "verdict": "FALSE",
+    "scientific_truth": "There is no clinical evidence that medium-chain triglycerides (MCTs) in coconut oil alter amyloid-beta plaque formation or reverse neurodegeneration.",
+    "risk_level": "High",
+    "source": "Alzheimer's Association"
+  },
+  {
+    "claim_subject": "fish milk vitiligo",
+    "verdict": "FALSE",
+    "scientific_truth": "Vitiligo is an autoimmune condition causing localized melanocyte destruction. No biochemical interaction between fish protein and dairy triggers this localized depigmentation.",
+    "risk_level": "Low",
+    "source": "Indian Dermatology Online Journal"
+  },
+  {
+    "claim_subject": "copper vessel water panacea",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Copper surfaces exhibit the oligodynamic effect, degrading bacterial cell membranes. While it purifies water slightly, it does not cure systemic human diseases.",
+    "risk_level": "Low",
+    "source": "WHO Copper Guidelines"
+  },
+  {
+    "claim_subject": "surya namaskar type 1 diabetes",
+    "verdict": "FALSE",
+    "scientific_truth": "Type 1 diabetes is an autoimmune destruction of pancreatic beta cells. While yoga improves insulin sensitivity, it cannot regenerate beta cells or replace exogenous insulin.",
+    "risk_level": "High",
+    "source": "Indian Journal of Endocrinology"
+  },
+  {
+    "claim_subject": "jaggery diabetes safety",
+    "verdict": "FALSE",
+    "scientific_truth": "Jaggery consists primarily of sucrose and has a high glycaemic index (~84), causing rapid postprandial glucose spikes identical to refined sugar.",
+    "risk_level": "High",
+    "source": "ICMR Dietary Guidelines"
+  },
+  {
+    "claim_subject": "urine therapy systemic cure",
+    "verdict": "FALSE",
+    "scientific_truth": "Urine is a renal ultrafiltrate consisting of waste metabolites. Ingestion forces the kidneys to re-filter concentrated urea, offering no therapeutic mechanism.",
+    "risk_level": "High",
+    "source": "Medical Consensus"
+  },
+  {
+    "claim_subject": "blood type diet efficacy",
+    "verdict": "FALSE",
+    "scientific_truth": "ABO blood group antigens on erythrocyte surfaces do not biochemically interact with dietary lectins in a way that dictates overall metabolic health or disease risk.",
+    "risk_level": "Low",
+    "source": "PLOS ONE"
+  },
+  {
+    "claim_subject": "aluminium cookware alzheimer's",
+    "verdict": "FALSE",
+    "scientific_truth": "Dietary aluminium is poorly absorbed by the gastrointestinal tract and efficiently excreted by healthy kidneys. It is not the causal agent of amyloid plaques.",
+    "risk_level": "Medium",
+    "source": "Alzheimer's Research UK"
+  },
+  {
+    "claim_subject": "ajwain indigestion relief",
+    "verdict": "TRUE",
+    "scientific_truth": "Ajwain contains thymol, which acts as a carminative and antispasmodic, relaxing gastrointestinal smooth muscle to relieve acute bloating and dyspepsia.",
+    "risk_level": "Low",
+    "source": "Ayurvedic Pharmacopoeia of India"
+  },
+  {
+    "claim_subject": "sunlight neonatal jaundice",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "While UV ambient light slowly converts bilirubin to water-soluble isomers, clinical phototherapy uses concentrated 460nm blue light for rapid, controlled hepatic bypass.",
+    "risk_level": "Medium",
+    "source": "Indian Academy of Pediatrics"
+  },
+  {
+    "claim_subject": "dietary cholesterol egg blood level",
+    "verdict": "FALSE",
+    "scientific_truth": "Hepatic biosynthesis downregulates internal cholesterol production when dietary intake increases. For most individuals, eggs minimally impact serum LDL cholesterol.",
+    "risk_level": "Low",
+    "source": "American Heart Association"
+  },
+  {
+    "claim_subject": "sour foods kidney stones",
+    "verdict": "FALSE",
+    "scientific_truth": "Citric acid from sour foods actually binds urinary calcium, forming a soluble complex that prevents the crystallization of calcium oxalate renal calculi.",
+    "risk_level": "Low",
+    "source": "Urological Society of India"
+  },
+  {
+    "claim_subject": "haldi doodh fracture healing",
+    "verdict": "PARTIALLY TRUE",
+    "scientific_truth": "Calcium from milk supports osteoblast activity slowly. Curcumin offers mild analgesia. However, it cannot mechanically align or rapidly accelerate bone union.",
+    "risk_level": "Medium",
+    "source": "Orthopaedic Consensus"
+  },
+  {
+    "claim_subject": "methi seeds fasting glucose",
+    "verdict": "TRUE",
+    "scientific_truth": "Fenugreek seeds contain galactomannan soluble fibre, which delays gastric emptying and slows intestinal carbohydrate absorption, mitigating postprandial glucose spikes.",
+    "risk_level": "Low",
+    "source": "Nutrition Research"
+  },
+  {
+    "claim_subject": "wheat leaky gut general population",
+    "verdict": "FALSE",
+    "scientific_truth": "Gluten-induced mucosal enteropathy (increased intestinal permeability) occurs only in individuals with Coeliac disease or NCGS (~1%), not the general population.",
+    "risk_level": "Low",
+    "source": "Gastroenterology Journal"
+  },
+  {
+    "claim_subject": "aloe vera juice chronic skin disease",
+    "verdict": "FALSE",
+    "scientific_truth": "While aloe mucilage has topical anti-inflammatory properties, oral ingestion does not systemically cure autoimmune dermatoses like psoriasis or severe eczema.",
+    "risk_level": "Medium",
+    "source": "British Journal of Dermatology"
+  },
+  {
+    "claim_subject": "msg brain damage",
+    "verdict": "FALSE",
+    "scientific_truth": "Dietary glutamate does not cross the intact blood-brain barrier. Monosodium glutamate is metabolized by intestinal enterocytes and is generally recognized as safe.",
+    "risk_level": "Low",
+    "source": "FDA GRAS Database"
+  },
+  {
+    "claim_subject": "oil pulling systemic disease",
+    "verdict": "FALSE",
+    "scientific_truth": "Swishing lipids (oil pulling) mechanically saponifies oral biofilms, reducing gingivitis. It has no mechanism to draw out vascular toxins or cure heart disease.",
+    "risk_level": "Low",
+    "source": "American Dental Association"
+  },
+  {
+    "claim_subject": "khichdi complete protein",
+    "verdict": "TRUE",
+    "scientific_truth": "Rice (rich in methionine) and lentils (rich in lysine) provide complementary amino acid profiles, forming a highly bioavailable complete protein source.",
+    "risk_level": "Low",
+    "source": "ICMR Dietary Guidelines"
+  },
+  {
+    "claim_subject": "microwaves cancer radiation",
+    "verdict": "FALSE",
+    "scientific_truth": "Microwaves use non-ionizing radiofrequency to agitate water molecules via dielectric heating. They do not alter molecular structures to form carcinogenic compounds.",
+    "risk_level": "Low",
+    "source": "FDA Radiation-Emitting Products"
+  },
+  {
+    "claim_subject": "fluoride water iq reduction",
+    "verdict": "FALSE",
+    "scientific_truth": "Optimal community water fluoridation (0.7 ppm) prevents dental caries via enamel remineralization. High-quality epidemiological studies show no neurodevelopmental impact.",
+    "risk_level": "Medium",
+    "source": "CDC / WHO"
+  },
+  {
+    "claim_subject": "activated charcoal vaccine detox",
+    "verdict": "FALSE",
+    "scientific_truth": "Oral activated charcoal adsorbs intragastric toxins. It cannot cross the intestinal mucosa to bind intramuscular vaccine components in the bloodstream.",
+    "risk_level": "High",
+    "source": "Medical Toxicology Consensus"
+  },
+  {
+    "claim_subject": "black tea iron absorption",
+    "verdict": "TRUE",
+    "scientific_truth": "Polyphenols (tannins) in black tea strongly chelate non-haeme iron in the gut lumen, forming insoluble complexes that significantly inhibit intestinal iron absorption.",
+    "risk_level": "Low",
+    "source": "American Journal of Clinical Nutrition"
+  },
+  {
+    "claim_subject": "soy products male feminization",
+    "verdict": "FALSE",
+    "scientific_truth": "Phytoestrogens (isoflavones) in soy bind very weakly to mammalian estrogen receptors. Clinical meta-analyses show soy does not alter bioavailable testosterone in men.",
+    "risk_level": "Low",
+    "source": "Fertility and Sterility Journal"
   }
 ]

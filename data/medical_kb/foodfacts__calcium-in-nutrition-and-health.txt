@@ -1,0 +1,68 @@
+SOURCE: FoodFacts.org.za
+TITLE: Calcium in Nutrition and Health
+URL: https://foodfacts.org.za/calcium-in-nutrition-and-health/
+────────────────────────────────────────────────────────────
+
+Calcium is a divalent cation with an atomic weight of 40. In the elementary composition of the human body, it ranks fifth after oxygen, carbon, hydrogen, and nitrogen, and it makes up approximately 2% of total body weight (Peacock, 2010). Our bodies contain around 1200 g of calcium. Only 1% of this calcium is in the body fluids (the extracellular fluid, the blood, and the cellular fluid), the rest (99%) is incorporated in bones and teeth (Beto, 2015).
+Dietary reference intakes for adequacy
+Table 1: Calcium Dietary Reference Intakes (DRIs) for Adequacy (amount/day) (Institute of Medicine, 2011)
+| Life stage group | Calcium (mg/d) | Life stage group | Calcium (mg/d) |
+| 1-3 years | 700 | 9-18 years | 1 300 |
+| 4-8 years | 1 000 | 19-50 years | 1 000 |
+| Males | >50 years | 1 200 | |
+| 9-18 years | 1 300 | Pregnancy and Lactation | |
+| 19-70 years | 1 000 | <19 years | 1 300 |
+| >70 years | 1 200 | 19-50 years | 1 000 |
+Calcium requirements for infants (0-12 months) are presumed to be met by human milk.
+Good sources of calcium include milk and other dairy products, kale, kelp, tofu, canned fish with bones, peanuts, walnuts, sunflower seeds, broccoli, cauliflower and soybeans. Fortified foods such as fruit juices, breads and cereals are also common sources of calcium in some countries. Calcium in hard water and some mineral waters may be important dietary sources for some people. Calcium supplementation is another alternative.
+Table 1: Calcium content of some food sources (Wolmarans, et al., 2010).
+| Food | Calcium content (mg/100 ml or 100g) | #Calcium (mg) per serving |
+| Almonds (dried, blanched) | 247 | 20 |
+| Bread (wholewheat) | 57 | 46 |
+| Broccoli (cooked) | 46 | 39 |
+| Cauliflower (cooked) | 27 | 23 |
+| Cereal (All Bran Flakes) | 50 | 20 |
+| Cereal (Pronutro, wholewheat) | 460 | 184 |
+| Cheddar Cheese | 788 | 236 |
+| Fish (Anchovy, canned in oil, solids only) | 232 | 128 |
+| Lentils (whole, cooked) | 27 | 30 |
+| Milk (full cream) | 120 | 300 |
+| Milk (low fat) | 122 | 305 |
+| Peanuts (roasted, unsalted) | 88 | 7 |
+| Rhubarb (cooked without sugar) | 145 | 123 |
+| Sesame seeds (dried, hulled) | 131 | 10 |
+| Soybeans (dried, cooked) | 102 | 112 |
+| Spinach (cooked) | 136 | 116 |
+| Sunflower seed (dried) | 116 | 9 |
+| Yoghurt (fruit) | 145 | 254 |
+| Yoghurt (plain) | 150 | 263 |
+#Serving sizes based on: 85 g (half cup) of vegetables, 80 g (2 slices) of bread, 30 g of cheese, 55g of canned fish, 250 ml (cup) of milk and juice, 175g of yoghurt, 125 g (half cup) of tofu, 110 g (half cup) of soybeans, 8 g for nuts and seeds and 40 g of cereal.
+Absorption and bioavailability of calcium from the diet
+Foods and diets are far more than the sum of their single nutrients. Single nutrients are not consumed in isolation – many factors within a food influence the effects of a single nutrient and it is inaccurate to generalize about the effects of a single nutrient without considering the food it is present in. Calcium must be in a soluble form, generally ionized (Ca2+), at least in the upper small intestine or bound to a soluble organic molecule before it can cross the wall of the intestine (Guéguen & Pointillart, 2000).
+Absorption is taking place from the first and second part of duodenum against concentration gradients. When calcium intake is adequate, differences in bioavailability, as from increased solubilisation, play no or only a minor role in the amount of calcium that is absorbed or deposited in the skeleton. When, however, the dietary calcium intake is low and in the form of poorly soluble or poorly digestible sources (e.g., some green leafy vegetables), the decrease in calcium absorption compared to a source like milk becomes nutritionally significant (Bronner & Pansu, 1999).
+The absorbability of calcium affects calcium utilisation by the body. Several molecules in the diet solubilise calcium or keep it in solution within the ileum, in particular phosphor-peptides derived from casein and amino acids like L-lysine and L-arginine, which form soluble chelates with calcium (Scholz-Arens & Schrezenmeir, 2000). Lactose, lactic acid and other carbohydrates, which are more gradually absorbed, also have an effect, but the mechanism involved is still a matter of controversy. It is now generally agreed that lactose, at least in high doses (15% – 30%), increases the passive absorption of calcium (Guéguen & Pointillart, 2000; Kwak, et al., 2012). Bacterial fermentation may also enhance calcium absorption in fermented milk (Pretorius & Schönfeldt, 2013).
+On the other hand, organic acids such as oxalate (found in green leafy vegetables) and phytates (found in grain products) forms insoluble complexes with calcium at near-neutral pH values and may decrease calcium absorption (Kärkkäinen, et al., 1997; Heaney, et al., 1988). Calcium found in vegetables or other non-fluid foods cannot go into solution until at least some part of the food has been digested. Calcium must be dissociated from its ligands in a foodstuff prior to absorption. Therefore foods with high fibre content are likely to be poorer sources of calcium than foods that contain less or no fibre but an equivalent amount of calcium (Bronner & Pansu, 1999).
+From a nutrition standpoint, both calcium content and bioavailability are important. Bioavailability is simply the proportion of an ingested nutrient that is available for metabolic processes and storage (Schönfeldt, et al., 2016). Bioavailability is a major issue with dietary calcium, as it can vary significantly in different dietary sources. Intestinal calcium absorption from dairy products has been estimated to range between 32% and 35%, but from spinach (rich in oxalates) it was a mere 5% (Weaver, et al., 1999). In practical terms this suggests that although the label indicates the foods or beverages have the same calcium per serving, in fact the bioavailability, or the amount of calcium the body absorbs and uses from the food will be different. Dairy is not the only food with a high calcium bioavailability. Calcium in cabbage, bok choy (type of Chinese cabbage) and broccoli is also highly bioavailable. However, because their total calcium content is lower than in dairy, you would need to eat a lot more servings to reach the DRI for calcium.
+It is important to always remember that it is difficult to discuss calcium alone. Calcium metabolism is a collaborative process between involving other nutrients, such as phosphorus, vitamin D and protein.
+In human milk the ratio of calcium to phosphorus is as much as 2:1 or slightly higher. In cow’s milk the ratio is typically 1:0.8. It has been suggested that the extra phosphate somehow “leaches calcium out of the bones” into the urine, but this has not been proven. Phosphorus does inhibit calcium absorption to a small degree, but it also reduces calcium excretion. Adequate intakes of calcium and phosphorus are required for normal bone mineralisation (Heaney, 2009; Peacock, 2010). There are indications that excess phosphorus in the diet (eg. high consumption of soda drinks) may adversely affect bone health, but it must be remembered that this is in the context of the overall diet, and that merely comparing ratios in individual foods cannot predict the effects in the body when other foods are also consumed. It is reported that a Ca:P molar ratio higher than 0·50 is sufficient when dietary Ca intake is at the recommended level (Kemi, et al., 2010).
+The lactose concentration in bovine milk is about 5 g / 100 ml (Wolmarans, et al., 2010). People often confuse a milk allergy with lactose intolerance, but they are not the same thing. Lactose intolerance is common in many adults throughout the world, and is caused by deficiency of intestinal lactase. Avoiding all lactose is seldom necessary, and persons with lactose intolerance can usually ingest limited amounts of milk without having negative symptoms. To ingest milk with a meal may also improve tolerance. Instead of drinking regular milk, fermented milk, yoghurt and cheese may be an alternative option, as fermented dairy products contains less lactose than fresh milk, and it also may contain bacterial lactase that may be activated when the fermented milk reaches the gut (Haug, et al., 2007).
+Bone formation and maintenance is a lifelong process. Early attention to strong bones in childhood and adulthood will provide more stable bone mass during the aging years.
+Both adolescents and elderly populations often have high risk of calcium deficiency due to dietary habits. Adolescents throughout the world are growing in risk due to dietary pattern changes. Many adolescents decrease calcium intake by substituting milk with soda drinks or due to eating disorders. The elderly are at risk for multiple reasons including low calcium intake over time, medication interactions that may decrease dietary calcium absorption, and osteoporosis that changes bone formation and strength (Beto, 2015).
+Consumption of adequate dietary calcium can be accomplished within a variety of tastes and lifestyle choices. For most individuals, liberal consumption of dairy products is the easiest approach and is the least restrictive. On the other hand, those who choose to meet their calcium needs completely from plant sources need to be aware of not only the calcium content of plants but also the bioavailability of the calcium because other plant constituents can inhibit calcium absorption.
+Beto, J. A., 2015. The role of calcium in human aging. Clinical Nutrition Research, 4(1), pp. 1-8.
+Bronner, F. & Pansu, D., 1999. Nutritional aspects of calcium absorption. Journal of Nutrition, Volume 129, pp. 9-12.
+Guéguen, L. & Pointillart, A., 2000. The bioavailability of dietary calcium. Journal of the American College of Nutrition, 19(2), pp. 119S-136S.
+Haug, A., Høstmark, A. T. & Harstad, O. M., 2007. Bovine milk in human nutrition – a review. Lipids in Health and Disease, 6(25).
+Heaney, R. P., 2009. Dairy and bone Health. Journal of the American Collegae of Nutrition, 28(1), pp. 82S-90S.
+Heaney, R. P., Weaver, C. M. & Recker, R. R., 1988. Calcium absorbability from spinach. American Journal of Clinical Nutrition, Volume 47, pp. 707-709.
+Institute of Medicine, 2011. Dietary reference intakes for calcium and vitamin D. Washinton, DC: The National Akademies Press.
+Kärkkäinen, M., Wiersma, J. & Lamberg-Allardt, C., 1997. Postprandial parathyroid hormone response to four calcium-rich foodstuffs. American Journal of Clinical Nutrition, 65(6), pp. 1726-1730.
+Kemi, V. E. et al., 2010. Low calcium:phosphorus ratio in habitual diets affects serum parathyroid hormone concentration and calcium metabolism in healthy women with adequate calcium intake. British Journal of Nutrition, Volume 103, pp. 561-568.
+Kwak, H.-S., Lee, W.-J. & Lee, M.-R., 2012. Revisiting lactose as an enhancer of calcium absorption. International Dairy Journal, Volume 22, pp. 147-151.
+Peacock, M., 2010. Caliucm metabolism in health and disease. Clinical Journal of the American Society of Nephrology, Volume 5, pp. S23-S30.
+Pretorius, B. & Schönfeldt, H. C., 2013. Metabolic effect of milk and fermented milk on parathyroid hormone response and bone metabolism. Cape Town, Proceedings of the Nutrition and Health conference IDF World Dairy Summit 2012.
+Scholz-Arens, K. E. & Schrezenmeir, J., 2000. Effects of bioactive substances in milk on mineral and trace element metabolism with special reference to casein phosphopeptides. British Journal of Nutrition, 84(Supplement 1), pp. S147-S153.
+Schönfeldt, H. C., Pretorius, B. & Hall, N., 2016. Bioavailability of nutrients. In: B. Caballero, P. Finglass & F. Toldrá, eds. The Encyclopedia of Food and Health. Volume 1 ed. Oxford: Academic Press.
+Weaver, C. M., Proulx, W. R. & Heaney, R., 1999. Choices for achieving adequate dietary calcium with a vegetarian diet. American Journal of Clinical Nutrition, Volume 70, pp. 543S-548S.
+Wolmarans, P. et al., 2010. Condensed Food Composition Tables for South Africa. Cape Town: Medical Research Council.
+Updated for FACS by BPr (2018).

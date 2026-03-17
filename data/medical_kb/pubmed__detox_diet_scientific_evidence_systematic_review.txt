@@ -1,0 +1,45 @@
+SOURCE: PUBMED
+TOPIC: detox diet scientific evidence systematic review
+────────────────────────────────────────────────────────────
+
+1. Healthcare (Basel). 2025 Oct 30;13(21):2763. doi: 10.3390/healthcare13212763.
+
+The Impact of Social Media on Health Behaviors, a Systematic Review.
+
+Paul B(1), Headley-Johnson SA(2).
+
+Author information:
+(1)School of Applied Human Development, College of Education & Human 
+Development, Bowling Green State University, Bowling Green, OH 43403, USA.
+(2)Health Sciences Department, Purdue Global University, West Lafayette, IN 
+47907, USA.
+
+Background: Social media has transformed and influenced how health information 
+is accessed, how people engage in health-promoting behaviors, and how they 
+develop attitudes toward wellness. Methods: This systematic review examines the 
+impact of social media on various health behaviors from 2010 to 2025. Guided by 
+the PRISMA-ScR framework, and after screening 436 articles from databases such 
+as PubMed, PsycINFO, Scopus, and CINAHL, 82 studies were included that were 
+published in English, and examined Social Media's influence on health-related 
+behaviors. Results: Thematic synthesis revealed five dominant categories: 
+physical activity and fitness, dietary behaviors and nutrition, mental health 
+and wellbeing, substance use and risky behavior, and health misinformation. The 
+platform, content exposure, and user engagement are all factors that can 
+contribute to social media being an enabler and an obstacle to positive health 
+behavior change. Conclusions: This review identifies key knowledge gaps, 
+highlights emerging trends, and provides direction for future interdisciplinary 
+research and public health strategies. This review was not registered and 
+received no funding.
+
+DOI: 10.3390/healthcare13212763
+PMCID: PMC12608964
+PMID: 41228133
+
+Conflict of interest statement: Health influencers often lack formal training 
+but wield substantial sway. Digital influencers are perceived as relevant 
+because of the shared experiences and opinions they provide [53]. Sponsored 
+content, such as detox teas, and miracle supplements are commonly promoted by 
+fitness or wellness influencers with limited evidence-based backing [54]. A 
+small number of influencers disclose conflicts of interest or cite scientific 
+sources, which contributes to misinformation and commercialization of health 
+behaviors [52,55]. The authors declare no conflicts of interest.

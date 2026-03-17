@@ -1,0 +1,354 @@
+SOURCE: PUBMED
+TOPIC: vitamin C immune system randomized controlled trial
+────────────────────────────────────────────────────────────
+
+1. Nutrients. 2020 Aug 14;12(8):2447. doi: 10.3390/nu12082447.
+
+The Effect of a Multivitamin and Mineral Supplement on Immune Function in 
+Healthy Older Adults: A Double-Blind, Randomized, Controlled Trial.
+
+Fantacone ML(1), Lowry MB(2), Uesugi SL(3), Michels AJ(3), Choi J(3), Leonard 
+SW(3), Gombart SK(3), Gombart JS(3), Bobe G(4), Gombart AF(1).
+
+Author information:
+(1)Linus Pauling Institute, Department of Biochemistry & Biophysics, Oregon 
+State University, Corvallis, OR 97331, USA.
+(2)Linus Pauling Institute, Department of Microbiology, Oregon State University, 
+Corvallis, OR 97331, USA.
+(3)Linus Pauling Institute, Oregon State University, Corvallis, OR 97331, USA.
+(4)Linus Pauling Institute, Department of Animal & Rangeland Sciences, Oregon 
+State University, Corvallis, OR 97331, USA.
+
+Older adults are at increased risk for vitamin and mineral deficiencies that 
+contribute to age-related immune system decline. Several lines of evidence 
+suggest that taking a multi-vitamin and mineral supplement (MVM) could improve 
+immune function in individuals 55 and older. To test this hypothesis, we 
+provided healthy older adults with either an MVM supplement formulated to 
+improve immune function (Redoxon® VI, Singapore) or an identical, inactive 
+placebo control to take daily for 12 weeks. Prior to and after treatment, we 
+measured (1) their blood mineral and vitamin status (i.e., vitamin C, zinc and 
+vitamin D); (2) immune function (i.e., whole blood bacterial killing activity, 
+neutrophil phagocytic activity, and reactive oxygen species production); (3) 
+immune status (salivary IgA and plasma cytokine/chemokine levels); and (4) 
+self-reported health status. MVM supplementation improved vitamin C and zinc 
+status in blood and self-reported health-status without altering measures of 
+immune function or status or vitamin D levels, suggesting that healthy older 
+adults may benefit from MVM supplementation. Further development of functional 
+assays and larger study populations should improve detection of specific changes 
+in immune function after supplementation in healthy older adults. Clinical 
+Trials Registration: ClinicalTrials.gov #NCT02876315.
+
+DOI: 10.3390/nu12082447
+PMCID: PMC7468989
+PMID: 32823974 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+A.F.G. has consulted for Bayer Consumer Care AG for educational purposes. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+2. Pharmacotherapy. 2013 Aug;33(8):838-55. doi: 10.1002/phar.1264. Epub 2013 Apr 
+11.
+
+Age-related macular degeneration.
+
+Cheung LK(1), Eaton A.
+
+Author information:
+(1)Department of Pharmacy Practice, Texas Southern University, College of 
+Pharmacy and Health Sciences, Houston, Texas, USA. cheunglk@tsu.edu
+
+Age-related macular degeneration (AMD) is the leading cause of blindness in the 
+elderly, and the prevalence of the disease increases exponentially with every 
+decade after age 50 years. It is a multifactorial disease involving a complex 
+interplay of genetic, environmental, metabolic, and functional factors. Besides 
+smoking, hypertension, obesity, and certain dietary habits, a growing body of 
+evidence indicates that inflammation and the immune system may play a key role 
+in the development of the disease. AMD may progress from the early form to the 
+intermediate form and then to the advanced form, where two subtypes exist: the 
+nonneovascular (dry) type and the neovascular (wet) type. The results from the 
+Age-Related Eye Disease Study have shown that for the nonneovascular type of 
+AMD, supplementation with high-dose antioxidants (vitamin C, vitamin E, and 
+β-carotene) and zinc is recommended for those with the intermediate form of AMD 
+in one or both eyes or with advanced AMD or vision loss due to AMD in one eye. 
+As for the neovascular type of the advanced AMD, the current standard of therapy 
+is intravitreal injections of vascular endothelial growth factor inhibitors. In 
+addition, lifestyle and dietary modifications including improved physical 
+activity, reduced daily sodium intake, and reduced intake of solid fats, added 
+sugars, cholesterol, and refined grain foods are recommended. To date, no study 
+has demonstrated that AMD can be cured or effectively prevented. Clearly, more 
+research is needed to fully understand the pathophysiology as well as to develop 
+prevention and treatment strategies for this devastating disease.
+
+© 2013 Pharmacotherapy Publications, Inc.
+
+DOI: 10.1002/phar.1264
+PMID: 23580402 [Indexed for MEDLINE]
+
+
+3. J Am Coll Nutr. 2020 Jul;39(5):422-431. doi: 10.1080/07315724.2019.1684398.
+Epub  2019 Nov 20.
+
+Vitamin C Bioequivalence from Gummy and Caplet Sources in Healthy Adults: A 
+Randomized-Controlled Trial.
+
+Evans M(1), Guthrie N(1), Zhang HK(2), Hooper W(2), Wong A(2), Ghassemi A(2).
+
+Author information:
+(1)KGK Science Inc, London, Ontario, Canada.
+(2)Church & Dwight Co., Inc, Ewing, New Jersey, USA.
+
+Background: The efficacy of Vitamin C (L-ascorbic acid) supplementation can be 
+assessed by uptake into the blood and retention in leukocytes. Vitafusion® Power 
+C gummy is an alternative vitamin C source which may exhibit similar 
+bioavailability to comparator caplets.Objective: The objective of this study was 
+to evaluate the bioequivalence of vitamin C from a vitafusion® Power C gummy 
+formulation and a comparator caplet in healthy adults.Methods: Thirty healthy 
+men and women, 34.0 ± 11.4 years of age and Body Mass Index (BMI) 
+24.5 ± 3.6 kg/m2 completed the randomized examiner-blind, comparator controlled, 
+cross-over trial with two sequences: gummy (1000 mg) to caplet (1000 mg) or 
+caplet to gummy. Intake of foods fortified with Vitamin C was restricted 7 days 
+prior to each dosing. Blood samples were collected pre-dose and at 0.5, 1, 2, 3, 
+4, 5, 6, 8, 10, 12 and 24 h post-dose for plasma and leukocytes; and urine was 
+collected pre-dose and between 0-2, 2-4, 4-8, 8-12 and 12-24 h post-dose for 
+L-ascorbic acid analysis.Results: Vitafusion® Power C gummy and comparator 
+caplet demonstrated similar plasma absorption profiles as there were no 
+significant differences in plasma L-ascorbic acid total Area Under the Curve 
+(AUC)0-24h, and Tmax between gummy and caplet. The caplet did elicit a 
+significantly higher Cmax than the gummy (p < 0.05), however, the difference was 
+numerically small. Leukocyte L-ascorbic acid total AUC0-24h and Cmax were not 
+significantly different between gummy and caplet, however Tmax of the gummy 
+group was significantly longer (p = 0.012). Urinary L-ascorbic acid levels were 
+also not significantly different between gummy and caplet. There were no serious 
+adverse events and safety parameters remained within normal clinical range for 
+both products.Conclusion: Vitafusion® Power C gummy exhibited similar Vitamin C 
+absorption and bioavailability to a comparator caplet in healthy adults and were 
+considered bioequivalent.
+
+DOI: 10.1080/07315724.2019.1684398
+PMID: 31747355 [Indexed for MEDLINE]
+
+
+4. Eur J Nutr. 2024 Dec;63(8):3037-3046. doi: 10.1007/s00394-024-03487-8. Epub
+2024  Sep 6.
+
+Liposomal delivery enhances absorption of vitamin C into plasma and leukocytes: 
+a double-blind, placebo-controlled, randomized trial.
+
+Purpura M(1), Jäger R(2), Godavarthi A(3), Bhaskarachar D(4), Tinsley GM(5).
+
+Author information:
+(1)Increnovo LLC, 730 E Carlisle Ave, Whitefish Bay, WI, 53217, USA. 
+martin.purpura@increnovo.com.
+(2)Increnovo LLC, 730 E Carlisle Ave, Whitefish Bay, WI, 53217, USA.
+(3)Radiant Research Services Pvt. Ltd, Bangalore, 560058, India.
+(4)Department of Medicine, Shetty's Hospital, 2nd F Main Rd, Kaveri Nagar, 
+Bommanahalli, Bengaluru, Karnataka, 560 068, India.
+(5)Energy Balance & Body Composition Laboratory, Department of Kinesiology & 
+Sport Management, Texas Tech University, Lubbock, TX, USA.
+
+PURPOSE: L-Ascorbic acid (vitamin C) is an essential water-soluble vitamin that 
+plays an important role in various physiological functions, including immune 
+health. The stability of vitamin C in the gastrointestinal tract its 
+bioavailability is limited. This study aimed to investigate if a liposomal form 
+of vitamin C can increase absorption compared to standard vitamin C.
+METHODS: In a randomized, double-blind, placebo-controlled, crossover fashion, 
+19 males and 8 females (n = 27; 36.0 ± 5.1 years, 165.0 ± 6.9 cm, 70.6 ± 7.1 kg) 
+ingested a single-dose of placebo (PLA), 500 mg vitamin C (VIT C), and 500 mg 
+liposomal vitamin C (LV-VIT C, LipoVantage®, Specnova, LLC, Tyson Corner, VA, 
+USA). Venous blood samples were collected 0, 0.5-, 1-, 1.5-, 2-, 3-, 4-, 6-, 8-, 
+12-, and 24-hours after ingestion and were analyzed for plasma and leukocyte 
+vitamin C concentration.
+RESULTS: VIT C and LV-VIT C demonstrated significantly greater Cmax and 
+AUC0 - 24 in plasma and in leukocytes compared to placebo (p < 0.001). 
+Additionally, LV-VIT C had significantly higher Cmax (plasma + 27%, 
+leukocytes + 20%, p < 0.001) and AUC0 - 24 (plasma + 21%, leukocytes + 8%, 
+p < 0.001) values as compared to VIT C.
+CONCLUSION: Liposomal formulation of vitamin C increases absorption into plasma 
+and leukocytes.
+TRIAL REGISTRATION: Clinical Trials Registry - India (CTRI/2023/04/051789).
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00394-024-03487-8
+PMCID: PMC11519160
+PMID: 39237620 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+5. Int J Clin Pharmacol Ther. 2022 Sep;60(9):384-391. doi: 10.5414/CP204182.
+
+Effect of vitamin C on immune reconstitution after bone marrow transplantation.
+
+Urbalejo-Ceniceros VI, Rocha-González HI, Acosta-Maldonado BL, Valero-Saldaña 
+LM, Hernández-Alcantara AE, Pérez-Camargo DA.
+
+BACKGROUND: Vitamin C is an essential nutrient for the adequate function and 
+maturation of the immune system. In vitro studies show that the development, 
+proliferation, and functioning of T cells requires vitamin C, especially for 
+natural killer (NK) cells. Their deficiency during the acute phase 
+post-transplantation could cause greater morbidity and mortality in these 
+patients. A prospective clinical trial using high-dose vitamin C was performed 
+to determine if vitamin C supplementation improves reconstitution of NK 
+lymphocytes after hematopoietic stem cell transplantation (HSCT).
+MATERIALS AND METHODS: We enrolled 24 patients who underwent autologous HSCT for 
+multiple myeloma and lymphoma. Patients were randomized to receive standard 
+treatment or standard treatment plus 20 g vitamin C once daily (1 - 10 days) and 
+500 mg twice daily (11 - 100 days) after transplantation.
+RESULTS: NK and CD3+ lymphocytes showed an increase from days +30 to +100 only 
+in the vitamin C-treated group. Patients in the vitamin C group had a lower 
+frequency of infections. No severe adverse events were reported.
+CONCLUSION: Our results suggest that high-dose vitamin C supplementation is an 
+effective and safe therapeutic option to decrease the frequency of infections 
+and enhance immune reconstitution after HSCT.
+
+DOI: 10.5414/CP204182
+PMID: 35713160 [Indexed for MEDLINE]
+
+
+6. Nutrients. 2022 Nov 11;14(22):4784. doi: 10.3390/nu14224784.
+
+No Effect of Vitamin C Administration on Neutrophil Recovery in Autologous Stem 
+Cell Transplantation for Myeloma or Lymphoma: A Blinded, Randomized 
+Placebo-Controlled Trial.
+
+van Gorkom GNY(1), Boerenkamp LS(1), Gijsbers BLMG(1), van Ojik HH(1), Wodzig 
+WKWH(2), Wieten L(3), Van Elssen CHMJ(1), Bos GMJ(1).
+
+Author information:
+(1)Department of Internal Medicine, Division of Hematology, GROW School for 
+Oncology and Developmental Biology, Maastricht University Medical Center, 6229 
+HX Maastricht, The Netherlands.
+(2)Central Diagnostic Laboratory, Department of Clinical Chemistry, Maastricht 
+University Medical Center, 6229 HX Maastricht, The Netherlands.
+(3)Department of Transplantation Immunology, Maastricht University Medical 
+Center, 6229 HX Maastricht, The Netherlands.
+
+Vitamin C is an important micronutrient for various immune cells. It increases 
+phagocytic cell function and is necessary for T and natural killer (NK) cell 
+development. Patients in need of an autologous hematopoietic stem cell 
+transplantation (HSCT) are often vitamin C-depleted. We therefore hypothesized 
+that vitamin C supplementation could improve immune recovery in autologous HSCT 
+patients. This blinded, placebo-controlled trial included 44 patients randomized 
+to receive vitamin C or a placebo. The following outcome measures used were 
+clinical and immunological parameters, among others: time to neutrophil 
+recovery, serum, and intracellular vitamin C values. Twenty-one patients 
+received vitamin C, and 23 received a placebo. The time to neutrophil recovery 
+did not differ between the two groups at 11.2 days (p = 0.96). There were no 
+differences in hospitalization time (19.7 vs. 19.1 days, p = 0.80), the 
+incidence of neutropenic fever (57% vs. 78%, p = 0.20), or 3-month overall 
+survival (90.5% vs. 100%, p = 0.13). Bacteremia seemed to occur less in the 
+vitamin C group (10% vs. 35%, p = 0.07). Our study shows no benefit from vitamin 
+C supplementation on neutrophil recovery and hospitalization, despite possible 
+lower rates of bacteremia in the vitamin C group. Therefore, we do not advise 
+vitamin C supplementation in this treatment group.
+
+DOI: 10.3390/nu14224784
+PMCID: PMC9698268
+PMID: 36432471 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. Mutat Res Genet Toxicol Environ Mutagen. 2020 Feb-Mar;850-851:503150. doi: 
+10.1016/j.mrgentox.2020.503150. Epub 2020 Feb 4.
+
+The effect of vitamin E and C on comet assay indices and apoptosis in power 
+plant workers: A double blind randomized controlled clinical trial.
+
+Bagheri Hosseinabadi M(1), Khanjani N(2), Atashi A(3), Norouzi P(3), Mirbadie 
+SR(3), Mirzaii M(4).
+
+Author information:
+(1)School of Public Health, Shahroud University of Medical Sciences, Shahroud, 
+Iran.
+(2)Environmental Health Engineering Research Center, Kerman University of 
+Medical Sciences, Kerman, Iran.
+(3)School of Medicine, Shahroud University of Medical Sciences, Shahroud, Iran.
+(4)School of Medicine, Shahroud University of Medical Sciences, Shahroud, Iran. 
+Electronic address: mirzaii1386@gmail.com.
+
+Extremely low frequency electromagnetic fields have been classified as a 
+possible human carcinogen by the International Agency for Research on Cancer and 
+this has raised some concern about its health effects on employees extensively 
+exposed to these fields at thermal power plants. In this study, the effect of 
+using vitamin E and C supplements have been examined on employees working at a 
+thermal power plant. In this randomized controlled, double-blind clinical trial, 
+81 employees from different parts of the thermal power plant were enrolled 
+between July and November 2017, and divided into four groups: Group 1 received 
+vitamin E (400 units/day), Group 2: vitamin C (1000 mg/day), Group 3: vitamin E 
++ C and Group 4: no intervention. DNA damage was measured in peripheral blood 
+lymphocytes using comet assay and apoptosis, using flow cytometry. Based on the 
+results, tail intensity and tail length in the vitamin E group, and all comet 
+assay indices in the vitamin E + C and vitamin C groups (except DNA damage 
+index) significantly decreased after the intervention, while the comet assay 
+indices did not change significantly in the control group. None of the flow 
+cytometry indices including early apoptosis, late apoptosis and necrosis changed 
+after intervention in either group. The use of antioxidant vitamins such as E 
+and C, can increase the activity of the non-enzymatic antioxidant defense 
+system, and protect DNA from damage caused by exposure to extremely low 
+frequency magnetic fields. But, taking these vitamins has no effect on 
+apoptosis. It seems that consumption of vitamin E affected all investigated 
+comet assay indices and can be probably considered as the best intervention.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mrgentox.2020.503150
+PMID: 32247559 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
+
+
+8. Int J Vitam Nutr Res. 2022 Jan;92(1):13-34. doi: 10.1024/0300-9831/a000693.
+Epub  2021 Jan 25.
+
+The coronavirus disease (COVID-19) - A supportive approach with selected 
+micronutrients.
+
+Gröber U(1), Holick MF(2).
+
+Author information:
+(1)Academy for Micronutrient medicine (AMM), Essen, Germany.
+(2)Boston University Medical Center, Massachusetts, USA.
+
+Worldwide the pandemic of COVID-19 spreads rapidly and has had an enormous 
+public health impact with substantial morbidity and mortality especially in 
+high-risk groups, such as older people and patients with comorbidities like 
+diabetes, dementia or cancer. In the absence of a vaccine against COVID-19 there 
+is an urgent need to find supportive therapies that can stabilize the immune 
+system and can help to deal with the infection, especially for vulnerable groups 
+such as the elderly. This is especially relevant for our geriatric institutions 
+and nursing homes. A major potential contributing factor for elderly is due to 
+their high incidence of malnutrition: up to 80% among the hospitalized elderly. 
+Malnutrition results when adequate macronutrients and micronutrients are lacking 
+in the diet. Often missing in public health discussions around preventing and 
+treating COVID-19 patients are nutritional strategies to support optimal 
+function of their immune system. This is surprising, given the importance that 
+nutrients play a significant role for immune function. Several micronutrients, 
+such as vitamin D, retinol, vitamin C, selenium and zinc are of special 
+importance supporting both the adaptive and innate immune systems. As suboptimal 
+status or deficiencies in these immune-relevant micronutrients impair immune 
+function and reduces the resistance to infections, micronutrient deficiencies 
+should therefore be corrected as soon as possible, especially in the elderly and 
+other vulnerable groups. According to epidemiological, experimental and 
+observational studies, some case reports and a few intervention studies the 
+supplementation of vitamin D and/or zinc are promising. The multiple 
+anti-inflammatory and immunomodulatory effects of Vitamin D could explain its 
+protective role against immune hyper reaction and cytokine storm in patients 
+with severe COVID-19. A randomized, placebo-controlled intervention study even 
+shows that high dose vitamin D supplementation promotes viral clearance in 
+asymptomatic and mildly symptomatic SARS-CoV-2 positive individuals. Besides, 
+the data of a recent prospective study with COVID-19 patients reveal that a 
+significant number of them were zinc deficient. The zinc deficient patients had 
+more complications and the deficiency was associated with a prolonged hospital 
+stay and increased mortality. Thus, immune-relevant micronutrients may help to 
+increase the physiological resilience against COVID-19.
+
+DOI: 10.1024/0300-9831/a000693
+PMID: 33487035 [Indexed for MEDLINE]

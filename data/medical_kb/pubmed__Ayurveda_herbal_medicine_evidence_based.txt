@@ -1,0 +1,427 @@
+SOURCE: PUBMED
+TOPIC: Ayurveda herbal medicine evidence based
+────────────────────────────────────────────────────────────
+
+1. Asian Pac J Trop Biomed. 2013 May;3(5):337-52. doi: 
+10.1016/S2221-1691(13)60075-1.
+
+A review on therapeutic potential of Nigella sativa: A miracle herb.
+
+Ahmad A(1), Husain A, Mujeeb M, Khan SA, Najmi AK, Siddique NA, Damanhouri ZA, 
+Anwar F.
+
+Author information:
+(1)Health Information Technology Department, Jeddah Community College, King 
+Abdulaziz University, Jeddah-21589, Kingdom of Saudi Arabia.
+
+Nigella sativa (N. sativa) (Family Ranunculaceae) is a widely used medicinal 
+plant throughout the world. It is very popular in various traditional systems of 
+medicine like Unani and Tibb, Ayurveda and Siddha. Seeds and oil have a long 
+history of folklore usage in various systems of medicines and food. The seeds of 
+N. sativa have been widely used in the treatment of different diseases and 
+ailments. In Islamic literature, it is considered as one of the greatest forms 
+of healing medicine. It has been recommended for using on regular basis in 
+Tibb-e-Nabwi (Prophetic Medicine). It has been widely used as antihypertensive, 
+liver tonics, diuretics, digestive, anti-diarrheal, appetite stimulant, 
+analgesics, anti-bacterial and in skin disorders. Extensive studies on N. sativa 
+have been carried out by various researchers and a wide spectrum of its 
+pharmacological actions have been explored which may include antidiabetic, 
+anticancer, immunomodulator, analgesic, antimicrobial, anti-inflammatory, 
+spasmolytic, bronchodilator, hepato-protective, renal protective, 
+gastro-protective, antioxidant properties, etc. Due to its miraculous power of 
+healing, N. sativa has got the place among the top ranked evidence based herbal 
+medicines. This is also revealed that most of the therapeutic properties of this 
+plant are due to the presence of thymoquinone which is major bioactive component 
+of the essential oil. The present review is an effort to provide a detailed 
+survey of the literature on scientific researches of pharmacognostical 
+characteristics, chemical composition and pharmacological activities of the 
+seeds of this plant.
+
+DOI: 10.1016/S2221-1691(13)60075-1
+PMCID: PMC3642442
+PMID: 23646296 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: We declare that 
+we have no conflict of interest.
+
+
+2. CA Cancer J Clin. 2022 Mar;72(2):144-164. doi: 10.3322/caac.21706. Epub 2021
+Nov  9.
+
+Integrative oncology: Addressing the global challenges of cancer prevention and 
+treatment.
+
+Mao JJ(1), Pillai GG(2), Andrade CJ(3), Ligibel JA(4)(5), Basu P(6), Cohen L(7), 
+Khan IA(8), Mustian KM(9), Puthiyedath R(10), Dhiman KS(11), Lao L(12), Ghelman 
+R(13), Cáceres Guido P(14)(15), Lopez G(7), Gallego-Perez DF(15)(16), Salicrup 
+LA(17).
+
+Author information:
+(1)Bendheim Integrative Medicine Center, Memorial Sloan Kettering Cancer Center, 
+New York, New York.
+(2)Traditional, Complementary and Integrative Medicine Unit, Service Delivery 
+and Safety Department, World Health Organization, Geneva, Switzerland.
+(3)Brazilian National Cancer Institute, Rio de Janeiro, Brazil.
+(4)Leonard P. Zakim Center for Integrative Therapies and Healthy Living, 
+Dana-Farber Cancer Institute, Boston, Massachusetts.
+(5)Harvard Medical School, Boston, Massachusetts.
+(6)International Agency for Research on Cancer, World Health Organization, Lyon, 
+France.
+(7)Integrative Medicine Program, Department of Palliative, Rehabilitation and 
+Integrative Medicine, The University of Texas MD Anderson Cancer Center, 
+Houston, Texas.
+(8)National Center for Natural Products Research, University of Mississippi, 
+Jackson, Mississippi.
+(9)Wilmot Cancer Institute, Department of Surgery, University of Rochester 
+Medical Center, Rochester, New York.
+(10)Amrita Vishwa Vidyapeetham University, Amritapuri, Kerala, India.
+(11)Central Council for Research in Ayurvedic Sciences, New Delhi, India.
+(12)Virginia University of Integrative Medicine, Fairfax, Virginia.
+(13)Brazilian Academic Consortium for Integrative Health, University of São 
+Paulo, São Paulo, Brazil.
+(14)Pharmacokinetics and Research in Clinical Pharmacology and Integrative 
+Medicine Group, Garrahan Pediatric Hospital, Buenos Aires, Argentina.
+(15)Traditional, Complementary, and Integrative Medicine Network of the 
+Americas, São Paulo, Brazil.
+(16)Boston University School of Public Health, Boston, Massachusetts.
+(17)Center for Global Health and Office of Cancer Complementary and Alternative 
+Medicine, Division of Cancer Treatment and Diagnosis, National Cancer Institute, 
+National Institutes of Health, Rockville, Maryland.
+
+The increase in cancer incidence and mortality is challenging current cancer 
+care delivery globally, disproportionally affecting low- and middle-income 
+countries (LMICs) when it comes to receiving evidence-based cancer prevention, 
+treatment, and palliative and survivorship care. Patients in LMICs often rely on 
+traditional, complementary, and integrative medicine (TCIM) that is more 
+familiar, less costly, and widely available. However, spheres of influence and 
+tensions between conventional medicine and TCIM can further disrupt efforts in 
+evidence-based cancer care. Integrative oncology provides a framework to 
+research and integrate safe, effective TCIM alongside conventional cancer 
+treatment and can help bridge health care gaps in delivering evidence-informed, 
+patient-centered care. This growing field uses lifestyle modifications, mind and 
+body therapies (eg, acupuncture, massage, meditation, and yoga), and natural 
+products to improve symptom management and quality of life among patients with 
+cancer. On the basis of this review of the global challenges of cancer control 
+and the current status of integrative oncology, the authors recommend: 1) 
+educating and integrating TCIM providers into the cancer control workforce to 
+promote risk reduction and culturally salient healthy life styles; 2) developing 
+and testing TCIM interventions to address cancer symptoms or treatment-related 
+adverse effects (eg, pain, insomnia, fatigue); and 3) disseminating and 
+implementing evidence-based TCIM interventions as part of comprehensive 
+palliative and survivorship care so patients from all cultures can live with or 
+beyond cancer with respect, dignity, and vitality. With conventional medicine 
+and TCIM united under a cohesive framework, integrative oncology may provide 
+citizens of the world with access to safe, effective, evidence-informed, and 
+culturally sensitive cancer care.
+
+© 2021 The Authors. CA: A Cancer Journal for Clinicians published by Wiley 
+Periodicals LLC on behalf of American Cancer Society.
+
+DOI: 10.3322/caac.21706
+PMID: 34751943 [Indexed for MEDLINE]
+
+
+3. Hepatol Commun. 2023 Sep 27;7(10):e0270. doi: 10.1097/HC9.0000000000000270. 
+eCollection 2023 Oct 1.
+
+Ashwagandha-induced liver injury-A case series from India and literature review.
+
+Philips CA(1)(2), Valsan A(3), Theruvath AH(2), Ravindran R(2), Oommen TT(1)(4), 
+Rajesh S(5), Bishnu S(6), Augustine P(1)(4); Liver Research Club India.
+
+Author information:
+(1)Clinical and Translational Hepatology, The Liver Institute, Center for 
+Excellence in Gastrointestinal Sciences, Rajagiri Hospital, Aluva, Kerala, 
+India.
+(2)Department of Hepatology, Amrita Institute of Medical Sciences, Kochi, 
+Kerala, India.
+(3)Department of Clinical Research, Division of Complementary and Alternative 
+Medicine, The Liver Institute, Center for Excellence in Gastrointestinal 
+Sciences, Rajagiri Hospital, Aluva, Kerala, India.
+(4)Gastroenterology & Advanced GI Endoscopy, Center of Excellence in GI 
+Sciences, Rajagiri Hospital, Aluva, Kerala, India.
+(5)Interventional Hepatobiliary Radiology, Center of Excellence in GI Sciences, 
+Rajagiri Hospital, Aluva, Kerala, India.
+(6)Department of Gastroenterology and Hepatology, Astha Medical Centre, 
+Koshbagan, Burdwan, West Bengal, India.
+
+BACKGROUND: Ashwagandha herb is commonly used in Ayurveda and a "fad" dietary 
+supplement for a host of indications based on low levels of evidence. Recently, 
+ashwagandha was implicated in multiple reports of herb-induced liver injury 
+(HILI), mainly from the United States. We present the first, and currently 
+largest, series of ashwagandha-HILI from multiple centers in India.
+METHODS: We retrospectively analyzed the respective institutional electronic 
+medical records for ashwagandha-HILI. Patients consuming ashwagandha as part of 
+multiherbal formulations or along with other known hepatotoxic supplements or 
+medicines were excluded. All patients underwent a detailed diagnostic workup to 
+exclude competing causes reasonably. Where possible, the implicated herbal 
+formulation was retrieved and subjected to chemical analysis.
+RESULTS: Out of 23 patients with liver injury from ashwagandha (January 2019 to 
+December 2022), we report 8 patients with single-ingredient formulation-related 
+HILI. Study cohort was male predominant, and cholestatic hepatitis was the 
+commonest presentation. Five patients had underlying chronic liver disease; 3 
+presented with acute-on-chronic liver failure, and all 3 died on follow-up. In 
+others, the liver injury was prolonged, nonetheless self-limiting. Liver biopsy 
+revealed cholestatic features predominantly with hepatocellular necrosis and 
+lymphocyte/eosinophil predominant portal-based inflammation. One patient 
+progressed to chronic HILI. Chemical analysis revealed only natural 
+phytochemicals without adulteration or contamination.
+CONCLUSIONS: Ashwagandha-HILI presents with cholestatic hepatitis and can lead 
+to the syndrome of acute-on-chronic liver failure with high mortality in those 
+with pre-existing liver disease. Educating the public on avoiding the use of 
+potentially toxic and unrecommended herbal supplements can help mitigate the 
+avoidable liver disease burden in the community.
+
+Copyright © 2023 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the American Association for the Study of Liver Diseases.
+
+DOI: 10.1097/HC9.0000000000000270
+PMCID: PMC10531359
+PMID: 37756041 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts to report.
+
+
+4. J Pain Res. 2024 Feb 8;17:599-608. doi: 10.2147/JPR.S432090. eCollection 2024.
+
+Evidence-Based Opinions from Multidisciplinary Experts on Use of Naturopathic 
+Herbal Remedies in Pain Management.
+
+Mobasheri A(1)(2)(3)(4), Spring-Charles A(5), Gamaleri FC(6), McSwan J(7), Garg 
+M(8), Sethi VS(9).
+
+Author information:
+(1)Research Unit of Health Sciences and Technology, Physics and Technology, 
+University of Oulu, Oulu, Finland.
+(2)Department of Regenerative Medicine, State Research Institute Centre for 
+Innovative Medicine, Vilnius, Lithuania.
+(3)Department of Joint Surgery, Sun Yat-sen University, Guangzhou, People's 
+Republic of China.
+(4)World Health Organization Collaborating Center for Public Health Aspects of 
+Musculoskeletal Health and Aging, Université de Liège, Liège, Belgium.
+(5)Hope Spring Clinic, London, UK.
+(6)Pharmacy San Rocco, Cornaredo (Milan), Italy.
+(7)PainWISE Pty Ltd, Gold Coast, Queensland, Australia.
+(8)Nutraceuticals Research Program, University of Newcastle, Callaghan, 
+Newcastle, NSW, Australia.
+(9)Medical Affairs, Haleon (Formerly GlaxoSmithKline Consumer Healthcare) Pte. 
+Ltd., Singapore.
+
+BACKGROUND: Pharmacological approaches to acute and chronic pain management, 
+including non-steroidal anti-inflammatory drugs (NSAIDs) and opioids, are 
+respectively associated with adverse reactions (such as gastrointestinal, 
+cardiovascular, and renal effects) that might limit their use in patients with 
+comorbidities and controversy related to inappropriate use. Naturopathic 
+remedies might offer patients alternative and integrative treatments with 
+minimal side effects.
+OBJECTIVE: To explore the regional variation in the acceptance and use of 
+naturopathic remedies in pain management.
+METHODS: Two expert panel discussions were held by GlaxoSmithKline Consumer 
+Healthcare (now Haleon Pte. Ltd.) over 9 and 12 hours in 2020 and 2021, 
+respectively, and attended by multidisciplinary experts in naturopathy, 
+Ayurvedic medicine, community pharmacy, physiotherapy, clinical pharmacy, 
+Western medicine, academics, and naturopathic pain relief. Experts shared and 
+discussed their experiences of naturopathic treatments and relevant clinical 
+evidence related to different types of pain (including joint and muscle pain, 
+migraine, sleeplessness due to pain, and general pain) and examined barriers to 
+providing support to patients.
+RESULTS: Experts agreed on the potential for curcumin (2020, 71.4% [5/7]; 2021, 
+91.7% [11/12]) and fish oil (2020, 100% [7/7]) for management of osteoarthritic 
+joint pain although these are not uniformly recommended in osteoarthritis 
+treatment guidelines. In treatment of migraines, coenzyme Q10 and magnesium were 
+favored by experts (2021, 90.9% [10/11] and 63.6% [7/11], respectively).
+CONCLUSION: The need was emphasized for more and higher quality clinical studies 
+to support naturopathic remedies, which might not be reflected in the latest 
+treatment guidelines. The expert panel also highlighted missed opportunities for 
+physicians and pharmacists to recommend effective naturopathic treatments.
+
+© 2024 Mobasheri et al.
+
+DOI: 10.2147/JPR.S432090
+PMCID: PMC10860847
+PMID: 38347854
+
+Conflict of interest statement: VS is a current employee of Haleon (formerly GSK 
+Consumer Healthcare); AM has consulted for and received honoraria from Haleon. 
+AS-C, FCG, JM, and MG have all received honoraria from Haleon. The authors 
+report no other conflicts of interest in this work.
+
+
+5. Adv Exp Med Biol. 2020;1191:415-449. doi: 10.1007/978-981-32-9705-0_22.
+
+Current Research on Complementary and Alternative Medicine (CAM) in the 
+Treatment of Anxiety Disorders: An Evidence-Based Review.
+
+Trkulja V(1), Barić H(2).
+
+Author information:
+(1)Department of Pharmacology, Zagreb University School of Medicine, Zagreb, 
+Croatia. vtrkulja@mef.hr.
+(2)Department of Neurosurgery, University Hospital Center Zagreb, Zagreb, 
+Croatia.
+
+Complementary and alternative medicine (CAM) encompasses a wide range of 
+different nonmainstream therapies that have been increasingly used for treatment 
+or adjunctive treatment of various ailments with anxiety/anxiety disorders being 
+one of the commonly CAM (self)-medicated conditions. Thousands of published 
+papers refer to use of CAM in various psychiatric disorders or in healthy or 
+medically ill patients with mood or anxiety difficulties. In this chapter we 
+focus specifically on clinically diagnosed (in line with the standard criteria) 
+anxiety disorders and overview evidence of efficacy/safety of a range of CAM 
+modalities: biologically based therapies (typically herbal preparations and less 
+so nutraceuticals); manipulative and body-based therapies (acupuncture, aerobic 
+exercise, massage, therapeutic touch, repetitive transcranial magnetic 
+stimulation, balneotherapy, and others); mind-body therapies (yoga, Morita 
+therapy, Tai Chi, reiki, Chinese cognitive therapy, religious and spiritual 
+interventions, relaxation, mediation, and mindfulness-based interventions); and 
+alternative medical systems (Ayurveda, homeopathy). We focus exclusively on 
+randomized controlled trials and attempt to evaluate the existing body of 
+evidence in the same manner that is applied to mainstream treatments.
+
+DOI: 10.1007/978-981-32-9705-0_22
+PMID: 32002940 [Indexed for MEDLINE]
+
+
+6. J Health Serv Res Policy. 2009 Oct;14(4):219-23. doi:
+10.1258/jhsrp.2009.009009.
+
+Evidence-based practice in British complementary and alternative medicine: 
+double standards?
+
+Hunt K(1), Ernst E.
+
+Author information:
+(1)Peninsula Medical School, Universities of Exeter & Plymouth, Exeter, UK. 
+Katherine.hunt@pms.ac.uk
+
+Comment in
+    J Health Serv Res Policy. 2009 Oct;14(4):224-5. doi: 
+10.1258/jhsrp.2009.009106.
+
+OBJECTIVES: The principles of evidence-based practice (EBP) are fundamental to 
+medical ethics and seem essential for any form of health care. In 2000, a House 
+of Lords Select Committee recommended that the ethos of EBP should extend to 
+complementary and alternative medicine. The aim of this investigation was to 
+determine whether EBP is incorporated in the codes of ethics of British 
+complementary and alternative medicine organizations.
+METHODS: We obtained the codes of the following bodies: Association of 
+Naturopathic Practitioners, Association of Traditional Chinese Medicine (UK), 
+Ayurvedic Practitioners Association, British Acupuncture Council, Complementary 
+and Natural Healthcare Council, European Herbal Practitioners Association, 
+General Chiropractic Council, General Osteopathic Council, General Regulatory 
+Council for Complementary Therapies, National Institute of Medical Herbalists, 
+Register of Chinese Herbal Medicine, Society of Homeopaths, UK Healers, Unified 
+Register of Herbal Practitioners. We then extracted the statements referring to 
+EBP and compared this with what the respective codes of British doctors and 
+nurses proscribed.
+RESULTS: Only the General Chiropractic Council, the General Osteopathic Council 
+and the General Regulatory Council for Complementary Therapies oblige their 
+members to adopt EBP.
+CONCLUSIONS: This discloses double standards in UK health care which may 
+compromise patient safety.
+
+DOI: 10.1258/jhsrp.2009.009009
+PMID: 19770119 [Indexed for MEDLINE]
+
+
+7. Curr Opin Allergy Clin Immunol. 2024 Oct 1;24(5):397-403. doi: 
+10.1097/ACI.0000000000001024. Epub 2024 Aug 13.
+
+Integrative therapeutics for ocular surface disorders.
+
+Kourosh A(1), Nanda A(2)(3), Sheth DK(4)(5), Parmer FE(6).
+
+Author information:
+(1)Arkansas College of Osteopathic Medicine Clinical Faculty, Fort Smith, 
+Arkansas.
+(2)Asthma and Allergy Center, Lewisville and Flower Mound, Denton County.
+(3)Division of Allergy and Immunology, University of Texas Southwestern Medical 
+Center, Dallas, Texas.
+(4)Department of Allergy and Immunology, Washington DC Veterans Affairs Medical 
+Center, George Washington University, Washington, District of Columbia.
+(5)Uniformed Services University of the Health Sciences, Bethesda, Maryland.
+(6)Eye Consultants of Texas Ocular Surface Center of Excellence, University of 
+Texas at Arlington Advisory Board, Arlington, Texas, USA.
+
+PURPOSE OF REVIEW: Integrative medicine techniques are increasingly accepted 
+into the treatment paradigm for many chronic disorders including eye disease. 
+Over 71% of patients, including 67% of those with eye disorders, use some form 
+of Integrative therapy. Physicians should be well versed in evidence-based 
+therapies to know how to refer patients for the best complimentary care. We 
+highlight the most effective integrative therapeutics from different 
+complementary treatment paradigms to offer a framework for approaching therapy 
+in patients with ocular surface disorders (OSDs).
+RECENT FINDINGS: Lifestyle and behavioral modifications help a proportion of 
+people with OSDs like dry eye disease and allergic conjunctivitis, which are 
+interrelated disorders. Nutrition and supplementation can also play a role in 
+addressing underlying inflammation and improving OSD symptoms. Acupuncture and 
+traditional herbal medicine may also benefit some patients. New technologies 
+offer innovative treatment pathways in the treatment of OSD but require referral 
+to Ocular Surface Treatment Centers.
+SUMMARY: Integrative treatment approach for OSD incorporates allopathic 
+medicine, traditional remedies and lifestyle behavioral interventions, Ayurveda 
+and herbal medicine, Nutritional Supplements, Homeopathy, Acupuncture and 
+Chinese Medicine. New cutting-edge technologies offer breakthroughs in difficult 
+to treat ocular surface cases. Collaboration between allergy or otolaryngology 
+offices, complementary practitioners, as well as optometrists and 
+ophthalmologists in Ocular Surface Treatment Centers can offer patients new 
+avenues of treatment.
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/ACI.0000000000001024
+PMID: 39137038 [Indexed for MEDLINE]
+
+
+8. Z Rheumatol. 2024 Sep;83(7):549-561. doi: 10.1007/s00393-024-01524-9. Epub
+2024  Jun 27.
+
+[Procedures of complementary medicine in rheumatology].
+
+[Article in German; Abstract available in German from the publisher]
+
+Keyßer G(1), Frohne I, Schultz O, Reuß-Borst M, Sander O, Pfeil A.
+
+Author information:
+(1)Klinik und Poliklinik für Innere Medizin II, Universitätsklinikum Halle 
+(Saale), Ernst-Grube-Str. 40, 06120, Halle (Saale), Deutschland. 
+Gernot.Keyszer@uk-halle.de.
+
+Patients with diseases of the musculoskeletal system are confronted with a large 
+quantity of treatment offers based on methods of complementary medicine. Despite 
+a considerable number of publications on this topic, the scientific evidence is 
+still poor. This article focuses on Ayurvedic medicine (AM), traditional Chinese 
+medicine (TCM), mind-body medicine and homeopathy. These procedures have 
+a longstanding tradition of practice and each claims to have its own theoretical 
+concept; however, the application in the field of rheumatology can only be 
+recommended either for specific entities or, in the case of homeopathy, not at 
+all. In addition, this article summarizes the evidence for dietary 
+recommendations, nutritional supplements and herbal medicine in rheumatology. 
+The latter topics are frequently discussed in the popular press and are 
+a much-debated issue between physicians and patients; however, clear-cut 
+recommendations for the application on a scientific basis are the exception and 
+mainly consist of the endorsement to adhere to the principles of a Mediterranean 
+diet.
+
+Publisher: Für Patienten mit Erkrankungen des muskuloskeletalen Systems 
+existiert eine schwer überschaubare Zahl von Behandlungsangeboten aus dem 
+Bereich komplementärer Heilverfahren. Trotz einer beträchtlichen Zahl von 
+Publikationen zu diesem Thema ist die wissenschaftliche Evidenz nach wie vor 
+gering. Der Beitrag widmet sich der ayurvedischen Medizin (AM), der 
+traditionellen chinesischen Medizin (TCM), der Mind-Body-Medizin und der 
+Homöopathie. Auch wenn es sich dabei um Verfahren handelt, die eine lange 
+Anwendungstradition haben und sich auf ein eigenes theoretisches Konzept 
+berufen, kann ihre Anwendung in der Rheumatologie nur für bestimmte Entitäten 
+oder – im Fall der Homöopathie – nicht empfohlen werden. Zusätzlich wird die 
+Evidenz für Diätverfahren, Nahrungsergänzungsmittel und Phytotherapie 
+vorgestellt. Die Letztgenannten treffen in der Laienpresse auf großes Interesse 
+und beanspruchen in der Sprechstunde einen relevanten Anteil an Beratungszeit. 
+Allerdings sind auch hier Anwendungsempfehlungen auf wissenschaftlicher 
+Grundlage die Ausnahme und fokussieren v. a. auf eine vollwertige, an den 
+Prinzipien der Mittelmeerkost orientierte Ernährung.
+
+© 2024. The Author(s), under exclusive licence to Springer Medizin Verlag GmbH, 
+ein Teil von Springer Nature.
+
+DOI: 10.1007/s00393-024-01524-9
+PMID: 38935116 [Indexed for MEDLINE]

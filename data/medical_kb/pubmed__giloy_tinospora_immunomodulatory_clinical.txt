@@ -1,0 +1,94 @@
+SOURCE: PUBMED
+TOPIC: giloy tinospora immunomodulatory clinical
+────────────────────────────────────────────────────────────
+
+1. Curr Pharm Biotechnol. 2020;21(12):1165-1175. doi: 
+10.2174/1389201021666200430114547.
+
+Tinospora cordifolia (Giloy): Phytochemistry, Ethnopharmacology, Clinical 
+Application and Conservation Strategies.
+
+Kumar P(1), Kamle M(1), Mahato DK(2), Bora H(1), Sharma B(3), Rasane P(4), 
+Bajpai VK(5).
+
+Author information:
+(1)Applied Microbiology Lab., Department of Forestry, North Eastern Regional 
+Institute of Science and Technology, Nirjuli- 791109, Arunachal Pradesh, India.
+(2)School of Exercise and Nutrition Sciences, Deakin University, 221 Burwood 
+Hwy, Burwood VIC 3125, Australia.
+(3)Centre of Food Science and Technology, Banaras Hindu University, Varanasi- 
+221005, India.
+(4)Department of Food Technology and Nutrition, School of Agriculture, Lovely 
+Professional University, Phagwara 144411, India.
+(5)Department of Energy and Material Engineering, Dongguk University-Seoul, 
+Seoul 04620, South Korea.
+
+Tinospora cordifolia (Giloy) is a medicinal plant used in folk and Ayurvedic 
+medicines throughout India since ancient times. All the parts of the plant are 
+immensely useful due to the presence of different compounds of pharmaceutical 
+importance belonging to various groups as alkaloids, diterpenoid lactones, 
+glycosides, steroids, sesquiterpenoid, and phenolics. These compounds possess 
+pharmacological properties, which make it anti-diabetic, antipyretic, 
+anti-inflammatory, anti-oxidant, hepato-protective, and immuno-modulatory. 
+However, due to the increasing population, there is an inadequate supply of 
+drugs. Therefore, this review focuses on phytochemistry, ethnopharmacology, 
+clinical application and its conservation strategies so that the plant can be 
+conserved for future generations and utilized as alternative medicine as well as 
+to design various pharmacologically important drugs.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1389201021666200430114547
+PMID: 32351180 [Indexed for MEDLINE]
+
+
+2. Curr Top Med Chem. 2025;25(19):2306-2324. doi: 
+10.2174/0115680266347636250505063601.
+
+Exploring the Medicinal and Nutraceutical Frontiers of Tinospora cordifolia in 
+Stress and Cancer Management.
+
+Jaiswal A(1)(2), Thakur K(2), Chandra A(3), Singh T(2), Mir BA(4), Goel S(5), 
+Tandon R(5), Rajpal VR(1).
+
+Author information:
+(1)Department of Botany, Hansraj College, University of Delhi, Delhi-110007, 
+India.
+(2)Translational Oncology Laboratory, Department of Zoology, Hansraj College, 
+University of Delhi, Delhi-110007, India.
+(3)Department of Botany, Maitreyi College, University of Delhi, Delhi-110021, 
+India.
+(4)Department of Botany, North Campus, University of Kashmir, Delina, Baramulla, 
+J&K, India.
+(5)Department of Botany, University of Delhi, Delhi-110007, India.
+
+Tinospora cordifolia, commonly known as Guduchi, Giloy, or Amrita, has been a 
+cornerstone of traditional medicine for centuries and is renowned for its 
+diverse nutraceutical and medicinal potential. The plant exhibits 
+immunomodulatory, antioxidant, anti-inflammatory, and anti-viral activities due 
+to its rich array of bioactive compounds, including alkaloids, diterpenoid 
+lactones, polysaccharides, and others. These properties make Giloy a promising 
+candidate for a variety of therapeutic applications. Further, as oxidative 
+damage contributes to chronic diseases by affecting essential biomolecules, the 
+antioxidant phytochemicals found in T. cordifolia counter the free radicals and 
+offer significant health benefits. This comprehensive review delves into the 
+health benefits and therapeutic efficacy of Giloy, with a particular focus on 
+its mechanisms for mitigating stress and combating cancer. The preclinical and 
+clinical studies have demonstrated Giloy's ability to enhance antioxidant 
+defences and induce apoptosis in cancerous cells. Additionally, it has shown 
+potential in adjunct therapy to improve the quality of life for cancer patients 
+by reducing the side effects associated with conventional cancer therapies. By 
+exploring the multifaceted potential of T. cordifolia in modern medicine, this 
+review aims to bridge the gap between traditional knowledge and contemporary 
+scientific insights by addressing the underutilization of ancient herbal 
+remedies in evidence-based healthcare. It also discusses future research 
+directions and probable applications of Giloy in clinical practice, highlighting 
+the importance of this ancient remedy in the context of modern healthcare 
+practices, especially in cancer and stress management.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0115680266347636250505063601
+PMID: 40353407 [Indexed for MEDLINE]

@@ -3,146 +3,213 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
+CACHE_FILE = "processed_cache.txt"   # tracks which files are already embedded
+INDEX_FILE = "kb_index.faiss"        # saved FAISS index on disk
+PASSAGES_FILE = "kb_passages.txt"    # saved passages (one per line, pipe-separated)
+
+
 class KnowledgeManager:
     def __init__(self, model_name='all-MiniLM-L6-v2'):
-        # 1. Load the embedding model (Lightweight for CPU)
         print(f"--- Loading Embedding Model: {model_name} ---")
         self.model = SentenceTransformer(model_name)
         self.index = None
         self.passages = []
-        self.kb_loaded = False  # Track if KB is successfully loaded
+        self.kb_loaded = False
+        self.folder_path = None  # set during load_and_index
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # CACHE HELPERS
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def _cache_path(self):
+        return os.path.join(self.folder_path, CACHE_FILE)
+
+    def _index_path(self):
+        return os.path.join(self.folder_path, INDEX_FILE)
+
+    def _passages_path(self):
+        return os.path.join(self.folder_path, PASSAGES_FILE)
+
+    def _load_cache(self) -> set:
+        """Returns set of filenames already processed."""
+        path = self._cache_path()
+        if not os.path.exists(path):
+            return set()
+        with open(path, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f if line.strip())
+
+    def _append_to_cache(self, filename: str):
+        """Mark a file as processed."""
+        with open(self._cache_path(), "a", encoding="utf-8") as f:
+            f.write(filename + "\n")
+
+    def _save_index(self):
+        """Save FAISS index to disk."""
+        faiss.write_index(self.index, self._index_path())
+
+    def _load_index(self) -> bool:
+        """Load FAISS index from disk. Returns True if successful."""
+        path = self._index_path()
+        if not os.path.exists(path):
+            return False
+        self.index = faiss.read_index(path)
+        return True
+
+    def _save_passages(self, new_passages: list):
+        """Append new passages to the passages file."""
+        with open(self._passages_path(), "a", encoding="utf-8") as f:
+            for p in new_passages:
+                # Store as single line — replace newlines with space
+                f.write(p.replace("\n", " ").strip() + "\n")
+
+    def _load_passages(self) -> list:
+        """Load all previously saved passages from disk."""
+        path = self._passages_path()
+        if not os.path.exists(path):
+            return []
+        with open(path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip()]
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # MAIN LOAD + INDEX
+    # ─────────────────────────────────────────────────────────────────────────
 
     def load_and_index(self, folder_path="TruthCheck/data/medical_kb/"):
-        """Reads all .txt files in a folder and creates a searchable index."""
-        
-        # Debug: Print the path being checked
-        print(f"🔍 Looking for medical KB in: {folder_path}")
-        print(f"🔍 Current working directory: {os.getcwd()}")
-        
+        self.folder_path = folder_path
+        print(f"\n🔍 Knowledge Base folder : {folder_path}")
+
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
-            print(f"⚠️ Created {folder_path}. Please add medical text files there.")
+            print(f"⚠️  Created {folder_path}. Add medical .txt files there.")
             return
 
-        all_text = []
-        txt_files_found = 0
-        
-        for filename in os.listdir(folder_path):
-            if filename.endswith(".txt"):
-                txt_files_found += 1
-                filepath = os.path.join(folder_path, filename)
-                print(f"📖 Reading: {filepath}")
-                
-                try:
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        lines = [line.strip() for line in f.readlines()]
-                        
-                        print(f"   📄 Total lines in file: {len(lines)}")
-                        
-                        # Filter: Remove empty lines and section headers (all uppercase)
-                        # Keep lines that are substantial facts (> 20 chars and not all uppercase)
-                        filtered_lines = []
-                        for line in lines:
-                            # Skip empty lines
-                            if len(line) == 0:
-                                continue
-                            # Skip section headers (all uppercase like "GENERAL HEALTH")
-                            if line.isupper():
-                                continue
-                            # Skip very short lines (likely incomplete)
-                            if len(line) < 20:
-                                continue
-                            # Keep the rest
-                            filtered_lines.append(line)
-                        
-                        print(f"   ✅ Extracted {len(filtered_lines)} medical facts")
-                        
-                        if filtered_lines and len(all_text) < 5:
-                            # Show first few as sample
-                            print(f"   📝 Sample: {filtered_lines[0][:60]}...")
-                        
-                        all_text.extend(filtered_lines)
-                        
-                except Exception as e:
-                    print(f"   ❌ Error reading {filename}: {e}")
+        # ── Step 1: Load existing index + passages from disk ─────────────────
+        already_processed = self._load_cache()
+        self.passages = self._load_passages()
+        index_loaded = self._load_index()
 
-        if txt_files_found == 0:
-            print(f"⚠️ No .txt files found in {folder_path}")
+        if index_loaded and self.passages:
+            print(f"✅ Loaded existing FAISS index ({self.index.ntotal} vectors)")
+            print(f"✅ Loaded {len(self.passages)} cached passages")
+        else:
+            # No saved index — will build fresh
+            index_loaded = False
+            self.passages = []
+            self.index = None
+
+        # ── Step 2: Find unprocessed .txt files ───────────────────────────────
+        all_txt_files = [
+            f for f in os.listdir(folder_path)
+            if f.endswith(".txt") and f not in (CACHE_FILE, PASSAGES_FILE)
+        ]
+
+        new_files = [f for f in all_txt_files if f not in already_processed]
+        skipped   = len(all_txt_files) - len(new_files)
+
+        print(f"\n📂 Total .txt files  : {len(all_txt_files)}")
+        print(f"   ⏭️  Already cached  : {skipped}")
+        print(f"   🆕 New to process  : {len(new_files)}")
+
+        if not new_files and index_loaded and self.passages:
+            print("\n✅ Nothing new to process — KB is up to date.\n")
+            self.kb_loaded = True
             return
 
-        if not all_text:
-            print("⚠️ No medical data found to index. RAG will be disabled.")
+        # ── Step 3: Extract passages from new files ───────────────────────────
+        new_passages = []
+
+        for filename in new_files:
+            filepath = os.path.join(folder_path, filename)
+            print(f"   📖 Processing: {filename}")
+
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    lines = [line.strip() for line in f.readlines()]
+
+                filtered = [
+                    line for line in lines
+                    if len(line) >= 20
+                    and not line.isupper()          # skip ALL-CAPS section headers
+                    and not line.startswith("SOURCE:")
+                    and not line.startswith("URL:")
+                    and not line.startswith("TITLE:")
+                    and "─" not in line             # skip separator lines
+                ]
+
+                print(f"      ✅ {len(filtered)} passages extracted")
+                new_passages.extend(filtered)
+
+                # Mark file as processed in cache immediately
+                self._append_to_cache(filename)
+
+            except Exception as e:
+                print(f"      ❌ Error reading {filename}: {e}")
+
+        if not new_passages:
+            if self.passages:
+                print("\n⚠️  No new passages found but existing KB is loaded.\n")
+                self.kb_loaded = True
+            else:
+                print("\n⚠️  No passages found at all. RAG disabled.\n")
             return
 
-        self.passages = all_text
+        # ── Step 4: Embed new passages ────────────────────────────────────────
+        print(f"\n🔧 Embedding {len(new_passages)} new passages...")
+        new_embeddings = self.model.encode(new_passages, show_progress_bar=True)
+
+        # ── Step 5: Add to FAISS index ────────────────────────────────────────
+        dimension = new_embeddings.shape[1]
+
+        if self.index is None:
+            # Build fresh index
+            self.index = faiss.IndexFlatL2(dimension)
+
+        self.index.add(np.array(new_embeddings).astype('float32'))
+        self.passages.extend(new_passages)
+
+        # ── Step 6: Save updated index + passages to disk ─────────────────────
+        self._save_index()
+        self._save_passages(new_passages)
+
+        print(f"\n✅ FAISS index saved  : {self._index_path()}")
+        print(f"✅ Passages saved     : {self._passages_path()}")
+        print(f"✅ Total vectors in index : {self.index.ntotal}")
+        print(f"✅ Total passages in KB   : {len(self.passages)}\n")
+
         self.kb_loaded = True
-        print(f"\n✅ Successfully loaded {len(self.passages)} medical passages")
-        print(f"🔧 Now building FAISS index...")
 
-        # 2. Convert text to vectors
-        embeddings = self.model.encode(self.passages, show_progress_bar=True)
-        
-        # 3. Build the FAISS Index
-        dimension = embeddings.shape[1]
-        self.index = faiss.IndexFlatL2(dimension)
-        self.index.add(np.array(embeddings).astype('float32'))
-        print("✅ Knowledge Base Index Ready\n")
+    # ─────────────────────────────────────────────────────────────────────────
+    # RETRIEVE
+    # ─────────────────────────────────────────────────────────────────────────
 
     def retrieve_evidence(self, query_triple, top_k=2):
-        """
-        Uses the Triple string (e.g., 'turmeric water cures cancer') 
-        to find the most relevant scientific evidence.
-        """
         if self.index is None or not self.kb_loaded:
-            return []  # Return empty list if KB not loaded
+            return []
 
-        # Convert triple to vector
         query_vector = self.model.encode([query_triple]).astype('float32')
-        
-        # Search index
         distances, indices = self.index.search(query_vector, top_k)
-        
-        results = [self.passages[i] for i in indices[0]]
-        return results
+        return [self.passages[i] for i in indices[0] if i < len(self.passages)]
 
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TEST
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    # Test Run
-    print("="*60)
-    print("TESTING KNOWLEDGE MANAGER")
-    print("="*60 + "\n")
-    
     km = KnowledgeManager()
-    km.load_and_index("data/medical_kb/")
-    
+    km.load_and_index("TruthCheck/data/medical_kb/")
+
     if km.kb_loaded:
-        print("\n" + "="*60)
-        print("TESTING RETRIEVAL")
-        print("="*60)
-        
-        # Test queries
         test_queries = [
-            "warm water improves blood circulation",
-            "hot water kills COVID virus",
+            "warm water improves digestion",
             "turmeric cures cancer",
             "vitamin C prevents all infections",
-            "drinking water helps digestion"
+            "hot water detoxes body",
         ]
-        
+        print("=" * 60)
+        print("RETRIEVAL TEST")
+        print("=" * 60)
         for query in test_queries:
             evidence = km.retrieve_evidence(query, top_k=1)
-            print(f"\n📋 QUERY: {query}")
-            if evidence:
-                print(f"✅ TOP MATCH: {evidence[0]}")
-            else:
-                print("❌ No evidence found")
-                
-        print("\n" + "="*60)
-        print(f"✅ Test Complete! KB has {len(km.passages)} passages indexed")
-        print("="*60)
-    else:
-        print("\n⚠️ Knowledge base was not loaded successfully.")
-        print("Please check:")
-        print("  1. Does data/medical_kb/ directory exist?")
-        print("  2. Does it contain .txt files?")
-        print("  3. Do the .txt files have content?")
+            print(f"\n📋 QUERY  : {query}")
+            print(f"✅ MATCH  : {evidence[0][:120] if evidence else 'None'}")

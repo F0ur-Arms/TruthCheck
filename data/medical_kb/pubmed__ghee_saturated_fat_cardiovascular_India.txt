@@ -1,0 +1,339 @@
+SOURCE: PUBMED
+TOPIC: ghee saturated fat cardiovascular India
+────────────────────────────────────────────────────────────
+
+1. J Ayurveda Integr Med. 2024 Jan-Feb;15(1):100819. doi: 
+10.1016/j.jaim.2023.100819. Epub 2024 Jan 5.
+
+Health benefits of ghee: Review of Ayurveda and modern science perspectives.
+
+Kataria D(1), Singh G(2).
+
+Author information:
+(1)Department of Food & Nutrition and Food Technology, Institute of Home 
+Economics, University of Delhi, Delhi, 110016, India; Centre for Ayurveda 
+Biology and Holistic Nutrition, The University of Trans-Disciplinary Health 
+Sciences and Technology, Bengaluru, Karnataka, 560064, India.
+(2)Centre for Ayurveda Biology and Holistic Nutrition, The University of 
+Trans-Disciplinary Health Sciences and Technology, Bengaluru, Karnataka, 560064, 
+India. Electronic address: gurmeet.singh@tdu.edu.in.
+
+The scientific view on dairy fats is undergoing a change. While at one time they 
+were associated with negative health effects, recent scientific research has 
+provided new insights into the functional benefits of dairy fats and their fatty 
+acids. This changing scientific view on dairy fats is also resulting in a 
+scientific interest in Ghee, the clarified butter obtained from milk. Ghee, 
+besides being a traditional milk product of cultural importance in India and 
+finding extensive use in its cuisines, is also one of the most important 
+ingredients of the materia medica of Ayurveda, the traditional system of 
+medicine that originated in India. While modern scientific literature has 
+limited studies on functional benefits of ghee, Ayurveda literature extensively 
+catalogues the therapeutic potential of ghee and details different types of ghee 
+based on source of milk, manufacturing method, maturation and physical phase. 
+This work reviewed the Ayurveda literature on health benefits of ghee and 
+examined the complementarity and gaps between Ayurveda literature and modern 
+scientific literature to identify research questions and hypotheses for further 
+exploring the therapeutic potential of ghee. The Ayurveda literature review 
+involved curation of references to ghee in eleven important Ayurvedic texts 
+spanning over 3000 years. 4000 references to milk and milk products were curated 
+from these texts, of which 2913 mentions were in the context of therapeutic 
+benefits of milk products. Of these, ghee had 774 mentions, the highest amongst 
+milk-based products. These mentions were grouped into 15 benefit clusters. A 
+review of ghee in modern literature published between 1990 and 2023 was also 
+conducted. A comparison of this with the Ayurveda literature showed that there 
+were major differences in the focus areas of health between the two. While 
+recent research primarily focused on ghee's connection with cardiovascular 
+health, wound healing and skin health, Ayurveda prioritized cognitive benefits, 
+gastrointestinal health, and nourishing. These later areas are of growing 
+importance to human health as global population ages, and chronic and brain 
+related diseases start dominating public health concerns. As scientists search 
+for solutions to these, ghee, its usage and formulations in Ayurveda and the 
+detailed associations between ghee's animal source, processing, maturation, 
+phases and health benefits, may have scientific insights to offer that can guide 
+future research.
+
+Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jaim.2023.100819
+PMCID: PMC10789628
+PMID: 38181707
+
+Conflict of interest statement: Declaration of competing interest The authors of 
+this paper declare that there is no conflict of interest regarding the 
+publication of this paper.
+
+
+2. J Pak Med Assoc. 2017 Jun;67(6):957-958.
+
+Pragmatic selection of cooking oils.
+
+Gupta L(1), Khandelwal D(2).
+
+Author information:
+(1)Department of Dietetics, Maharaja Agrasen Hospital, New Delhi, India.
+(2)Department of Endocrinology, Maharaja Agrasen Hospital, New Delhi, India.
+
+Fats and oils are one of the very important components of diet. However excess 
+of either overall fat or certain kind of fats in the diet may result in negative 
+health impacts including risk of obesity, dyslipidaemia, cardiovascular diseases 
+and certain malignancies. It is thus important to have an optimum amount of fat 
+in the diet, and also important to choose appropriate sources of fat in the 
+diet. In this mini review we suggest pragmatic selection of cooking oils for 
+optimum health benefits.
+
+PMID: 28585605 [Indexed for MEDLINE]
+
+
+3. Ayu. 2010 Apr;31(2):134-40. doi: 10.4103/0974-8520.72361.
+
+The effect of ghee (clarified butter) on serum lipid levels and microsomal lipid 
+peroxidation.
+
+Sharma H(1), Zhang X, Dwivedi C.
+
+Author information:
+(1)Center for Integrative Medicine and Department of Pathology, The Ohio State 
+University, Columbus, OH 43210, USA.
+
+Ghee, also known as clarified butter, has been utilized for thousands of years 
+in Ayurveda as a therapeutic agent. In ancient India, ghee was the preferred 
+cooking oil. In the last several decades, ghee has been implicated in the 
+increased prevalence of coronary artery disease (CAD) in Asian Indians due to 
+its content of saturated fatty acids and cholesterol and, in heated ghee, 
+cholesterol oxidation products. Our previous research on Sprague-Dawley outbred 
+rats, which serve as a model for the general population, showed no effect of 5 
+and 10% ghee-supplemented diets on serum cholesterol and triglycerides. However, 
+in Fischer inbred rats, which serve as a model for genetic predisposition to 
+diseases, results of our previous research showed an increase in serum total 
+cholesterol and triglyceride levels when fed a 10% ghee-supplemented diet. In 
+the present study, we investigated the effect of 10% dietary ghee on microsomal 
+lipid peroxidation, as well as serum lipid levels in Fischer inbred rats to 
+assess the effect of ghee on free radical mediated processes that are implicated 
+in many chronic diseases including cardiovascular disease. Results showed that 
+10% dietary ghee fed for 4 weeks did not have any significant effect on levels 
+of serum total cholesterol, but did increase triglyceride levels in Fischer 
+inbred rats. Ghee at a level of 10% in the diet did not increase liver 
+microsomal lipid peroxidation or liver microsomal lipid peroxide levels. Animal 
+studies have demonstrated many beneficial effects of ghee, including 
+dose-dependent decreases in serum total cholesterol, low density lipoprotein 
+(LDL), very low density lipoprotein (VLDL), and triglycerides; decreased liver 
+total cholesterol, triglycerides, and cholesterol esters; and a lower level of 
+nonenzymatic-induced lipid peroxidation in liver homogenate. Similar results 
+were seen with heated (oxidized) ghee which contains cholesterol oxidation 
+products. A preliminary clinical study showed that high doses of medicated ghee 
+decreased serum cholesterol, triglycerides, phospholipids, and cholesterol 
+esters in psoriasis patients. A study on a rural population in India revealed a 
+significantly lower prevalence of coronary heart disease in men who consumed 
+higher amounts of ghee. Research on Maharishi Amrit Kalash-4 (MAK-4), an 
+Ayurvedic herbal mixture containing ghee, showed no effect on levels of serum 
+cholesterol, high density lipoprotein (HDL), LDL, or triglycerides in 
+hyperlipidemic patients who ingested MAK-4 for 18 weeks. MAK-4 inhibited the 
+oxidation of LDL in these patients. The data available in the literature do not 
+support a conclusion of harmful effects of the moderate consumption of ghee in 
+the general population. Factors that may be involved in the rise of CAD in Asian 
+Indians include the increased use of vanaspati (vegetable ghee) which contains 
+40% trans fatty acids, psychosocial stress, insulin resistance, and altered 
+dietary patterns. Research findings in the literature support the beneficial 
+effects of ghee outlined in the ancient Ayurvedic texts and the therapeutic use 
+of ghee for thousands of years in the Ayurvedic system of medicine.
+
+DOI: 10.4103/0974-8520.72361
+PMCID: PMC3215354
+PMID: 22131700
+
+
+4. J Nutr Biochem. 1999 Feb;10(2):96-104. doi: 10.1016/s0955-2863(98)00088-6.
+
+Effect of dietary ghee--the anhydrous milk fat, on blood and liver lipids in 
+rats.
+
+Kumar MV(1), Sambaiah K, Lokesh BR.
+
+Author information:
+(1)Department of Biochemistry and Nutrition, Central Food Technological Research 
+Institute, Mysore, India.
+
+Dairy products are important sources of dietary fat in India. Anhydrous milk 
+fat, viz., ghee, is consumed as such in the diet and also is used for frying the 
+dishes. Ghee contains high levels of saturated fatty acids and cholesterol, 
+which are considered risk factors for cardiovascular diseases. In the present 
+study, ghee, at levels ranging from 0.25 to 10%, was included in a nutritionally 
+balanced AIN-76 diet fed to Wistar rats for a period of 8 weeks. The serum lipid 
+profiles of these animals showed a dose dependent decrease in total cholesterol, 
+low density lipoproteins and very low density lipoproteins cholesterol, and 
+triglyceride levels when ghee was present at levels greater than 2.5% in the 
+diet. Liver cholesterol and triglycerides also were decreased in these animals. 
+When ghee was included as a sole source of fat at a 10% level, polyunsaturated 
+fatty acids in the serum and liver lipids were reduced significantly. Similar 
+results were observed when ghee was subjected to a higher temperature (120 
+degrees C) to generate cholesterol oxidation products and fed to the animals. 
+Although cholesterol oxidation products were not accumulated in serum, 
+significant amounts were accumulated in liver only when ghee was fed as a sole 
+source of fat at a 10% level. This study revealed that the consumption of ghee 
+up to a 10% level in the diet altered blood lipid profiles in such a manner as 
+not to elevate the risk factors for cardiovascular diseases.
+
+DOI: 10.1016/s0955-2863(98)00088-6
+PMID: 15539276
+
+
+5. Prostaglandins Leukot Essent Fatty Acids. 1999 Oct;61(4):249-54. doi: 
+10.1054/plef.1999.0097.
+
+The anhydrous milk fat, ghee, lowers serum prostaglandins and secretion of 
+leukotrienes by rat peritoneal macrophages.
+
+Vijaya Kumar M(1), Sambaiah K, Lokesh BR.
+
+Author information:
+(1)Department of Biochemistry & Nutrition, Central Food Technological Research 
+Institute, Mysore, India. vijlok@nicfos.ernet.in
+
+Ghee, the anhydrous milk fat, is one of the most important sources of dietary 
+fat in India. Male Wistar rats were fed diets containing 2.5, 5.0 and 10 wt% 
+ghee for a period of 8 weeks. The diets were made isocaloric with groundnut oil. 
+The results showed that serum thromboxane levels decreased by 27-35%, and 
+6-keto-prostaglandin F1alpha by 23-37% when ghee was incorporated at level of 
+10% in the diet. Prostaglandin E2 levels in serum and secretion of leukotrienes 
+B4, C4 and D4 by peritoneal macrophages activated with calcium ionophore 
+decreased when increased amounts of ghee from 2.5 to 10% were included in the 
+diet. Arachidonic acid levels in macrophage phospholipids decreased when 
+incremental amounts of ghee were fed to rats. These studies indicate that ghee 
+in the diet not only lowers the prostaglandin levels in serum but also decreases 
+the secretion of leukotrienes by macrophages.
+
+DOI: 10.1054/plef.1999.0097
+PMID: 10574649 [Indexed for MEDLINE]
+
+
+6. Lipids Health Dis. 2013 Aug 7;12:121. doi: 10.1186/1476-511X-12-121.
+
+High conjugated linoleic acid enriched ghee (clarified butter) increases the 
+antioxidant and antiatherogenic potency in female Wistar rats.
+
+Chinnadurai K(1), Kanwal HK, Tyagi AK, Stanton C, Ross P.
+
+Author information:
+(1)Dairy Cattle Nutrition (DCN) Division, National Dairy Research Institute, 
+Karnal, Haryana, 132001, India. amrishtyagi1963@yahoo.com.
+
+BACKGROUND: Hypercholesterolemia and oxidative stress are the main stimulating 
+factors responsible for coronary artery disease and progression of 
+atherosclerosis. Dairy food products are rich in conjugated linoleic acid (CLA) 
+which is considered as an important component due to its potential health 
+benefits such as anticarcinogenic, antiatherogenic, antidiabetic and 
+antiadipogenic properties. In the present study, the effect of CLA enriched ghee 
+on the antioxidant enzyme system and antiatherogenic properties in Wistar rats 
+has been studied.
+METHODS: Female Wistar rats of 21 days were taken for the study and fed with 
+soybean diet (Control diet), low CLA diet and high CLA ghee diet (treatments) 
+for thirty five days for studying antioxidative enzymes and sixteen weeks in 
+case of antiatherogenic studies.
+RESULTS: Feeding of high CLA enhanced ghee during pubescent period in rats lead 
+to an increase in catalase (CAT) and superoxide dismutase (SOD) enzyme 
+activities in blood and increased CAT, SOD and glutathione transferase (GST) 
+enzymes activities in liver by 27, 130 and 168 percent, respectively. Plasma 
+nitrate concentration and Haemoglobin levels remained the same in all the 
+treatments. Feeding of high CLA ghee resulted in lower (P < 0.01) plasma 
+cholesterol & triglyceride level (52.17 and 30.27%), and higher high density 
+lipoproteins (33.26%) than feeding of soybean oil (control group) and thus 
+manifested in decreased (P < 0.05) atherogenic index (from 0.472 to 0.244). 
+Lesser cholesterol and triglyceride levels were observed in the liver and aorta 
+of high CLA fed rats than in those of the other groups. Histopathological 
+studies of liver showed normal hepatic cords with portal triad in the high CLA 
+ghee fed rats whereas fatty degeneration of hepatocytes containing fat vacuoles 
+was observed in the liver of the other groups.
+CONCLUSION: This paper is the first report of the antioxidant and 
+antiatherogenic properties of the high CLA enriched ghee suggesting that high 
+CLA ghee can be used as a potential food for decreasing the risk of 
+cardiovascular diseases, particularly in India, where, ghee is widely used for 
+culinary and medicinal purposes.
+
+DOI: 10.1186/1476-511X-12-121
+PMCID: PMC3766171
+PMID: 23923985 [Indexed for MEDLINE]
+
+
+7. J Clin Diagn Res. 2016 Sep;10(9):FF11-FF15. doi: 10.7860/JCDR/2016/19457.8512.
+ Epub 2016 Sep 1.
+
+Comparison between the Effect of Cow Ghee and Butter on Memory and Lipid Profile 
+of Wistar Rats.
+
+Karandikar YS(1), Bansude AS(2), Angadi EA(3).
+
+Author information:
+(1)Associate Professor, Department of Pharmacology, SKN Medical College , Pune, 
+Maharashtra, India .
+(2)Student, BVDU Medical College , Pune, Maharashtra, India .
+(3)Resident, Department of Pharmacology, BVDU Medical College , Pune, 
+Maharashtra, India .
+
+INTRODUCTION: The traditional texts designate Cow Ghee as Medhya Rasayana, 
+beneficial for mental alertness and memory. There has been concern about 
+increased risk of cardiovascular disease due to its high percentage of saturated 
+fatty acids in ghee. Amongst all edible fats, nutrition composition of cow ghee 
+and butter is comparatively similar. Hence we had planned a study to assess 
+effect of cow ghee on memory and lipid profile.
+AIM: So the aim of this study is to assess the effect of cow ghee on memory and 
+lipid profile.
+MATERIALS AND METHODS: Nootropic activity of test drugs was assessed by Elevated 
+Plus Maze (EPM) and Morris Water Maze (MWM) model. Rats were divided into four 
+groups namely control, Piracetam, cow ghee and butter. All drugs were given 
+orally for 21 days. Transfer latency was measured in EPM model and probe test 
+was done in MWM model.
+RESULTS: Cow ghee and butter group showed no significant effect on memory in EPM 
+and MWM model. There was reduction in weight of animals in Cow Ghee group and 
+increase in weight with Butter. In both the models there was a significant 
+increase in Triglyceride (TG) and Very Low Density Lipoproteins (VLDL) levels of 
+rats in butter groups and increase in TG and VLDL of rats with cow ghee in EPM 
+model.
+CONCLUSION: The result of experiment suggests that no beneficial effect cow ghee 
+and butter on cognition was seen. However, ghee is relatively safer when 
+compared to Butter in considering lipid profile.
+
+DOI: 10.7860/JCDR/2016/19457.8512
+PMCID: PMC5071963
+PMID: 27790463
+
+
+8. Br J Nutr. 2011 May;105(10):1520-9. doi: 10.1017/S0007114510005131. Epub 2011 
+Jan 28.
+
+Major dietary patterns and their associations with cardiovascular risk factors 
+among women in West Bengal, India.
+
+Ganguli D(1), Das N, Saha I, Biswas P, Datta S, Mukhopadhyay B, Chaudhuri D, 
+Ghosh S, Dey S.
+
+Author information:
+(1)Department of Physiology, University College of Science and Technology, 
+University of Calcutta, Kolkata, West Bengal, India.
+
+Few studies have examined dietary patterns in relation to cardiovascular risk 
+factors in Asian populations, particularly in India. The present study was 
+undertaken to explore dietary patterns in a general urban Bengalee population of 
+women in West Bengal, India, and their association with cardiovascular risk 
+factors. We performed a cross-sectional study of 701 women (aged 35 years and 
+above) selected by cluster sampling from twelve different wards of the Kolkata 
+Municipal Corporation (Kolkata, India). The following three major dietary 
+patterns were identified: the 'vegetable, fruits and pulses' pattern 
+(characterised by higher intakes of dark-yellow and green leafy vegetables, 
+sweets, fruits, pulses, nuts, poultry and eggs, and lower intake of mustard 
+oil); the 'hydrogenated and saturated fat and vegetable oil' pattern 
+(characterised by higher intakes of butter, hydrogenated oil, ghee, vegetable 
+oil, mustard oil, condiments, sweets, fish, high-fat dairy and refined grain); 
+the 'red meat and high-fat dairy' pattern (characterised by higher intakes of 
+red meat, high-fat dairy products, whole grain, high-energy drinks and 
+condiments, and lower intakes of fish, refined grain and low-fat dairy 
+products). The vegetable, fruits and pulses pattern was inversely associated 
+with serum total cholesterol (TC), LDL-cholesterol and non-HDL-cholesterol 
+(HDL-C) concentrations (P < 0·05 for all). The hydrogenated and saturated fat 
+and vegetable oil pattern was positively associated with BMI, waist 
+circumference (WC) and HDL-C concentration (P < 0·05 for all). In this Bengalee 
+population, these three major dietary patterns were observed, and the dietary 
+patterns were independently associated with BMI, WC and serum TC concentrations 
+in women.
+
+DOI: 10.1017/S0007114510005131
+PMID: 21272403 [Indexed for MEDLINE]
