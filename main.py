@@ -95,25 +95,115 @@ class TruthCheckPipeline:
 
         return final_reports if final_reports else [{"error": "No clear health claims found."}]
 
+# --- EVALUATION HELPERS ---
+
+x=0
+def get_binary_prediction(reports, risk_threshold=0.5):
+    """
+    Aggregates TruthCheck reports into a single binary label.
+    0 = Real/Safe, 1 = Fake/Misinformation
+    """
+    global x
+    if not reports or "error" in reports[0]:
+        x+=1
+        return 1  # Safety first: flag as 1 if the engine can't parse it
+    
+    # 1. Check for hard refutations (Label 1)
+    for r in reports:
+        if r['verdict'] == "FALSE" or "RAG Verdict: REFUTES" in r['explanation']:
+            return 1
+            
+    # 2. Check Risk Scores (Label 1)
+    max_risk = max([r.get('risk_score', 0) for r in reports])
+    if max_risk > risk_threshold:
+        return 1
+        
+    # 3. Check for positive verification (Label 0)
+    for r in reports:
+        if r['verdict'] == "TRUE" or "RAG Verdict: SUPPORTS" in r['explanation']:
+            return 0
+            
+    # 4. Neutral/Unverified fallback
+    return 1 if max_risk > 0.3 else 0
 
 if __name__ == "__main__":
-    pipeline = TruthCheckPipeline()
-
-    user_input = (
-        "Subah khali pet drinking warm water improves digestion and boosts metabolism. "
-        "Many people also believe it helps in detoxifying the body and improving skin health. "
-        "However, some individuals simply enjoy starting their day with a glass of warm water out of habit. "
-        "It is a common routine in many households and is often recommended by elders. "
-        "Whether or not someone chooses to follow this practice usually depends on personal preference and lifestyle."
+    import pandas as pd
+    import os
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    from sklearn.metrics import (
+        accuracy_score, precision_score, recall_score, 
+        f1_score, confusion_matrix, classification_report
     )
 
-    results = pipeline.analyze_query(user_input)
+    print("=" * 60)
+    print("  TRUTHCHECK ENGINE: BTP EVALUATION MODE")
+    print("=" * 60)
 
-    for r in results:
-        print(f"REPORT FOR: '{r['input']}'")
-        print(f"Claim: {r['extracted_claim']}")
-        print(f"Verdict: {r['verdict']}")
-        print(f"Source: {r['source']}")
-        print(f"Risk: {r['risk_score']} ({r['risk_level']})")
-        print(f"Scientific Truth: {r['explanation']}")
-        print("-" * 60)
+    # 1. Initialize
+    pipeline = TruthCheckPipeline()
+    test_data_path = "TruthCheck/data/final_health_claims.csv"
+
+    if not os.path.exists(test_data_path):
+        print(f"CRITICAL ERROR: CSV not found at {test_data_path}")
+    else:
+        # 2. Load Dataset
+        df = pd.read_csv(test_data_path)
+        print(f"[Dataset] Loaded {len(df)} claims for testing.")
+
+        y_true = df['label'].astype(int).tolist()
+        y_pred = []
+
+        # 3. Run Inference
+        print("[Inference] Analyzing claims (NER + RAG Verification)...")
+        for i, row in df.iterrows():
+            claim_text = row['claim']
+            raw_reports = pipeline.analyze_query(claim_text)
+            if i==0:
+                print(raw_reports)
+            prediction = get_binary_prediction(raw_reports)
+            y_pred.append(prediction)
+
+            if (i + 1) % 5 == 0:
+                print(f"            Processed {i + 1}/{len(df)}...")
+
+        # 4. Calculate Stats
+        # Note: 'weighted' is used to match the multi-class style of your baseline
+        acc  = accuracy_score(y_true, y_pred)
+        prec = precision_score(y_true, y_pred, average='weighted', zero_division=0)
+        rec  = recall_score(y_true, y_pred, average='weighted', zero_division=0)
+        f1   = f1_score(y_true, y_pred, average='weighted', zero_division=0)
+
+        # 5. Print Results in Requested Format
+        print(f"\n{'─'*50}")
+        print(f"  TruthCheck (NER + RAG) — Results")
+        print(f"{'─'*50}")
+        print(f"  Accuracy   : {acc:.4f}")
+        print(f"  Precision  : {prec:.4f}")
+        print(f"  Recall     : {rec:.4f}")
+        print(f"  F1 Score   : {f1:.4f}")
+        print(f"\n{classification_report(y_true, y_pred, target_names=['Real (0)', 'Fake (1)'])}")
+
+        # 6. Plot Confusion Matrix using Matplotlib/Seaborn
+        cm = confusion_matrix(y_true, y_pred)
+        plt.figure(figsize=(7, 6))
+        sns.heatmap(
+            cm, annot=True, fmt='d', cmap='Greens',
+            xticklabels=['Predicted Real', 'Predicted Fake'],
+            yticklabels=['Actual Real', 'Actual Fake']
+        )
+        plt.title('Confusion Matrix: TruthCheck NER + RAG Pipeline')
+        plt.ylabel('Ground Truth')
+        plt.xlabel('Pipeline Prediction')
+        
+        # Save the plot for your BTP report
+        os.makedirs("results", exist_ok=True)
+        plt.savefig("results/truthcheck_confusion_matrix.png")
+        print("\n[Plot] Confusion matrix saved to 'results/truthcheck_confusion_matrix.png'")
+        
+        plt.show()
+
+    print("=" * 60)
+    print("  EVALUATION COMPLETE")
+    print("=" * 60)
+    print(x)

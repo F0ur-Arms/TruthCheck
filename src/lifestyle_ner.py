@@ -2,20 +2,17 @@ import spacy
 from spacy.pipeline import EntityRuler
 import os
 
-# Import the path from your config file
 try:
     from config import PATTERNS_FILE
 except ImportError:
-    # Fallback if config is not set up yet
-    PATTERNS_FILE = "data/lifestyle_patterns.jsonl"
+
+    PATTERNS_FILE = "TruthCheck/data/lifestyle_patterns.jsonl"
 
 def build_lifestyle_ner(nlp):
     """
     Adds an EntityRuler to the spaCy pipeline and loads patterns 
     from an external JSONL file.
     """
-    # 1. Create the EntityRuler pipe if it doesn't exist
-    # We place it before the standard 'ner' so our custom rules take priority
     if "entity_ruler" not in nlp.pipe_names:
         ruler = nlp.add_pipe("entity_ruler", before="ner")
     else:

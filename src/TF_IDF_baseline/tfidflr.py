@@ -24,13 +24,13 @@ from sklearn.metrics                 import (
     f1_score, confusion_matrix, classification_report
 )
 
-from preprocess import preprocess
+from preprocesstfidf import preprocess
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
-TEST_DATA_PATH = "data/health_claims.csv"   
+TEST_DATA_PATH = "TruthCheck/data/final_health_claims.csv"  
 MODEL_DIR      = "models/"
 TFIDF_MAX_FEAT = 5000
 RANDOM_STATE   = 42
@@ -145,8 +145,8 @@ if __name__ == "__main__":
     os.makedirs(MODEL_DIR, exist_ok=True)
     joblib.dump(model,      os.path.join(MODEL_DIR, "baseline_lr_model.pkl"))
     joblib.dump(vectorizer, os.path.join(MODEL_DIR, "tfidf_vectorizer.pkl"))
-    print(f"\n[Saved]  Model      → {MODEL_DIR}baseline_lr_model.pkl")
-    print(f"[Saved]  Vectorizer → {MODEL_DIR}tfidf_vectorizer.pkl")
+    print(f"\n[Saved]  Model       {MODEL_DIR}baseline_lr_model.pkl")
+    print(f"[Saved]  Vectorizer  {MODEL_DIR}tfidf_vectorizer.pkl")
 
     # Step 6: Load and preprocess your health claims test data
     print(f"\n[Step 5] Loading test data from {TEST_DATA_PATH}...")
