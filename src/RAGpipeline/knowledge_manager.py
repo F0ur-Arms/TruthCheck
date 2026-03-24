@@ -2,6 +2,7 @@ import os
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+import json 
 
 CACHE_FILE = "processed_cache.txt"   # tracks which files are already embedded
 INDEX_FILE = "kb_index.faiss"        # saved FAISS index on disk
@@ -189,8 +190,46 @@ class KnowledgeManager:
         query_vector = self.model.encode([query_triple]).astype('float32')
         distances, indices = self.index.search(query_vector, top_k)
         return [self.passages[i] for i in indices[0] if i < len(self.passages)]
+    def load_verified_facts(self, facts_path="TruthCheck/data/verified_facts.json"):
+        """
+        Builds a separate FAISS index for verified_facts.json.
+        Uses the same MiniLM model already loaded — no extra memory.
+        """
+        if not os.path.exists(facts_path):
+            print(f"[KnowledgeManager] ⚠ verified_facts.json not found at {facts_path}")
+            self.facts_index   = None
+            self.facts_entries = []
+            return
 
+        with open(facts_path, 'r', encoding='utf-8') as f:
+            facts = json.load(f)
 
+        # Embed scientific_truth of each entry
+        premises   = [entry["scientific_truth"] for entry in facts]
+        embeddings = self.model.encode(premises, show_progress_bar=False)
+
+        self.facts_index = faiss.IndexFlatL2(embeddings.shape[1])
+        self.facts_index.add(embeddings.astype('float32'))
+        self.facts_entries = facts
+
+        print(f"[KnowledgeManager] ✅ Loaded {len(facts)} verified facts into FAISS index")
+
+    def find_best_fact(self, claim_text):
+        """
+        Semantically finds the most relevant KB entry for a claim.
+        Returns (best_entry, distance). Lower distance = better match.
+        """
+        if self.facts_index is None or not self.facts_entries:
+            return None, float('inf')
+
+        vec               = self.model.encode([claim_text]).astype('float32')
+        distances, indices = self.facts_index.search(vec, 1)
+
+        best_idx   = indices[0][0]
+        best_dist  = distances[0][0]
+        best_entry = self.facts_entries[best_idx]
+
+        return best_entry, best_dist
 # ─────────────────────────────────────────────────────────────────────────────
 # TEST
 # ─────────────────────────────────────────────────────────────────────────────

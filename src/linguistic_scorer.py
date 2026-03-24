@@ -1,342 +1,390 @@
-# import re
-
-# class LinguisticScorer:
-#     def __init__(self):
-#         # Keywords commonly found in Indian health misinformation and viral forwards
-#         self.clickbait_triggers = [
-#             "miracle", "secret", "shocking", "must share", 
-#             "whatsapp", "doctors don't want", "guaranteed",
-#             "forwarded", "urgent", "warning", "magic remedy",
-#             "100%", "hidden truth"
-#         ]
-
-#     def calculate_score(self, text):
-#         """
-#         Analyzes text style to return a risk score between 0.0 and 1.0.
-#         """
-#         score = 0.0
-#         if not text:
-#             return score
-
-#         # 1. SHOUTING CHECK (Uppercase Ratio)
-#         # If more than 25% of the text is uppercase, it's likely sensationalist.
-#         upper_count = sum(1 for c in text if c.isupper())
-#         total_chars = len(text.replace(" ", ""))
-#         if total_chars > 0:
-#             upper_ratio = upper_count / total_chars
-#             if upper_ratio > 0.3:
-#                 score += 0.4
-
-#         # 2. SENSATIONAL PUNCTUATION (Repeated Marks)
-#         # Scientific text rarely uses !!! or ???
-#         if re.search(r'!{2,}', text) or re.search(r'\?{2,}', text):
-#             score += 0.3
-
-#         # 3. CLICKBAIT KEYWORD MATCHING
-#         text_lower = text.lower()
-#         found_triggers = [word for word in self.clickbait_triggers if word in text_lower]
-#         if found_triggers:
-#             # Add 0.1 for each trigger found, maxing out at 0.3
-#             score += min(len(found_triggers) * 0.1, 0.3)
-
-#         return round(min(score, 1.0), 2)
-
-# if __name__ == "__main__":
-#     scorer = LinguisticScorer()
-    
-#     # Test cases
-#     samples = [
-#         "Drinking warm water improves digestion.",
-#         "SHOCKING MIRACLE REMEDY!!! TURMERIC CURES CANCER!!! MUST SHARE!!!",
-#         "This is a secret doctors don't want you to know about obesity."
-#     ]
-
-#     print(f"{'Sample Text':<40} | {'Risk Score'}")
-#     print("-" * 55)
-#     for s in samples:
-#         score = scorer.calculate_score(s)
-#         print(f"{s[:38]:<40} | {score}")
-
 import re
 
-
-# ---------------------------------------------------------------------------
-# CLICKBAIT & SENSATIONALISM TRIGGERS
-#
-# Organized into weighted tiers instead of a flat list.
-# Tier 1 (HIGH, +0.35): Strong misinformation signals — rarely appear in
-#         legitimate health content. e.g. "doctors don't want you to know"
-# Tier 2 (MEDIUM, +0.20): Common in viral forwards and WhatsApp health myths.
-#         Not always misinformation but strong co-occurring signals.
-# Tier 3 (LOW, +0.10): Weak signals — appear in both real and fake content.
-#         Only meaningful when combined with other signals.
-#
-# Indian-context terms are intentionally included since the pipeline
-# targets Indian health misinformation specifically.
-# ---------------------------------------------------------------------------
-
+# ─────────────────────────────────────────────────────────────────────────────
+# TIER 1 — HIGH RISK (conspiracy, absolute cure claims, dangerous urgency)
+# ─────────────────────────────────────────────────────────────────────────────
 TIER1_HIGH = {
-    # Conspiracy / anti-establishment
-    "doctors don't want",
-    "doctors hate",
-    "they don't want you to know",
-    "hidden truth",
-    "big pharma",
-    "government is hiding",
-    "suppressed cure",
-    # Absolute cure claims
-    "cures cancer",
-    "cures diabetes",
-    "cures all",
-    "permanent cure",
-    "100% cure",
-    # Dangerous urgency
-    "must share immediately",
-    "share before it's deleted",
-    "forward to everyone",
-    "going viral",
+    "doctors don't want", "doctors hate", "they don't want you to know",
+    "hidden truth", "big pharma", "government is hiding", "suppressed cure",
+    "cures cancer", "cures diabetes", "cures all", "permanent cure", "100% cure",
+    "must share immediately", "share before it's deleted",
+    "forward to everyone", "going viral",
 }
 
+# ─────────────────────────────────────────────────────────────────────────────
+# TIER 2 — MEDIUM RISK (sensational framing, WhatsApp culture, urgency)
+# ─────────────────────────────────────────────────────────────────────────────
 TIER2_MEDIUM = {
-    # Sensational framing
-    "miracle", "magic remedy", "magic cure",
-    "shocking", "unbelievable", "mind blowing",
-    "ancient secret", "ancient remedy",
-    "guaranteed", "100%", "zero side effects",
-    "no side effects", "completely safe",
-    # WhatsApp / forward culture signals
-    "whatsapp", "forwarded message", "must share",
-    "please share", "share with family",
-    "viral remedy", "trending cure",
-    # Indian-context terms
+    "miracle", "magic remedy", "magic cure", "shocking", "unbelievable",
+    "mind blowing", "ancient secret", "ancient remedy", "guaranteed",
+    "zero side effects", "no side effects", "completely safe",
+    "whatsapp", "forwarded message", "must share", "please share",
+    "share with family", "viral remedy", "trending cure",
     "desi nuskha", "gharelu nuskha", "ayurvedic secret",
     "generations old remedy", "daadi ka nuskha",
-    # Urgency without conspiracy
-    "urgent", "warning", "act now", "limited time",
-    "breaking", "exclusive",
+    "urgent", "act now", "limited time", "breaking", "exclusive",
 }
 
+# ─────────────────────────────────────────────────────────────────────────────
+# TIER 3 — LOW RISK (weak sensationalism, overused health buzzwords)
+# ─────────────────────────────────────────────────────────────────────────────
 TIER3_LOW = {
-    # Weak sensationalism
-    "secret", "revealed", "exposed",
-    "natural remedy", "home remedy",
-    "try this", "works instantly",
-    "proven", "scientifically proven",   # often misused in misinformation
-    "detox", "cleanse", "flush toxins",
-    "boosts immunity",                    # overused claim post-COVID
-    "superfood", "wonder food",
-    "empty stomach",                      # common in Indian health forwards
-    "khali pet",                          # Hinglish version of empty stomach
+    "secret", "revealed", "exposed", "natural remedy", "home remedy",
+    "try this", "works instantly", "proven", "scientifically proven",
+    "detox", "cleanse", "flush toxins", "boosts immunity",
+    "superfood", "wonder food", "empty stomach", "khali pet",
 }
 
+# ─────────────────────────────────────────────────────────────────────────────
+# ABSOLUTE QUANTIFIERS
+# Real medical text never makes absolute claims. These words signal
+# misinformation regardless of the health topic.
+# ─────────────────────────────────────────────────────────────────────────────
+ABSOLUTE_QUANTIFIERS = {
+    "always", "never", "completely", "totally", "instantly", "immediately",
+    "permanently", "forever", "100 percent", "definitely", "certainly",
+    "undoubtedly", "absolutely", "will cure", "will prevent", "will cause",
+    "eliminates completely", "reverses completely",
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# HEDGING PHRASES
+# Presence of hedging = credible framing → reduces style score.
+# Real scientific writing always hedges causal claims.
+# ─────────────────────────────────────────────────────────────────────────────
+HEDGING_PHRASES = {
+    "may", "might", "could", "suggests", "evidence suggests",
+    "some studies", "research indicates", "according to",
+    "in some cases", "potentially", "possibly", "appears to",
+    "is associated with", "linked to", "preliminary evidence",
+    "consult a doctor", "speak to a professional", "limited evidence",
+    "further research needed", "not conclusive",
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# VAGUE AUTHORITY
+# "Studies show", "doctors say" with no specifics = fake credibility signal.
+# ─────────────────────────────────────────────────────────────────────────────
+VAGUE_AUTHORITY = {
+    "doctors say", "scientists say", "experts say", "researchers say",
+    "studies show", "studies prove", "science says", "doctors confirm",
+    "experts confirm", "scientists confirm", "research shows",
+    "research proves", "doctors recommend", "experts recommend",
+    "they say", "everyone knows",
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# PSEUDOSCIENCE TERMS
+# Scientific-sounding language used to fake mechanism explanations.
+# "microwave alters food dna" — "alters dna" fires here.
+# ─────────────────────────────────────────────────────────────────────────────
+PSEUDOSCIENCE_TERMS = {
+    "alters dna", "destroys dna", "mutates dna", "affects dna", "damages dna",
+    "electromagnetic", "pineal gland", "third eye", "alkaline body",
+    "acidic blood", "oxygenate blood", "detoxify blood", "toxic blood",
+    "negative energy", "positive energy", "vibration frequency",
+    "activates genes", "rewires brain", "resets metabolism",
+    "kills cancer cells", "starves cancer", "alkalizes body",
+    "heavy metal detox", "removes toxins from blood",
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CAUSAL OVERCLAIM PATTERN
+# Regex: catches ANY "cures X", "causes X", "prevents X" bare assertion.
+# Broader than TIER1 keywords — covers any disease/condition after the verb.
+# ─────────────────────────────────────────────────────────────────────────────
+_CAUSAL_VERBS = (
+    r"cures?|causes?|prevents?|treats?|heals?|kills?|destroys?|"
+    r"reverses?|eliminates?|boosts?|damages?|blocks?|melts?|whitens?|"
+    r"cleans?|flushes?|purifies?|removes?|repairs?|restores?"
+)
+CAUSAL_OVERCLAIM_PATTERN = re.compile(
+    rf"\b({_CAUSAL_VERBS})\b\s+\w+",
+    re.IGNORECASE
+)
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CAUSAL CHAIN PATTERN
+# Two-hop causal claim — stronger misinformation signal than single hop.
+# "microwave alters food dna causing cancer"
+# "stress affects hormones leading to diabetes"
+# ─────────────────────────────────────────────────────────────────────────────
+CAUSAL_CHAIN_PATTERN = re.compile(
+    r"\b\w+\s+(alters?|changes?|affects?|disrupts?|damages?|blocks?)\s+\w+"
+    r"\s+(caus(?:es?|ing)|lead(?:s|ing)\s+to|result(?:s|ing)\s+in|trigger(?:s|ing))\s+\w+",
+    re.IGNORECASE
+)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LINGUISTIC SCORER
+# ─────────────────────────────────────────────────────────────────────────────
 
 class LinguisticScorer:
+    """
+    Rule-based sensationalism and misinformation style scorer.
+
+    Measures 9 independent signals across 4 dimensions:
+
+    Dimension 1 — Presentation signals:
+        uppercase, punctuation, tiered keywords
+
+    Dimension 2 — Claim structure signals:
+        absolute quantifiers, hedging absence, causal overclaim,
+        causal chain (two-hop)
+
+    Dimension 3 — Credibility signals:
+        vague authority, pseudoscience terms
+
+    Dimension 4 — Structural signals:
+        length pattern
+
+    Note on pretrained models:
+        Health-specific models (PUBHEALTH/health_fact) require claim+evidence
+        pairs and are not suitable for standalone sentence scoring.
+        Clickbait models (trained on headlines) actively hurt scores on calm
+        misinformation like "microwave alters food dna causing cancer".
+        Rule-based scoring is more reliable for this domain and input format.
+    """
+
     def __init__(self):
-        # Pre-compile regex patterns for performance
-        # These catch repeated punctuation like !!! or ???
         self._exclamation_pattern = re.compile(r'!{2,}')
         self._question_pattern    = re.compile(r'\?{2,}')
-        # ALL CAPS words (3+ chars to avoid abbreviations like "OK", "BP")
         self._caps_word_pattern   = re.compile(r'\b[A-Z]{3,}\b')
 
-    # ---------------------------------------------------------------------------
-    # INDIVIDUAL SIGNAL SCORERS
-    # Each returns a float contribution to the final score.
-    # Kept separate so they're easy to test, tune, or disable individually.
-    # ---------------------------------------------------------------------------
+    # ─────────────────────────────────────────────────────────────────────────
+    # DIMENSION 1 — PRESENTATION SIGNALS
+    # ─────────────────────────────────────────────────────────────────────────
 
     def _score_uppercase(self, text):
-        """
-        Detects shouting / emphasis via uppercase ratio.
-
-        Old code: threshold was 0.30 (30% of ALL chars uppercase)
-        Problem:  A single word like "SHOCKING" in a normal sentence
-                  doesn't move the needle — you'd need most of the text
-                  to be caps before it triggered.
-
-        Fix 1: Lower ratio threshold to 0.15
-        Fix 2: Also count ALL-CAPS words directly (catches "SHOCKING CURE!!!"
-               even in otherwise lowercase text)
-        """
+        """Uppercase ratio + ALL-CAPS word count."""
         score = 0.0
-
-        # Method 1: Overall uppercase character ratio
         upper_count = sum(1 for c in text if c.isupper())
         total_chars = len(text.replace(" ", ""))
 
         if total_chars > 0:
-            upper_ratio = upper_count / total_chars
-            if upper_ratio > 0.50:
-                score += 0.35    # Majority caps — very strong signal
-            elif upper_ratio > 0.15:
-                score += 0.20    # Partial caps — moderate signal
+            ratio = upper_count / total_chars
+            if ratio > 0.50:
+                score += 0.35
+            elif ratio > 0.15:
+                score += 0.20
 
-        # Method 2: Count individual ALL-CAPS words
         caps_words = self._caps_word_pattern.findall(text)
         if len(caps_words) >= 3:
-            score += 0.20        # Multiple caps words — strong signal
-        elif len(caps_words) >= 1:
-            score += 0.10        # Single caps word — weak signal
-
-        return min(score, 0.40)  # Cap this component at 0.40
-
-    def _score_punctuation(self, text):
-        """
-        Detects sensational punctuation — !!! ??? etc.
-        Scientific / factual text virtually never uses these.
-
-        Old code gave flat 0.3 for any repeated mark.
-        New: scaled by count — more occurrences = stronger signal.
-        """
-        score = 0.0
-
-        exclamations = len(self._exclamation_pattern.findall(text))
-        questions    = len(self._question_pattern.findall(text))
-
-        total_marks = exclamations + questions
-
-        if total_marks >= 3:
-            score += 0.30
-        elif total_marks == 2:
             score += 0.20
-        elif total_marks == 1:
+        elif len(caps_words) >= 1:
             score += 0.10
 
-        return score
+        return min(score, 0.40)
 
-    def _score_clickbait_keywords(self, text):
+    def _score_punctuation(self, text):
+        """Repeated punctuation — !!! ??? etc."""
+        exclamations = len(self._exclamation_pattern.findall(text))
+        questions    = len(self._question_pattern.findall(text))
+        total        = exclamations + questions
+
+        if total >= 3:   return 0.30
+        if total == 2:   return 0.20
+        if total == 1:   return 0.10
+        return 0.0
+
+    def _score_tiered_keywords(self, text):
+        """Tiered keyword matching across conspiracy / sensational / mild lists."""
+        text_lower = text.lower()
+        t1 = sum(1 for kw in TIER1_HIGH   if kw in text_lower)
+        t2 = sum(1 for kw in TIER2_MEDIUM if kw in text_lower)
+        t3 = sum(1 for kw in TIER3_LOW    if kw in text_lower)
+
+        score  = min(t1 * 0.35, 0.35)
+        score += min(t2 * 0.20, 0.30)
+        score += min(t3 * 0.10, 0.20)
+        return min(score, 0.60)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # DIMENSION 2 — CLAIM STRUCTURE SIGNALS
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def _score_absolute_quantifiers(self, text):
         """
-        Tiered keyword matching against TIER1/TIER2/TIER3 lists.
-
-        Old code: flat list of 13 words, all weighted equally at 0.1 each.
-        New: 3 tiers with different weights, much larger vocabulary,
-             includes Indian-context and Hinglish terms.
-
-        Scoring:
-        - Each Tier1 match: +0.35 (capped at 0.35 total from this tier)
-        - Each Tier2 match: +0.20 (capped at 0.30 total from this tier)
-        - Each Tier3 match: +0.10 (capped at 0.20 total from this tier)
+        Absolute language that real medical writing never uses.
+        "This completely cures diabetes" — "completely" fires.
+        +0.15 per hit, capped at 0.30.
         """
         text_lower = text.lower()
-        score = 0.0
+        hits = sum(1 for q in ABSOLUTE_QUANTIFIERS if q in text_lower)
+        return min(hits * 0.15, 0.30)
 
-        tier1_hits = [kw for kw in TIER1_HIGH   if kw in text_lower]
-        tier2_hits = [kw for kw in TIER2_MEDIUM if kw in text_lower]
-        tier3_hits = [kw for kw in TIER3_LOW    if kw in text_lower]
+    def _score_hedging_absence(self, text):
+        """
+        Causal claim without hedging = suspicious.
+        Causal claim with hedging = credible (negative contribution).
 
-        score += min(len(tier1_hits) * 0.35, 0.35)
-        score += min(len(tier2_hits) * 0.20, 0.30)
-        score += min(len(tier3_hits) * 0.10, 0.20)
+        Returns:
+            +0.20 : causal verb present, no hedging → bare assertion
+            -0.10 : causal verb present, hedging found → credible framing
+             0.0  : no causal verb → neutral
+        """
+        text_lower  = text.lower()
+        has_causal  = bool(CAUSAL_OVERCLAIM_PATTERN.search(text))
+        has_hedging = any(h in text_lower for h in HEDGING_PHRASES)
 
-        return min(score, 0.60)  # Cap keyword component at 0.60
+        if not has_causal:
+            return 0.0
+        return -0.10 if has_hedging else 0.20
+
+    def _score_causal_overclaim(self, text):
+        """
+        Regex catches any bare "cures X", "causes X", "melts X" etc.
+        Covers everything in TIER1 plus all other disease/condition combos.
+        +0.10 per match, capped at 0.20.
+        """
+        matches = CAUSAL_OVERCLAIM_PATTERN.findall(text)
+        return min(len(matches) * 0.10, 0.20)
+
+    def _score_causal_chain(self, text):
+        """
+        Two-hop causal claims — stronger signal than single hop.
+        "microwave alters food dna causing cancer" → fires.
+        "stress affects hormones leading to diabetes" → fires.
+        +0.20 per match, capped at 0.20.
+        """
+        matches = CAUSAL_CHAIN_PATTERN.findall(text)
+        return min(len(matches) * 0.20, 0.20)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # DIMENSION 3 — CREDIBILITY SIGNALS
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def _score_vague_authority(self, text):
+        """
+        Unnamed authority with no specifics — fake credibility.
+        "Studies show", "doctors say" → +0.15 each, capped at 0.20.
+        """
+        text_lower = text.lower()
+        hits = sum(1 for v in VAGUE_AUTHORITY if v in text_lower)
+        return min(hits * 0.15, 0.20)
+
+    def _score_pseudoscience(self, text):
+        """
+        Scientific-sounding mechanism language used incorrectly.
+        "alters dna", "alkalizes body", "pineal gland" → +0.20 each, capped 0.30.
+        Catches: "microwave alters food dna causing cancer" via "alters dna".
+        """
+        text_lower = text.lower()
+        hits = sum(1 for p in PSEUDOSCIENCE_TERMS if p in text_lower)
+        return min(hits * 0.20, 0.30)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # DIMENSION 4 — STRUCTURAL SIGNALS
+    # ─────────────────────────────────────────────────────────────────────────
 
     def _score_length_pattern(self, text):
         """
-        NEW signal — was completely missing before.
-
-        Very short health claims (under 6 words) are often from WhatsApp
-        forwards stripped of context: "Turmeric cures cancer. Share!!"
-        Extremely long ones can be spam-padded misinformation.
-
-        This is a weak signal on its own — only adds 0.05-0.10.
+        Very short claims are often stripped WhatsApp forwards.
+        Very long claims may be spam-padded misinformation.
+        Weak signal — only 0.05-0.10.
         """
-        word_count = len(text.split())
-
-        if word_count <= 5:
-            return 0.10   # suspiciously short health claim
-        if word_count >= 80:
-            return 0.05   # unusually long — possible padding
-
+        wc = len(text.split())
+        if wc <= 5:  return 0.10
+        if wc >= 80: return 0.05
         return 0.0
 
-    # ---------------------------------------------------------------------------
+    # ─────────────────────────────────────────────────────────────────────────
     # MASTER SCORER
-    # ---------------------------------------------------------------------------
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def _compute_all_signals(self, text):
+        """Runs all 9 signals and returns dict of values."""
+        return {
+            "uppercase":     self._score_uppercase(text),
+            "punctuation":   self._score_punctuation(text),
+            "keywords":      self._score_tiered_keywords(text),
+            "absolute":      self._score_absolute_quantifiers(text),
+            "hedging":       self._score_hedging_absence(text),
+            "causal":        self._score_causal_overclaim(text),
+            "causal_chain":  self._score_causal_chain(text),
+            "authority":     self._score_vague_authority(text),
+            "pseudoscience": self._score_pseudoscience(text),
+            "length":        self._score_length_pattern(text),
+        }
 
     def calculate_score(self, text):
         """
-        Combines all signals into a final risk score between 0.0 and 1.0.
-
-        Also returns a breakdown dict so RiskEngine / report can show
-        which signals contributed — useful for explaining verdicts.
+        Final style score: 0.0 (credible/neutral) → 1.0 (highly sensational).
 
         Args:
-            text (str): Raw input sentence (before cleaning — we want
-                        original caps, punctuation for style analysis)
+            text (str): raw sentence — pass original before cleaning so
+                        caps and punctuation signals are preserved.
 
         Returns:
-            float: risk score 0.0 to 1.0
+            float
         """
         if not text or not text.strip():
             return 0.0
 
-        upper_score    = self._score_uppercase(text)
-        punct_score    = self._score_punctuation(text)
-        keyword_score  = self._score_clickbait_keywords(text)
-        length_score   = self._score_length_pattern(text)
-
-        total = upper_score + punct_score + keyword_score + length_score
-
-        return round(min(total, 1.0), 2)
+        signals = self._compute_all_signals(text)
+        total   = sum(signals.values())
+        return round(max(0.0, min(total, 1.0)), 4)
 
     def calculate_score_detailed(self, text):
         """
-        Same as calculate_score but returns full breakdown.
-        Use this in main pipeline if you want per-signal visibility in reports.
+        Same as calculate_score but returns full per-signal breakdown.
+        Use this in pipeline for richer logging.
+
+        Returns:
+            dict: {"score": float, "breakdown": {signal: value, ...}}
         """
         if not text or not text.strip():
             return {"score": 0.0, "breakdown": {}}
 
-        upper_score   = self._score_uppercase(text)
-        punct_score   = self._score_punctuation(text)
-        keyword_score = self._score_clickbait_keywords(text)
-        length_score  = self._score_length_pattern(text)
-
-        total = round(min(upper_score + punct_score + keyword_score + length_score, 1.0), 2)
+        signals = self._compute_all_signals(text)
+        total   = round(max(0.0, min(sum(signals.values()), 1.0)), 4)
 
         return {
-            "score": total,
-            "breakdown": {
-                "uppercase_signal":  round(upper_score,   2),
-                "punctuation_signal": round(punct_score,  2),
-                "keyword_signal":    round(keyword_score, 2),
-                "length_signal":     round(length_score,  2),
-            }
+            "score":     total,
+            "breakdown": {k: round(v, 4) for k, v in signals.items()},
         }
 
 
-# ---------------------------------------------------------------------------
-# Standalone testing
-# ---------------------------------------------------------------------------
+# ─────────────────────────────────────────────────────────────────────────────
+# STANDALONE TEST
+# ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     scorer = LinguisticScorer()
 
     test_cases = [
-        # Should be LOW
-        "Drinking warm water on an empty stomach improves digestion.",
-        "Exercise regularly to maintain a healthy weight.",
-        # Should be MEDIUM
-        "This natural remedy is a proven detox cleanse for your body.",
-        "Boosts immunity naturally with this ancient remedy.",
-        # Should be HIGH
-        "SHOCKING MIRACLE!!! Doctors don't want you to know this secret cure!!!",
-        "TURMERIC CURES CANCER COMPLETELY!!! Must share with family!!!",
-        # Indian context
-        "Subah khali pet ye gharelu nuskha try karo — 100% guaranteed results!",
-        # Edge cases
-        "",                           # empty
-        "OK",                         # too short
-        "Share before deleted!!!",    # short + urgent
+        # Expected LOW
+        ("LOW",    "Evidence suggests that vitamin D may support immune function."),
+        ("LOW",    "Exercise regularly to maintain a healthy weight."),
+        ("LOW",    "Some studies indicate that green tea is associated with reduced inflammation."),
+        # Expected MEDIUM — unhedged causal, calm language
+        ("MEDIUM", "Tea bags cause brain fog."),
+        ("MEDIUM", "Laptops on lap cause infertility."),
+        ("MEDIUM", "Cold milk cures acidity."),
+        ("MEDIUM", "Doctors say onions clean viruses from the air."),
+        # Expected HIGH — pseudoscience + causal chain
+        ("HIGH",   "Microwave alters food dna causing cancer."),
+        ("HIGH",   "Stress affects hormones leading to diabetes."),
+        ("HIGH",   "SHOCKING MIRACLE!!! Doctors don't want you to know this secret cure!!!"),
+        ("HIGH",   "TURMERIC CURES CANCER COMPLETELY!!! Must share with family!!!"),
+        ("HIGH",   "This ancient remedy instantly cures diabetes permanently — guaranteed!"),
+        ("HIGH",   "Scientists confirm this completely destroys all viruses immediately."),
+        # Hinglish
+        ("HIGH",   "Subah khali pet ye gharelu nuskha try karo — 100% guaranteed results!"),
+        # Hedged — should score lower than unhedged equivalent
+        ("LOW",    "Some studies suggest turmeric may have anti-inflammatory properties."),
     ]
 
-    print(f"\n{'Text':<60} | Score  | Breakdown")
-    print("-" * 110)
+    print(f"\n{'Expected':<8} {'Score':<7}  Text")
+    print("─" * 80)
+    for expected, text in test_cases:
+        score   = scorer.calculate_score(text)
+        display = (text[:65] + "...") if len(text) > 68 else text
+        print(f"{expected:<8} {score:<7}  {display}")
 
-    for text in test_cases:
-        result = scorer.calculate_score_detailed(text)
-        breakdown_str = " | ".join(
-            f"{k.replace('_signal','').replace('_',' ')}={v}"
-            for k, v in result["breakdown"].items()
-        ) if result["breakdown"] else "—"
-        display = (text[:57] + "...") if len(text) > 60 else text
-        print(f"{display:<60} | {result['score']:<6} | {breakdown_str}")
+    print("\n--- Detailed breakdown: 'Microwave alters food dna causing cancer.' ---")
+    result = scorer.calculate_score_detailed("Microwave alters food dna causing cancer.")
+    for k, v in result['breakdown'].items():
+        bar = "█" * int(v * 20) if v > 0 else "░" * int(abs(v) * 20)
+        print(f"  {k:<16} : {v:>6}  {bar}")
+    print(f"  {'TOTAL':<16} : {result['score']:>6}")
