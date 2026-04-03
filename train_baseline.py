@@ -1,39 +1,56 @@
-import joblib
 import os
+import joblib
+
 from pipeline.dataset import load_dataset
-from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
+from sklearn.model_selection import train_test_split
 
-# 1. Load data
-texts, labels = load_dataset("data/train.csv")
 
-# 2. Split data
-X_train, X_test, y_train, y_test = train_test_split(
-    texts, labels, test_size=0.2, stratify=labels, random_state=42
-)
+DATA_PATH = "data/train.csv"
+MODEL_DIR = "models/language"
+VECTORIZER_PATH = os.path.join(MODEL_DIR, "tfidf_vectorizer.pkl")
+MODEL_PATH = os.path.join(MODEL_DIR, "baseline_lr_model.pkl")
 
-# 3. Vectorize
-vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_features=15000)
-X_train_vec = vectorizer.fit_transform(X_train)
-X_test_vec = vectorizer.transform(X_test)
 
-# 4. Train
-model = LogisticRegression(max_iter=1000)
-model.fit(X_train_vec, y_train)
+def main():
+    texts, labels = load_dataset(DATA_PATH)
 
-# 5. Evaluate
-preds = model.predict(X_test_vec)
-print(classification_report(y_test, preds))
+    X_train, X_test, y_train, y_test = train_test_split(
+        texts,
+        labels,
+        test_size=0.2,
+        stratify=labels,
+        random_state=42,
+    )
 
-#adding save
-os.makedirs('models/language', exist_ok=True)
+    vectorizer = TfidfVectorizer(
+        ngram_range=(1, 2),
+        max_features=12000,
+        min_df=2,
+        sublinear_tf=True,
+    )
+    X_train_vec = vectorizer.fit_transform(X_train)
+    X_test_vec = vectorizer.transform(X_test)
 
-# Save the Vectorizer (Crucial: You must use the SAME vectorizer for new inputs)
-joblib.dump(vectorizer, 'models/language/tfidf_vectorizer.pkl')
+    model = LogisticRegression(
+        max_iter=1500,
+        class_weight="balanced",
+        random_state=42,
+    )
+    model.fit(X_train_vec, y_train)
 
-# Save the Logistic Regression Model
-joblib.dump(model, 'models/language/baseline_lr_model.pkl')
+    preds = model.predict(X_test_vec)
+    print(classification_report(y_test, preds, target_names=["real/safe", "fake/risky"]))
 
-print("✅ Model and Vectorizer saved to models/language/")
+    os.makedirs(MODEL_DIR, exist_ok=True)
+    joblib.dump(vectorizer, VECTORIZER_PATH)
+    joblib.dump(model, MODEL_PATH)
+
+    print(f"Saved vectorizer to {VECTORIZER_PATH}")
+    print(f"Saved model to {MODEL_PATH}")
+
+
+if __name__ == "__main__":
+    main()

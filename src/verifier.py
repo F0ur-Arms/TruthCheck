@@ -1,6 +1,20 @@
 import json
 import os
 
+
+def normalize_verdict(verdict):
+    """Maps dataset verdict variants into a stable internal label set."""
+    if verdict is None:
+        return "UNVERIFIED"
+
+    normalized = str(verdict).strip().upper()
+    alias_map = {
+        "MIXED": "PARTIALLY TRUE",
+        "PARTIAL": "PARTIALLY TRUE",
+        "PARTIALLY_TRUE": "PARTIALLY TRUE",
+    }
+    return alias_map.get(normalized, normalized)
+
 # ─────────────────────────────────────────────────────────────────────────────
 # VERDICT TABLE
 #
@@ -34,9 +48,9 @@ VERDICT_TABLE = {
     ("FALSE", "SUPPORTS"): "FALSE",
     ("FALSE", "REFUTES"):  "FALSE",
     ("FALSE", "NEI"):      "UNVERIFIED",
-    ("MIXED", "SUPPORTS"): "MIXED",
-    ("MIXED", "REFUTES"):  "MIXED",
-    ("MIXED", "NEI"):      "UNVERIFIED",
+    ("PARTIALLY TRUE", "SUPPORTS"): "PARTIALLY TRUE",
+    ("PARTIALLY TRUE", "REFUTES"):  "PARTIALLY TRUE",
+    ("PARTIALLY TRUE", "NEI"):      "UNVERIFIED",
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -128,8 +142,9 @@ class FactVerifier:
             nli_verdict = nli_result["verdict"]
             nli_conf    = nli_result["confidence"]
 
+            kb_verdict = normalize_verdict(best_entry["verdict"])
             verdict = VERDICT_TABLE.get(
-                (best_entry["verdict"], nli_verdict),
+                (kb_verdict, nli_verdict),
                 "UNVERIFIED"
             )
 
@@ -149,6 +164,7 @@ class FactVerifier:
                 "match_score":    round(float(distance), 4),
                 "matched_entry":  best_entry.get("claim_subject"),
                 "match_type":     match_type,
+                "kb_verdict":     kb_verdict,
                 "nli_verdict":    nli_verdict,
                 "nli_confidence": nli_conf,
             }
@@ -160,12 +176,13 @@ class FactVerifier:
         print(f"[DEBUG] claim='{claim_text[:40]}' dist={distance:.4f} entry='{best_entry.get('claim_subject')}'")
         return {
             "match_found":    True,
-            "verdict":        best_entry["verdict"],
+            "verdict":        normalize_verdict(best_entry["verdict"]),
             "truth":          best_entry["scientific_truth"],
             "risk_level":     best_entry.get("risk_level", "Medium"),
             "match_score":    round(float(distance), 4),
             "matched_entry":  best_entry.get("claim_subject"),
             "match_type":     match_type,
+            "kb_verdict":     normalize_verdict(best_entry["verdict"]),
             "nli_verdict":    None,
             "nli_confidence": None,
         }
@@ -190,8 +207,8 @@ if __name__ == "__main__":
 
     # Init
     km = KnowledgeManager()
-    km.load_and_index("TruthCheck/data/medical_kb/")
-    km.load_verified_facts("TruthCheck/data/verified_facts.json")
+    km.load_and_index("data/medical_kb")
+    km.load_verified_facts("data/verified_facts.json")
 
     nli      = NLIVerifier()
     verifier = FactVerifier(kb_manager=km, nli_verifier=nli)

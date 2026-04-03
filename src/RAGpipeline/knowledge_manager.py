@@ -15,6 +15,8 @@ class KnowledgeManager:
         self.model = SentenceTransformer(model_name)
         self.index = None
         self.passages = []
+        self.facts_index = None
+        self.facts_entries = []
         self.kb_loaded = False
         self.folder_path = None  # set during load_and_index
 
@@ -75,7 +77,7 @@ class KnowledgeManager:
     # MAIN LOAD + INDEX
     # ─────────────────────────────────────────────────────────────────────────
 
-    def load_and_index(self, folder_path="TruthCheck/data/medical_kb/"):
+    def load_and_index(self, folder_path="data/medical_kb"):
         self.folder_path = folder_path
         print(f"\n🔍 Knowledge Base folder : {folder_path}")
 
@@ -190,7 +192,7 @@ class KnowledgeManager:
         query_vector = self.model.encode([query_triple]).astype('float32')
         distances, indices = self.index.search(query_vector, top_k)
         return [self.passages[i] for i in indices[0] if i < len(self.passages)]
-    def load_verified_facts(self, facts_path="TruthCheck/data/verified_facts.json"):
+    def load_verified_facts(self, facts_path="data/verified_facts.json"):
         """
         Builds a separate FAISS index for verified_facts.json.
         Uses the same MiniLM model already loaded — no extra memory.

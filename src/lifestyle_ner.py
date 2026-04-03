@@ -5,8 +5,7 @@ import os
 try:
     from config import PATTERNS_FILE
 except ImportError:
-
-    PATTERNS_FILE = "TruthCheck/data/lifestyle_patterns.jsonl"
+    PATTERNS_FILE = "data/lifestyle_patterns.jsonl"
 
 def build_lifestyle_ner(nlp):
     """

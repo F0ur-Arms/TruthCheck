@@ -282,11 +282,11 @@ class LinguisticScorer:
         """
         Very short claims are often stripped WhatsApp forwards.
         Very long claims may be spam-padded misinformation.
-        Weak signal — only 0.05-0.10.
+        This stays intentionally weak so neutral short claims are not over-penalized.
         """
         wc = len(text.split())
-        if wc <= 5:  return 0.10
-        if wc >= 80: return 0.05
+        if wc <= 4:  return 0.04
+        if wc >= 80: return 0.03
         return 0.0
 
     # ─────────────────────────────────────────────────────────────────────────

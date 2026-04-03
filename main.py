@@ -8,6 +8,19 @@ from src.risk_engine import RiskEngine
 from src.RAGpipeline.knowledge_manager import KnowledgeManager
 from src.RAGpipeline.nli_verifier import NLIVerifier
 
+CLAIM_CUE_WORDS = {
+    "cure", "cures", "prevent", "prevents", "cause", "causes", "reduce", "reduces",
+    "improve", "improves", "help", "helps", "boost", "boosts", "increase", "increases",
+    "decrease", "decreases", "treat", "treats", "heal", "heals", "protect", "protects",
+    "risk", "safe", "unsafe", "harm", "harms", "benefit", "benefits", "affect", "affects",
+    "digestion", "immunity", "cancer", "diabetes", "blood pressure", "covid", "fever",
+}
+
+NON_CLAIM_PHRASES = {
+    "please share", "must share", "share this", "forward this", "forward to everyone",
+    "subscribe now", "click here", "watch this", "breaking news", "urgent alert",
+}
+
 
 class TruthCheckPipeline:
     def __init__(self):
@@ -15,13 +28,17 @@ class TruthCheckPipeline:
 
         self.mapper = HinglishMapper()
         self.scorer = LinguisticScorer()
-        self.verifier = FactVerifier()
         self.engine = RiskEngine()
 
         # --- RAG COMPONENTS ---
         self.kb_manager = KnowledgeManager()
-        self.kb_manager.load_and_index("TruthCheck/data/medical_kb/")
+        self.kb_manager.load_and_index("data/medical_kb")
+        self.kb_manager.load_verified_facts("data/verified_facts.json")
         self.nli_judge = NLIVerifier()
+        self.verifier = FactVerifier(
+            kb_manager=self.kb_manager,
+            nli_verifier=self.nli_judge,
+        )
         # ----------------------
 
         self.nlp = spacy.load("en_core_web_sm")
@@ -29,69 +46,102 @@ class TruthCheckPipeline:
 
         print("--- Pipeline Ready ---\n")
 
+    def _is_checkable_claim(self, sentence_span, clean_sent):
+        word_count = len(clean_sent.split())
+        if word_count < 3:
+            return False
+
+        lower_sent = clean_sent.lower()
+        if any(phrase in lower_sent for phrase in NON_CLAIM_PHRASES):
+            return False
+
+        if any(cue in lower_sent for cue in CLAIM_CUE_WORDS):
+            return True
+
+        if any(ent.label_ in {"DIET_HABIT", "BODY_SYSTEM", "HABIT", "INGREDIENT"} for ent in sentence_span.ents):
+            return True
+
+        return any(token.pos_ in {"VERB", "AUX", "ADJ"} for token in sentence_span if token.is_alpha)
+
+    def _format_extracted_claims(self, triples, fallback_claim):
+        if not triples:
+            return [fallback_claim]
+
+        formatted = []
+        seen = set()
+        for triple in triples:
+            text = f"{triple['subject']} -> {triple['relation']} -> {triple['object']}"
+            if text not in seen:
+                seen.add(text)
+                formatted.append(text)
+        return formatted or [fallback_claim]
+
     def analyze_query(self, raw_text):
         doc = self.nlp(raw_text)
         final_reports = []
 
         for sent in doc.sents:
             sentence_text = sent.text.strip()
-
-            clean_sent = self.mapper.clean_text(sentence_text)
-            style_score = self.scorer.calculate_score(sentence_text)
-            triples = extract_triples(clean_sent, self.nlp)
-
-            if not triples:
+            if not sentence_text:
                 continue
 
-            for triple in triples:
+            clean_sent = self.mapper.clean_text(sentence_text)
+            if not self._is_checkable_claim(sent, clean_sent):
+                continue
 
-                # -----------------------------
-                # STEP 1: Local JSON Verification
-                # -----------------------------
-                fact_result = self.verifier.verify(triple)
-                source_used = "Local JSON Knowledge Base"
+            style_result = self.scorer.calculate_score_detailed(sentence_text)
+            style_score = style_result["score"]
+            triples = extract_triples(clean_sent, self.nlp)
+            claim_text = clean_sent or sentence_text
+            fact_result = self.verifier.verify(claim_text)
+            evidence_list = self.kb_manager.retrieve_evidence(claim_text)
+            source_used = "Verified Facts Semantic Match"
 
-                # -----------------------------
-                # STEP 2: ALWAYS RUN RAG
-                # -----------------------------
-                triple_str = f"{triple['subject']} {triple['relation']} {triple['object']}"
-                evidence_list = self.kb_manager.retrieve_evidence(triple_str)
+            if evidence_list:
+                rag_evidence = evidence_list[0]
+                rag_result = self.nli_judge.verify(claim_text, rag_evidence)
+                fact_result["rag_evidence"] = rag_result["evidence"]
+                fact_result["rag_verdict"] = rag_result["verdict"]
+                fact_result["rag_confidence"] = rag_result["confidence"]
 
-                rag_info = None
+                if (
+                    fact_result["verdict"] == "UNVERIFIED"
+                    and rag_result["confidence"] >= 0.90
+                    and rag_result["verdict"] in {"SUPPORTS", "REFUTES"}
+                ):
+                    fact_result["verdict"] = "TRUE" if rag_result["verdict"] == "SUPPORTS" else "FALSE"
 
-                if evidence_list:
-                    rag_result = self.nli_judge.verify(triple_str, evidence_list[0])
+                fact_result["truth"] = (
+                    fact_result["truth"]
+                    + " || "
+                    + f"RAG Evidence: {rag_result['evidence']} "
+                    + f"| RAG Verdict: {rag_result['verdict']} "
+                    + f"(confidence={rag_result['confidence']})"
+                )
+                source_used = "Verified Facts Semantic Match + Vector RAG"
 
-                    rag_info = (
-                        f"RAG Evidence: {rag_result['evidence']} "
-                        f"| RAG Verdict: {rag_result['verdict']} "
-                        f"(confidence={rag_result['confidence']})"
-                    )
+            risk = self.engine.calculate_risk(sentence_text, style_score, fact_result)
+            extracted_claims = self._format_extracted_claims(triples, claim_text)
 
-                # Attach RAG explanation (do not override JSON verdict)
-                if rag_info:
-                    fact_result['truth'] = fact_result['truth'] + " || " + rag_info
-                    source_used = source_used + " + Vector RAG"
+            report = {
+                "input": sentence_text,
+                "claim_text": claim_text,
+                "extracted_claim": extracted_claims[0],
+                "extracted_claims": extracted_claims,
+                "verdict": fact_result['verdict'],
+                "explanation": fact_result['truth'],
+                "source": source_used,
+                "style_score": style_score,
+                "style_breakdown": style_result["breakdown"],
+                "match_type": fact_result.get("match_type"),
+                "match_score": fact_result.get("match_score"),
+                "rag_verdict": fact_result.get("rag_verdict"),
+                "rag_confidence": fact_result.get("rag_confidence"),
+                "risk_score": risk['score'],
+                "risk_level": risk['label']
+            }
 
-                # -----------------------------
-                # STEP 3: Risk Calculation
-                # -----------------------------
-                risk = self.engine.calculate_risk(sentence_text, style_score, fact_result)
-
-                # -----------------------------
-                # STEP 4: Build Report
-                # -----------------------------
-                report = {
-                    "input": sentence_text,
-                    "extracted_claim": f"{triple['subject']} -> {triple['relation']} -> {triple['object']}",
-                    "verdict": fact_result['verdict'],
-                    "explanation": fact_result['truth'],
-                    "source": source_used,
-                    "risk_score": risk['score'],
-                    "risk_level": risk['label']
-                }
-
-                final_reports.append(report)
+            final_reports.append(report)
 
         return final_reports if final_reports else [{"error": "No clear health claims found."}]
 
@@ -142,7 +192,7 @@ if __name__ == "__main__":
 
     # 1. Initialize
     pipeline = TruthCheckPipeline()
-    test_data_path = "TruthCheck/data/final_health_claims.csv"
+    test_data_path = "data/final_health_claims.csv"
 
     if not os.path.exists(test_data_path):
         print(f"CRITICAL ERROR: CSV not found at {test_data_path}")
