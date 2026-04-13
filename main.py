@@ -1,27 +1,55 @@
 import spacy
+import os
+import pandas as pd
+from datetime import datetime
+from sklearn.metrics import (
+    accuracy_score, precision_score, recall_score,
+    f1_score, confusion_matrix, classification_report
+)
+
 from src.preprocessor import HinglishMapper
-from src.lifestyle_ner import build_lifestyle_ner
-from src.refine_extractor import extract_triples
 from src.linguistic_scorer import LinguisticScorer
-from src.verifier import FactVerifier
+from src.verifiernew import FactVerifier  # Now with built-in FAISS
 from src.risk_engine import RiskEngine
+from src.RAGpipeline.nli_verifier import NLIVerifier  # Only NLI from RAG
 from src.RAGpipeline.knowledge_manager import KnowledgeManager
-from src.RAGpipeline.nli_verifier import NLIVerifier
 
-CLAIM_CUE_WORDS = {
-    "cure", "cures", "prevent", "prevents", "cause", "causes", "reduce", "reduces",
-    "improve", "improves", "help", "helps", "boost", "boosts", "increase", "increases",
-    "decrease", "decreases", "treat", "treats", "heal", "heals", "protect", "protects",
-    "risk", "safe", "unsafe", "harm", "harms", "benefit", "benefits", "affect", "affects",
-    "digestion", "immunity", "cancer", "diabetes", "blood pressure", "covid", "fever",
-}
+# ─────────────────────────────────────────────────────────────────────────────
+# ORIGINAL LOGGER
+# ─────────────────────────────────────────────────────────────────────────────
+LOG_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\logs.txt"
 
-NON_CLAIM_PHRASES = {
-    "please share", "must share", "share this", "forward this", "forward to everyone",
-    "subscribe now", "click here", "watch this", "breaking news", "urgent alert",
-}
+def init_log():
+    os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
+    with open(LOG_PATH, "a", encoding="utf-8") as f:
+        f.write("\n")
+        f.write("=" * 80 + "\n")
+        f.write(f"  NEW RUN (Built-in FAISS + NLI verifier) — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 80 + "\n\n")
 
+def log(msg=""):
+    with open(LOG_PATH, "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
 
+# ─────────────────────────────────────────────────────────────────────────────
+# NEW TARGETED DEBUG LOGGER (Scorer & Verifier Only)
+# ─────────────────────────────────────────────────────────────────────────────
+DEBUG_LOG_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\src\loginput.txt"
+
+def init_debug_log():
+    os.makedirs(os.path.dirname(DEBUG_LOG_PATH), exist_ok=True)
+    # Using 'w' to overwrite and give us a fresh clean log each run
+    with open(DEBUG_LOG_PATH, "w", encoding="utf-8") as f:
+        f.write(f"DEBUG RUN: SCORER & VERIFIER ISOLATION — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 100 + "\n")
+
+def debug_log(msg=""):
+    with open(DEBUG_LOG_PATH, "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# PIPELINE
+# ─────────────────────────────────────────────────────────────────────────────
 class TruthCheckPipeline:
     def __init__(self):
         print("--- Initializing TruthCheck Engine ---")
@@ -30,230 +58,238 @@ class TruthCheckPipeline:
         self.scorer = LinguisticScorer()
         self.engine = RiskEngine()
 
-        # --- RAG COMPONENTS ---
-        self.kb_manager = KnowledgeManager()
-        self.kb_manager.load_and_index("data/medical_kb")
-        self.kb_manager.load_verified_facts("data/verified_facts.json")
+        # ── Step 1: NLI model — loaded once, shared ───────────────────────────
+        print("--- Loading NLI model (shared) ---")
         self.nli_judge = NLIVerifier()
-        self.verifier = FactVerifier(
-            kb_manager=self.kb_manager,
-            nli_verifier=self.nli_judge,
-        )
-        # ----------------------
 
+        # ── Step 2: FactVerifier — NOW WITH BUILT-IN FAISS ────────────────────
+        # No more KnowledgeManager dependency!
+        print("--- Initializing FactVerifier with built-in FAISS ---")
+        self.verifier = FactVerifier(
+            facts_path="TruthCheck/data/final_verifiedfacts.json",
+            nli_verifier=self.nli_judge,
+            embedding_model='all-MiniLM-L6-v2'
+        )
+        #rag retrieval
+                # ── RAG RETRIEVAL SETUP ─────────────────────────
+        self.kb_manager = KnowledgeManager()
+        self.kb_manager.load_and_index("TruthCheck/data/medical_kb/")
+        # ── Step 3: spaCy ─────────────────────────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
-        self.nlp = build_lifestyle_ner(self.nlp)
 
         print("--- Pipeline Ready ---\n")
 
-    def _is_checkable_claim(self, sentence_span, clean_sent):
-        word_count = len(clean_sent.split())
-        if word_count < 3:
-            return False
+    def analyze_query(self, raw_text, row_index=None, true_label=None):
+        # Step 1: Clean the sentences
+        clean_text = self.mapper.clean_text(raw_text)
 
-        lower_sent = clean_sent.lower()
-        if any(phrase in lower_sent for phrase in NON_CLAIM_PHRASES):
-            return False
-
-        if any(cue in lower_sent for cue in CLAIM_CUE_WORDS):
-            return True
-
-        if any(ent.label_ in {"DIET_HABIT", "BODY_SYSTEM", "HABIT", "INGREDIENT"} for ent in sentence_span.ents):
-            return True
-
-        return any(token.pos_ in {"VERB", "AUX", "ADJ"} for token in sentence_span if token.is_alpha)
-
-    def _format_extracted_claims(self, triples, fallback_claim):
-        if not triples:
-            return [fallback_claim]
-
-        formatted = []
-        seen = set()
-        for triple in triples:
-            text = f"{triple['subject']} -> {triple['relation']} -> {triple['object']}"
-            if text not in seen:
-                seen.add(text)
-                formatted.append(text)
-        return formatted or [fallback_claim]
-
-    def analyze_query(self, raw_text):
-        doc = self.nlp(raw_text)
+        # Step 2: Sentence segmentation using spacy 
+        doc = self.nlp(clean_text)
         final_reports = []
 
-        for sent in doc.sents:
-            sentence_text = sent.text.strip()
-            if not sentence_text:
+        # Logs
+        log(f"{'─' * 70}")
+        log(f"ROW #{row_index}  INPUT : {raw_text}")
+        log(f"              CLEANED: {clean_text}")
+        log(f"{'─' * 70}")
+        debug_log(f"\n[ROW {row_index} | TRUE LABEL: {true_label}]")
+        debug_log(f"CLAIM: {raw_text}")
+
+        # Step 3: Loop through sentences
+        for sent_idx, sent in enumerate(doc.sents, 1):
+            sentence = sent.text.strip()
+            if not sentence:
                 continue
 
-            clean_sent = self.mapper.clean_text(sentence_text)
-            if not self._is_checkable_claim(sent, clean_sent):
-                continue
+            log(f"\n  [SENTENCE {sent_idx}] {sentence}")
 
-            style_result = self.scorer.calculate_score_detailed(sentence_text)
-            style_score = style_result["score"]
-            triples = extract_triples(clean_sent, self.nlp)
-            claim_text = clean_sent or sentence_text
-            fact_result = self.verifier.verify(claim_text)
-            evidence_list = self.kb_manager.retrieve_evidence(claim_text)
-            source_used = "Verified Facts Semantic Match"
+            # Signal 1: Style scoring
+            style_score = self.scorer.calculate_score(sentence)
+            log(f"  [STYLE SCORE] {style_score}")
+
+            # Signal 2: Fact-based score (now using built-in FAISS)
+            fact_result = self.verifier.verify(sentence)
+            # ── RAG: Retrieve evidence ──────────────────────
+            evidence_list = self.kb_manager.retrieve_evidence(sentence)
 
             if evidence_list:
-                rag_evidence = evidence_list[0]
-                rag_result = self.nli_judge.verify(claim_text, rag_evidence)
-                fact_result["rag_evidence"] = rag_result["evidence"]
+                top_evidence = evidence_list[0]
+
+                rag_result = self.nli_judge.verify(sentence, top_evidence)
+
+                # Attach RAG outputs
+                fact_result["rag_evidence"] = top_evidence   # ✅ ADD THIS
                 fact_result["rag_verdict"] = rag_result["verdict"]
                 fact_result["rag_confidence"] = rag_result["confidence"]
 
+                # Optional: upgrade verdict if KB is unsure
                 if (
                     fact_result["verdict"] == "UNVERIFIED"
-                    and rag_result["confidence"] >= 0.90
+                    and rag_result["confidence"] >= 0.85
                     and rag_result["verdict"] in {"SUPPORTS", "REFUTES"}
                 ):
-                    fact_result["verdict"] = "TRUE" if rag_result["verdict"] == "SUPPORTS" else "FALSE"
+                    fact_result["verdict"] = (
+                        "TRUE" if rag_result["verdict"] == "SUPPORTS" else "FALSE"
+                    )
 
-                fact_result["truth"] = (
-                    fact_result["truth"]
-                    + " || "
-                    + f"RAG Evidence: {rag_result['evidence']} "
-                    + f"| RAG Verdict: {rag_result['verdict']} "
-                    + f"(confidence={rag_result['confidence']})"
+                # Append explanation
+                fact_result["truth"] += (
+                    f" || RAG: {rag_result['verdict']} "
+                    f"(conf={rag_result['confidence']})"
                 )
-                source_used = "Verified Facts Semantic Match + Vector RAG"
 
-            risk = self.engine.calculate_risk(sentence_text, style_score, fact_result)
-            extracted_claims = self._format_extracted_claims(triples, claim_text)
+                source_used = "KB + RAG"
+            else:
+                fact_result["rag_verdict"] = None
+                fact_result["rag_confidence"] = None
+                source_used = "Local JSON Knowledge Base (Built-in FAISS)"
+
+            log(f"  [KB VERIFIER]")
+            log(f"    Match Found   : {fact_result.get('match_found', False)}")
+            log(f"    Matched Entry : {fact_result.get('matched_entry', 'None')}")
+            log(f"    Match Type    : {fact_result.get('match_type', 'N/A')}")
+            log(f"    Match Score   : {fact_result.get('match_score', 0.0)}")
+            log(f"    KB Verdict    : {fact_result.get('verdict')}")
+            log(f"    NLI Verdict   : {fact_result.get('nli_verdict')}")
+            log(f"    NLI Confidence: {fact_result.get('nli_confidence')}")
+            log(f"    Truth         : {fact_result.get('truth', '')[:120]}")
+
+            # Use signal1 + signal2 to get risk
+            risk = self.engine.calculate_risk(sentence, style_score, fact_result)
+
+            log(f"  [RISK ENGINE]")
+            log(f"    Final Score : {risk['score']}")
+            log(f"    Risk Label  : {risk['label']}")
+            bd = risk['breakdown']
+            log(f"    Breakdown:")
+            log(f"      fact_verdict : {bd['fact_verdict']}")
+            log(f"      fact_impact  : {bd['fact_impact']}  (weight={bd['weights_used']['fact']})")
+            log(f"      ml_impact    : {bd['ml_impact']}    (weight={bd['weights_used']['ml']})")
+            log(f"  [RAG] Verdict: {rag_result['verdict']} | Confidence: {rag_result['confidence']}")
+            log(f"  [RAG] Evidence: {fact_result.get('rag_evidence')[:]}")
+            log(f"      style_impact : {bd['style_impact']} (weight={bd['weights_used']['style']})")
+            log(f"    Source Used : {source_used}")
 
             report = {
-                "input": sentence_text,
-                "claim_text": claim_text,
-                "extracted_claim": extracted_claims[0],
-                "extracted_claims": extracted_claims,
+                "input": sentence,
                 "verdict": fact_result['verdict'],
+                "nli_verdict": fact_result.get('nli_verdict'),
+                "rag_verdict": fact_result.get('rag_verdict'),   
+                "rag_confidence": fact_result.get('rag_confidence'),  
                 "explanation": fact_result['truth'],
                 "source": source_used,
-                "style_score": style_score,
-                "style_breakdown": style_result["breakdown"],
-                "match_type": fact_result.get("match_type"),
-                "match_score": fact_result.get("match_score"),
-                "rag_verdict": fact_result.get("rag_verdict"),
-                "rag_confidence": fact_result.get("rag_confidence"),
                 "risk_score": risk['score'],
-                "risk_level": risk['label']
+                "risk_level": risk['label'],
             }
-
             final_reports.append(report)
 
-        return final_reports if final_reports else [{"error": "No clear health claims found."}]
+        return final_reports if final_reports else [{"error": "No sentences found."}]
 
-# --- EVALUATION HELPERS ---
 
-x=0
+# ─────────────────────────────────────────────────────────────────────────────
+# BINARY PREDICTION
+# ─────────────────────────────────────────────────────────────────────────────
+x = 0
+
 def get_binary_prediction(reports, risk_threshold=0.5):
     """
-    Aggregates TruthCheck reports into a single binary label.
-    0 = Real/Safe, 1 = Fake/Misinformation
+    0 = Real/Safe
+    1 = Fake/Misinformation
     """
-    global x
     if not reports or "error" in reports[0]:
-        x+=1
-        return 1  # Safety first: flag as 1 if the engine can't parse it
-    
-    # 1. Check for hard refutations (Label 1)
+        return 1  # fallback: treat as risky
+
+    # ─────────────────────────────────────────
+    # 1. FACT VERIFIER (HIGHEST PRIORITY)
+    # ─────────────────────────────────────────
     for r in reports:
-        if r['verdict'] == "FALSE" or "RAG Verdict: REFUTES" in r['explanation']:
+        if r['verdict'] == "FALSE":
             return 1
-            
-    # 2. Check Risk Scores (Label 1)
-    max_risk = max([r.get('risk_score', 0) for r in reports])
-    if max_risk > risk_threshold:
-        return 1
-        
-    # 3. Check for positive verification (Label 0)
-    for r in reports:
-        if r['verdict'] == "TRUE" or "RAG Verdict: SUPPORTS" in r['explanation']:
+        if r['verdict'] == "TRUE":
             return 0
-            
-    # 4. Neutral/Unverified fallback
-    return 1 if max_risk > 0.3 else 0
 
+    # ─────────────────────────────────────────
+    # 2. RAG VERDICT (SECONDARY)
+    # ─────────────────────────────────────────
+    for r in reports:
+        if r.get('rag_verdict') == "REFUTES":
+            return 1
+        if r.get('rag_verdict') == "SUPPORTS":
+            return 0
+
+    # ─────────────────────────────────────────
+    # 3. RISK SCORE (FALLBACK)
+    # ─────────────────────────────────────────
+    max_risk = max(r.get('risk_score', 0) for r in reports)
+    return 1 if max_risk > risk_threshold else 0
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# MAIN
+# ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    import pandas as pd
-    import os
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    from sklearn.metrics import (
-        accuracy_score, precision_score, recall_score, 
-        f1_score, confusion_matrix, classification_report
-    )
+
+    init_log()
+    init_debug_log()
+    log("CONFIGURATION: Built-in FAISS mode + NLI-backed FactVerifier\n")
 
     print("=" * 60)
-    print("  TRUTHCHECK ENGINE: BTP EVALUATION MODE")
+    print("  TRUTHCHECK ENGINE: BUILT-IN FAISS + NLI MODE")
     print("=" * 60)
 
-    # 1. Initialize
     pipeline = TruthCheckPipeline()
-    test_data_path = "data/final_health_claims.csv"
+    test_data_path = "TruthCheck/data/final_health_claims.csv"
 
     if not os.path.exists(test_data_path):
         print(f"CRITICAL ERROR: CSV not found at {test_data_path}")
+        log(f"CRITICAL ERROR: CSV not found at {test_data_path}")
     else:
-        # 2. Load Dataset
         df = pd.read_csv(test_data_path)
+        # Shuffle full dataset (recommended)
+        df = df.sample(frac=1, random_state=42).reset_index(drop=True)
         print(f"[Dataset] Loaded {len(df)} claims for testing.")
+        log(f"Dataset: {test_data_path} | Rows: {len(df)}\n")
 
         y_true = df['label'].astype(int).tolist()
         y_pred = []
 
-        # 3. Run Inference
-        print("[Inference] Analyzing claims (NER + RAG Verification)...")
+        print("[Inference] Analyzing claims...")
         for i, row in df.iterrows():
             claim_text = row['claim']
-            raw_reports = pipeline.analyze_query(claim_text)
-            if i==0:
-                print(raw_reports)
-            prediction = get_binary_prediction(raw_reports)
+            true_label = int(row['label'])
+
+            reports = pipeline.analyze_query(claim_text, row_index=i + 1, true_label=true_label)
+            prediction = get_binary_prediction(reports)
             y_pred.append(prediction)
 
-            if (i + 1) % 5 == 0:
-                print(f"            Processed {i + 1}/{len(df)}...")
+            correct = "✅" if prediction == true_label else "❌"
+            log(f"  [RESULT] Predicted={prediction} | True={true_label} {correct}")
+            log("")
 
-        # 4. Calculate Stats
-        # Note: 'weighted' is used to match the multi-class style of your baseline
-        acc  = accuracy_score(y_true, y_pred)
+            if (i + 1) % 50 == 0:
+                print(f"  Processed {i + 1}/{len(df)}...")
+
+        # ── Metrics ───────────────────────────────────────────────────────────
+        acc = accuracy_score(y_true, y_pred)
         prec = precision_score(y_true, y_pred, average='weighted', zero_division=0)
-        rec  = recall_score(y_true, y_pred, average='weighted', zero_division=0)
-        f1   = f1_score(y_true, y_pred, average='weighted', zero_division=0)
+        rec = recall_score(y_true, y_pred, average='weighted', zero_division=0)
+        f1 = f1_score(y_true, y_pred, average='weighted', zero_division=0)
 
-        # 5. Print Results in Requested Format
-        print(f"\n{'─'*50}")
-        print(f"  TruthCheck (NER + RAG) — Results")
-        print(f"{'─'*50}")
-        print(f"  Accuracy   : {acc:.4f}")
-        print(f"  Precision  : {prec:.4f}")
-        print(f"  Recall     : {rec:.4f}")
-        print(f"  F1 Score   : {f1:.4f}")
-        print(f"\n{classification_report(y_true, y_pred, target_names=['Real (0)', 'Fake (1)'])}")
-
-        # 6. Plot Confusion Matrix using Matplotlib/Seaborn
-        cm = confusion_matrix(y_true, y_pred)
-        plt.figure(figsize=(7, 6))
-        sns.heatmap(
-            cm, annot=True, fmt='d', cmap='Greens',
-            xticklabels=['Predicted Real', 'Predicted Fake'],
-            yticklabels=['Actual Real', 'Actual Fake']
+        metrics_str = (
+            f"\n{'=' * 60}\n"
+            f"  EVALUATION RESULTS\n"
+            f"{'=' * 60}\n"
+            f"  Accuracy  : {acc:.4f}\n"
+            f"  Precision : {prec:.4f}\n"
+            f"  Recall    : {rec:.4f}\n"
+            f"  F1 Score  : {f1:.4f}\n"
+            f"\n{classification_report(y_true, y_pred, target_names=['Real (0)', 'Fake (1)'])}\n"
+            f"  Unparseable claims (error fallback): {x}\n"
         )
-        plt.title('Confusion Matrix: TruthCheck NER + RAG Pipeline')
-        plt.ylabel('Ground Truth')
-        plt.xlabel('Pipeline Prediction')
-        
-        # Save the plot for your BTP report
-        os.makedirs("results", exist_ok=True)
-        plt.savefig("results/truthcheck_confusion_matrix.png")
-        print("\n[Plot] Confusion matrix saved to 'results/truthcheck_confusion_matrix.png'")
-        
-        plt.show()
+        print(metrics_str)
+        log(metrics_str)
 
     print("=" * 60)
-    print("  EVALUATION COMPLETE")
+    print(f"  DONE | Unparseable: {x} | Main Log: {LOG_PATH}")
+    print(f"  DEBUG LOG SAVED TO: {DEBUG_LOG_PATH}")
     print("=" * 60)
-    print(x)
