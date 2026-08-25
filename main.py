@@ -13,11 +13,13 @@ from src.verifiernew import FactVerifier  # Now with built-in FAISS
 from src.risk_engine import RiskEngine
 from src.RAGpipeline.nli_verifier import NLIVerifier  # Only NLI from RAG
 from src.RAGpipeline.knowledge_manager import KnowledgeManager
+from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
+from src.refine_extractor import extract_triples
 
 # ─────────────────────────────────────────────────────────────────────────────
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
-LOG_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\logs.txt"
+LOG_PATH = str(LOG_PATH)
 
 def init_log():
     os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
@@ -34,7 +36,7 @@ def log(msg=""):
 # ─────────────────────────────────────────────────────────────────────────────
 # NEW TARGETED DEBUG LOGGER (Scorer & Verifier Only)
 # ─────────────────────────────────────────────────────────────────────────────
-DEBUG_LOG_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\src\loginput.txt"
+DEBUG_LOG_PATH = str(DEBUG_LOG_PATH)
 
 def init_debug_log():
     os.makedirs(os.path.dirname(DEBUG_LOG_PATH), exist_ok=True)
@@ -66,14 +68,14 @@ class TruthCheckPipeline:
         # No more KnowledgeManager dependency!
         print("--- Initializing FactVerifier with built-in FAISS ---")
         self.verifier = FactVerifier(
-            facts_path="TruthCheck/data/final_verifiedfacts.json",
+            facts_path=str(FACTS_JSON),
             nli_verifier=self.nli_judge,
-            embedding_model='all-MiniLM-L6-v2'
+            embedding_model=EMBEDDING_MODEL,
         )
         #rag retrieval
                 # ── RAG RETRIEVAL SETUP ─────────────────────────
         self.kb_manager = KnowledgeManager()
-        self.kb_manager.load_and_index("TruthCheck/data/medical_kb/")
+        self.kb_manager.load_and_index(str(KB_PATH))
         # ── Step 3: spaCy ─────────────────────────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
 
@@ -101,16 +103,25 @@ class TruthCheckPipeline:
             if not sentence:
                 continue
 
+            triples = extract_triples(sentence, self.nlp)
+            verification_text = sentence
+            if triples:
+                # Preserve the original sentence as the source of truth while
+                # using the extracted relation as an auditable retrieval aid.
+                first = triples[0]
+                verification_text = f"{first['subject']} {first['relation']} {first['object']}"
+
             log(f"\n  [SENTENCE {sent_idx}] {sentence}")
+            log(f"  [CLAIM TRIPLES] {triples}")
 
             # Signal 1: Style scoring
             style_score = self.scorer.calculate_score(sentence)
             log(f"  [STYLE SCORE] {style_score}")
 
             # Signal 2: Fact-based score (now using built-in FAISS)
-            fact_result = self.verifier.verify(sentence)
+            fact_result = self.verifier.verify(verification_text)
             # ── RAG: Retrieve evidence ──────────────────────
-            evidence_list = self.kb_manager.retrieve_evidence(sentence)
+            evidence_list = self.kb_manager.retrieve_evidence(verification_text)
 
             if evidence_list:
                 top_evidence = evidence_list[0]
@@ -172,6 +183,8 @@ class TruthCheckPipeline:
 
             report = {
                 "input": sentence,
+                "verification_text": verification_text,
+                "claim_triples": triples,
                 "verdict": fact_result['verdict'],
                 "nli_verdict": fact_result.get('nli_verdict'),
                 "rag_verdict": fact_result.get('rag_verdict'),   
@@ -238,7 +251,7 @@ if __name__ == "__main__":
     print("=" * 60)
 
     pipeline = TruthCheckPipeline()
-    test_data_path = "TruthCheck/data/final_health_claims.csv"
+    test_data_path = str(EVALUATION_DATASET)
 
     if not os.path.exists(test_data_path):
         print(f"CRITICAL ERROR: CSV not found at {test_data_path}")

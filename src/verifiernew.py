@@ -7,8 +7,12 @@ import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from config import DEBUG_LOG_PATH as CONFIG_DEBUG_LOG_PATH
+from config import EMBEDDING_MODEL, FACTS_JSON
+from src.llm_fallback import ConfiguredLLMVerifier
+from src.verification.normalization import normalize_verdict
 
-DEBUG_LOG_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\src\loginput.txt"
+DEBUG_LOG_PATH = str(CONFIG_DEBUG_LOG_PATH)
 
 def debug_log(msg=""):
     with open(DEBUG_LOG_PATH, "a", encoding="utf-8") as f:
@@ -40,10 +44,12 @@ LLM_CONFIDENCE_THRESHOLD = 0.6   # Minimum hybrid confidence to trust LLM
 VOTING_SAMPLES = 3               # Number of voting samples
 
 # ─────────────────────────────────────────────────────────────────────────────
-# OLLAMA CONFIGURATION
+# Deprecated local fallback configuration.  The live FactVerifier uses
+# ConfiguredLLMVerifier; this legacy class is retained temporarily only to keep
+# historical debugging code readable and has no executable local endpoint.
 # ─────────────────────────────────────────────────────────────────────────────
-OLLAMA_URL   = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "llama3.2:latest"
+OLLAMA_URL = None
+OLLAMA_MODEL = "deprecated"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CACHE FILES FOR FAISS INDEX
@@ -61,8 +67,9 @@ class BuiltInKnowledgeManager:
     Caches index to avoid rebuilding on every run.
     """
     
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
+    def __init__(self, model_name=EMBEDDING_MODEL):
         print(f"[KB] Loading embedding model: {model_name}")
+        self.model_name = model_name
         self.model = SentenceTransformer(model_name)
         self.facts_index = None
         self.facts_entries = []
@@ -71,8 +78,9 @@ class BuiltInKnowledgeManager:
     def _get_cache_paths(self, facts_path):
         """Get paths for cached index and metadata."""
         base_dir = os.path.dirname(facts_path)
-        index_path = os.path.join(base_dir, FACTS_INDEX_FILE)
-        cache_path = os.path.join(base_dir, FACTS_CACHE_FILE)
+        model_key = re.sub(r"[^a-z0-9]+", "_", self.model_name.lower()).strip("_")
+        index_path = os.path.join(base_dir, f"verified_facts.{model_key}.faiss")
+        cache_path = os.path.join(base_dir, f"verified_facts.{model_key}.cache.json")
         return index_path, cache_path
     
     def _load_cache_metadata(self, cache_path):
@@ -118,7 +126,7 @@ class BuiltInKnowledgeManager:
         
         return True
     
-    def load_verified_facts(self, facts_path="data/final_verifiedfacts.json"):
+    def load_verified_facts(self, facts_path=str(FACTS_JSON)):
         """
         Load verified facts and build/load FAISS index with caching.
         
@@ -436,7 +444,7 @@ class FactVerifier:
         self,
         facts_path="data/final_verifiedfacts.json",
         nli_verifier=None,
-        embedding_model='all-MiniLM-L6-v2'
+        embedding_model=EMBEDDING_MODEL
     ):
         """
         Initialize FactVerifier with built-in knowledge management.
@@ -451,7 +459,7 @@ class FactVerifier:
         self.kb.load_verified_facts(facts_path)
         
         self.nli = nli_verifier
-        self.llm = LLMVerifier()
+        self.llm = ConfiguredLLMVerifier()
 
         print("[FactVerifier] Loading SpaCy for NER/Keyword filtering...")
         try:
@@ -521,17 +529,18 @@ class FactVerifier:
         # ══════════════════════════════════════════════════════════════════════
         # TIER 2: LLM FALLBACK (WITH HYBRID CONFIDENCE)
         # ══════════════════════════════════════════════════════════════════════
-        print(f"[FactVerifier] TIER 2: LLM Fallback (Hybrid UQ)...")
-        llm_entry, hybrid_conf = self.llm.find_best_fact_with_hybrid_confidence(
-            claim_text,
-            n_samples=VOTING_SAMPLES
-        )
+        print("[FactVerifier] TIER 2: configured LLM fallback...")
+        try:
+            llm_entry = self.llm.verify(claim_text)
+        except Exception as exc:
+            return self._unverified_response(float("inf"), f"Tier 2 LLM request failed: {exc}")
+        hybrid_conf = llm_entry["confidence"] if llm_entry else 0.0
         
         if llm_entry is None:
-            # LLM unavailable (Ollama not running)
+            # A deployment has not configured a hosted LLM fallback.
             return self._unverified_response(
                 float("inf"), 
-                "Tier 1 failed, Tier 2 (LLM) unavailable. Is Ollama running?"
+                "Tier 1 failed and the configured LLM fallback is unavailable."
             )
         
         # Check if hybrid confidence is high enough
@@ -590,7 +599,7 @@ class FactVerifier:
             
             # Combine KB verdict + NLI verdict using table
             final_verdict = VERDICT_TABLE.get(
-                (best_entry["verdict"], nli_verdict), 
+                (normalize_verdict(best_entry["verdict"]), nli_verdict), 
                 "UNVERIFIED"
             )
             
@@ -638,7 +647,7 @@ class FactVerifier:
             "match_score":    hybrid_conf,  # Use hybrid confidence as match score
             "matched_entry":  llm_entry.get("claim_subject"),
             "match_type":     "LLM",
-            "source":         f"Tier 2 (LLM: {OLLAMA_MODEL})",
+            "source":         f"Tier 2 ({llm_entry['source']})",
             "nli_verdict":    None,
             "nli_confidence": None,
             # LLM-specific fields

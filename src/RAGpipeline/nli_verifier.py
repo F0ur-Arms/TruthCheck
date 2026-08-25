@@ -1,8 +1,9 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from config import NLI_MODEL
 
 class NLIVerifier:
-    def __init__(self, model_name="cross-encoder/nli-distilroberta-base"):
+    def __init__(self, model_name=NLI_MODEL):
         print(f"--- Loading NLI Model: {model_name} ---")
         
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -11,11 +12,18 @@ class NLIVerifier:
         self.model = AutoModelForSequenceClassification.from_pretrained(model_name).to(self.device)
         self.model.eval()
 
-        # Correct label mapping for HF NLI models
+        # NLI label ids differ between model checkpoints.  Use the checkpoint's
+        # metadata instead of assuming the old DistilRoBERTa ordering.
+        aliases = {
+            "contradiction": "REFUTES",
+            "contradict": "REFUTES",
+            "neutral": "NEI",
+            "entailment": "SUPPORTS",
+            "entails": "SUPPORTS",
+        }
         self.id2label = {
-            0: "REFUTES",   # contradiction
-            1: "NEI",       # neutral
-            2: "SUPPORTS"   # entailment
+            int(label_id): aliases.get(str(label).lower(), "NEI")
+            for label_id, label in self.model.config.id2label.items()
         }
 
     def verify(self, claim_triple, evidence_text):

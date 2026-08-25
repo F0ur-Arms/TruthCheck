@@ -3,6 +3,7 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import json 
+from config import EMBEDDING_MODEL, FACTS_JSON, KB_PATH
 
 CACHE_FILE = "processed_cache.txt"   # tracks which files are already embedded
 INDEX_FILE = "kb_index.faiss"        # saved FAISS index on disk
@@ -10,7 +11,7 @@ PASSAGES_FILE = "kb_passages.txt"    # saved passages (one per line, pipe-separa
 
 
 class KnowledgeManager:
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
+    def __init__(self, model_name=EMBEDDING_MODEL):
         print(f"--- Loading Embedding Model: {model_name} ---")
         self.model = SentenceTransformer(model_name)
         self.index = None
@@ -19,19 +20,20 @@ class KnowledgeManager:
         self.facts_entries = []
         self.kb_loaded = False
         self.folder_path = None  # set during load_and_index
+        self.cache_key = "".join(c if c.isalnum() else "_" for c in model_name.lower()).strip("_")
 
     # ─────────────────────────────────────────────────────────────────────────
     # CACHE HELPERS
     # ─────────────────────────────────────────────────────────────────────────
 
     def _cache_path(self):
-        return os.path.join(self.folder_path, CACHE_FILE)
+        return os.path.join(self.folder_path, f"processed_cache.{self.cache_key}.txt")
 
     def _index_path(self):
-        return os.path.join(self.folder_path, INDEX_FILE)
+        return os.path.join(self.folder_path, f"kb_index.{self.cache_key}.faiss")
 
     def _passages_path(self):
-        return os.path.join(self.folder_path, PASSAGES_FILE)
+        return os.path.join(self.folder_path, f"kb_passages.{self.cache_key}.txt")
 
     def _load_cache(self) -> set:
         """Returns set of filenames already processed."""
@@ -103,7 +105,7 @@ class KnowledgeManager:
         # ── Step 2: Find unprocessed .txt files ───────────────────────────────
         all_txt_files = [
             f for f in os.listdir(folder_path)
-            if f.endswith(".txt") and f not in (CACHE_FILE, PASSAGES_FILE)
+            if f.endswith(".txt") and not f.startswith(("processed_cache.", "kb_passages."))
         ]
 
         new_files = [f for f in all_txt_files if f not in already_processed]
@@ -192,7 +194,7 @@ class KnowledgeManager:
         query_vector = self.model.encode([query_triple]).astype('float32')
         distances, indices = self.index.search(query_vector, top_k)
         return [self.passages[i] for i in indices[0] if i < len(self.passages)]
-    def load_verified_facts(self, facts_path="data/verified_facts.json"):
+    def load_verified_facts(self, facts_path=str(FACTS_JSON)):
         """
         Builds a separate FAISS index for verified_facts.json.
         Uses the same MiniLM model already loaded — no extra memory.
@@ -238,7 +240,7 @@ class KnowledgeManager:
 
 if __name__ == "__main__":
     km = KnowledgeManager()
-    km.load_and_index("TruthCheck/data/medical_kb/")
+    km.load_and_index(str(KB_PATH))
 
     if km.kb_loaded:
         test_queries = [

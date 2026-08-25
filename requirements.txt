@@ -1,0 +1,16 @@
+# Runtime dependencies for the current TruthCheck pipeline (Python 3.11).
+# Experimental BERT, OCR, ASR, and scraping dependencies intentionally remain
+# outside this manifest until those paths are migrated into the live pipeline.
+click==8.1.8
+en-core-web-sm==3.8.0
+faiss-cpu==1.9.0.post1
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.3
+requests==2.32.3
+pytest==8.3.5
+scikit-learn==1.8.0
+sentence-transformers==3.4.1
+spacy==3.8.4
+torch==2.6.0
+transformers==4.48.3
