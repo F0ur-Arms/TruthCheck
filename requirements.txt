@@ -7,6 +7,7 @@ faiss-cpu==1.9.0.post1
 joblib==1.4.2
 numpy==1.26.4
 pandas==2.2.3
+pydantic>=2,<3
 requests==2.32.3
 pytest==8.3.5
 rank_bm25==0.2.2
