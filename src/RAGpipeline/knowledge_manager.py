@@ -47,10 +47,11 @@ class KnowledgeManager:
         with open(path, "r", encoding="utf-8") as f:
             return set(line.strip() for line in f if line.strip())
 
-    def _append_to_cache(self, filename: str):
-        """Mark a file as processed."""
-        with open(self._cache_path(), "a", encoding="utf-8") as f:
-            f.write(filename + "\n")
+    def _write_cache(self, filenames: list[str]):
+        """Persist processed files only after their index batch is durable."""
+        with open(self._cache_path(), "w", encoding="utf-8") as f:
+            for filename in filenames:
+                f.write(filename + "\n")
 
     def _save_index(self):
         """Save FAISS index to disk."""
@@ -64,13 +65,19 @@ class KnowledgeManager:
         self.index = faiss.read_index(path)
         return True
 
-    def _save_passages(self, new_passages: list, new_sources: list | None = None):
-        """Append new passages (and optional source filenames) to disk."""
-        with open(self._passages_path(), "a", encoding="utf-8") as f:
+    def _save_passages(
+        self,
+        new_passages: list,
+        new_sources: list | None = None,
+        append: bool = True,
+    ):
+        """Save passages (and their parallel source filenames) to disk."""
+        mode = "a" if append else "w"
+        with open(self._passages_path(), mode, encoding="utf-8") as f:
             for p in new_passages:
                 f.write(p.replace("\n", " ").strip() + "\n")
         if new_sources:
-            with open(self._passage_sources_path(), "a", encoding="utf-8") as f:
+            with open(self._passage_sources_path(), mode, encoding="utf-8") as f:
                 for src in new_sources:
                     f.write(src + "\n")
 
@@ -107,10 +114,22 @@ class KnowledgeManager:
         already_processed = self._load_cache()
         self.passages = self._load_passages()
         self.passage_sources = self._load_passage_sources()
-        if self.passages and len(self.passage_sources) != len(self.passages):
-            # Legacy cache without source sidecar — pad with empty strings
-            self.passage_sources = [""] * len(self.passages)
         index_loaded = self._load_index()
+
+        # Source provenance is required by Phase 5.  A legacy or interrupted
+        # cache cannot safely be resumed, because its index rows no longer have
+        # a trustworthy filename mapping.  Rebuild it as one consistent batch.
+        rebuild_for_sources = bool(
+            self.passages
+            and len(self.passage_sources) != len(self.passages)
+        )
+        if rebuild_for_sources:
+            print("⚠️  Rebuilding KB index: source sidecar is missing or incomplete")
+            already_processed = set()
+            self.passages = []
+            self.passage_sources = []
+            self.index = None
+            index_loaded = False
 
         if index_loaded and self.passages:
             print(f"✅ Loaded existing FAISS index ({self.index.ntotal} vectors)")
@@ -165,9 +184,6 @@ class KnowledgeManager:
                 new_passages.extend(filtered)
                 new_sources.extend([filename] * len(filtered))
 
-                # Mark file as processed in cache immediately
-                self._append_to_cache(filename)
-
             except Exception as e:
                 print(f"      ❌ Error reading {filename}: {e}")
 
@@ -196,7 +212,12 @@ class KnowledgeManager:
 
         # ── Step 6: Save updated index + passages to disk ─────────────────────
         self._save_index()
-        self._save_passages(new_passages, new_sources)
+        self._save_passages(
+            new_passages,
+            new_sources,
+            append=not rebuild_for_sources,
+        )
+        self._write_cache(sorted(already_processed.union(new_files)))
 
         print(f"\n✅ FAISS index saved  : {self._index_path()}")
         print(f"✅ Passages saved     : {self._passages_path()}")
