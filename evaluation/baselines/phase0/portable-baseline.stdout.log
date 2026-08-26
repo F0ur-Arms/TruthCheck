@@ -1,0 +1,9 @@
+============================================================
+  TRUTHCHECK ENGINE: BUILT-IN FAISS + NLI MODE
+============================================================
+--- Initializing TruthCheck Engine ---
+[RiskEngine] ML model loaded successfully.
+--- Loading NLI model (shared) ---
+--- Loading NLI Model: cross-encoder/nli-distilroberta-base ---
+--- Initializing FactVerifier with built-in FAISS ---
+[KB] Loading embedding model: all-MiniLM-L6-v2
