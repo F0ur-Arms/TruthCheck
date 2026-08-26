@@ -143,7 +143,12 @@ class KnowledgeManager:
         # ── Step 2: Find unprocessed .txt files ───────────────────────────────
         all_txt_files = [
             f for f in os.listdir(folder_path)
-            if f.endswith(".txt") and not f.startswith(("processed_cache.", "kb_passages."))
+            if f.endswith(".txt")
+            and not f.startswith((
+                "processed_cache.",
+                "kb_passages.",
+                "kb_passage_sources.",
+            ))
         ]
 
         new_files = [f for f in all_txt_files if f not in already_processed]
