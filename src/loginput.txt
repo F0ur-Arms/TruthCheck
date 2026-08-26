@@ -8399,3 +8399,9 @@ CLAIM: These savory, red fruits are also rich in antioxidants, such as lycopene,
 
 [ROW 2799 | TRUE LABEL: 0]
 CLAIM: The researchers found that an omnivorous diet included more protein and added sugar while a vegan diet boasted more carbs and fiber.
+
+[ROW None | TRUE LABEL: None]
+CLAIM: I have stage 3 CKD, should I stop drinking whey protein?
+
+[ROW None | TRUE LABEL: None]
+CLAIM: Warm water improves digestion.

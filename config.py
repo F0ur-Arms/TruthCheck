@@ -21,6 +21,7 @@ DEBUG_LOG_PATH = BASE_DIR / "src" / "loginput.txt"
 # cannot accidentally reuse vectors produced by a different embedding model.
 EMBEDDING_MODEL = "BAAI/bge-m3"
 NLI_MODEL = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
+RERANKER_MODEL = "BAAI/bge-reranker-v2-m3"
 
 # The fallback uses an explicit OpenAI-compatible endpoint.  It is disabled
 # unless both values are supplied by the deployment environment.

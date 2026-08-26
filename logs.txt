@@ -81539,3 +81539,36 @@ weighted avg       0.67      0.68      0.67      2799
 
   Unparseable claims (error fallback): 0
 
+──────────────────────────────────────────────────────────────────────
+ROW #None  INPUT : I have stage 3 CKD, should I stop drinking whey protein?
+              CLEANED: i have stage 3 ckd, should i stop drinking whey protein?
+──────────────────────────────────────────────────────────────────────
+  [ROUTE GATE] Personal Medical Advice detected -> Bypassing fact check
+──────────────────────────────────────────────────────────────────────
+ROW #None  INPUT : Warm water improves digestion.
+              CLEANED: warm water improves digestion.
+──────────────────────────────────────────────────────────────────────
+
+  [SENTENCE 1] warm water improves digestion.
+  [CLAIM TRIPLES] [{'subject': 'warm water', 'relation': 'improves', 'relation_lemma': 'improve', 'object': 'digestion'}]
+  [STYLE SCORE] 0.04
+  [KB VERIFIER]
+    Match Found   : True
+    Matched Entry : warm water digestion
+    Match Type    : STRONG
+    Match Score   : 0.3316
+    KB Verdict    : TRUE
+    NLI Verdict   : SUPPORTS
+    NLI Confidence: 0.9461
+    Truth         : Warm water can help break down food faster and improve digestion by increasing blood flow to the digestive tract and alt
+  [RISK ENGINE]
+    Final Score : 0.02
+    Risk Label  : SAFE / LOW RISK
+    Breakdown:
+      fact_verdict : TRUE
+      fact_impact  : 0.0  (weight=0.6)
+      ml_impact    : 0.0    (weight=0.0)
+  [RAG] Verdict: NEI | Confidence: 0.9937
+  [RAG] Evidence: When it comes to nutrition, fresh ginger boasts a range of health benefits attributed to its natural form and the presence of active compounds like gingerol. It helps in digestion while reducing nausea, bloating, and indigestion. Fresh ginger also has anti-inflammatory properties that may alleviate symptoms of arthritis and reduce muscle pain. It is rich in antioxidants and vitamin C, and can boost the immune system. It is commonly used to alleviate morning sickness during pregnancy.
+      style_impact : 0.02 (weight=0.4)
+    Source Used : KB + RAG

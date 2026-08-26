@@ -1,5 +1,12 @@
-import spacy
+import sys
 import os
+
+if sys.platform == "win32":
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+
+import spacy
 import pandas as pd
 from datetime import datetime
 from sklearn.metrics import (
@@ -9,14 +16,13 @@ from sklearn.metrics import (
 
 from src.preprocessor import HinglishMapper
 from src.linguistic_scorer import LinguisticScorer
-from src.verifiernew import FactVerifier  # Now with built-in FAISS
+from src.verifiernew import FactVerifier
 from src.risk_engine import RiskEngine
-from src.RAGpipeline.nli_verifier import NLIVerifier  # Only NLI from RAG
+from src.RAGpipeline.nli_verifier import NLIVerifier
 from src.RAGpipeline.knowledge_manager import KnowledgeManager
+from src.claims_processor import ClaimsProcessor
 from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
 from src.refine_extractor import extract_triples
-
-# ─────────────────────────────────────────────────────────────────────────────
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
 LOG_PATH = str(LOG_PATH)
@@ -76,18 +82,15 @@ class TruthCheckPipeline:
                 # ── RAG RETRIEVAL SETUP ─────────────────────────
         self.kb_manager = KnowledgeManager()
         self.kb_manager.load_and_index(str(KB_PATH))
-        # ── Step 3: spaCy ─────────────────────────────────────────────────────
+        # ── Step 3: spaCy & Claims Processor ─────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
+        self.claims_processor = ClaimsProcessor()
 
         print("--- Pipeline Ready ---\n")
 
     def analyze_query(self, raw_text, row_index=None, true_label=None):
         # Step 1: Clean the sentences
         clean_text = self.mapper.clean_text(raw_text)
-
-        # Step 2: Sentence segmentation using spacy 
-        doc = self.nlp(clean_text)
-        final_reports = []
 
         # Logs
         log(f"{'─' * 70}")
@@ -97,11 +100,30 @@ class TruthCheckPipeline:
         debug_log(f"\n[ROW {row_index} | TRUE LABEL: {true_label}]")
         debug_log(f"CLAIM: {raw_text}")
 
+        # Step 2: Medical Routing Gate & Claim Decomposition (Phase 3)
+        claim_rep = self.claims_processor.process_query(raw_text, clean_text)
+        if claim_rep.route == "medical_advice":
+            log("  [ROUTE GATE] Personal Medical Advice detected -> Bypassing fact check")
+            return [{
+                "input": raw_text,
+                "verification_text": raw_text,
+                "claim_triples": [],
+                "verdict": "NOT_A_FACT_CHECK",
+                "route": "medical_advice",
+                "safety_response": claim_rep.safety_response,
+                "explanation": claim_rep.safety_response,
+                "source": "Medical Safety Advice Gate",
+                "risk_score": 1.0,
+                "risk_level": "High (Medical Advice Request)",
+            }]
+
+        # Step 3: Sentence segmentation using spacy 
+        doc = self.nlp(clean_text)
+        final_reports = []
+
         # Step 3: Loop through sentences
         for sent_idx, sent in enumerate(doc.sents, 1):
             sentence = sent.text.strip()
-            if not sentence:
-                continue
 
             triples = extract_triples(sentence, self.nlp)
             verification_text = sentence
