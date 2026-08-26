@@ -112,7 +112,10 @@ class Reranker:
     def _load_model(self):
         try:
             from sentence_transformers import CrossEncoder
-            self.cross_encoder = CrossEncoder(self.model_name)
+            # The pipeline must remain usable in offline CI/runtime environments.
+            # If the model is absent locally, the existing lexical fallback below
+            # is deliberately used instead of attempting a network download.
+            self.cross_encoder = CrossEncoder(self.model_name, local_files_only=True)
             print(f"[Reranker] Loaded CrossEncoder model: {self.model_name}")
         except Exception as e:
             print(f"[Reranker] Warning: Could not load CrossEncoder {self.model_name} ({e}). Using lexical fallback.")
