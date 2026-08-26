@@ -16,6 +16,7 @@ class KnowledgeManager:
         self.model = SentenceTransformer(model_name)
         self.index = None
         self.passages = []
+        self.passage_sources: list[str] = []
         self.facts_index = None
         self.facts_entries = []
         self.kb_loaded = False
@@ -34,6 +35,9 @@ class KnowledgeManager:
 
     def _passages_path(self):
         return os.path.join(self.folder_path, f"kb_passages.{self.cache_key}.txt")
+
+    def _passage_sources_path(self):
+        return os.path.join(self.folder_path, f"kb_passage_sources.{self.cache_key}.txt")
 
     def _load_cache(self) -> set:
         """Returns set of filenames already processed."""
@@ -60,16 +64,27 @@ class KnowledgeManager:
         self.index = faiss.read_index(path)
         return True
 
-    def _save_passages(self, new_passages: list):
-        """Append new passages to the passages file."""
+    def _save_passages(self, new_passages: list, new_sources: list | None = None):
+        """Append new passages (and optional source filenames) to disk."""
         with open(self._passages_path(), "a", encoding="utf-8") as f:
             for p in new_passages:
-                # Store as single line — replace newlines with space
                 f.write(p.replace("\n", " ").strip() + "\n")
+        if new_sources:
+            with open(self._passage_sources_path(), "a", encoding="utf-8") as f:
+                for src in new_sources:
+                    f.write(src + "\n")
 
     def _load_passages(self) -> list:
         """Load all previously saved passages from disk."""
         path = self._passages_path()
+        if not os.path.exists(path):
+            return []
+        with open(path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip()]
+
+    def _load_passage_sources(self) -> list:
+        """Load source filename per passage (parallel to passages list)."""
+        path = self._passage_sources_path()
         if not os.path.exists(path):
             return []
         with open(path, "r", encoding="utf-8") as f:
@@ -91,6 +106,10 @@ class KnowledgeManager:
         # ── Step 1: Load existing index + passages from disk ─────────────────
         already_processed = self._load_cache()
         self.passages = self._load_passages()
+        self.passage_sources = self._load_passage_sources()
+        if self.passages and len(self.passage_sources) != len(self.passages):
+            # Legacy cache without source sidecar — pad with empty strings
+            self.passage_sources = [""] * len(self.passages)
         index_loaded = self._load_index()
 
         if index_loaded and self.passages:
@@ -122,6 +141,7 @@ class KnowledgeManager:
 
         # ── Step 3: Extract passages from new files ───────────────────────────
         new_passages = []
+        new_sources = []
 
         for filename in new_files:
             filepath = os.path.join(folder_path, filename)
@@ -143,6 +163,7 @@ class KnowledgeManager:
 
                 print(f"      ✅ {len(filtered)} passages extracted")
                 new_passages.extend(filtered)
+                new_sources.extend([filename] * len(filtered))
 
                 # Mark file as processed in cache immediately
                 self._append_to_cache(filename)
@@ -171,10 +192,11 @@ class KnowledgeManager:
 
         self.index.add(np.array(new_embeddings).astype('float32'))
         self.passages.extend(new_passages)
+        self.passage_sources.extend(new_sources)
 
         # ── Step 6: Save updated index + passages to disk ─────────────────────
         self._save_index()
-        self._save_passages(new_passages)
+        self._save_passages(new_passages, new_sources)
 
         print(f"\n✅ FAISS index saved  : {self._index_path()}")
         print(f"✅ Passages saved     : {self._passages_path()}")
@@ -188,12 +210,26 @@ class KnowledgeManager:
     # ─────────────────────────────────────────────────────────────────────────
 
     def retrieve_evidence(self, query_triple, top_k=2):
+        hits = self.dense_search(query_triple, top_k=top_k)
+        return [hit["passage"] for hit in hits]
+
+    def dense_search(self, query: str, top_k: int = 5) -> list[dict]:
+        """FAISS dense search returning passage index + text (no string round-trip)."""
         if self.index is None or not self.kb_loaded:
             return []
 
-        query_vector = self.model.encode([query_triple]).astype('float32')
+        query_vector = self.model.encode([query]).astype('float32')
         distances, indices = self.index.search(query_vector, top_k)
-        return [self.passages[i] for i in indices[0] if i < len(self.passages)]
+        hits = []
+        for i in indices[0]:
+            if i < len(self.passages):
+                hits.append({"index": int(i), "passage": self.passages[i]})
+        return hits
+
+    def source_for_index(self, passage_index: int) -> str:
+        if 0 <= passage_index < len(self.passage_sources):
+            return self.passage_sources[passage_index]
+        return ""
     def load_verified_facts(self, facts_path=str(FACTS_JSON)):
         """
         Builds a separate FAISS index for verified_facts.json.

@@ -493,6 +493,16 @@ class FactVerifier:
         return len(overlap) > 0
 
     # ─────────────────────────────────────────────────────────────────────────
+    # TIER-1 PROBE (mode gate input — no LLM fallback)
+    # ─────────────────────────────────────────────────────────────────────────
+    def tier1_lookup(self, claim_text):
+        """Run Tier-1 FAISS + NLI gates only; never falls through to LLM."""
+        best_entry, distance = self.kb.find_best_fact(claim_text)
+        if best_entry is None:
+            return self._unverified_response(float("inf"), "No KB entry found")
+        return self._run_local_gates(claim_text, best_entry, distance)
+
+    # ─────────────────────────────────────────────────────────────────────────
     # MAIN VERIFY METHOD (TWO-TIER CASCADE)
     # ─────────────────────────────────────────────────────────────────────────
     def verify(self, claim_text):

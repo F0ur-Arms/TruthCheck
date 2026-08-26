@@ -47,9 +47,19 @@ class NLIVerifier:
         confidence = probs[0][label_idx].item()
         verdict = self.id2label[label_idx]
 
+        label_probabilities = {
+            self.id2label[int(i)]: round(probs[0][int(i)].item(), 4)
+            for i in range(probs.shape[1])
+        }
+        supports_probability = label_probabilities.get("SUPPORTS", 0.0)
+        refutes_probability = label_probabilities.get("REFUTES", 0.0)
+
         return {
             "verdict": verdict,
             "confidence": round(confidence, 4),
+            "label_probabilities": label_probabilities,
+            "supports_probability": supports_probability,
+            "refutes_probability": refutes_probability,
             "claim": claim_triple,
             "evidence": evidence_text[:200]
         }

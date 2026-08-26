@@ -67,9 +67,20 @@ class HybridRetriever:
             try:
                 dense_hits = self.dense_retriever_fn(query_str, top_k=top_per_lane)
                 for rank, hit in enumerate(dense_hits):
-                    # Match hit to passage index
-                    if isinstance(hit, str) and hit in self.passages:
+                    idx = None
+                    if isinstance(hit, dict):
+                        idx = hit.get("index")
+                        if idx is None and "passage_index" in hit:
+                            idx = hit["passage_index"]
+                    elif isinstance(hit, (list, tuple)) and len(hit) >= 2:
+                        idx = int(hit[0])
+                    elif isinstance(hit, int):
+                        idx = hit
+                    elif isinstance(hit, str) and hit in self.passages:
+                        # Legacy string-only hits (deprecated — prefer index tuples)
                         idx = self.passages.index(hit)
+
+                    if idx is not None and 0 <= idx < len(self.passages):
                         rrf_scores[idx] = rrf_scores.get(idx, 0.0) + (1.0 / (self.k + rank + 1))
                         passage_lane_map.setdefault(idx, []).append(lane_name)
             except Exception:

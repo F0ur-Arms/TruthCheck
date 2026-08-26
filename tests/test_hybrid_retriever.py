@@ -22,7 +22,7 @@ class HybridRetrieverTests(unittest.TestCase):
         ]
 
         def dummy_dense_fn(query, top_k=2):
-            return [passages[0], passages[3]]
+            return [{"index": 0, "passage": passages[0]}, {"index": 3, "passage": passages[3]}]
 
         retriever = HybridRetriever(passages=passages, dense_retriever_fn=dummy_dense_fn)
         lanes = {"support": "warm water digestion", "guideline": "ICMR protein guidelines"}
