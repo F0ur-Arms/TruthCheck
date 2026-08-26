@@ -13,7 +13,7 @@ PASSAGES_FILE = "kb_passages.txt"    # saved passages (one per line, pipe-separa
 class KnowledgeManager:
     def __init__(self, model_name=EMBEDDING_MODEL):
         print(f"--- Loading Embedding Model: {model_name} ---")
-        self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer(model_name, local_files_only=True)
         self.index = None
         self.passages = []
         self.passage_sources: list[str] = []
