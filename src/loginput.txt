@@ -8405,3 +8405,21 @@ CLAIM: I have stage 3 CKD, should I stop drinking whey protein?
 
 [ROW None | TRUE LABEL: None]
 CLAIM: Warm water improves digestion.
+
+[ROW 1 | TRUE LABEL: None]
+CLAIM: Warm water improves digestion.
+
+[ROW 3 | TRUE LABEL: None]
+CLAIM: Stop taking insulin for diabetes.
+
+[ROW 2 | TRUE LABEL: None]
+CLAIM: Turmeric cures cancer.
+
+[ROW 1 | TRUE LABEL: None]
+CLAIM: Warm water improves digestion.
+
+[ROW 3 | TRUE LABEL: None]
+CLAIM: Stop taking insulin for diabetes.
+
+[ROW 2 | TRUE LABEL: None]
+CLAIM: Turmeric cures cancer.

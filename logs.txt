@@ -81572,3 +81572,175 @@ ROW #None  INPUT : Warm water improves digestion.
   [RAG] Evidence: When it comes to nutrition, fresh ginger boasts a range of health benefits attributed to its natural form and the presence of active compounds like gingerol. It helps in digestion while reducing nausea, bloating, and indigestion. Fresh ginger also has anti-inflammatory properties that may alleviate symptoms of arthritis and reduce muscle pain. It is rich in antioxidants and vitamin C, and can boost the immune system. It is commonly used to alleviate morning sickness during pregnancy.
       style_impact : 0.02 (weight=0.4)
     Source Used : KB + RAG
+──────────────────────────────────────────────────────────────────────
+ROW #1  INPUT : Warm water improves digestion.
+              CLEANED: warm water improves digestion.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Warm water improves digestion.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: fast (match_type=STRONG, nli_conf=0.92)
+  [MODE] fast path — Tier-1 evidence only, skipping hybrid retrieval
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : True
+    Matched Entry : warm water
+    Match Type    : STRONG
+    Match Score   : 0.5
+    KB Verdict    : TRUE
+    NLI Verdict   : SUPPORTS
+    NLI Confidence: 0.92
+    Truth         : Warm water aids digestion.
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=fast escalated=False
+──────────────────────────────────────────────────────────────────────
+ROW #3  INPUT : Stop taking insulin for diabetes.
+              CLEANED: stop taking insulin for diabetes.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Stop taking insulin for diabetes.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: standard (match_type=NONE, nli_conf=None)
+  [MODE] escalated standard -> deep: reason=contradiction_count=2
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : False
+    Matched Entry : None
+    Match Type    : NONE
+    Match Score   : 0.0
+    KB Verdict    : UNVERIFIED
+    NLI Verdict   : None
+    NLI Confidence: None
+    Truth         : 
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=deep escalated=True
+──────────────────────────────────────────────────────────────────────
+ROW #2  INPUT : Turmeric cures cancer.
+              CLEANED: turmeric cures cancer.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Turmeric cures cancer.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: standard (match_type=WEAK, nli_conf=0.4)
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : False
+    Matched Entry : None
+    Match Type    : WEAK
+    Match Score   : 0.0
+    KB Verdict    : UNVERIFIED
+    NLI Verdict   : None
+    NLI Confidence: 0.4
+    Truth         : Unverified: weak
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=standard escalated=False
+──────────────────────────────────────────────────────────────────────
+ROW #1  INPUT : Warm water improves digestion.
+              CLEANED: warm water improves digestion.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Warm water improves digestion.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: fast (match_type=STRONG, nli_conf=0.92)
+  [MODE] fast path — Tier-1 evidence only, skipping hybrid retrieval
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : True
+    Matched Entry : warm water
+    Match Type    : STRONG
+    Match Score   : 0.5
+    KB Verdict    : TRUE
+    NLI Verdict   : SUPPORTS
+    NLI Confidence: 0.92
+    Truth         : Warm water aids digestion.
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=fast escalated=False
+──────────────────────────────────────────────────────────────────────
+ROW #3  INPUT : Stop taking insulin for diabetes.
+              CLEANED: stop taking insulin for diabetes.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Stop taking insulin for diabetes.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: standard (match_type=NONE, nli_conf=None)
+  [MODE] escalated standard -> deep: reason=contradiction_count=2
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : False
+    Matched Entry : None
+    Match Type    : NONE
+    Match Score   : 0.0
+    KB Verdict    : UNVERIFIED
+    NLI Verdict   : None
+    NLI Confidence: None
+    Truth         : 
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=deep escalated=True
+──────────────────────────────────────────────────────────────────────
+ROW #2  INPUT : Turmeric cures cancer.
+              CLEANED: turmeric cures cancer.
+──────────────────────────────────────────────────────────────────────
+
+  [SUB-CLAIM 1] Turmeric cures cancer.
+  [CLAIM TRIPLES] []
+  [STYLE SCORE] 0.1
+  [MODE] decided: standard (match_type=WEAK, nli_conf=0.4)
+  [CALIBRATION] verdict=SUPPORTED confidence=0.8200
+  [KB VERIFIER]
+    Match Found   : False
+    Matched Entry : None
+    Match Type    : WEAK
+    Match Score   : 0.0
+    KB Verdict    : UNVERIFIED
+    NLI Verdict   : None
+    NLI Confidence: 0.4
+    Truth         : Unverified: weak
+  [RISK ENGINE]
+    Final Score : 0.4
+    Risk Label  : Medium
+    Breakdown:
+      fact_verdict : UNVERIFIED
+      fact_impact  : 0.2  (weight=0.5)
+      ml_impact    : 0.0    (weight=0.0)
+      style_impact : 0.1 (weight=0.2)
+  [MODE] operating_mode=standard escalated=False
