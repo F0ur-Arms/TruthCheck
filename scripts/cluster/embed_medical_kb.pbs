@@ -1,0 +1,54 @@
+#!/bin/bash
+#PBS -N truthcheck-kb-embed
+#PBS -l nodes=1:ncpus=10
+#PBS -l walltime=48:00:00
+#PBS -q Gpu1-10g
+#PBS -o /storage/home/bagler/FoodFactCheck/TruthCheck/evaluation/cluster_logs/kb_embed.out
+#PBS -e /storage/home/bagler/FoodFactCheck/TruthCheck/evaluation/cluster_logs/kb_embed.err
+
+# Build the medical-KB FAISS index on IIITD's Gpu1-10g queue.
+set -euo pipefail
+
+PROJECT_DIR="$HOME/FoodFactCheck/TruthCheck"
+ENV_DIR="$HOME/FoodFactCheck/.conda/truthcheck-embed"
+export CUDA_VISIBLE_DEVICES="MIG-f3d88dc3-260f-516c-9565-e895709806c8"
+export HF_HOME="$PROJECT_DIR/.cache/huggingface"
+export TOKENIZERS_PARALLELISM=false
+
+mkdir -p "$PROJECT_DIR/evaluation/cluster_logs" "$HF_HOME"
+source "$HOME/anaconda3/etc/profile.d/conda.sh"
+
+if [ ! -d "$ENV_DIR" ]; then
+  conda create -y -p "$ENV_DIR" python=3.11 pip
+fi
+conda activate "$ENV_DIR"
+
+python -m pip install --upgrade pip
+python -m pip install --index-url https://download.pytorch.org/whl/cu124 torch==2.6.0
+python -m pip install numpy==1.26.4 faiss-cpu==1.9.0.post1 sentence-transformers==3.4.1
+
+cd "$PROJECT_DIR"
+python - <<'PY'
+import torch
+from sentence_transformers import SentenceTransformer
+
+print(f"CUDA available: {torch.cuda.is_available()}")
+print(f"CUDA device count: {torch.cuda.device_count()}")
+if not torch.cuda.is_available():
+    raise RuntimeError("GPU was not made available to the PBS job")
+print(f"CUDA device: {torch.cuda.get_device_name(0)}")
+
+# Populate HF_HOME before the repository's local-files-only loader runs.
+SentenceTransformer("BAAI/bge-m3", device="cuda")
+PY
+
+python - <<'PY'
+from config import KB_PATH
+from src.RAGpipeline.knowledge_manager import KnowledgeManager
+
+manager = KnowledgeManager()
+manager.load_and_index(str(KB_PATH))
+if not manager.passages:
+    raise RuntimeError("Embedding build produced no KB passages")
+print(f"Embedding build complete: {len(manager.passages)} passages")
+PY
