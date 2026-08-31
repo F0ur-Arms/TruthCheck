@@ -96,8 +96,9 @@ class ClaimsProcessor:
     def __init__(self, llm_verifier: Optional[ConfiguredLLMVerifier] = None) -> None:
         self.llm = llm_verifier or ConfiguredLLMVerifier()
 
-    def process_query(self, raw_text: str, cleaned_text: str) -> CanonicalClaimRepresentation:
+    def process_query(self, raw_text: str, cleaned_text: Optional[str] = None) -> CanonicalClaimRepresentation:
         """Process input text through the medical routing gate and claim decomposition engine."""
+        cleaned_text = cleaned_text or raw_text.lower()
 
         # 1. Try LLM Routing & Decomposition if configured
         if self.llm.configured:

@@ -20,7 +20,9 @@ from pydantic import BaseModel, Field
 
 CESSATION_PATTERNS = [
     r"\bstop taking\b", r"\bdiscontinue\b", r"\bdon'?t take\b",
-    r"\breplace insulin\b", r"\bcure cancer naturally\b", r"\bstop your meds\b",
+    r"\breplace insulin\b", r"\breplace chemotherapy\b", r"\breplace medication\b",
+    r"\breplace treatment\b", r"\bdon'?t go to (the )?hospital\b",
+    r"\bcure cancer naturally\b", r"\bstop your meds\b",
     r"\bdawa band\b", r"\binsulin mat lo\b"
 ]
 
