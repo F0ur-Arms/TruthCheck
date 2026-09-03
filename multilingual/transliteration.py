@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from typing import Protocol, Sequence
 
 from .types import TokenTag
@@ -50,31 +51,101 @@ class QwenHinglishTransliterator:
         if language != "hi":
             raise RuntimeError(f"No configured neural transliterator for language {language!r}.")
         self._load()
-        protected = [tag.token for tag in tags if tag.label in {"en", "number_unit", "entity"}]
-        messages = [
-            {"role": "system", "content": (
-                "You convert code-mixed Hindi-English claims into Hindi in Devanagari. "
-                "Transliterate only the Hindi words written in Roman letters; do not translate them. "
-                "Keep every English word, medical name, number, URL, and punctuation exactly unchanged. "
-                "Return only the completed sentence, with no explanation."
-            )},
-            {"role": "user", "content": f"Protected exact tokens: {protected}\nClaim: {text}"},
+        # A low-confidence English label is often a Roman-Hindi false positive
+        # (for example ``nimbu``).  Only preserve high-confidence English terms;
+        # doses and URLs remain protected regardless of confidence.
+        protected = [
+            tag.token for tag in tags
+            if tag.label in {"number_unit", "entity"}
+            or (tag.label == "en" and tag.confidence >= 0.90)
         ]
-        prompt = self._tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-        inputs = self._tokenizer(prompt, return_tensors="pt").to(self.device)
-        with self._torch.no_grad():
-            output = self._model.generate(**inputs, do_sample=False, max_new_tokens=max(32, len(text) * 3))
-        value = self._tokenizer.decode(output[0][inputs.input_ids.shape[1]:], skip_special_tokens=True).strip()
+        value = self._transliterate_hindi_spans(text, tags)
+        value = self._clean_generated_text(value)
         if not value:
             raise RuntimeError("Neural transliterator returned empty output.")
         if tags and any(tag.label == "hi_Latn" for tag in tags) and not any("\u0900" <= char <= "\u097f" for char in value):
             raise RuntimeError("Neural transliterator did not return Devanagari for Romanized Hindi.")
-        # The model is not allowed to rewrite protected source tokens.  Reject
-        # instead of passing a silently altered medicine name or dose onward.
-        cursor = 0
+        # Protected tokens never enter a model prompt: the original text is
+        # reassembled around each generated Hindi span. Verify that invariant
+        # anyway before returning a canonical claim.
         for token in protected:
-            found = value.find(token, cursor)
-            if found < 0:
+            if not self._contains_protected_token(value, token):
                 raise RuntimeError(f"Neural transliterator changed protected token {token!r}.")
-            cursor = found + len(token)
         return value
+
+    def _transliterate_hindi_spans(self, text: str, tags: Sequence[TokenTag]) -> str:
+        """Generate only Roman-Hindi spans and preserve all other source text."""
+        return self._reassemble_hindi_spans(text, tags, self._transliterate_hindi_span)
+
+    @staticmethod
+    def _reassemble_hindi_spans(text: str, tags: Sequence[TokenTag], transliterate_span) -> str:
+        """Apply ``transliterate_span`` only to Hindi-tagged source spans."""
+        output: list[str] = []
+        cursor = 0
+        index = 0
+        while index < len(tags):
+            tag = tags[index]
+            if tag.label != "hi_Latn":
+                index += 1
+                continue
+
+            start = tag.start
+            end = tag.end
+            index += 1
+            while index < len(tags) and tags[index].label == "hi_Latn":
+                end = tags[index].end
+                index += 1
+
+            output.append(text[cursor:start])
+            output.append(transliterate_span(text[start:end]))
+            cursor = end
+        output.append(text[cursor:])
+        return "".join(output)
+
+    def _transliterate_hindi_span(self, text: str) -> str:
+        messages = self._messages(text, ())
+        prompt = self._tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        inputs = self._tokenizer(prompt, return_tensors="pt").to(self.device)
+        with self._torch.no_grad():
+            output = self._model.generate(**inputs, do_sample=False, max_new_tokens=max(32, len(text) * 3))
+        return self._clean_generated_text(
+            self._tokenizer.decode(output[0][inputs.input_ids.shape[1]:], skip_special_tokens=True)
+        )
+
+    @staticmethod
+    def _messages(text: str, protected: Sequence[str]) -> list[dict[str, str]]:
+        return [
+            {"role": "system", "content": """You transliterate code-mixed Hinglish health claims into Hindi written in Devanagari.
+
+Rules:
+1. Transliterate Romanized Hindi words into Devanagari: `ke liye` -> `के लिए`, `kharab` -> `खराब`, `hai` -> `है`, and `theek` -> `ठीक`.
+2. Do not translate the Hindi words into English.
+3. Keep every Protected Token exactly unchanged in Latin script. Protected Tokens include English medical words, drug names, dosage numbers/units, URLs, and explicitly protected English terms such as `doctor`, `metformin`, `500mg`, `protein`, and `kidney`.
+4. Keep punctuation unchanged.
+5. Output only the transliterated sentence: no Markdown fences, explanation, label, or quotation marks.
+
+Examples:
+Protected: ['protein', 'kidney'] | Input: protein kidney ke liye kharab hai -> protein kidney के लिए खराब है
+Protected: ['doctor', 'metformin', '500mg'] | Input: doctor se bina pooche metformin 500mg band mat karo -> doctor से बिना पूछे metformin 500mg बंद मत करो
+Protected: ['garlic', 'viruses'] | Input: garlic sabhi viruses ko khatam kar deta hai -> garlic सभी viruses को खत्म कर देता है
+Protected: ['diabetes'] | Input: subah khali pet nimbu pani diabetes ko theek karta hai -> सुबह खाली पेट नींबू पानी diabetes को ठीक करता है"""},
+            {"role": "user", "content": (
+                f"Protected Tokens: {list(protected)}\n"
+                f"Input: {text}"
+            )},
+        ]
+
+    @staticmethod
+    def _clean_generated_text(value: str) -> str:
+        """Remove presentation wrappers without changing the actual claim."""
+        value = value.strip()
+        value = re.sub(r"^```(?:[A-Za-z0-9_-]+)?\s*", "", value)
+        value = re.sub(r"\s*```$", "", value).strip()
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+            value = value[1:-1].strip()
+        return re.sub(r"\s+", " ", value).strip()
+
+    @staticmethod
+    def _contains_protected_token(value: str, token: str) -> bool:
+        """Match a protected token case-insensitively, but never as a substring."""
+        return re.search(rf"(?<!\w){re.escape(token)}(?!\w)", value, flags=re.IGNORECASE) is not None

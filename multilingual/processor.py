@@ -11,7 +11,7 @@ from .scripts import detect_script, language_code_for_script
 from .semantic_preservation import SemanticPreserver
 from .token_lang_detector import HinglishLIDClassifier, TokenLanguageDetector
 from .transliteration import QwenHinglishTransliterator, Transliterator
-from .types import MultilingualClaim
+from .types import MultilingualClaim, TransformationValidation
 
 
 @dataclass(frozen=True)
@@ -67,6 +67,21 @@ class MultilingualProcessor:
         canonical = self._canonicalize(text, tags, warnings)
         source_language = self._source_language(script, tags)
 
+        # Romanized Hindi is only valid input for IndicTrans2 after it has been
+        # converted to Devanagari.  A failed conversion must never silently
+        # fall through and label the original Latin text as ``hin_Deva``.
+        if canonical is None:
+            claim = MultilingualClaim(
+                original_text=text,
+                script=script,
+                source_language=source_language,
+                token_tags=tags,
+                canonical_indic_text=None,
+                warnings=warnings,
+            )
+            self._add_linguistic_score(claim)
+            return claim
+
         # English has no derived representation to protect. Return before
         # loading translation models, which keeps this component fast.
         if source_language == "eng_Latn" and not any(tag.label == "hi_Latn" for tag in tags):
@@ -113,14 +128,23 @@ class MultilingualProcessor:
         validation = self.semantic_preserver.validate(text, gloss)
         claim.validation = validation
         claim.transformation_confidence = validation.confidence
-        if validation.accepted:
+        if validation.accepted and self._is_english_gloss(gloss, warnings):
             claim.english_gloss = gloss
         else:
-            claim.warnings.extend(validation.warnings)
+            if not validation.accepted:
+                claim.warnings.extend(validation.warnings)
+            else:
+                rejection = "Derived gloss was rejected because it is not English."
+                claim.validation = TransformationValidation(
+                    accepted=False,
+                    confidence=validation.confidence,
+                    warnings=(*validation.warnings, rejection),
+                )
+                claim.warnings.append(rejection)
         self._add_linguistic_score(claim)
         return claim
 
-    def _canonicalize(self, text: str, tags, warnings: list[str]) -> str:
+    def _canonicalize(self, text: str, tags, warnings: list[str]) -> str | None:
         if not any(tag.label == "hi_Latn" for tag in tags):
             return text
         try:
@@ -129,7 +153,7 @@ class MultilingualProcessor:
                 return sentence_method(text, tags, self.config.transliteration_language)
         except Exception as exc:
             warnings.append(f"Transliteration unavailable: {type(exc).__name__}: {exc}")
-            return text
+            return None
 
         # Adapter fallback for older injected implementations.
         output: list[str] = []
@@ -144,9 +168,28 @@ class MultilingualProcessor:
                     token = self.transliterator.transliterate(token, self.config.transliteration_language)
                 except Exception as exc:
                     warnings.append(f"Transliteration unavailable: {type(exc).__name__}: {exc}")
+                    return None
             output.append(token)
             previous_end = tag.end
         return "".join(output).strip()
+
+    def _is_english_gloss(self, gloss: str, warnings: list[str]) -> bool:
+        """Accept only a Latin-script gloss whose lexical tokens are English.
+
+        Semantic similarity alone cannot prove that a translation backend
+        returned English: it can score highly when it echoes the source in an
+        Indic script.  Reuse the configured token LID model and fail closed if
+        that validation cannot establish English.
+        """
+        if detect_script(gloss) != "Latin":
+            return False
+        try:
+            gloss_tags = self.detector.tag(gloss)
+        except Exception as exc:
+            warnings.append(f"English gloss validation unavailable: {type(exc).__name__}: {exc}")
+            return False
+        lexical_tags = [tag for tag in gloss_tags if any(character.isalpha() for character in tag.token)]
+        return bool(lexical_tags) and all(tag.label == "en" for tag in lexical_tags)
 
     def _add_linguistic_score(self, claim: MultilingualClaim) -> None:
         if self.scorer is None:

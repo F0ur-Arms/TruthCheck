@@ -15,4 +15,8 @@ scikit-learn==1.8.0
 sentence-transformers==3.4.1
 spacy==3.8.4
 torch==2.6.0
-transformers==4.48.3
+# Shared by the pipeline and the standalone multilingual layer.  IndicTrans2's
+# remote configuration requires the Transformers 4.x APIs removed in 5.x.
+transformers>=4.51,<5
+sentencepiece>=0.2.0
+protobuf>=4.25,<6

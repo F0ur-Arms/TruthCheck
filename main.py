@@ -33,6 +33,7 @@ from src.operating_mode import (
 )
 from src.source_tier import tier_from_filename, tier_from_passage_text
 from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
+from multilingual.processor import MultilingualProcessor, MultilingualProcessorConfig
 from src.refine_extractor import extract_triples
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
@@ -108,6 +109,12 @@ class TruthCheckPipeline:
         # ── Step 3: spaCy & Claims Processor ─────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
         self.claims_processor = ClaimsProcessor()
+        # The processor's neural models load lazily during processing. It is an
+        # augmentation, not a replacement for the established normaliser or
+        # the source text used in the UI.
+        self.multilingual_processor = MultilingualProcessor(
+            MultilingualProcessorConfig(enable_linguistic_score=False)
+        )
 
         print("--- Pipeline Ready ---\n")
 
@@ -120,6 +127,32 @@ class TruthCheckPipeline:
             for idx, sent in enumerate(doc.sents, 1)
             if sent.text.strip()
         ]
+
+    def _prepare_multilingual_analysis_text(self, raw_text, legacy_clean_text):
+        """Return safe analysis text plus an audit record for multilingual processing.
+
+        Canonical Indic text is deliberately not passed into the live verifier:
+        it is useful for inspection but must prove translation quality before it
+        can influence a medical verdict.  Only a gloss that the standalone
+        module accepted as English augments the existing analysis path.
+        """
+        try:
+            multilingual_claim = self.multilingual_processor.process(raw_text)
+        except Exception as exc:
+            warning = f"Multilingual preprocessing unavailable: {type(exc).__name__}: {exc}"
+            return legacy_clean_text, {
+                "original_text": raw_text,
+                "english_gloss": None,
+                "warnings": [warning],
+            }, "legacy_fallback"
+
+        audit = multilingual_claim.to_dict()
+        if (
+            multilingual_claim.source_language != "eng_Latn"
+            and multilingual_claim.english_gloss
+        ):
+            return multilingual_claim.english_gloss, audit, "accepted_english_gloss"
+        return legacy_clean_text, audit, "legacy_fallback"
 
     def _kb_truth_from_tier1(self, tier1_result):
         truth = tier1_result.get("truth") or ""
@@ -219,15 +252,20 @@ class TruthCheckPipeline:
     def analyze_query(self, raw_text, row_index=None, true_label=None):
         t0 = time.perf_counter()
         clean_text = self.mapper.clean_text(raw_text)
+        analysis_text, multilingual_audit, analysis_text_source = self._prepare_multilingual_analysis_text(
+            raw_text, clean_text
+        )
 
         log(f"{'─' * 70}")
         log(f"ROW #{row_index}  INPUT : {raw_text}")
         log(f"              CLEANED: {clean_text}")
+        log(f"       ANALYSIS TEXT: {analysis_text}")
+        log(f"       MULTILINGUAL: {analysis_text_source}")
         log(f"{'─' * 70}")
         debug_log(f"\n[ROW {row_index} | TRUE LABEL: {true_label}]")
         debug_log(f"CLAIM: {raw_text}")
 
-        claim_rep = self.claims_processor.process_query(raw_text, clean_text)
+        claim_rep = self.claims_processor.process_query(raw_text, analysis_text)
         if claim_rep.route == "medical_advice":
             log("  [ROUTE GATE] Personal Medical Advice detected -> Bypassing fact check")
             return [{
@@ -244,11 +282,13 @@ class TruthCheckPipeline:
                 "risk_level": "High (Medical Advice Request)",
                 "operating_mode": "fast",
                 "escalated": False,
+                "analysis_text_source": analysis_text_source,
+                "multilingual": multilingual_audit,
                 "latency_sec": round(time.perf_counter() - t0, 4),
             }]
 
         harm_signal = detect_harm_signal_placeholder(raw_text)
-        sub_claims = self._sub_claims_for_query(claim_rep, clean_text)
+        sub_claims = self._sub_claims_for_query(claim_rep, analysis_text)
         final_reports = []
 
         for sub_idx, sub_claim in enumerate(sub_claims, 1):
@@ -349,6 +389,8 @@ class TruthCheckPipeline:
                 "risk_level": risk["label"],
                 "operating_mode": operating_mode,
                 "escalated": escalated,
+                "analysis_text_source": analysis_text_source,
+                "multilingual": multilingual_audit,
                 "latency_sec": latency_sec,
             }
             final_reports.append(report)

@@ -1,4 +1,5 @@
 import unittest
+from types import SimpleNamespace
 from unittest.mock import MagicMock, patch
 
 from src.claims_processor import SubClaim
@@ -34,6 +35,12 @@ class PipelineModeIntegrationTests(unittest.TestCase):
             }
             pipeline.nlp = MagicMock()
             pipeline.claims_processor = MagicMock()
+            pipeline.multilingual_processor = MagicMock()
+            pipeline.multilingual_processor.process.return_value = SimpleNamespace(
+                source_language="eng_Latn",
+                english_gloss=None,
+                to_dict=lambda: {"original_text": "test", "english_gloss": None, "warnings": []},
+            )
             pipeline.verifier = MagicMock()
             pipeline.nli_judge = MagicMock()
             pipeline.kb_manager = MagicMock()
@@ -57,6 +64,38 @@ class PipelineModeIntegrationTests(unittest.TestCase):
                 explanation_summary="test",
             )
             return pipeline
+
+    def test_accepted_multilingual_gloss_augments_analysis_text(self):
+        pipeline = self._make_pipeline()
+        pipeline.multilingual_processor.process.return_value = SimpleNamespace(
+            source_language="hin_Deva",
+            english_gloss="Turmeric does not cure cancer.",
+            to_dict=lambda: {"english_gloss": "Turmeric does not cure cancer.", "warnings": []},
+        )
+
+        analysis_text, audit, source = pipeline._prepare_multilingual_analysis_text(
+            "हल्दी कैंसर का इलाज नहीं करती।", "legacy clean text"
+        )
+
+        self.assertEqual(analysis_text, "Turmeric does not cure cancer.")
+        self.assertEqual(source, "accepted_english_gloss")
+        self.assertEqual(audit["english_gloss"], analysis_text)
+
+    def test_unaccepted_or_failed_multilingual_processing_preserves_legacy_text(self):
+        pipeline = self._make_pipeline()
+        pipeline.multilingual_processor.process.return_value = SimpleNamespace(
+            source_language="hin_Deva",
+            english_gloss=None,
+            to_dict=lambda: {"english_gloss": None, "warnings": ["Translation unavailable"]},
+        )
+
+        analysis_text, audit, source = pipeline._prepare_multilingual_analysis_text(
+            "protein kidney ke liye kharab hai", "legacy clean text"
+        )
+
+        self.assertEqual(analysis_text, "legacy clean text")
+        self.assertEqual(source, "legacy_fallback")
+        self.assertIsNone(audit["english_gloss"])
 
     def test_fast_mode_skips_hybrid_retrieval(self):
         pipeline = self._make_pipeline()
