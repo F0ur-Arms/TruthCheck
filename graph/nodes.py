@@ -62,6 +62,17 @@ def hybrid_retrieve_and_rerank_node(
     if state.route == "medical_advice":
         return {}
 
+    if passages is None:
+        try:
+            import json
+            from config import FACTS_JSON
+            if FACTS_JSON.exists():
+                with open(FACTS_JSON, "r", encoding="utf-8") as f:
+                    facts = json.load(f)
+                    passages = [item.get("scientific_truth", str(item)) for item in facts]
+        except Exception:
+            pass
+
     passages_pool = passages or [
         "Warm water can help break down food faster and improve digestion by increasing blood flow.",
         "Curd is a probiotic-rich food safe to eat at night and does not induce cold.",
@@ -155,12 +166,28 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
     if state.human_reviewer_decision:
         verdict = state.human_reviewer_decision.get("adjusted_verdict", verdict)
 
+    evidence_passages = [item.get("passage") for item in state.reranked_passages[:3] if item.get("passage")]
+    explanation = state.calibrated_verdict.get("explanation_summary") if state.calibrated_verdict else "Evidence inconclusive."
+
+    # If local LLM API is configured, synthesize evidence-grounded summary
+    from src.llm_fallback import ConfiguredLLMVerifier
+    llm_verifier = ConfiguredLLMVerifier()
+    if llm_verifier.configured and evidence_passages:
+        try:
+            llm_res = llm_verifier.verify(
+                f"Claim: {state.raw_input}\nVerdict: {verdict}\nEvidence: {' | '.join(evidence_passages)}"
+            )
+            if llm_res and llm_res.get("explanation"):
+                explanation = llm_res["explanation"]
+        except Exception:
+            pass
+
     res = {
         "input": state.raw_input,
         "verdict": verdict,
         "confidence": conf,
-        "explanation": state.calibrated_verdict.get("explanation_summary") if state.calibrated_verdict else "Evidence inconclusive.",
-        "evidence": [item.get("passage") for item in state.reranked_passages[:3]],
+        "explanation": explanation,
+        "evidence": evidence_passages,
         "needs_human_review": state.needs_human_review,
         "source": "TruthCheck v2 LangGraph Engine"
     }

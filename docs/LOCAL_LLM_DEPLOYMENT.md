@@ -12,6 +12,28 @@ This is **not** the embedding/NLI/reranker stack (`BAAI/bge-m3`,
 `mDeBERTa-v3-base-mnli-xnli`, `BAAI/bge-reranker-v2-m3`), which is unrelated
 and unaffected by any of this.
 
+## LangGraph API Orchestration Flow
+
+When TruthCheck receives a request through its FastAPI web server (`app/api/main.py`), it orchestrates execution through a compiled **LangGraph state machine** (`graph/workflow.py`):
+
+```
+FastAPI Request (POST /api/v1/fact-check)
+    │
+    ▼
+LangGraph Workflow Engine (graph_app.invoke)
+    │
+    ├── 1. Ingest Node (text normalization & script mapping)
+    ├── 2. Medical Routing & Decomposition Node (Medical Advice Gate -> NOT_A_FACT_CHECK or Claim Decomposition)
+    ├── 3. Hybrid Retrieve & Rerank Node (5-lane BM25 + Dense FAISS RRF + BAAI/bge-reranker-v2-m3)
+    ├── 4. Evidence & Calibration Node (Source tier weighting, domain recency, calibrated logit scoring)
+    ├── 5. Risk Assessment Node (Two-axis risk scoring & hard medication cessation override check)
+    ├── 6. Human Review Node (Conditional interrupt checkpoint if low confidence or critical harm)
+    └── 7. Generate Response Node (Bounded LLM explanation synthesis constrained to top reranked citations)
+    │
+    ▼
+FastAPI Response JSON (Verdict, Calibrated Confidence, Citations, Trace ID)
+```
+
 ## Architecture
 
 ```
