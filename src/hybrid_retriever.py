@@ -36,9 +36,9 @@ class MultiLaneQueryGenerator:
 class HybridRetriever:
     """Combines BM25 lexical search with FAISS dense vector search using Reciprocal Rank Fusion."""
 
-    def __init__(self, passages: List[str], dense_retriever_fn, k: int = 60):
+    def __init__(self, passages: List[str], dense_retriever_fn=None, k: int = 60):
         self.passages = passages
-        self.dense_retriever_fn = dense_retriever_fn
+        self.dense_retriever_fn = dense_retriever_fn or (lambda q, top_k=10: [])
         self.k = k
 
         # Tokenize passages for BM25

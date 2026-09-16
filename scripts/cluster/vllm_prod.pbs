@@ -1,0 +1,44 @@
+#!/bin/bash
+# Production PBS job: starts the OpenAI-compatible vLLM server that backs
+# TruthCheck's ConfiguredLLMVerifier (see src/llm_fallback.py, config.py).
+#
+# Usage:
+#   qsub scripts/cluster/vllm_prod.pbs
+#
+# Requirements:
+#   - The conda environment at ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
+#     must already exist. Create/repair it with:
+#       bash scripts/cluster/setup_vllm_env.sh
+#   - PBS allows exactly one job per user; kill any previous run first with
+#     `qdel <job-id>` (see docs/LOCAL_LLM_DEPLOYMENT.md for the full
+#     operational runbook, including how to check status and restart).
+#
+# Walltime is capped at 48h by the cluster's queue policy -- PBS will kill
+# this job automatically after that and it must be resubmitted.
+#PBS -N TRUTHCHECK-VLLM-PROD
+#PBS -l select=1:ncpus=8
+#PBS -l walltime=48:00:00
+#PBS -q Gpu1-10g
+#PBS -e /storage/home/bagler/vllm_prod.err
+#PBS -o /storage/home/bagler/vllm_prod.out
+
+# Gpu1-10g's MIG slice UUID, per IT's cluster documentation. Do not change
+# this without also changing #PBS -q to the matching queue (see
+# docs/LOCAL_LLM_DEPLOYMENT.md for the full queue -> UUID mapping).
+export CUDA_VISIBLE_DEVICES=MIG-f3d88dc3-260f-516c-9565-e895709806c8
+
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
+
+echo "VLLM PROD server starting: $(date)"
+echo "Host: $(hostname -f)"
+
+python -m vllm.entrypoints.openai.api_server \
+  --model Qwen/Qwen2.5-7B-Instruct-AWQ \
+  --served-model-name qwen2.5-7b-awq \
+  --host 0.0.0.0 \
+  --port 8000 \
+  --tensor-parallel-size 1 \
+  --gpu-memory-utilization 0.85 \
+  --max-model-len 8192 \
+  --quantization awq

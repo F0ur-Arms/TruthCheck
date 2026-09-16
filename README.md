@@ -27,6 +27,18 @@ It supports **text, image, and voice inputs** and provides end-to-end analysis i
 
 ---
 
+## Local Reasoning LLM
+
+Claim understanding, decomposition, query generation, and synthesis are
+backed by a self-hosted Qwen2.5-7B-Instruct-AWQ model served via vLLM on the
+IIITD CB GPU cluster (separate from the embedding/NLI/reranker models
+above). See [`docs/LOCAL_LLM_DEPLOYMENT.md`](docs/LOCAL_LLM_DEPLOYMENT.md)
+for how to start it, connect to it, and the environment setup required to
+reproduce it -- and [`.env.example`](.env.example) for the variables
+`ConfiguredLLMVerifier` (`src/llm_fallback.py`) reads.
+
+---
+
 ## 🧱 Project Structure
 
 ```

@@ -121,7 +121,7 @@ class EvidenceQualityScorer:
 
         return ClaimEvidenceSummary(
             best_tier=best,
-            tier_diversity=list(set(tiers)),
+            tier_diversity=[str(t) for t in set(tiers)],
             agreement_ratio=round(agreement, 4),
             contradiction_count=refutes,
             support_count=supports,
