@@ -3,7 +3,7 @@ import unittest
 from src.linguistic_scorer import LinguisticScorer
 from src.preprocessor import HinglishMapper
 from src.risk_engine import RiskEngine
-from src.verifier import normalize_verdict
+from src.verification.normalization import normalize_verdict
 
 
 class PipelineScoringTests(unittest.TestCase):

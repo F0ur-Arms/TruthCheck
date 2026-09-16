@@ -1,0 +1,11 @@
+The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.
+0it [00:00, ?it/s]0it [00:00, ?it/s]
+Traceback (most recent call last):
+  File "C:\Users\downb\OneDrive\Desktop\TruthCheck\main.py", line 232, in <module>
+    init_log()
+  File "C:\Users\downb\OneDrive\Desktop\TruthCheck\main.py", line 23, in init_log
+    os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 225, in makedirs
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\Shivam Kumar'

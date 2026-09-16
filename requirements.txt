@@ -1,0 +1,22 @@
+# Runtime dependencies for the current TruthCheck pipeline (Python 3.11).
+# Experimental BERT, OCR, ASR, and scraping dependencies intentionally remain
+# outside this manifest until those paths are migrated into the live pipeline.
+click==8.1.8
+en-core-web-sm==3.8.0
+faiss-cpu==1.9.0.post1
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.3
+pydantic>=2,<3
+requests==2.32.3
+pytest==8.3.5
+rank_bm25==0.2.2
+scikit-learn==1.8.0
+sentence-transformers==3.4.1
+spacy==3.8.4
+torch==2.6.0
+# Shared by the pipeline and the standalone multilingual layer.  IndicTrans2's
+# remote configuration requires the Transformers 4.x APIs removed in 5.x.
+transformers>=4.51,<5
+sentencepiece>=0.2.0
+protobuf>=4.25,<6

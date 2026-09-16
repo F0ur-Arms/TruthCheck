@@ -1,12 +1,13 @@
 import json
 import requests
 from tqdm import tqdm
+from config import FACT_LABEL_SUGGESTIONS, UNREVIEWED_FACTS_INPUT
 
 # -------------------------------
 # PATHS
 # -------------------------------
-INPUT_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\data\verified_factsv2.json"
-OUTPUT_PATH = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\data\verified_facts_labelcorrect.json"
+INPUT_PATH = str(UNREVIEWED_FACTS_INPUT)
+OUTPUT_PATH = str(FACT_LABEL_SUGGESTIONS)
 
 # -------------------------------
 # OLLAMA CONFIG (same as yours)

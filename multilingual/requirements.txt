@@ -1,0 +1,13 @@
+# Install in a separate virtual environment before enabling live translation.
+torch>=2.4
+# IndicTrans2's published remote configuration imports transformers.onnx,
+# which is present in the 4.x line and removed in Transformers 5.
+transformers>=4.51,<5
+sentencepiece>=0.2.0
+sentence-transformers>=3.4
+protobuf>=4.25,<6
+
+# Deliberately excluded: IndicTransToolkit requires a Cython extension and is
+# not built/tested for Windows; this package includes a pure-Python inference
+# compatibility processor. ai4bharat-transliteration also pulls legacy Fairseq
+# and fails on current Windows/Python builds.

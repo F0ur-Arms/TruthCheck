@@ -12,7 +12,7 @@ Run:
     python scrape_vishvasnews.py
 
 Output:
-    C:\\Users\\Shivam Kumar\\frenemy\\TruthCheck\\data\\medical_kb\\vishvas__*.txt
+    data/medical_kb/vishvas__*.txt
 """
 
 import os
@@ -22,12 +22,13 @@ import random
 import requests
 import trafilatura
 from bs4 import BeautifulSoup
+from config import KB_PATH
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
 
-OUTPUT_DIR = r"C:\Users\Shivam Kumar\frenemy\TruthCheck\data\medical_kb"
+OUTPUT_DIR = str(KB_PATH)
 MIN_WORDS  = 150
 DELAY_MIN  = 1.5
 DELAY_MAX  = 3.0

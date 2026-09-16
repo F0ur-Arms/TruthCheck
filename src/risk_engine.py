@@ -1,18 +1,15 @@
 import joblib
 import os
+from config import MODEL_PATH, VEC_PATH
 
 
 class RiskEngine:
-    def __init__(
-        self,
-        model_path="models/language/baseline_lr_model.pkl",
-        vec_path="models/language/tfidf_vectorizer.pkl",
-    ):
+    def __init__(self, model_path=MODEL_PATH, vec_path=VEC_PATH, enable_ml=False):
         self.BASE_FACT_WEIGHT = 0.60
-        self.BASE_ML_WEIGHT = 0.25
-        self.BASE_STYLE_WEIGHT = 0.15
+        self.BASE_ML_WEIGHT = 0.0
+        self.BASE_STYLE_WEIGHT = 0.40
 
-        if os.path.exists(model_path) and os.path.exists(vec_path):
+        if enable_ml and os.path.exists(model_path) and os.path.exists(vec_path):
             try:
                 self.ml_model = joblib.load(model_path)
                 self.vectorizer = joblib.load(vec_path)
@@ -22,7 +19,7 @@ class RiskEngine:
                 print(f"[RiskEngine] Warning: Failed to load ML model - {e}")
                 self.has_ml = False
         else:
-            print("[RiskEngine] Warning: ML model not found. Using heuristic-only mode.")
+            print("[RiskEngine] Domain-mismatched ML model disabled. Using fact + style signals only.")
             self.has_ml = False
 
         if not self.has_ml:

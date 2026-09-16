@@ -7,7 +7,7 @@ def run_full_test():
     # 1. Initialize Components
     print("Initializing Pipeline...")
     mapper = HinglishMapper()
-    nlp = spacy.load("en_core_sci_sm")
+    nlp = spacy.load("en_core_web_sm")
     nlp = build_lifestyle_ner(nlp) # Your Objective 1
     
     # 2. Test Cases (Hinglish + Medical + Habits)

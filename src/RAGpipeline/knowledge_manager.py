@@ -3,6 +3,7 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import json 
+from config import EMBEDDING_MODEL, FACTS_JSON, KB_PATH
 
 CACHE_FILE = "processed_cache.txt"   # tracks which files are already embedded
 INDEX_FILE = "kb_index.faiss"        # saved FAISS index on disk
@@ -10,28 +11,33 @@ PASSAGES_FILE = "kb_passages.txt"    # saved passages (one per line, pipe-separa
 
 
 class KnowledgeManager:
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
+    def __init__(self, model_name=EMBEDDING_MODEL):
         print(f"--- Loading Embedding Model: {model_name} ---")
-        self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer(model_name, local_files_only=True)
         self.index = None
         self.passages = []
+        self.passage_sources: list[str] = []
         self.facts_index = None
         self.facts_entries = []
         self.kb_loaded = False
         self.folder_path = None  # set during load_and_index
+        self.cache_key = "".join(c if c.isalnum() else "_" for c in model_name.lower()).strip("_")
 
     # ─────────────────────────────────────────────────────────────────────────
     # CACHE HELPERS
     # ─────────────────────────────────────────────────────────────────────────
 
     def _cache_path(self):
-        return os.path.join(self.folder_path, CACHE_FILE)
+        return os.path.join(self.folder_path, f"processed_cache.{self.cache_key}.txt")
 
     def _index_path(self):
-        return os.path.join(self.folder_path, INDEX_FILE)
+        return os.path.join(self.folder_path, f"kb_index.{self.cache_key}.faiss")
 
     def _passages_path(self):
-        return os.path.join(self.folder_path, PASSAGES_FILE)
+        return os.path.join(self.folder_path, f"kb_passages.{self.cache_key}.txt")
+
+    def _passage_sources_path(self):
+        return os.path.join(self.folder_path, f"kb_passage_sources.{self.cache_key}.txt")
 
     def _load_cache(self) -> set:
         """Returns set of filenames already processed."""
@@ -41,10 +47,11 @@ class KnowledgeManager:
         with open(path, "r", encoding="utf-8") as f:
             return set(line.strip() for line in f if line.strip())
 
-    def _append_to_cache(self, filename: str):
-        """Mark a file as processed."""
-        with open(self._cache_path(), "a", encoding="utf-8") as f:
-            f.write(filename + "\n")
+    def _write_cache(self, filenames: list[str]):
+        """Persist processed files only after their index batch is durable."""
+        with open(self._cache_path(), "w", encoding="utf-8") as f:
+            for filename in filenames:
+                f.write(filename + "\n")
 
     def _save_index(self):
         """Save FAISS index to disk."""
@@ -58,16 +65,33 @@ class KnowledgeManager:
         self.index = faiss.read_index(path)
         return True
 
-    def _save_passages(self, new_passages: list):
-        """Append new passages to the passages file."""
-        with open(self._passages_path(), "a", encoding="utf-8") as f:
+    def _save_passages(
+        self,
+        new_passages: list,
+        new_sources: list | None = None,
+        append: bool = True,
+    ):
+        """Save passages (and their parallel source filenames) to disk."""
+        mode = "a" if append else "w"
+        with open(self._passages_path(), mode, encoding="utf-8") as f:
             for p in new_passages:
-                # Store as single line — replace newlines with space
                 f.write(p.replace("\n", " ").strip() + "\n")
+        if new_sources:
+            with open(self._passage_sources_path(), mode, encoding="utf-8") as f:
+                for src in new_sources:
+                    f.write(src + "\n")
 
     def _load_passages(self) -> list:
         """Load all previously saved passages from disk."""
         path = self._passages_path()
+        if not os.path.exists(path):
+            return []
+        with open(path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip()]
+
+    def _load_passage_sources(self) -> list:
+        """Load source filename per passage (parallel to passages list)."""
+        path = self._passage_sources_path()
         if not os.path.exists(path):
             return []
         with open(path, "r", encoding="utf-8") as f:
@@ -89,7 +113,23 @@ class KnowledgeManager:
         # ── Step 1: Load existing index + passages from disk ─────────────────
         already_processed = self._load_cache()
         self.passages = self._load_passages()
+        self.passage_sources = self._load_passage_sources()
         index_loaded = self._load_index()
+
+        # Source provenance is required by Phase 5.  A legacy or interrupted
+        # cache cannot safely be resumed, because its index rows no longer have
+        # a trustworthy filename mapping.  Rebuild it as one consistent batch.
+        rebuild_for_sources = bool(
+            self.passages
+            and len(self.passage_sources) != len(self.passages)
+        )
+        if rebuild_for_sources:
+            print("⚠️  Rebuilding KB index: source sidecar is missing or incomplete")
+            already_processed = set()
+            self.passages = []
+            self.passage_sources = []
+            self.index = None
+            index_loaded = False
 
         if index_loaded and self.passages:
             print(f"✅ Loaded existing FAISS index ({self.index.ntotal} vectors)")
@@ -103,7 +143,12 @@ class KnowledgeManager:
         # ── Step 2: Find unprocessed .txt files ───────────────────────────────
         all_txt_files = [
             f for f in os.listdir(folder_path)
-            if f.endswith(".txt") and f not in (CACHE_FILE, PASSAGES_FILE)
+            if f.endswith(".txt")
+            and not f.startswith((
+                "processed_cache.",
+                "kb_passages.",
+                "kb_passage_sources.",
+            ))
         ]
 
         new_files = [f for f in all_txt_files if f not in already_processed]
@@ -120,6 +165,7 @@ class KnowledgeManager:
 
         # ── Step 3: Extract passages from new files ───────────────────────────
         new_passages = []
+        new_sources = []
 
         for filename in new_files:
             filepath = os.path.join(folder_path, filename)
@@ -141,9 +187,7 @@ class KnowledgeManager:
 
                 print(f"      ✅ {len(filtered)} passages extracted")
                 new_passages.extend(filtered)
-
-                # Mark file as processed in cache immediately
-                self._append_to_cache(filename)
+                new_sources.extend([filename] * len(filtered))
 
             except Exception as e:
                 print(f"      ❌ Error reading {filename}: {e}")
@@ -169,10 +213,16 @@ class KnowledgeManager:
 
         self.index.add(np.array(new_embeddings).astype('float32'))
         self.passages.extend(new_passages)
+        self.passage_sources.extend(new_sources)
 
         # ── Step 6: Save updated index + passages to disk ─────────────────────
         self._save_index()
-        self._save_passages(new_passages)
+        self._save_passages(
+            new_passages,
+            new_sources,
+            append=not rebuild_for_sources,
+        )
+        self._write_cache(sorted(already_processed.union(new_files)))
 
         print(f"\n✅ FAISS index saved  : {self._index_path()}")
         print(f"✅ Passages saved     : {self._passages_path()}")
@@ -186,13 +236,27 @@ class KnowledgeManager:
     # ─────────────────────────────────────────────────────────────────────────
 
     def retrieve_evidence(self, query_triple, top_k=2):
+        hits = self.dense_search(query_triple, top_k=top_k)
+        return [hit["passage"] for hit in hits]
+
+    def dense_search(self, query: str, top_k: int = 5) -> list[dict]:
+        """FAISS dense search returning passage index + text (no string round-trip)."""
         if self.index is None or not self.kb_loaded:
             return []
 
-        query_vector = self.model.encode([query_triple]).astype('float32')
+        query_vector = self.model.encode([query]).astype('float32')
         distances, indices = self.index.search(query_vector, top_k)
-        return [self.passages[i] for i in indices[0] if i < len(self.passages)]
-    def load_verified_facts(self, facts_path="data/verified_facts.json"):
+        hits = []
+        for i in indices[0]:
+            if i < len(self.passages):
+                hits.append({"index": int(i), "passage": self.passages[i]})
+        return hits
+
+    def source_for_index(self, passage_index: int) -> str:
+        if 0 <= passage_index < len(self.passage_sources):
+            return self.passage_sources[passage_index]
+        return ""
+    def load_verified_facts(self, facts_path=str(FACTS_JSON)):
         """
         Builds a separate FAISS index for verified_facts.json.
         Uses the same MiniLM model already loaded — no extra memory.
@@ -238,7 +302,7 @@ class KnowledgeManager:
 
 if __name__ == "__main__":
     km = KnowledgeManager()
-    km.load_and_index("TruthCheck/data/medical_kb/")
+    km.load_and_index(str(KB_PATH))
 
     if km.kb_loaded:
         test_queries = [
