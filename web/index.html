@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TruthCheck — Multilingual Health Misinformation Verification</title>
+<meta name="description" content="A medical evidence verification engine for Hinglish, Hindi and English health claims — hybrid retrieval, multilingual NLI, calibrated verdicts." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner">
+    <div class="brand" data-nav="home">
+      TruthCheck
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab-btn active" data-nav="home" role="tab" aria-selected="true" aria-controls="view-home">Home</button>
+      <button class="tab-btn" data-nav="chat" role="tab" aria-selected="false" aria-controls="view-chat">Chat</button>
+      <button class="tab-btn" data-nav="faq" role="tab" aria-selected="false" aria-controls="view-faq">FAQ</button>
+    </div>
+    <div class="nav-actions">
+      <button class="theme-toggle" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">
+        <svg id="themeIcon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 3V4.5M12 19.5V21M4.5 12H3M21 12H19.5M6 6L5 5M19 19L18 18M6 18L5 19M19 5L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="12" r="4.5" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+      <button class="btn btn-primary" data-nav="chat" style="padding:9px 16px;font-size:13.5px;">Try it</button>
+    </div>
+  </div>
+</nav>
+
+<!-- ============ HOME ============ -->
+<main class="view active" id="view-home">
+
+  <section class="hero">
+    <div class="container">
+      <h1>Health claims travel in Hinglish. <em>Verification</em> shouldn't lose them in translation.</h1>
+      <p class="lede">TruthCheck reads a claim the way it actually arrives — "protein kharab hai kidneys ke lie" — decomposes it, retrieves evidence from WHO, ICMR, PubMed and Indian fact-checkers, and returns a calibrated verdict with citations. Never a bare true/false. Never a fabricated source.</p>
+      <div class="hero-actions">
+        <button class="btn btn-primary" data-nav="chat">
+          Check a claim
+          <svg viewBox="0 0 24 24" fill="none" width="15" height="15"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="btn btn-secondary" data-nav="faq">Read the FAQ</button>
+      </div>
+    </div>
+    <div class="principles-bar">
+      <div class="container principles-bar-inner">
+        <span class="principle"><span class="principle-dot"></span>Original text stays the source of truth</span>
+        <span class="principle"><span class="principle-dot"></span>Hybrid BM25 + dense retrieval</span>
+        <span class="principle"><span class="principle-dot"></span>Calibrated confidence</span>
+        <span class="principle"><span class="principle-dot"></span>Harm scored on a separate axis</span>
+        <span class="principle"><span class="principle-dot"></span>"Insufficient evidence" is a valid answer</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="container">
+      <div class="block-head">
+        <h2>Most verifiers translate first, then forget what they lost.</h2>
+        <p>Health misinformation in India rarely arrives as a clean English sentence. It's a WhatsApp forward, a voice note, a screenshot — colloquial, code-mixed, hedged. Translate-then-discard destroys negation and nuance before a single fact is checked.</p>
+      </div>
+      <div class="split">
+        <div class="card">
+          <h3><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>What we don't do</h3>
+          <ul>
+            <li><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>Translate to English and discard the original</li>
+            <li><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>Ask an LLM for a confidence number and trust it</li>
+            <li><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>Look up one embedding match and call it evidence</li>
+            <li><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>Collapse "true for one group" into a universal verdict</li>
+            <li><span class="badge-x"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></span>Treat source popularity as evidence quality</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>What we do instead</h3>
+          <ul>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Keep the original Hinglish/Hindi/English as ground truth</li>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Compute confidence from measurable signals, calibrated</li>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Retrieve support, contradiction, guideline & population evidence</li>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Flag missing population/dosage qualifiers explicitly</li>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Score evidence by tier × recency × specificity × population fit</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="container">
+      <div class="block-head">
+        <h2>Nine stages from utterance to cited verdict.</h2>
+        <p>Deterministic code stays deterministic — retrieval, reranking, NLI and calibration are classifiers and formulas, not "ask the LLM." Only claim understanding, query planning and explanation get LLM reasoning.</p>
+      </div>
+      <div class="pipeline">
+        <div class="pipe-step">
+          <div class="pipe-num">01</div>
+          <div class="pipe-body">
+            <h3>Understand &amp; route</h3>
+            <p>Detect language, script and code-mix ratio. Route personal medical questions to a safety pathway — they never get a fact-check verdict.</p>
+            <span class="pipe-tag">language + script detection → routing gate</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">02</div>
+          <div class="pipe-body">
+            <h3>Decompose the claim</h3>
+            <p>A compound claim like "whey protein is bad for kidneys and causes failure" becomes independently verifiable sub-claims with subject, population, outcome, direction and certainty.</p>
+            <span class="pipe-tag">structured schema, not a translated sentence</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">03</div>
+          <div class="pipe-body">
+            <h3>Generate adversarial queries</h3>
+            <p>Every claim gets a support query, a contradiction query, a guideline query, and a population-specific query — never a single "does this exist" lookup.</p>
+            <span class="pipe-tag">support · contradiction · guideline · population · India-context</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">04</div>
+          <div class="pipe-body">
+            <h3>Hybrid retrieval</h3>
+            <p>BM25 for exact terminology, dense embeddings for paraphrase and cross-lingual match, run per query lane against WHO, ICMR-NIN, PubMed and Indian fact-check corpora.</p>
+            <span class="pipe-tag">BM25 + BGE-M3 dense, reciprocal-rank fused</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">05</div>
+          <div class="pipe-body">
+            <h3>Rerank &amp; score evidence quality</h3>
+            <p>A cross-encoder reranks the pooled results against the canonical claim. Each passage then gets a computed score — source tier, recency, specificity, population match — not a fixed whitelist.</p>
+            <span class="pipe-tag">BGE-Reranker-v2-M3</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">06</div>
+          <div class="pipe-body">
+            <h3>Multilingual entailment</h3>
+            <p>Each top passage is checked against the claim for support or contradiction — in the claim's own language, not an English-only model applied after lossy translation.</p>
+            <span class="pipe-tag">mDeBERTa-v3 multilingual NLI</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">07</div>
+          <div class="pipe-body">
+            <h3>Calibrate confidence, separately assess harm</h3>
+            <p>Confidence comes from a trained calibration model over retrieval quality, entailment agreement and population match. Harm is scored independently — a low-stakes claim and a "stop taking insulin" claim never share a priority just because both are uncertain.</p>
+            <span class="pipe-tag">two axes, never one blended score</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">08</div>
+          <div class="pipe-body">
+            <h3>Route to human review when it matters</h3>
+            <p>Low confidence, high harm, conflicting top-tier sources, or medication-cessation language — any of these pause the run for a human reviewer rather than guessing.</p>
+            <span class="pipe-tag">LangGraph interrupt + checkpoint</span>
+          </div>
+        </div>
+        <div class="pipe-step">
+          <div class="pipe-num">09</div>
+          <div class="pipe-body">
+            <h3>Explain, in the language it arrived in</h3>
+            <p>The response mirrors the input's code-mixing pattern and cites only passages actually retrieved in this run — nothing the model wasn't shown can be cited.</p>
+            <span class="pipe-tag">closed-citation-list constraint</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="verdict-taxonomy">
+    <div class="container">
+      <div class="block-head">
+        <h2>A taxonomy wide enough for a nuanced answer.</h2>
+        <p>Never a bare true/false. "Insufficient evidence" is a successful output, not a failure mode.</p>
+      </div>
+      <div class="verdict-grid">
+        <div class="verdict-card"><span class="verdict-label v-supported">SUPPORTED</span><p>Evidence directly and consistently backs the claim as stated.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-caveats">SUPPORTED_WITH_CAVEATS</span><p>True mechanism, but the claim omits a population or dosage qualifier that changes the practical answer.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-mixed">MIXED_EVIDENCE</span><p>Genuinely conflicting high-quality evidence, not just a missing qualifier.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-misleading">MISLEADING</span><p>Technically not false, but framed in a way that produces a wrong practical belief.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-false">FALSE</span><p>Directly contradicted by consistent, high-tier evidence.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-insufficient">INSUFFICIENT_EVIDENCE</span><p>Not enough high-quality evidence exists to determine this — stated plainly, not hidden.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-notverifiable">NOT_VERIFIABLE</span><p>The claim isn't structured in a way that admits a factual check.</p></div>
+        <div class="verdict-card"><span class="verdict-label v-notfactcheck">NOT_A_FACT_CHECK</span><p>A personal medical question, routed to the safety pathway instead of a verdict.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" style="border-bottom:none;">
+    <div class="container">
+      <div class="block-head">
+        <h2>Specialist models do the arbitration. The LLM does language.</h2>
+        <p>Fine-tuned compact models stay competitive with general LLMs on entailment and reranking, at a fraction of the cost and with far better calibration — so that's where they work.</p>
+      </div>
+      <div class="stack-grid">
+        <div class="stack-item"><div class="k">Orchestration</div><div class="v">LangGraph</div></div>
+        <div class="stack-item"><div class="k">Reasoning</div><div class="v">Claude Sonnet 5 / Opus 4.8</div></div>
+        <div class="stack-item"><div class="k">Embeddings</div><div class="v">BGE-M3</div></div>
+        <div class="stack-item"><div class="k">Reranker</div><div class="v">BGE-Reranker-v2-M3</div></div>
+        <div class="stack-item"><div class="k">NLI</div><div class="v">mDeBERTa-v3 multilingual</div></div>
+        <div class="stack-item"><div class="k">Translation gloss</div><div class="v">IndicTrans2 / Sarvam Mayura</div></div>
+        <div class="stack-item"><div class="k">Retrieval</div><div class="v">Hybrid BM25 + dense</div></div>
+        <div class="stack-item"><div class="k">Vector store</div><div class="v">pgvector → Qdrant</div></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ CHAT ============ -->
+<section class="view" id="view-chat">
+  <div class="chat-shell">
+    <div class="chat-header">
+      <h2>Check a claim</h2>
+      <div class="mode-select">
+        <button class="mode-btn" data-mode="fast">fast</button>
+        <button class="mode-btn active" data-mode="standard">standard</button>
+        <button class="mode-btn" data-mode="deep">deep</button>
+      </div>
+    </div>
+    <p class="chat-sub">Connected to the live TruthCheck engine · mode reflects retrieval depth, not response length</p>
+
+    <div class="disclaimer-strip">
+      <svg viewBox="0 0 24 24" fill="none"><path d="M12 9V13M12 17H12.01M10.29 3.86L1.82 18A2 2 0 003.54 21H20.46A2 2 0 0022.18 18L13.71 3.86A2 2 0 0010.29 3.86Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      <span><b style="color:var(--amber)">Early build.</b> The retrieval knowledge base is still a small development set, so expect INSUFFICIENT_EVIDENCE outside a few seeded claims. Never use this for real medical decisions; talk to a clinician.</span>
+    </div>
+
+    <div class="chat-log" id="chatLog" role="log" aria-live="polite" aria-relevant="additions"></div>
+
+    <div class="suggestion-row" id="suggestionRow">
+      <button class="suggestion-chip" data-q="protein kharab hai kidneys ke lie kya?">protein kharab hai kidneys ke lie kya?</button>
+      <button class="suggestion-chip" data-q="haldi wala doodh cancer cure kar sakta hai?">haldi wala doodh cancer cure kar sakta hai?</button>
+      <button class="suggestion-chip" data-q="raat ko mango khana bad hai?">raat ko mango khana bad hai?</button>
+      <button class="suggestion-chip" data-q="mujhe CKD hai, kya whey protein band kar dun?">mujhe CKD hai, kya whey protein band kar dun?</button>
+      <button class="suggestion-chip" data-q="vaccines cause autism, sach hai?">vaccines cause autism, sach hai?</button>
+    </div>
+
+    <form class="composer" id="composerForm">
+      <button type="button" class="attach-btn" disabled title="Image and voice input are on the roadmap — not available in this build yet" aria-label="Attach image or voice note (not yet available)">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M21.44 11.05l-9.19 9.19a5.5 5.5 0 01-7.78-7.78l9.19-9.19a3.5 3.5 0 014.95 4.95l-9.2 9.19a1.5 1.5 0 01-2.12-2.12l8.49-8.48" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <input type="text" id="composerInput" placeholder="Type a health claim in Hinglish, Hindi or English…" autocomplete="off" />
+      <button type="submit" id="composerSend" aria-label="Send">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </form>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="view" id="view-faq">
+  <div class="container" style="max-width:760px; padding-top:56px; padding-bottom:80px;">
+    <div class="block-head" style="margin-bottom:32px;">
+      <h2>About TruthCheck</h2>
+      <p>What it is, what it isn't, and why it's built the way it's built.</p>
+    </div>
+    <div class="faq-list" id="faqList">
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">What is TruthCheck, in one sentence?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">A medical evidence verification engine for health claims in Hinglish, Hindi and English — not a chatbot with search bolted on. It decomposes a claim, retrieves evidence from tiered medical sources, checks entailment with a multilingual model, and returns a calibrated verdict with citations and a separate harm assessment.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Why not just ask an LLM directly?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Because a confidence number an LLM reports about itself isn't calibrated — a stated 90% doesn't mean 90% empirical accuracy. TruthCheck computes confidence from measurable signals (retrieval quality, entailment agreement, population match) through a trained calibration model, and uses specialist NLI/reranking models for the actual entailment judgment. The LLM's job is language understanding, claim decomposition and explanation — not final truth arbitration.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Why does it keep the original Hinglish instead of translating first?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Translate-then-discard silently rewrites negation, hedging and sarcasm mid-sentence before any parsing happens — a "does X cause Y?" question can drift into an assertion. The original utterance is stored and reasoned about as the primary object throughout the pipeline. An English gloss exists only as a derived aid for retrieval queries and cross-lingual model input — it's regenerated, never edited in place, and never shown to the user as if it were the source claim.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">What counts as evidence it trusts?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Passages from WHO, ICMR-NIN, PubMed, government guidelines, and India-specific fact-check corpora (Vishvas News-style), each carrying a computed evidence-quality score — source tier × recency × specificity × population match — rather than a fixed whitelist or a popularity signal. Retrieval is hybrid (BM25 + dense) and adversarial: every claim gets a support query, a contradiction query, a guideline query, and a population-specific query.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Why does it sometimes say "insufficient evidence" instead of an answer?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Because it's a true and useful answer, not a fallback to hide. A system that fabricates confidence when the evidence is thin is more dangerous than one that says so plainly. INSUFFICIENT_EVIDENCE is a first-class verdict in the taxonomy, treated as a successful output.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Does it give personal medical advice?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">No. A routing gate runs right after claim understanding and separates fact-checkable claims ("does protein damage kidneys?") from personal medical questions ("I have CKD, should I stop taking whey protein?"). The second class is routed to a safety pathway that never produces a diagnosis or personalized recommendation — it gives general, evidence-backed information with explicit guidance to consult a clinician, and is logged separately from fact-check volume.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">How does it handle a claim that's "true, but only for some people"?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">This is the "missing population qualifier" pattern — e.g. "protein damages kidneys" is false for a healthy adult but conditionally true for someone with pre-existing kidney disease. When evidence splits cleanly by population, the verdict is SUPPORTED_WITH_CAVEATS, and the explanation states the population split explicitly rather than collapsing to one universal verdict.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Can it fabricate a source?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">No, by construction. The response generator receives a closed list of retrieved-passage IDs for that specific request and can only cite from that list — it structurally cannot introduce a statistic, citation or organization name that wasn't in the evidence set actually retrieved and scored in that run's trace.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">How is "risk" different from "confidence"?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">They're two separate axes, never blended into one score. Confidence measures how sure the system is in its verdict. Harm measures what happens if the underlying claim is believed and acted on — medical actionability, severity, population vulnerability. "Eating mangoes at night is bad" and "stop taking your insulin, diabetes can be cured naturally" can have similar uncertainty but must never get the same priority, because one is inert trivia and the other can kill someone.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">Is a human ever in the loop?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Yes — routed automatically whenever confidence is low, harm is high, top-tier sources disagree in direction, the claim is novel, or medication/treatment-cessation language is detected (a hard override regardless of computed confidence). This is a native LangGraph interrupt: the full state is persisted and a reviewer resumes the exact point in the graph rather than the whole pipeline re-running.</div></div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">What input types does it accept?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">The architecture is designed for text, images (e.g. WhatsApp/Instagram screenshots — OCR first, VLM fallback only on low-confidence or layout-heavy input) and audio (Indic-tuned ASR with a language hint and per-segment confidence), all feeding the same claim-understanding stage once transcribed. This build's chat interface currently accepts text only; image and voice capture are on the roadmap.</div></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="foot-brand">TruthCheck</div>
+    <div class="foot-links">
+      <span>Architecture v2</span>
+      <span>Hinglish-first</span>
+      <span>Evidence-traceable</span>
+    </div>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

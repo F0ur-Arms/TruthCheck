@@ -3,8 +3,10 @@
 from __future__ import annotations
 
 import uuid
+from pathlib import Path
 from typing import Dict, Any, Optional, List
 from fastapi import FastAPI, HTTPException
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from graph.workflow import graph_app
@@ -107,3 +109,12 @@ def submit_review_decision(request_id: str, decision: ReviewDecisionRequest):
     if not item:
         raise HTTPException(status_code=404, detail="Review request ID not found.")
     return {"status": "success", "updated_item": item}
+
+
+# Serve the static web UI (index.html, styles.css, app.js) from the same
+# origin as the API, so the browser client can call /api/v1/... with a
+# relative path and no CORS configuration is needed. Mounted last so it
+# never shadows an explicit API route above.
+_web_dir = Path(__file__).resolve().parent.parent.parent / "web"
+if _web_dir.is_dir():
+    app.mount("/", StaticFiles(directory=_web_dir, html=True), name="web")
