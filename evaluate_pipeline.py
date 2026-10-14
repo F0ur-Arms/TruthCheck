@@ -10,6 +10,7 @@ from src.lifestyle_ner import build_lifestyle_ner
 from src.preprocessor import HinglishMapper
 from src.refine_extractor import extract_triples
 from src.risk_engine import RiskEngine
+from src.binary_scoring import score_with_abstain
 
 
 def try_load_full_pipeline():
@@ -120,7 +121,9 @@ def evaluate_claims(df, sample_size=None):
     }
 
     if pipeline_preds:
-        results["metrics"].append(compute_metrics(y_true, pipeline_preds, "Full pipeline final prediction"))
+        results["abstain_scores"] = {k: round(v, 4) for k, v in score_with_abstain(y_true, pipeline_preds).items()}
+        strict_preds = [1 - t if p is None else p for t, p in zip(y_true, pipeline_preds)]
+        results["metrics"].append(compute_metrics(y_true, strict_preds, "Full pipeline final prediction (abstain counted as wrong)"))
 
     if heuristic_preds:
         results["metrics"].append(compute_metrics(y_true, heuristic_preds, "Heuristic fallback final prediction"))

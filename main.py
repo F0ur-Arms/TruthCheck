@@ -35,6 +35,7 @@ from src.source_tier import tier_from_filename, tier_from_passage_text
 from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
 from multilingual.processor import MultilingualProcessor, MultilingualProcessorConfig
 from src.refine_extractor import extract_triples
+from src.binary_scoring import score_with_abstain
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
 LOG_PATH = str(LOG_PATH)
@@ -69,7 +70,7 @@ def debug_log(msg=""):
 
 # Calibrated verdict taxonomy → binary eval mapping
 _FAKE_VERDICTS = frozenset({"FALSE", "MISLEADING", "MOSTLY_FALSE"})
-_REAL_VERDICTS = frozenset({"SUPPORTED", "MOSTLY_SUPPORTED"})
+_REAL_VERDICTS = frozenset({"SUPPORTED", "SUPPORTED_WITH_CAVEATS", "MOSTLY_SUPPORTED"})
 
 # ─────────────────────────────────────────────────────────────────────────────
 # PIPELINE
@@ -401,13 +402,18 @@ class TruthCheckPipeline:
 # ─────────────────────────────────────────────────────────────────────────────
 # BINARY PREDICTION
 # ─────────────────────────────────────────────────────────────────────────────
-def get_binary_prediction(reports, risk_threshold=0.5):
+def get_binary_prediction(reports, risk_threshold=None):
     """
     0 = Real/Safe
     1 = Fake/Misinformation
+    None = abstain (error, or a verdict with no binary meaning such as
+    INSUFFICIENT_EVIDENCE / MIXED_EVIDENCE / NOT_A_FACT_CHECK).
+
+    Pass risk_threshold to restore the legacy behaviour of deciding abstentions
+    from the old risk score; the default reports them honestly instead.
     """
     if not reports or "error" in reports[0]:
-        return 1
+        return None
 
     for r in reports:
         verdict = r.get("verdict", "")
@@ -416,6 +422,8 @@ def get_binary_prediction(reports, risk_threshold=0.5):
         if verdict in _REAL_VERDICTS or verdict == "TRUE":
             return 0
 
+    if risk_threshold is None:
+        return None
     max_risk = max(r.get("legacy_risk_score", r.get("risk_score", 0)) for r in reports)
     return 1 if max_risk > risk_threshold else 0
 
@@ -447,6 +455,7 @@ if __name__ == "__main__":
 
         y_true = df["label"].astype(int).tolist()
         y_pred = []
+        unparseable = 0
         mode_counts = {"fast": 0, "standard": 0, "deep": 0}
         mode_latencies = {"fast": [], "standard": [], "deep": []}
         mode_correct = {"fast": 0, "standard": 0, "deep": 0}
@@ -460,6 +469,8 @@ if __name__ == "__main__":
             reports = pipeline.analyze_query(claim_text, row_index=i + 1, true_label=true_label)
             prediction = get_binary_prediction(reports)
             y_pred.append(prediction)
+            if not reports or "error" in reports[0]:
+                unparseable += 1
 
             claim_mode = reports[0].get("operating_mode", "standard") if reports else "standard"
             claim_latency = sum(r.get("latency_sec", 0) for r in reports if "error" not in r)
@@ -476,10 +487,15 @@ if __name__ == "__main__":
             if (i + 1) % 50 == 0:
                 print(f"  Processed {i + 1}/{len(df)}...")
 
-        acc = accuracy_score(y_true, y_pred)
-        prec = precision_score(y_true, y_pred, average="weighted", zero_division=0)
-        rec = recall_score(y_true, y_pred, average="weighted", zero_division=0)
-        f1 = f1_score(y_true, y_pred, average="weighted", zero_division=0)
+        scores = score_with_abstain(y_true, y_pred)
+        answered = [(t, p) for t, p in zip(y_true, y_pred) if p is not None]
+        answered_report = (
+            classification_report(
+                [t for t, _ in answered], [p for _, p in answered],
+                labels=[0, 1], target_names=["Real (0)", "Fake (1)"], zero_division=0,
+            )
+            if answered else "  (no answered claims)"
+        )
 
         total_claims = len(df)
         mode_split_lines = []
@@ -498,19 +514,21 @@ if __name__ == "__main__":
             f"\n{'=' * 60}\n"
             f"  EVALUATION RESULTS\n"
             f"{'=' * 60}\n"
-            f"  Accuracy  : {acc:.4f}\n"
-            f"  Precision : {prec:.4f}\n"
-            f"  Recall    : {rec:.4f}\n"
-            f"  F1 Score  : {f1:.4f}\n"
+            f"  Claims            : {scores['n']}\n"
+            f"  Abstained         : {scores['abstained']} (coverage {scores['coverage']:.4f})\n"
+            f"  Strict accuracy   : {scores['strict_accuracy']:.4f}  (abstain = wrong)\n"
+            f"  Strict F1         : {scores['strict_f1_weighted']:.4f}\n"
+            f"  Answered accuracy : {scores.get('answered_accuracy', float('nan')):.4f}  (answered claims only)\n"
+            f"  Answered F1       : {scores.get('answered_f1_weighted', float('nan')):.4f}\n"
             f"\n  Mode traffic split & per-mode metrics:\n"
             + "\n".join(mode_split_lines)
-            + f"\n\n{classification_report(y_true, y_pred, target_names=['Real (0)', 'Fake (1)'])}\n"
-            f"  Unparseable claims (error fallback): {x}\n"
+            + f"\n\n{answered_report}\n"
+            f"  Unparseable claims (error fallback): {unparseable}\n"
         )
         print(metrics_str)
         log(metrics_str)
 
     print("=" * 60)
-    print(f"  DONE | Unparseable: {x} | Main Log: {LOG_PATH}")
+    print(f"  DONE | Unparseable: {unparseable} | Main Log: {LOG_PATH}")
     print(f"  DEBUG LOG SAVED TO: {DEBUG_LOG_PATH}")
     print("=" * 60)

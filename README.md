@@ -88,4 +88,4 @@ python main.py
 - Stubbed or not yet wired in the LangGraph path: NLI in `graph/nodes.py` (hardcoded), dense retrieval over the full KB, two-axis risk, human-review interrupt, persistent storage.
 - Not started: Postgres/pgvector, trained calibrator, reviewed multilingual golden set, OCR/ASR integration.
 - Baseline (legacy pipeline, `evaluation/baselines/phase0/`): accuracy 0.6831, F1 0.6709 on 2,799 claims, run without the LLM connected.
-- The numbers produced by `evaluation/generate_evaluation_report.py` defaults and `run_validation_audit.py` are placeholders / smoke checks, not results.
+- `evaluation/smoke_audit.py` (formerly `run_validation_audit.py`) is a smoke check only, not an evaluation. `evaluation/generate_evaluation_report.py` now refuses to run without measured metrics.
