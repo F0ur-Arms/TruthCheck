@@ -1,0 +1,39 @@
+#!/bin/bash
+# Phase-0 baseline on the cluster: runs main.py in N parallel shards on a 40GB
+# MIG slice, calling the vLLM server (job TRUTHCHECK-VLLM-PROD) for Tier 2.
+# Submit from the master node:  qsub scripts/cluster/eval_baseline.pbs
+# Queue limits are per queue, so this runs alongside the Gpu1-10g vLLM job.
+#PBS -N TRUTHCHECK-EVAL
+#PBS -l select=1:ncpus=10
+#PBS -l walltime=12:00:00
+#PBS -q Gpu4-40g
+#PBS -o /storage/home/bagler/tc_eval.out
+#PBS -e /storage/home/bagler/tc_eval.err
+
+export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef
+export HF_HOME=$HOME/FoodFactCheck/hf_cache
+export HF_HUB_OFFLINE=1
+export TOKENIZERS_PARALLELISM=false
+export PYTHONUNBUFFERED=1
+export TRUTHCHECK_LLM_BASE_URL=http://cb-gpu-server:8000/v1
+export TRUTHCHECK_LLM_API_KEY=none
+export TRUTHCHECK_LLM_MODEL=qwen2.5-7b-awq
+export TRUTHCHECK_LLM_TIMEOUT_SECONDS=60
+N=4
+
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate ~/FoodFactCheck/.conda/truthcheck-eval
+cd ~/FoodFactCheck/TruthCheck_eval
+OUT=evaluation/baselines/phase0_vllm
+mkdir -p $OUT
+
+echo "EVAL start $(date) host=$(hostname)"
+python -c "import torch;print('cuda', torch.cuda.is_available())"
+curl -s -m 10 $TRUTHCHECK_LLM_BASE_URL/models | head -c 120; echo
+
+for i in $(seq 0 $((N-1))); do
+  python main.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
+done
+wait
+python evaluation/merge_shards.py $OUT | tee $OUT/merged_summary.txt
+echo "EVAL done $(date)"

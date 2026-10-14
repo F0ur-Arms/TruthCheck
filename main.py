@@ -432,6 +432,17 @@ def get_binary_prediction(reports, risk_threshold=None):
 # MAIN
 # ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
+    import argparse
+    import json as _json
+
+    _ap = argparse.ArgumentParser()
+    _ap.add_argument("--shard", default="0/1", help="i/n: evaluate every n-th claim starting at i")
+    _ap.add_argument("--out", default=None, help="write per-claim predictions to this JSON file")
+    _args = _ap.parse_args()
+    _shard_i, _shard_n = (int(x) for x in _args.shard.split("/"))
+    if _shard_n > 1:
+        LOG_PATH = f"{LOG_PATH}.shard{_shard_i}"
+        DEBUG_LOG_PATH = f"{DEBUG_LOG_PATH}.shard{_shard_i}"
 
     init_log()
     init_debug_log()
@@ -450,11 +461,14 @@ if __name__ == "__main__":
     else:
         df = pd.read_csv(test_data_path)
         df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+        if _shard_n > 1:
+            df = df.iloc[_shard_i::_shard_n]
         print(f"[Dataset] Loaded {len(df)} claims for testing.")
         log(f"Dataset: {test_data_path} | Rows: {len(df)}\n")
 
         y_true = df["label"].astype(int).tolist()
         y_pred = []
+        records = []
         unparseable = 0
         mode_counts = {"fast": 0, "standard": 0, "deep": 0}
         mode_latencies = {"fast": [], "standard": [], "deep": []}
@@ -469,6 +483,8 @@ if __name__ == "__main__":
             reports = pipeline.analyze_query(claim_text, row_index=i + 1, true_label=true_label)
             prediction = get_binary_prediction(reports)
             y_pred.append(prediction)
+            records.append({"idx": int(i), "true": true_label, "pred": prediction,
+                            "verdict": reports[0].get("verdict") if reports else None})
             if not reports or "error" in reports[0]:
                 unparseable += 1
 
@@ -484,9 +500,15 @@ if __name__ == "__main__":
             log(f"  [RESULT] mode={claim_mode} Predicted={prediction} | True={true_label} {correct}")
             log("")
 
-            if (i + 1) % 50 == 0:
-                print(f"  Processed {i + 1}/{len(df)}...")
+            if len(records) % 25 == 0:
+                print(f"  Processed {len(records)}/{len(df)}...", flush=True)
+                if _args.out:
+                    with open(_args.out, "w", encoding="utf-8") as _f:
+                        _json.dump(records, _f)
 
+        if _args.out:
+            with open(_args.out, "w", encoding="utf-8") as _f:
+                _json.dump(records, _f)
         scores = score_with_abstain(y_true, y_pred)
         answered = [(t, p) for t, p in zip(y_true, y_pred) if p is not None]
         answered_report = (
