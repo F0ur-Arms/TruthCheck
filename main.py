@@ -401,8 +401,6 @@ class TruthCheckPipeline:
 # ─────────────────────────────────────────────────────────────────────────────
 # BINARY PREDICTION
 # ─────────────────────────────────────────────────────────────────────────────
-x = 0
-
 def get_binary_prediction(reports, risk_threshold=0.5):
     """
     0 = Real/Safe

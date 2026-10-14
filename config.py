@@ -35,7 +35,3 @@ FACT_LABEL_SUGGESTIONS = DATA_DIR / "verified_facts_label_suggestions.json"
 # Risk Engine Weights
 WEIGHT_FACT  = 0.7
 WEIGHT_STYLE = 0.3
-
-# Translation Settings
-SOURCE_LANG = "hi"
-TARGET_LANG = "en"
