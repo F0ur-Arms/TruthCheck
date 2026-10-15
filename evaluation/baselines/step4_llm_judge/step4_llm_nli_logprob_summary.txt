@@ -1,0 +1,14 @@
+rows: 2259  accuracy: 0.5879  errors: 0
+gold \ pred  SUPPORTS   REFUTES       NEI
+   SUPPORTS       529        60       161
+    REFUTES       210       531       265
+        NEI       189        46       268
+  ai4bharat_dataset      n=1380  acc=0.541
+  covidfact_dataset      n=250   acc=0.648
+  healthver_dataset      n=250   acc=0.532
+  pubhealth_dataset      n=212   acc=0.788
+  scifact_dataset        n=167   acc=0.719
+  conf 0.0-0.5: n=12    acc=0.167
+  conf 0.5-0.7: n=122   acc=0.344
+  conf 0.7-0.9: n=217   acc=0.410
+  conf 0.9-1.0: n=1908  acc=0.626

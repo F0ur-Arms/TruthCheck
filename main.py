@@ -35,6 +35,8 @@ from src.source_tier import tier_from_filename, tier_from_passage_text
 from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
 from multilingual.processor import MultilingualProcessor, MultilingualProcessorConfig
 from src.refine_extractor import extract_triples
+from src.binary_scoring import get_binary_prediction, score_with_abstain
+from src.evidence_engine import EvidenceEngine
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
 LOG_PATH = str(LOG_PATH)
@@ -68,8 +70,6 @@ def debug_log(msg=""):
         f.write(msg + "\n")
 
 # Calibrated verdict taxonomy → binary eval mapping
-_FAKE_VERDICTS = frozenset({"FALSE", "MISLEADING", "MOSTLY_FALSE"})
-_REAL_VERDICTS = frozenset({"SUPPORTED", "MOSTLY_SUPPORTED"})
 
 # ─────────────────────────────────────────────────────────────────────────────
 # PIPELINE
@@ -105,6 +105,10 @@ class TruthCheckPipeline:
         )
         self.evidence_scorer = EvidenceQualityScorer()
         self.calibrator = ConfidenceCalibrator()
+        self.evidence_engine = EvidenceEngine(
+            self.kb_manager, self.hybrid_retriever, self.reranker, self.nli_judge,
+            self.evidence_scorer, self.query_generator,
+        )
 
         # ── Step 3: spaCy & Claims Processor ─────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
@@ -190,64 +194,24 @@ class TruthCheckPipeline:
         top_per_lane,
         log_prefix="",
     ):
-        lanes = self.query_generator.generate_query_lanes(
+        result = self.evidence_engine.gather(
             sub_claim.canonical_claim,
             subject=sub_claim.subject,
             outcome=sub_claim.outcome,
+            population=sub_claim.population,
+            top_per_lane=top_per_lane,
         )
-        log(f"  {log_prefix}[HYBRID] Query lanes: {list(lanes.keys())}")
-        for lane_name, lane_query in lanes.items():
+        log(f"  {log_prefix}[HYBRID] Query lanes: {list(result.lanes.keys())}")
+        for lane_name, lane_query in result.lanes.items():
             log(f"  {log_prefix}[HYBRID]   lane={lane_name}: {lane_query[:120]}")
-
-        candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
-        reranked = self.reranker.rerank(
-            sub_claim.canonical_claim,
-            candidates,
-            top_k=min(top_per_lane, len(candidates) or top_per_lane),
-        )
-
-        scored_passages = []
-        nli_support_probs = []
-        for rank, item in enumerate(reranked, 1):
-            passage = item["passage"]
-            passage_index = item.get("passage_index")
-            nli_result = self.nli_judge.verify(sub_claim.canonical_claim, passage)
-            source_file = (
-                self.kb_manager.source_for_index(passage_index)
-                if passage_index is not None
-                else ""
-            )
-            source_tier = tier_from_filename(source_file)
-            if source_tier == "journalism" and not source_file:
-                source_tier = tier_from_passage_text(passage)
-
-            pq = self.evidence_scorer.score_passage(
-                passage,
-                claim_subject=sub_claim.subject,
-                claim_outcome=sub_claim.outcome,
-                target_population=sub_claim.population,
-            )
-            scored_passages.append({
-                "passage": passage,
-                "passage_index": passage_index,
-                "source_tier": source_tier,
-                "source_file": source_file,
-                "nli_verdict": nli_result["verdict"],
-                "quality_score": pq.overall_quality_score,
-                "supports_probability": nli_result["supports_probability"],
-                "refutes_probability": nli_result["refutes_probability"],
-                "rerank_score": item.get("rerank_score"),
-            })
-            nli_support_probs.append(nli_result["supports_probability"])
+        for rank, sp in enumerate(result.scored_passages, 1):
             log(
-                f"  {log_prefix}[HYBRID]   rerank#{rank} idx={passage_index} "
-                f"tier={source_tier} nli={nli_result['verdict']} "
-                f"sup_p={nli_result['supports_probability']:.3f} "
-                f"passage={passage[:100]}"
+                f"  {log_prefix}[HYBRID]   rerank#{rank} idx={sp['passage_index']} "
+                f"tier={sp['source_tier']} nli={sp['nli_verdict']} "
+                f"sup_p={sp['supports_probability']:.3f} "
+                f"passage={sp['passage'][:100]}"
             )
-
-        evidence_summary = self.evidence_scorer.summarize_evidence(scored_passages)
-        return evidence_summary, scored_passages, nli_support_probs, lanes
+        return result.summary, result.scored_passages, result.nli_support_probs, result.lanes
 
     def analyze_query(self, raw_text, row_index=None, true_label=None):
         t0 = time.perf_counter()
@@ -401,31 +365,21 @@ class TruthCheckPipeline:
 # ─────────────────────────────────────────────────────────────────────────────
 # BINARY PREDICTION
 # ─────────────────────────────────────────────────────────────────────────────
-x = 0
-
-def get_binary_prediction(reports, risk_threshold=0.5):
-    """
-    0 = Real/Safe
-    1 = Fake/Misinformation
-    """
-    if not reports or "error" in reports[0]:
-        return 1
-
-    for r in reports:
-        verdict = r.get("verdict", "")
-        if verdict in _FAKE_VERDICTS or verdict == "FALSE":
-            return 1
-        if verdict in _REAL_VERDICTS or verdict == "TRUE":
-            return 0
-
-    max_risk = max(r.get("legacy_risk_score", r.get("risk_score", 0)) for r in reports)
-    return 1 if max_risk > risk_threshold else 0
-
-
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
+    import argparse
+    import json as _json
+
+    _ap = argparse.ArgumentParser()
+    _ap.add_argument("--shard", default="0/1", help="i/n: evaluate every n-th claim starting at i")
+    _ap.add_argument("--out", default=None, help="write per-claim predictions to this JSON file")
+    _args = _ap.parse_args()
+    _shard_i, _shard_n = (int(x) for x in _args.shard.split("/"))
+    if _shard_n > 1:
+        LOG_PATH = f"{LOG_PATH}.shard{_shard_i}"
+        DEBUG_LOG_PATH = f"{DEBUG_LOG_PATH}.shard{_shard_i}"
 
     init_log()
     init_debug_log()
@@ -444,11 +398,15 @@ if __name__ == "__main__":
     else:
         df = pd.read_csv(test_data_path)
         df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+        if _shard_n > 1:
+            df = df.iloc[_shard_i::_shard_n]
         print(f"[Dataset] Loaded {len(df)} claims for testing.")
         log(f"Dataset: {test_data_path} | Rows: {len(df)}\n")
 
         y_true = df["label"].astype(int).tolist()
         y_pred = []
+        records = []
+        unparseable = 0
         mode_counts = {"fast": 0, "standard": 0, "deep": 0}
         mode_latencies = {"fast": [], "standard": [], "deep": []}
         mode_correct = {"fast": 0, "standard": 0, "deep": 0}
@@ -462,6 +420,10 @@ if __name__ == "__main__":
             reports = pipeline.analyze_query(claim_text, row_index=i + 1, true_label=true_label)
             prediction = get_binary_prediction(reports)
             y_pred.append(prediction)
+            records.append({"idx": int(i), "true": true_label, "pred": prediction,
+                            "verdict": reports[0].get("verdict") if reports else None})
+            if not reports or "error" in reports[0]:
+                unparseable += 1
 
             claim_mode = reports[0].get("operating_mode", "standard") if reports else "standard"
             claim_latency = sum(r.get("latency_sec", 0) for r in reports if "error" not in r)
@@ -475,13 +437,24 @@ if __name__ == "__main__":
             log(f"  [RESULT] mode={claim_mode} Predicted={prediction} | True={true_label} {correct}")
             log("")
 
-            if (i + 1) % 50 == 0:
-                print(f"  Processed {i + 1}/{len(df)}...")
+            if len(records) % 25 == 0:
+                print(f"  Processed {len(records)}/{len(df)}...", flush=True)
+                if _args.out:
+                    with open(_args.out, "w", encoding="utf-8") as _f:
+                        _json.dump(records, _f)
 
-        acc = accuracy_score(y_true, y_pred)
-        prec = precision_score(y_true, y_pred, average="weighted", zero_division=0)
-        rec = recall_score(y_true, y_pred, average="weighted", zero_division=0)
-        f1 = f1_score(y_true, y_pred, average="weighted", zero_division=0)
+        if _args.out:
+            with open(_args.out, "w", encoding="utf-8") as _f:
+                _json.dump(records, _f)
+        scores = score_with_abstain(y_true, y_pred)
+        answered = [(t, p) for t, p in zip(y_true, y_pred) if p is not None]
+        answered_report = (
+            classification_report(
+                [t for t, _ in answered], [p for _, p in answered],
+                labels=[0, 1], target_names=["Real (0)", "Fake (1)"], zero_division=0,
+            )
+            if answered else "  (no answered claims)"
+        )
 
         total_claims = len(df)
         mode_split_lines = []
@@ -500,19 +473,21 @@ if __name__ == "__main__":
             f"\n{'=' * 60}\n"
             f"  EVALUATION RESULTS\n"
             f"{'=' * 60}\n"
-            f"  Accuracy  : {acc:.4f}\n"
-            f"  Precision : {prec:.4f}\n"
-            f"  Recall    : {rec:.4f}\n"
-            f"  F1 Score  : {f1:.4f}\n"
+            f"  Claims            : {scores['n']}\n"
+            f"  Abstained         : {scores['abstained']} (coverage {scores['coverage']:.4f})\n"
+            f"  Strict accuracy   : {scores['strict_accuracy']:.4f}  (abstain = wrong)\n"
+            f"  Strict F1         : {scores['strict_f1_weighted']:.4f}\n"
+            f"  Answered accuracy : {scores.get('answered_accuracy', float('nan')):.4f}  (answered claims only)\n"
+            f"  Answered F1       : {scores.get('answered_f1_weighted', float('nan')):.4f}\n"
             f"\n  Mode traffic split & per-mode metrics:\n"
             + "\n".join(mode_split_lines)
-            + f"\n\n{classification_report(y_true, y_pred, target_names=['Real (0)', 'Fake (1)'])}\n"
-            f"  Unparseable claims (error fallback): {x}\n"
+            + f"\n\n{answered_report}\n"
+            f"  Unparseable claims (error fallback): {unparseable}\n"
         )
         print(metrics_str)
         log(metrics_str)
 
     print("=" * 60)
-    print(f"  DONE | Unparseable: {x} | Main Log: {LOG_PATH}")
+    print(f"  DONE | Unparseable: {unparseable} | Main Log: {LOG_PATH}")
     print(f"  DEBUG LOG SAVED TO: {DEBUG_LOG_PATH}")
     print("=" * 60)

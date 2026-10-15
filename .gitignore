@@ -1,6 +1,9 @@
-﻿.venv/
+.venv/
 .venv-multilingual/
 venvfood/
+venv311/
+tcvenv/
+.env
 __pycache__/
 *.pyc
 *.pyo
@@ -11,3 +14,9 @@ dist/
 build/
 .pytest_cache/
 .DS_Store
+
+# runtime logs / scratch
+logs.txt
+src/loginput.txt
+data/checkpoints.sqlite*
+data/store.sqlite*

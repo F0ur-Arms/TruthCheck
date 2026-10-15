@@ -1,0 +1,4 @@
+commit: 7b10ce2 (plus uncommitted: main.py --shard/--out, evaluation/merge_shards.py, scripts/cluster/eval_baseline.pbs)
+llm: qwen2.5-7b-awq via vLLM 0.7.2, temperature 0, timeout 60s
+run: 4 shards on Gpu4-40g, job 16003, 2026-10-14
+claims: 2799 (shuffle seed 42)

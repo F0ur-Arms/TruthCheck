@@ -1,4 +1,11 @@
-"""Empirical Validation Audit Engine for TruthCheck v2.
+"""SMOKE AUDIT ONLY -- NOT AN EVALUATION. Do not cite its output as results.
+
+Known limits: the retrieval ablation has 3 cases with the gold passage taken from
+the KB, "dense-only" is a simulated slice, the safety audit checks the regexes
+against cases written for them (circular), and the OCR sweep is synthetic.
+Real evaluation needs the reviewed golden set (evaluation/golden_set/).
+
+Original description: validation checks across:
 
 Executes quantitative validation checks across:
 1. Retrieval Ablations (Dense-only, BM25-only, BM25+Dense RRF, Reranker).

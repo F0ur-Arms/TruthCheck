@@ -1,0 +1,22 @@
+--- Loading NLI Model: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli ---
+200/2259
+400/2259
+600/2259
+800/2259
+1000/2259
+1200/2259
+1400/2259
+1600/2259
+1800/2259
+2000/2259
+2200/2259
+rows: 2259  accuracy: 0.4037
+gold \ pred  SUPPORTS   REFUTES       NEI
+   SUPPORTS       292        45       413
+    REFUTES       185       278       543
+        NEI       149        12       342
+  ai4bharat_dataset      n=1380  acc=0.395
+  covidfact_dataset      n=250   acc=0.324
+  healthver_dataset      n=250   acc=0.452
+  pubhealth_dataset      n=212   acc=0.472
+  scifact_dataset        n=167   acc=0.437

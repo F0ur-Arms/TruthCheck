@@ -7,13 +7,34 @@ safety metrics, and latency deltas.
 
 from __future__ import annotations
 
-import os
-from typing import Dict, Any
+import argparse
+import json
+import re
+from typing import Any, Dict, Optional
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 PHASE0_BASELINE_FILE = ROOT / "evaluation" / "baselines" / "phase0" / "portable-baseline-utf8.stdout.log"
+
+
+REQUIRED_METRICS = ("accuracy", "f1_score")
+OPTIONAL_METRICS = ("brier_score", "ece", "dangerous_fn_rate", "leakage_rate", "latency_ms", "latency_p95_ms")
+
+
+def load_phase0_baseline(path: Path = PHASE0_BASELINE_FILE) -> Dict[str, float]:
+    text = Path(path).read_text(encoding="utf-8", errors="replace")
+    out = {}
+    for key, label in (("accuracy", "Accuracy"), ("f1", "F1 Score")):
+        m = re.search(rf"{label}\s*:\s*([0-9.]+)", text)
+        if not m:
+            raise ValueError(f"Could not find '{label}' in Phase 0 baseline log {path}")
+        out[key] = float(m.group(1))
+    return out
+
+
+def _fmt(value, spec=".4f", suffix=""):
+    return "not measured" if value is None else f"{format(value, spec)}{suffix}"
 
 
 def generate_section56_report(
@@ -22,22 +43,30 @@ def generate_section56_report(
     files_changed: list[str],
     behavior_desc: str,
     tests_summary: str,
-    accuracy: float = 0.88,
-    f1_score: float = 0.86,
-    brier_score: float = 0.08,
-    ece: float = 0.05,
-    dangerous_fn_rate: float = 0.0,
-    leakage_rate: float = 0.0,
-    latency_ms: float = 120.0,
-    limitations: str = "Multilingual token tagging (Phase 7) and Multimodal OCR/ASR pipelines (Phase 8) remain under active development by teammates.",
-    next_decision: str = "Proceed with Phase 7 token-level MuRIL code-mix tagging and IndicTrans2 / Sarvam Mayura gloss evaluation."
+    metrics: Dict[str, Any],
+    per_language_accuracy: Optional[Dict[str, float]] = None,
+    limitations: str = "None recorded.",
+    next_decision: str = "None recorded.",
 ) -> str:
-    # Phase 0 Baseline Constants (Sacred Invariants)
-    phase0_acc = 0.6831
-    phase0_f1 = 0.6709
+    """Render the report from measured metrics only.
 
-    acc_delta = accuracy - phase0_acc
-    f1_delta = f1_score - phase0_f1
+    Raises ValueError if required metrics are missing. Optional metrics that were
+    not measured are printed as "not measured" rather than defaulted.
+    """
+    missing = [k for k in REQUIRED_METRICS if metrics.get(k) is None]
+    if missing:
+        raise ValueError(f"Missing required metrics: {missing}. Run the evaluation first and pass its output.")
+
+    baseline = load_phase0_baseline()
+    accuracy = metrics["accuracy"]
+    f1_score = metrics["f1_score"]
+    m = {k: metrics.get(k) for k in OPTIONAL_METRICS}
+
+    lang_lines = (
+        "\n".join(f"- {lang}: {acc:.4f}" for lang, acc in per_language_accuracy.items())
+        if per_language_accuracy
+        else "- not measured (needs the multilingual golden set)"
+    )
 
     report = f"""# TruthCheck v2 — Section 56 Architecture Execution & Benchmark Report
 
@@ -59,26 +88,24 @@ def generate_section56_report(
 ## 6. RESULTS
 - Accuracy: {accuracy:.4f}
 - F1-Score: {f1_score:.4f}
-- Brier Score (Calibration): {brier_score:.4f}
-- ECE (Expected Calibration Error): {ece:.4f}
-- Average Latency: {latency_ms:.1f} ms
+- Brier Score (Calibration): {_fmt(m["brier_score"])}
+- ECE (Expected Calibration Error): {_fmt(m["ece"])}
+- Average Latency: {_fmt(m["latency_ms"], ".1f", " ms")}
 
 ## 7. BASELINE DELTA (vs Phase 0 Frozen Baseline)
-- Phase 0 Baseline Accuracy: {phase0_acc:.4f} -> Current: {accuracy:.4f} (Delta: {acc_delta:+.4f})
-- Phase 0 Baseline F1: {phase0_f1:.4f} -> Current: {f1_score:.4f} (Delta: {f1_delta:+.4f})
+- Accuracy: {baseline["accuracy"]:.4f} -> {accuracy:.4f} (Delta: {accuracy - baseline["accuracy"]:+.4f})
+- F1: {baseline["f1"]:.4f} -> {f1_score:.4f} (Delta: {f1_score - baseline["f1"]:+.4f})
 
 ## 8. MULTILINGUAL DELTA
-- English Accuracy: {accuracy + 0.04:.4f}
-- Devanagari Hindi Accuracy: {accuracy - 0.02:.4f}
-- Hinglish / Roman-Hindi Accuracy: {accuracy - 0.05:.4f}
+{lang_lines}
 
 ## 9. SAFETY DELTA
-- Dangerous False-Negative Rate: {dangerous_fn_rate:.2%}
-- Medical-Advice Leakage Rate: {leakage_rate:.2%}
-- Safety Override Recall: 100.0%
+- Dangerous False-Negative Rate: {_fmt(m["dangerous_fn_rate"], ".2%")}
+- Medical-Advice Leakage Rate: {_fmt(m["leakage_rate"], ".2%")}
 
 ## 10. LATENCY
-- Average Request Latency: {latency_ms:.1f} ms (p95: {latency_ms * 1.5:.1f} ms)
+- Average Request Latency: {_fmt(m["latency_ms"], ".1f", " ms")}
+- p95: {_fmt(m["latency_p95_ms"], ".1f", " ms")}
 
 ## 11. KNOWN LIMITATIONS
 {limitations}
@@ -86,28 +113,28 @@ def generate_section56_report(
 ## 12. NEXT DECISION
 {next_decision}
 """
-
     return report
 
 
 if __name__ == "__main__":
-    rep = generate_section56_report(
-        change_summary="Implemented Vector Store Abstraction, Multimodal Ingestion Contracts, Empirical Calibration Metrics, Stage-Isolated Retrieval Evaluation, Adversarial Safety Suite, and Failure Attribution Evaluator.",
-        architecture_why="Restores architectural compliance per Section 4 (Calibration), Section 4.2 (Vector Store Abstraction), Section 35 (Stage Evaluation), Section 37 (Safety Suite), and Section 40 (Failure Attribution).",
-        files_changed=[
-            "src/vector_store_interface.py",
-            "src/multimodal_contracts.py",
-            "src/calibration_eval.py",
-            "evaluation/eval_retrieval.py",
-            "evaluation/eval_failure_attribution.py",
-            "tests/test_vector_store.py",
-            "tests/test_multimodal_contracts.py",
-            "tests/test_calibration_eval.py",
-            "tests/test_eval_retrieval.py",
-            "tests/test_adversarial_safety.py",
-            "tests/test_failure_attribution.py"
-        ],
-        behavior_desc="Provides deterministic vector store decoupling for FAISS/pgvector, contract interfaces for teammate OCR/ASR pipelines, empirical Brier/ECE calibration evaluation, multi-lane retrieval evaluation, adversarial safety validation, and automated failure attribution.",
-        tests_summary="Passed 58/58 unit and integration tests across 16 test modules with 0 failures."
+    parser = argparse.ArgumentParser(description="Render the Section 56 report from a measured metrics JSON file.")
+    parser.add_argument("--metrics", required=True, help="JSON with accuracy, f1_score and optional brier_score, ece, ...")
+    parser.add_argument("--summary", required=True, help="Short description of the change")
+    parser.add_argument("--why", default="")
+    parser.add_argument("--files", nargs="*", default=[])
+    parser.add_argument("--behavior", default="")
+    parser.add_argument("--tests", default="")
+    args = parser.parse_args()
+
+    data = json.loads(Path(args.metrics).read_text(encoding="utf-8"))
+    print(
+        generate_section56_report(
+            change_summary=args.summary,
+            architecture_why=args.why,
+            files_changed=args.files,
+            behavior_desc=args.behavior,
+            tests_summary=args.tests,
+            metrics=data,
+            per_language_accuracy=data.get("per_language_accuracy"),
+        )
     )
-    print(rep)
