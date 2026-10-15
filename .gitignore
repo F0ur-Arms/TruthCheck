@@ -18,3 +18,5 @@ build/
 # runtime logs / scratch
 logs.txt
 src/loginput.txt
+data/checkpoints.sqlite*
+data/store.sqlite*

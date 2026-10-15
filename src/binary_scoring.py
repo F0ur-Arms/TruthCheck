@@ -7,6 +7,36 @@ from typing import Dict, List, Optional
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 
 
+_FAKE_VERDICTS = frozenset({"FALSE", "MISLEADING", "MOSTLY_FALSE"})
+_REAL_VERDICTS = frozenset({"SUPPORTED", "SUPPORTED_WITH_CAVEATS", "MOSTLY_SUPPORTED"})
+
+
+def get_binary_prediction(reports, risk_threshold=None):
+    """
+    0 = Real/Safe
+    1 = Fake/Misinformation
+    None = abstain (error, or a verdict with no binary meaning such as
+    INSUFFICIENT_EVIDENCE / MIXED_EVIDENCE / NOT_A_FACT_CHECK).
+
+    Pass risk_threshold to restore the legacy behaviour of deciding abstentions
+    from the old risk score; the default reports them honestly instead.
+    """
+    if not reports or "error" in reports[0]:
+        return None
+
+    for r in reports:
+        verdict = r.get("verdict", "")
+        if verdict in _FAKE_VERDICTS or verdict == "FALSE":
+            return 1
+        if verdict in _REAL_VERDICTS or verdict == "TRUE":
+            return 0
+
+    if risk_threshold is None:
+        return None
+    max_risk = max(r.get("legacy_risk_score", r.get("risk_score", 0)) for r in reports)
+    return 1 if max_risk > risk_threshold else 0
+
+
 def score_with_abstain(y_true: List[int], y_pred: List[Optional[int]]) -> Dict[str, float]:
     """Score predictions where None means the system abstained.
 

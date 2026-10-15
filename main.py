@@ -35,7 +35,8 @@ from src.source_tier import tier_from_filename, tier_from_passage_text
 from config import DEBUG_LOG_PATH, EMBEDDING_MODEL, EVALUATION_DATASET, FACTS_JSON, KB_PATH, LOG_PATH
 from multilingual.processor import MultilingualProcessor, MultilingualProcessorConfig
 from src.refine_extractor import extract_triples
-from src.binary_scoring import score_with_abstain
+from src.binary_scoring import get_binary_prediction, score_with_abstain
+from src.evidence_engine import EvidenceEngine
 # ORIGINAL LOGGER
 # ─────────────────────────────────────────────────────────────────────────────
 LOG_PATH = str(LOG_PATH)
@@ -69,8 +70,6 @@ def debug_log(msg=""):
         f.write(msg + "\n")
 
 # Calibrated verdict taxonomy → binary eval mapping
-_FAKE_VERDICTS = frozenset({"FALSE", "MISLEADING", "MOSTLY_FALSE"})
-_REAL_VERDICTS = frozenset({"SUPPORTED", "SUPPORTED_WITH_CAVEATS", "MOSTLY_SUPPORTED"})
 
 # ─────────────────────────────────────────────────────────────────────────────
 # PIPELINE
@@ -106,6 +105,10 @@ class TruthCheckPipeline:
         )
         self.evidence_scorer = EvidenceQualityScorer()
         self.calibrator = ConfidenceCalibrator()
+        self.evidence_engine = EvidenceEngine(
+            self.kb_manager, self.hybrid_retriever, self.reranker, self.nli_judge,
+            self.evidence_scorer, self.query_generator,
+        )
 
         # ── Step 3: spaCy & Claims Processor ─────────────────────────────────
         self.nlp = spacy.load("en_core_web_sm")
@@ -191,64 +194,24 @@ class TruthCheckPipeline:
         top_per_lane,
         log_prefix="",
     ):
-        lanes = self.query_generator.generate_query_lanes(
+        result = self.evidence_engine.gather(
             sub_claim.canonical_claim,
             subject=sub_claim.subject,
             outcome=sub_claim.outcome,
+            population=sub_claim.population,
+            top_per_lane=top_per_lane,
         )
-        log(f"  {log_prefix}[HYBRID] Query lanes: {list(lanes.keys())}")
-        for lane_name, lane_query in lanes.items():
+        log(f"  {log_prefix}[HYBRID] Query lanes: {list(result.lanes.keys())}")
+        for lane_name, lane_query in result.lanes.items():
             log(f"  {log_prefix}[HYBRID]   lane={lane_name}: {lane_query[:120]}")
-
-        candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
-        reranked = self.reranker.rerank(
-            sub_claim.canonical_claim,
-            candidates,
-            top_k=min(top_per_lane, len(candidates) or top_per_lane),
-        )
-
-        scored_passages = []
-        nli_support_probs = []
-        for rank, item in enumerate(reranked, 1):
-            passage = item["passage"]
-            passage_index = item.get("passage_index")
-            nli_result = self.nli_judge.verify(sub_claim.canonical_claim, passage)
-            source_file = (
-                self.kb_manager.source_for_index(passage_index)
-                if passage_index is not None
-                else ""
-            )
-            source_tier = tier_from_filename(source_file)
-            if source_tier == "journalism" and not source_file:
-                source_tier = tier_from_passage_text(passage)
-
-            pq = self.evidence_scorer.score_passage(
-                passage,
-                claim_subject=sub_claim.subject,
-                claim_outcome=sub_claim.outcome,
-                target_population=sub_claim.population,
-            )
-            scored_passages.append({
-                "passage": passage,
-                "passage_index": passage_index,
-                "source_tier": source_tier,
-                "source_file": source_file,
-                "nli_verdict": nli_result["verdict"],
-                "quality_score": pq.overall_quality_score,
-                "supports_probability": nli_result["supports_probability"],
-                "refutes_probability": nli_result["refutes_probability"],
-                "rerank_score": item.get("rerank_score"),
-            })
-            nli_support_probs.append(nli_result["supports_probability"])
+        for rank, sp in enumerate(result.scored_passages, 1):
             log(
-                f"  {log_prefix}[HYBRID]   rerank#{rank} idx={passage_index} "
-                f"tier={source_tier} nli={nli_result['verdict']} "
-                f"sup_p={nli_result['supports_probability']:.3f} "
-                f"passage={passage[:100]}"
+                f"  {log_prefix}[HYBRID]   rerank#{rank} idx={sp['passage_index']} "
+                f"tier={sp['source_tier']} nli={sp['nli_verdict']} "
+                f"sup_p={sp['supports_probability']:.3f} "
+                f"passage={sp['passage'][:100]}"
             )
-
-        evidence_summary = self.evidence_scorer.summarize_evidence(scored_passages)
-        return evidence_summary, scored_passages, nli_support_probs, lanes
+        return result.summary, result.scored_passages, result.nli_support_probs, result.lanes
 
     def analyze_query(self, raw_text, row_index=None, true_label=None):
         t0 = time.perf_counter()
@@ -402,32 +365,6 @@ class TruthCheckPipeline:
 # ─────────────────────────────────────────────────────────────────────────────
 # BINARY PREDICTION
 # ─────────────────────────────────────────────────────────────────────────────
-def get_binary_prediction(reports, risk_threshold=None):
-    """
-    0 = Real/Safe
-    1 = Fake/Misinformation
-    None = abstain (error, or a verdict with no binary meaning such as
-    INSUFFICIENT_EVIDENCE / MIXED_EVIDENCE / NOT_A_FACT_CHECK).
-
-    Pass risk_threshold to restore the legacy behaviour of deciding abstentions
-    from the old risk score; the default reports them honestly instead.
-    """
-    if not reports or "error" in reports[0]:
-        return None
-
-    for r in reports:
-        verdict = r.get("verdict", "")
-        if verdict in _FAKE_VERDICTS or verdict == "FALSE":
-            return 1
-        if verdict in _REAL_VERDICTS or verdict == "TRUE":
-            return 0
-
-    if risk_threshold is None:
-        return None
-    max_risk = max(r.get("legacy_risk_score", r.get("risk_score", 0)) for r in reports)
-    return 1 if max_risk > risk_threshold else 0
-
-
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────────────────────────────────────

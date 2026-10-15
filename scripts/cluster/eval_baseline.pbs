@@ -24,7 +24,10 @@ N=4
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-eval
 cd ~/FoodFactCheck/TruthCheck_eval
-OUT=evaluation/baselines/phase0_vllm
+# MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.
+#   qsub -v MODE=graph scripts/cluster/eval_baseline.pbs
+MODE=${MODE:-main}
+if [ "$MODE" = "graph" ]; then OUT=evaluation/baselines/step3_graph; else OUT=evaluation/baselines/phase0_vllm; fi
 mkdir -p $OUT
 
 echo "EVAL start $(date) host=$(hostname)"
@@ -32,8 +35,12 @@ python -c "import torch;print('cuda', torch.cuda.is_available())"
 curl -s -m 10 $TRUTHCHECK_LLM_BASE_URL/models | head -c 120; echo
 
 for i in $(seq 0 $((N-1))); do
-  python main.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
+  if [ "$MODE" = "graph" ]; then
+    python evaluation/run_graph_eval.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
+  else
+    python main.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
+  fi
 done
 wait
-python evaluation/merge_shards.py $OUT | tee $OUT/merged_summary.txt
+PYTHONPATH=. python evaluation/merge_shards.py $OUT | tee $OUT/merged_summary.txt
 echo "EVAL done $(date)"

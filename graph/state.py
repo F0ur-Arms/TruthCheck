@@ -11,9 +11,10 @@ class TruthCheckState(BaseModel):
     cleaned_text: str = ""
     route: str = Field(default="fact_check")
     canonical_claim: Optional[Dict[str, Any]] = None
-    query_lanes: Dict[str, str] = Field(default_factory=dict)
-    candidate_passages: List[Dict[str, Any]] = Field(default_factory=list)
+    sub_claims: List[Dict[str, Any]] = Field(default_factory=list)
+    claim_evidence: List[Dict[str, Any]] = Field(default_factory=list)
     reranked_passages: List[Dict[str, Any]] = Field(default_factory=list)
+    claim_results: List[Dict[str, Any]] = Field(default_factory=list)
     evidence_summary: Optional[Dict[str, Any]] = None
     calibrated_verdict: Optional[Dict[str, Any]] = None
     risk_assessment: Optional[Dict[str, Any]] = None

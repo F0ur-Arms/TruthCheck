@@ -84,8 +84,8 @@ python main.py
 
 ## Current status
 
-- Built and tested: claim routing/decomposition, medical-advice gate, hybrid retrieval with RRF and rerank, mDeBERTa NLI verifier, two-axis risk engine, multilingual preprocessing layer, FastAPI + web UI.
-- Stubbed or not yet wired in the LangGraph path: NLI in `graph/nodes.py` (hardcoded), dense retrieval over the full KB, two-axis risk, human-review interrupt, persistent storage.
-- Not started: Postgres/pgvector, trained calibrator, reviewed multilingual golden set, OCR/ASR integration.
-- Baseline (legacy pipeline, `evaluation/baselines/phase0/`): accuracy 0.6831, F1 0.6709 on 2,799 claims, run without the LLM connected.
+- Built and tested: claim routing/decomposition, medical-advice gate, hybrid retrieval with RRF and rerank over the 36k-passage KB, mDeBERTa NLI, two-axis risk engine, LangGraph pipeline using all of these (shared `src/evidence_engine.py`), human-review `interrupt()` with SQLite checkpoints, persistent review queue and traces, multilingual preprocessing layer, FastAPI + web UI.
+- Weak spots: confidence weights are hand-set (no trained calibrator), harm scoring is keyword-based, the legacy `main.py` path still exists beside the graph, and nothing has been measured on a reviewed multilingual golden set yet.
+- Not started: Postgres/pgvector, OCR/ASR integration.
+- Baselines on 2,799 claims: `evaluation/baselines/phase0/` (old, no LLM, abstentions silently scored from a risk fallback: accuracy 0.6831, F1 0.6709) and `evaluation/baselines/phase0_vllm/` (LLM connected, abstentions counted: strict accuracy 0.4623, coverage 61.5%, answered-only accuracy 0.7515). The two are not like-for-like.
 - `evaluation/smoke_audit.py` (formerly `run_validation_audit.py`) is a smoke check only, not an evaluation. `evaluation/generate_evaluation_report.py` now refuses to run without measured metrics.
