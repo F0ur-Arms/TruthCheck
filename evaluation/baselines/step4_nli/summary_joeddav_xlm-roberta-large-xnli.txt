@@ -1,0 +1,26 @@
+--- Loading NLI Model: joeddav/xlm-roberta-large-xnli ---
+The tokenizer you are loading from 'joeddav/xlm-roberta-large-xnli' with an incorrect regex pattern: https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503/discussions/84#69121093e8b480e709447d5e. This will lead to incorrect tokenization. You should set the `fix_mistral_regex=True` flag when loading this tokenizer to fix this issue.
+Some weights of the model checkpoint at joeddav/xlm-roberta-large-xnli were not used when initializing XLMRobertaForSequenceClassification: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+- This IS expected if you are initializing XLMRobertaForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing XLMRobertaForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+200/2259
+400/2259
+600/2259
+800/2259
+1000/2259
+1200/2259
+1400/2259
+1600/2259
+1800/2259
+2000/2259
+2200/2259
+rows: 2259  accuracy: 0.4303
+gold \ pred  SUPPORTS   REFUTES       NEI
+   SUPPORTS       360        40       350
+    REFUTES       220       348       438
+        NEI       227        12       264
+  ai4bharat_dataset      n=1380  acc=0.404
+  covidfact_dataset      n=250   acc=0.412
+  healthver_dataset      n=250   acc=0.472
+  pubhealth_dataset      n=212   acc=0.491
+  scifact_dataset        n=167   acc=0.539

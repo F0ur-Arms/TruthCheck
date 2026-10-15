@@ -80,10 +80,28 @@ class LangGraphWorkflowTests(unittest.TestCase):
         self.assertFalse(res["needs_human_review"])
         self.assertIn("inconclusive_verdict", res["risk_assessment"]["review_reasons"])
 
-    def test_aggregate_verdict_takes_most_serious(self):
-        self.assertEqual(aggregate_verdict(["SUPPORTED", "FALSE"]), "FALSE")
-        self.assertEqual(aggregate_verdict(["SUPPORTED", "INSUFFICIENT_EVIDENCE"]), "INSUFFICIENT_EVIDENCE")
+    def test_aggregated_verdict_survives_into_the_final_response(self):
+        nodes.set_engine(FakeEngine())
+        out = nodes.evidence_and_calibration_node(TruthCheckState(
+            raw_input="x",
+            sub_claims=[{"claim_id": "c1", "canonical_claim": "a"}, {"claim_id": "c2", "canonical_claim": "b"}],
+            claim_evidence=[{"claim_id": "c1", "reranked": [{"passage": "p", "passage_index": 0, "rerank_score": 1.0}]},
+                            {"claim_id": "c2", "reranked": []}],
+        ))
+        self.assertEqual(out["calibrated_verdict"]["verdict"], "SUPPORTED_WITH_CAVEATS")
+        self.assertEqual(len(out["claim_results"]), 2)
+
+    def test_aggregate_verdict_rules(self):
         self.assertEqual(aggregate_verdict([]), "INSUFFICIENT_EVIDENCE")
+        self.assertEqual(aggregate_verdict(["SUPPORTED", "SUPPORTED"]), "SUPPORTED")
+        self.assertEqual(aggregate_verdict(["FALSE", "INSUFFICIENT_EVIDENCE"]), "FALSE")
+        self.assertEqual(aggregate_verdict(["MOSTLY_FALSE", "FALSE"]), "FALSE")
+        self.assertEqual(aggregate_verdict(["SUPPORTED", "FALSE"]), "MIXED_EVIDENCE")
+        self.assertEqual(aggregate_verdict(["SUPPORTED", "INSUFFICIENT_EVIDENCE"]), "SUPPORTED_WITH_CAVEATS")
+        self.assertEqual(
+            aggregate_verdict(["SUPPORTED", "INSUFFICIENT_EVIDENCE", "INSUFFICIENT_EVIDENCE"]),
+            "INSUFFICIENT_EVIDENCE",
+        )
 
 
 if __name__ == "__main__":

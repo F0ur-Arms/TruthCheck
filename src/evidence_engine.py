@@ -30,8 +30,10 @@ class EvidenceEngine:
 
     @classmethod
     def from_defaults(cls) -> "EvidenceEngine":
+        import os
         from config import KB_PATH
         from src.RAGpipeline.knowledge_manager import KnowledgeManager
+        from src.RAGpipeline.llm_nli import FallbackNLI, LLMNLIJudge
         from src.RAGpipeline.nli_verifier import NLIVerifier
 
         kb_manager = KnowledgeManager()
@@ -40,7 +42,18 @@ class EvidenceEngine:
             passages=kb_manager.passages,
             dense_retriever_fn=kb_manager.dense_search,
         )
-        return cls(kb_manager, retriever, Reranker(), NLIVerifier())
+
+        # TRUTHCHECK_NLI_BACKEND: llm (LLM judge, local NLI as fallback), local (local NLI only),
+        # auto (llm when an LLM endpoint is configured, else local). The LLM judge scored 65% on
+        # the labelled evidence rows against 40-45% for the dedicated NLI models.
+        backend = os.environ.get("TRUTHCHECK_NLI_BACKEND", "auto").lower()
+        judge = LLMNLIJudge()
+        if backend == "local" or (backend == "auto" and not judge.configured):
+            nli = NLIVerifier()
+        else:
+            from config import NLI_FALLBACK_MODEL
+            nli = FallbackNLI(judge, lambda: NLIVerifier(NLI_FALLBACK_MODEL))
+        return cls(kb_manager, retriever, Reranker(), nli)
 
     def make_lanes(self, canonical_claim: str, subject: Optional[str] = None,
                    outcome: Optional[str] = None) -> Dict[str, str]:

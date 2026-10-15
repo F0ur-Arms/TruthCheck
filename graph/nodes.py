@@ -20,12 +20,9 @@ risk_engine = TwoAxisRiskEngine()
 
 _engine = None
 
-# Most serious first. A compound claim takes the most serious sub-claim verdict, so one
-# unsupported part stops the whole input from being reported as SUPPORTED.
-VERDICT_SEVERITY = [
-    "FALSE", "MOSTLY_FALSE", "MISLEADING", "MIXED_EVIDENCE", "INSUFFICIENT_EVIDENCE",
-    "SUPPORTED_WITH_CAVEATS", "MOSTLY_SUPPORTED", "SUPPORTED",
-]
+SUPPORT_CLASS = {"SUPPORTED", "MOSTLY_SUPPORTED", "SUPPORTED_WITH_CAVEATS"}
+REFUTE_CLASS_BY_SEVERITY = ["FALSE", "MOSTLY_FALSE", "MISLEADING"]
+UNCERTAIN_CLASS = {"INSUFFICIENT_EVIDENCE", "MIXED_EVIDENCE"}
 
 
 def get_engine():
@@ -42,9 +39,30 @@ def set_engine(engine) -> None:
 
 
 def aggregate_verdict(verdicts: List[str]) -> str:
+    """Combine sub-claim verdicts into one verdict for the whole input.
+
+    Supported parts alongside refuted parts disagree, so the input is MIXED_EVIDENCE instead of
+    letting one noisy sub-claim decide. Refuted parts with nothing supported keep the most serious
+    refutation. Supported parts with unverifiable parts are only reported as supported (with caveats)
+    when at least half the sub-claims are supported.
+    """
     if not verdicts:
         return "INSUFFICIENT_EVIDENCE"
-    return min(verdicts, key=lambda v: VERDICT_SEVERITY.index(v) if v in VERDICT_SEVERITY else len(VERDICT_SEVERITY))
+    if len(set(verdicts)) == 1:
+        return verdicts[0]
+
+    supported = [v for v in verdicts if v in SUPPORT_CLASS]
+    refuted = [v for v in verdicts if v in REFUTE_CLASS_BY_SEVERITY]
+
+    if supported and refuted:
+        return "MIXED_EVIDENCE"
+    if refuted:
+        return min(refuted, key=REFUTE_CLASS_BY_SEVERITY.index)
+    if supported:
+        if len(supported) * 2 >= len(verdicts):
+            return "SUPPORTED_WITH_CAVEATS" if len(supported) < len(verdicts) else supported[0]
+        return "INSUFFICIENT_EVIDENCE"
+    return "MIXED_EVIDENCE" if "MIXED_EVIDENCE" in verdicts else "INSUFFICIENT_EVIDENCE"
 
 
 def ingest_node(state: TruthCheckState) -> Dict[str, Any]:
@@ -125,10 +143,23 @@ def evidence_and_calibration_node(state: TruthCheckState) -> Dict[str, Any]:
     verdicts = [r["calibrated_verdict"]["verdict"] for r in claim_results]
     overall = aggregate_verdict(verdicts)
     driver = next((r for r in claim_results if r["calibrated_verdict"]["verdict"] == overall), None)
+    if driver is None and claim_results:
+        driver = min(claim_results, key=lambda r: r["calibrated_verdict"]["calibrated_confidence"])
+    summary_verdict = None
+    if driver:
+        summary_verdict = {
+            **driver["calibrated_verdict"],
+            "verdict": overall,
+            "calibrated_confidence": min(r["calibrated_verdict"]["calibrated_confidence"] for r in claim_results),
+            "explanation_summary": (
+                f"Verdict: {overall} across {len(claim_results)} sub-claim(s): "
+                + ", ".join(verdicts)
+            ),
+        }
     return {
         "claim_results": claim_results,
         "evidence_summary": driver["evidence_summary"] if driver else None,
-        "calibrated_verdict": driver["calibrated_verdict"] if driver else None,
+        "calibrated_verdict": summary_verdict,
     }
 
 

@@ -24,10 +24,22 @@ N=4
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-eval
 cd ~/FoodFactCheck/TruthCheck_eval
-# MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.
+# MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.  MODE=nli: NLI stage only.
 #   qsub -v MODE=graph scripts/cluster/eval_baseline.pbs
 MODE=${MODE:-main}
-if [ "$MODE" = "graph" ]; then OUT=evaluation/baselines/step3_graph; else OUT=evaluation/baselines/phase0_vllm; fi
+if [ "$MODE" = "nli" ]; then
+  OUT=evaluation/baselines/step4_nli
+  mkdir -p $OUT
+  # NLI_MODELS: HF ids joined with +  (default: the configured model)
+  for M in $(echo ${NLI_MODELS:-default} | tr "+" " "); do
+    TAG=$(echo $M | tr '/' '_')
+    if [ "$M" = "default" ]; then ARG=""; else ARG="--model $M"; fi
+    python evaluation/eval_nli_stage.py $ARG --out $OUT/rows_$TAG.json 2>&1 | tee $OUT/summary_$TAG.txt
+  done
+  echo "EVAL done $(date)"
+  exit 0
+fi
+if [ "$MODE" = "graph" ]; then OUT=${OUT_DIR:-evaluation/baselines/step3_graph}; else OUT=evaluation/baselines/phase0_vllm; fi
 mkdir -p $OUT
 
 echo "EVAL start $(date) host=$(hostname)"
