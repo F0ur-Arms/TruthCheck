@@ -20,8 +20,11 @@ class EvidenceResult:
 
 class EvidenceEngine:
     def __init__(self, kb_manager, hybrid_retriever, reranker, nli_judge, evidence_scorer=None,
-                 query_generator=None):
+                 query_generator=None, min_relevance: Optional[float] = None):
         self.kb_manager = kb_manager
+        # Passages the reranker scores below this are dropped before NLI, so "nothing relevant
+        # retrieved" ends as INSUFFICIENT_EVIDENCE instead of being judged against off-topic text.
+        self.min_relevance = min_relevance
         self.hybrid_retriever = hybrid_retriever
         self.reranker = reranker
         self.nli_judge = nli_judge
@@ -47,13 +50,18 @@ class EvidenceEngine:
         # auto (llm when an LLM endpoint is configured, else local). The LLM judge scored 65% on
         # the labelled evidence rows against 40-45% for the dedicated NLI models.
         backend = os.environ.get("TRUTHCHECK_NLI_BACKEND", "auto").lower()
-        judge = LLMNLIJudge()
+        # TRUTHCHECK_NLI_PROMPT: v2 (default, off-topic text is NEI) or v1 (prompt used until round 2).
+        from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1
+        prompt = SYSTEM_V1 if os.environ.get("TRUTHCHECK_NLI_PROMPT", "v2").lower() == "v1" else SYSTEM
+        judge = LLMNLIJudge(system_prompt=prompt)
         if backend == "local" or (backend == "auto" and not judge.configured):
             nli = NLIVerifier()
         else:
             from config import NLI_FALLBACK_MODEL
             nli = FallbackNLI(judge, lambda: NLIVerifier(NLI_FALLBACK_MODEL))
-        return cls(kb_manager, retriever, Reranker(), nli)
+        from config import MIN_RELEVANCE
+        min_relevance = float(os.environ.get("TRUTHCHECK_MIN_RELEVANCE", MIN_RELEVANCE))
+        return cls(kb_manager, retriever, Reranker(), nli, min_relevance=min_relevance or None)
 
     def make_lanes(self, canonical_claim: str, subject: Optional[str] = None,
                    outcome: Optional[str] = None) -> Dict[str, str]:
@@ -61,11 +69,14 @@ class EvidenceEngine:
 
     def retrieve(self, canonical_claim: str, lanes: Dict[str, str], top_per_lane: int = 5) -> List[Dict[str, Any]]:
         candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
-        return self.reranker.rerank(
+        reranked = self.reranker.rerank(
             canonical_claim,
             candidates,
             top_k=min(top_per_lane, len(candidates) or top_per_lane),
         )
+        if self.min_relevance is None:
+            return reranked
+        return [p for p in reranked if (p.get("rerank_score") or 0.0) >= self.min_relevance]
 
     def score(self, canonical_claim: str, reranked: List[Dict[str, Any]], subject: Optional[str] = None,
               outcome: Optional[str] = None, population: Optional[str] = None):

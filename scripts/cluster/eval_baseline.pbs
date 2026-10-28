@@ -7,10 +7,16 @@
 #PBS -l select=1:ncpus=10
 #PBS -l walltime=12:00:00
 #PBS -q Gpu4-40g
-#PBS -o /storage/home/bagler/tc_eval.out
-#PBS -e /storage/home/bagler/tc_eval.err
 
-export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef
+# MIG slice per queue (IT's cluster documentation). Submit to another queue with qsub -q.
+case "${PBS_QUEUE:-Gpu4-40g}" in
+  Gpu2-10g) export CUDA_VISIBLE_DEVICES=MIG-8ff1f8bf-855e-51e3-b3de-601f21c18158 ;;
+  Gpu3-10g) export CUDA_VISIBLE_DEVICES=MIG-7d568e46-96d2-5b76-b689-46d3d787562b ;;
+  Gpu4-40g) export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef ;;
+  Gpu5-40g) export CUDA_VISIBLE_DEVICES=MIG-4889f421-8c3c-57fc-9adf-707c476a0d63 ;;
+  Gpu6-40g) export CUDA_VISIBLE_DEVICES=MIG-eaefa1a1-5eab-5722-8962-e24791557a79 ;;
+  *) echo "no MIG slice known for queue $PBS_QUEUE"; exit 1 ;;
+esac
 export HF_HOME=$HOME/FoodFactCheck/hf_cache
 export HF_HUB_OFFLINE=1
 export TOKENIZERS_PARALLELISM=false
@@ -19,22 +25,32 @@ export TRUTHCHECK_LLM_BASE_URL=http://cb-gpu-server:8000/v1
 export TRUTHCHECK_LLM_API_KEY=none
 export TRUTHCHECK_LLM_MODEL=qwen2.5-7b-awq
 export TRUTHCHECK_LLM_TIMEOUT_SECONDS=60
-N=4
+N=${N:-4}
 
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-eval
 cd ~/FoodFactCheck/TruthCheck_eval
-# MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.  MODE=nli: NLI stage only.
-#   qsub -v MODE=graph scripts/cluster/eval_baseline.pbs
+# MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.
+# MODE=nli: local NLI models on gold evidence.  MODE=llmnli: LLM judge on gold evidence.
+# EXTRA: extra script arguments with + instead of spaces, e.g. EXTRA=--public+--details
+#   qsub -v "MODE=graph,OUT_DIR=evaluation/baselines/x,EXTRA=--public+--details" scripts/cluster/eval_baseline.pbs
 MODE=${MODE:-main}
+EXTRA_ARGS=$(echo ${EXTRA:-} | tr "+" " ")
+if [ "$MODE" = "llmnli" ]; then
+  OUT=${OUT_DIR:-evaluation/baselines/step4_llm_judge}
+  mkdir -p $OUT
+  python evaluation/eval_llm_nli.py $EXTRA_ARGS --out $OUT/rows.json 2>&1 | tee $OUT/summary.txt
+  echo "EVAL done $(date)"
+  exit 0
+fi
 if [ "$MODE" = "nli" ]; then
-  OUT=evaluation/baselines/step4_nli
+  OUT=${OUT_DIR:-evaluation/baselines/step4_nli}
   mkdir -p $OUT
   # NLI_MODELS: HF ids joined with +  (default: the configured model)
   for M in $(echo ${NLI_MODELS:-default} | tr "+" " "); do
     TAG=$(echo $M | tr '/' '_')
     if [ "$M" = "default" ]; then ARG=""; else ARG="--model $M"; fi
-    python evaluation/eval_nli_stage.py $ARG --out $OUT/rows_$TAG.json 2>&1 | tee $OUT/summary_$TAG.txt
+    python evaluation/eval_nli_stage.py $ARG $EXTRA_ARGS --out $OUT/rows_$TAG.json 2>&1 | tee $OUT/summary_$TAG.txt
   done
   echo "EVAL done $(date)"
   exit 0
@@ -46,9 +62,11 @@ echo "EVAL start $(date) host=$(hostname)"
 python -c "import torch;print('cuda', torch.cuda.is_available())"
 curl -s -m 10 $TRUTHCHECK_LLM_BASE_URL/models | head -c 120; echo
 
-for i in $(seq 0 $((N-1))); do
+# SHARDS: which of the N shards this job runs, joined with + (default: all). Lets one run be
+# split across queues, e.g. N=8,SHARDS=0+1+2+3 on one queue and N=8,SHARDS=4+5+6+7 on another.
+for i in $(echo ${SHARDS:-$(seq -s + 0 $((N-1)))} | tr "+" " "); do
   if [ "$MODE" = "graph" ]; then
-    python evaluation/run_graph_eval.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
+    python evaluation/run_graph_eval.py --shard $i/$N $EXTRA_ARGS --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
   else
     python main.py --shard $i/$N --out $OUT/shard$i.json > $OUT/shard$i.stdout.log 2>&1 &
   fi

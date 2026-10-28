@@ -87,5 +87,16 @@ python main.py
 - Built and tested: claim routing/decomposition, medical-advice gate, hybrid retrieval with RRF and rerank over the 36k-passage KB, mDeBERTa NLI, two-axis risk engine, LangGraph pipeline using all of these (shared `src/evidence_engine.py`), human-review `interrupt()` with SQLite checkpoints, persistent review queue and traces, multilingual preprocessing layer, FastAPI + web UI.
 - Weak spots: confidence weights are hand-set (no trained calibrator), harm scoring is keyword-based, the legacy `main.py` path still exists beside the graph, and nothing has been measured on a reviewed multilingual golden set yet.
 - Not started: Postgres/pgvector, OCR/ASR integration.
-- Baselines on 2,799 claims: `evaluation/baselines/phase0/` (old, no LLM, abstentions silently scored from a risk fallback: accuracy 0.6831, F1 0.6709) and `evaluation/baselines/phase0_vllm/` (LLM connected, abstentions counted: strict accuracy 0.4623, coverage 61.5%, answered-only accuracy 0.7515). The two are not like-for-like.
+- Results on the 2,799-claim set (see [docs/TruthCheck_Progress_Report.pdf](docs/TruthCheck_Progress_Report.pdf)); strict accuracy counts an abstention as wrong, "answered" covers only claims given a Real/Fake verdict:
+
+  | Run | Coverage | Strict acc. | Answered acc. |
+  |---|---|---|---|
+  | Legacy pipeline + LLM (`phase0_vllm`) | 61.5% | 0.462 | 0.752 |
+  | Graph, mDeBERTa NLI (`step3_graph_v2_aggregation`) | 45.9% | 0.367 | 0.799 |
+  | Graph, Qwen NLI judge (`step5_graph_llm_nli`) | 71.5% | 0.597 | 0.835 |
+
+  **These numbers are confounded.** A classifier that sees only 10 style features of the claim text (length, punctuation, digits) and no evidence scores 0.987 on this set (`python evaluation/artifact_check.py data/final_health_claims.csv`): fake claims are short phrases, real ones are full article sentences. Do not use this set as a headline metric. The cleaner public-dataset rows (SciFact, HealthVer, PUBHEALTH, ai4bharat; style baseline 0.65 vs majority 0.64) replace it until the reviewed golden set exists: `run_graph_eval.py --public`. The old 0.6831 baseline (`phase0`) also hid abstentions behind a risk fallback.
+- Public benchmark, 1,898 claims (`evaluation/baselines/round2`, `round3`): without a relevance gate the pipeline is biased to FALSE (true claims called true 24%, false called false 96%, balanced accuracy 0.598) because off-topic passages get judged as refutations. With the relevance gate (`MIN_RELEVANCE = 0.6` in `config.py`) and the stricter judge prompt: balanced accuracy 0.704, but only 12% of claims get a verdict, since the knowledge base has no relevant passage for about 70% of them. Knowledge-base coverage is now the main limit. Trimming evidence to the top-2 sentences hurt both judges.
+- NLI stage test on 2,259 claim/evidence pairs (`evaluation/baselines/step4_*`): mDeBERTa 40.4%, DeBERTa-v3-large 45.0%, Qwen judge 65.4%. `TRUTHCHECK_NLI_BACKEND=llm|local|auto` selects the judge; the local model is the fallback.
+- Golden set: `evaluation/golden_set/golden_v1.csv` is still an unreviewed English candidate pool. Check it with `python evaluation/golden_set/validate_golden.py`.
 - `evaluation/smoke_audit.py` (formerly `run_validation_audit.py`) is a smoke check only, not an evaluation. `evaluation/generate_evaluation_report.py` now refuses to run without measured metrics.

@@ -5,6 +5,7 @@ UNCERTAIN -> NEI. Rows labelled PARTLY_TRUE or MISLEADING are skipped (no single
 """
 
 import argparse
+import re
 import json
 import os
 import sys
@@ -23,6 +24,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--csv", default="evaluation/golden_set/golden_v1.csv")
     ap.add_argument("--out", required=True)
+    ap.add_argument("--select-sentences", type=int, default=0, help="keep the top-k evidence sentences (0 = off)")
+    ap.add_argument("--origins", default=None, help="comma list of claim_origin values to keep")
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--model", default=None, help="HF model id; default is config.NLI_MODEL")
     args = ap.parse_args()
@@ -30,6 +33,18 @@ def main():
     df = pd.read_csv(args.csv)
     df = df[df["gold_evidence_quote"].notna() & df["expected_verdict"].isin(GOLD)]
     df = df[df["gold_evidence_quote"].astype(str).str.strip() != ""]
+    if args.origins:
+        df = df[df["claim_origin"].isin(re.split(r"[,:]", args.origins))]
+    if args.select_sentences:
+        from sentence_transformers import CrossEncoder
+        from config import RERANKER_MODEL
+        from src.sentence_selector import select_sentences
+        ce = CrossEncoder(RERANKER_MODEL)
+        df = df.copy()
+        df["gold_evidence_quote"] = [
+            select_sentences(str(c), str(e), ce.predict, k=args.select_sentences)
+            for c, e in zip(df["claim_text"], df["gold_evidence_quote"])
+        ]
     if args.limit:
         df = df.head(args.limit)
 

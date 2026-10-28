@@ -2,7 +2,7 @@ import json
 import unittest
 from unittest import mock
 
-from src.RAGpipeline.llm_nli import FallbackNLI, LLMNLIJudge, LABEL_PRECISION
+from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1, FallbackNLI, LLMNLIJudge, LABEL_PRECISION
 
 
 def _reply(content):
@@ -22,6 +22,18 @@ class LLMNLITests(unittest.TestCase):
         self.assertEqual(res["verdict"], "REFUTES")
         self.assertEqual(res["refutes_probability"], LABEL_PRECISION["REFUTES"])
         self.assertAlmostEqual(sum(res["label_probabilities"].values()), 1.0)
+
+    def test_default_prompt_says_off_topic_is_not_refutation(self):
+        self.assertIn("not REFUTES", SYSTEM)
+        with mock.patch("requests.post", return_value=_reply(json.dumps({"label": "NEI"}))) as post:
+            self.judge.verify("c", "p")
+        self.assertEqual(post.call_args.kwargs["json"]["messages"][0]["content"], SYSTEM)
+
+    def test_old_prompt_selectable(self):
+        judge = LLMNLIJudge(base_url="http://x/v1", api_key="k", model="m", system_prompt=SYSTEM_V1)
+        with mock.patch("requests.post", return_value=_reply(json.dumps({"label": "NEI"}))) as post:
+            judge.verify("c", "p")
+        self.assertEqual(post.call_args.kwargs["json"]["messages"][0]["content"], SYSTEM_V1)
 
     def test_bad_label_raises(self):
         with mock.patch("requests.post", return_value=_reply(json.dumps({"label": "MAYBE"}))):

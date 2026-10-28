@@ -1,0 +1,11 @@
+rows: 2009  accuracy: 0.5963  errors: 0
+gold \ pred  SUPPORTS   REFUTES       NEI
+   SUPPORTS       395        88        73
+    REFUTES       267       578       105
+        NEI       202        76       225
+  ai4bharat_dataset      n=1380  acc=0.551
+  healthver_dataset      n=250   acc=0.556
+  pubhealth_dataset      n=212   acc=0.778
+  scifact_dataset        n=167   acc=0.802
+  conf 0.5-0.7: n=1267  acc=0.489
+  conf 0.7-0.9: n=742   acc=0.779
