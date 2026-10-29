@@ -1,387 +1,102 @@
-# TruthCheck – Multimodal Health Misinformation Detection System
+# TruthCheck
 
-This repository contains a **complete health misinformation detection pipeline** for Indian contexts.
-It supports **text, image, and voice inputs** and provides end-to-end analysis including claim extraction, fact verification, and risk assessment.
+Multilingual (English / Hinglish / Hindi) health-misinformation verification for Indian healthcare claims. A claim goes in; a verdict, confidence, risk assessment and cited evidence come out.
 
----
+> **Status: v2 integration in progress.** The legacy pipeline (`main.py`) works end to end. The LangGraph pipeline (`graph/`) is the v2 target, but several of its nodes are still stubs. See "Current status" below before trusting any reported metric.
 
-## 📌 Features Implemented
-
-### Input Processing
-* Text input handling
-* OCR for images (English + Hindi) using Tesseract
-* ASR for voice notes (Hindi / Hinglish / English) using Whisper
-* Text normalization and preprocessing
-
-### Language Processing
-* Language detection (fastText)
-* Hinglish to English translation (googletrans)
-* Custom Lifestyle NER with spaCy
-
-### Analysis Pipeline
-* Claim extraction (Subject-Relation-Object triples)
-* Linguistic style scoring (detects sensationalism, clickbait)
-* Fact verification against knowledge base
-* Risk assessment engine
-* Baseline ML classifier (TF-IDF + Logistic Regression)
-
----
-
-## Local Reasoning LLM
-
-Claim understanding, decomposition, query generation, and synthesis are
-backed by a self-hosted Qwen2.5-7B-Instruct-AWQ model served via vLLM on the
-IIITD CB GPU cluster (separate from the embedding/NLI/reranker models
-above). See [`docs/LOCAL_LLM_DEPLOYMENT.md`](docs/LOCAL_LLM_DEPLOYMENT.md)
-for how to start it, connect to it, and the environment setup required to
-reproduce it -- and [`.env.example`](.env.example) for the variables
-`ConfiguredLLMVerifier` (`src/llm_fallback.py`) reads.
-
----
-
-## 🧱 Project Structure
+## Pipeline
 
 ```
-TruthCheck/
-│
-├── data/
-│   ├── raw_inputs/              # Input images / audio files
-│   ├── extracted_text/         # (Optional) saved outputs
-│   ├── train.csv               # Training dataset
-│   ├── verified_facts.json     # Knowledge base for fact verification
-│   └── lifestyle_patterns.jsonl # Custom NER patterns
-│
-├── logs/                       # Debug and pipeline logs
-│
-├── models/
-│   └── language/
-│       └── lid.176.bin         # fastText language ID model (download separately)
-│
-├── pipeline/
-│   ├── text_input.py           # Text passthrough
-│   ├── ocr.py                  # Image → Text (Tesseract)
-│   ├── asr.py                  # Audio → Text (Whisper)
-│   ├── normalize.py            # Text normalization
-│   ├── lang_detect.py          # Language detection
-│   ├── hinglish.py             # Hinglish tagging
-│   └── dataset.py              # Dataset loading utilities
-│
-├── src/
-│   ├── preprocessor.py         # Hinglish translation and preprocessing
-│   ├── claim_extractor.py      # Basic triple extraction
-│   ├── refine_extractor.py     # Advanced claim extraction
-│   ├── lifestyle_ner.py        # Custom lifestyle entity recognition
-│   ├── linguistic_scorer.py   # Style-based risk scoring
-│   ├── verifier.py             # Fact verification engine
-│   └── risk_engine.py          # Final risk calculation
-│
-├── main.py                     # Main pipeline entry point
-├── train_baseline.py           # Baseline ML classifier training
-├── config.py                   # Configuration settings
-└── README.md
+raw input
+  -> HinglishMapper / multilingual preprocessing   (src/preprocessor.py, multilingual/)
+  -> route + decompose claim (LLM, heuristic fallback)   (src/claims_processor.py)
+       -> medical-advice request  => NOT_A_FACT_CHECK
+  -> multi-lane query generation                    (src/hybrid_retriever.py)
+  -> BM25 + dense retrieval, RRF fusion, cross-encoder rerank
+  -> evidence quality scoring + NLI                 (src/evidence_quality.py, src/RAGpipeline/nli_verifier.py)
+  -> confidence calibration                         (src/calibration.py)
+  -> two-axis risk (confidence vs. harm)            (src/risk_engine_v2.py)
+  -> human review (low confidence / high harm)
+  -> response with citations
 ```
 
----
+Two entry points exist:
 
-## 🛠 Requirements
+- `main.py` — legacy `TruthCheckPipeline.analyze_query`, fully wired.
+- `graph/workflow.py` — LangGraph state machine (7 nodes, 2 conditional edges), served by `app/api/main.py`.
 
-### System Requirements
+## Layout
 
-* **Windows 10/11**
-* **Python 3.11.x** (recommended)
-* **FFmpeg** (required for ASR/Whisper audio processing)
-* **Tesseract OCR** (required for image text extraction)
+| Path | Purpose |
+|---|---|
+| `main.py` | Legacy end-to-end pipeline |
+| `graph/` | LangGraph workflow: `state.py`, `nodes.py`, `workflow.py` |
+| `app/api/` | FastAPI app (`POST /api/v1/fact-check`) |
+| `web/` | Web UI (home, chat, FAQ) |
+| `src/` | Claims processing, retrieval, calibration, risk, evidence quality, LLM client |
+| `src/RAGpipeline/` | Knowledge manager and NLI verifier |
+| `multilingual/` | Language-ID, transliteration, gloss, semantic-preservation and medical-entity guard layer |
+| `pipeline/` | Early OCR / ASR / language-detect stubs (not wired) |
+| `evaluation/` | Baselines, golden-set candidates, evaluation scripts |
+| `data/` | Verified facts, medical KB (`data/medical_kb/`), evaluation CSV |
+| `scripts/cluster/` | PBS / conda scripts for the vLLM server |
+| `docs/` | Runbooks (see `docs/LOCAL_LLM_DEPLOYMENT.md`) |
+| `tests/` | pytest suite |
+| `config.py` | Paths, model names, LLM environment variables |
 
----
+## Setup
 
-### Python Packages
-
-Install all dependencies inside a virtual environment:
+Use **Python 3.11** (`spacy==3.8.4` has no wheel for 3.13).
 
 ```bash
-# Core ML and Deep Learning
-pip install torch --index-url https://download.pytorch.org/whl/cpu
-pip install "numpy<2"
-
-# Audio Processing (ASR)
-pip install openai-whisper
-
-# Image Processing (OCR)
-pip install pytesseract
-pip install pillow
-
-# Language Processing
-pip install fasttext
-pip install googletrans
-pip install spacy
-
-# Machine Learning
-pip install scikit-learn
-pip install pandas
-
-# Standard library dependencies (usually pre-installed)
-# - re (regex)
-# - json
-# - os
+python3.11 -m venv venv311
+source venv311/bin/activate
+pip install -r requirements.txt
 ```
 
-### spaCy Language Model
+Models are downloaded from Hugging Face on first use: `BAAI/bge-m3`, `BAAI/bge-reranker-v2-m3`, `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`. The multilingual layer has its own `multilingual/requirements.txt`.
 
-After installing spaCy, download the English language model:
+Optional external tools for the image/audio paths: Tesseract OCR and FFmpeg.
+
+## Local reasoning LLM
+
+Claim routing, decomposition, query generation and explanation synthesis use a self-hosted Qwen2.5-7B-Instruct-AWQ served by vLLM on the IIITD CB GPU cluster (OpenAI-compatible API). No code changes are needed, only environment variables:
 
 ```bash
-python -m spacy download en_core_web_sm
+cp .env.example .env     # then edit
+# TRUTHCHECK_LLM_BASE_URL, TRUTHCHECK_LLM_API_KEY, TRUTHCHECK_LLM_MODEL, TRUTHCHECK_LLM_TIMEOUT_SECONDS
 ```
 
----
+From outside the cluster, open a tunnel first (`ssh -L 8000:cb-gpu-server:8000 <you>@cb-cluster.iiitd.edu.in`) and use `http://localhost:8000/v1`. Without these variables the app still runs, using heuristic routing and decomposition. Full runbook, version pins and the 48-hour job limit: [docs/LOCAL_LLM_DEPLOYMENT.md](docs/LOCAL_LLM_DEPLOYMENT.md).
 
-### External Dependencies
-
-#### 1️⃣ Tesseract OCR
-
-**Required for:** Image text extraction (OCR)
-
-* Download from: [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
-* Install **English** and **Hindi** language packs during installation
-* Default installation path (used in `pipeline/ocr.py`):
-
-```
-C:\Program Files\Tesseract-OCR\tesseract.exe
-```
-
-* If installed elsewhere, update the path in `pipeline/ocr.py`:
-
-```python
-pytesseract.pytesseract.tesseract_cmd = r"YOUR_PATH\tesseract.exe"
-```
-
----
-
-#### 2️⃣ FFmpeg
-
-**Required for:** Audio processing (Whisper ASR)
-
-* Download from: [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
-* Add FFmpeg to system PATH
-* Verify installation:
+## Run
 
 ```bash
-ffmpeg -version
-```
+# API + web UI
+uvicorn app.api.main:app --reload
 
----
+# Tests
+python -m pytest tests -q
 
-#### 3️⃣ fastText Language Model
-
-**Required for:** Language detection
-
-Download the pretrained language identification model (125 MB):
-
-👉 [https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin](https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin)
-
-**Place it at:**
-
-```
-models/language/lid.176.bin
-```
-
-⚠️ **Note:** This file is too large for Git and is excluded via `.gitignore`. You must download it manually.
-
-## 🚀 Installation & Setup
-
-### Step 1: Create Virtual Environment
-
-```bash
-py -3.11 -m venv venv
-venv\Scripts\activate
-```
-
-### Step 2: Install Python Dependencies
-
-```bash
-# Install PyTorch (CPU version)
-pip install torch --index-url https://download.pytorch.org/whl/cpu
-
-# Install other packages
-pip install "numpy<2" openai-whisper pytesseract pillow fasttext googletrans spacy scikit-learn pandas
-
-# Download spaCy English model
-python -m spacy download en_core_web_sm
-```
-
-### Step 3: Install External Dependencies
-
-1. **Tesseract OCR**: Download and install from [UB-Mannheim Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
-   - Ensure English and Hindi language packs are installed
-
-2. **FFmpeg**: Download from [FFmpeg.org](https://ffmpeg.org/download.html) and add to PATH
-
-3. **fastText Model**: Download `lid.176.bin` from [fastText Models](https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin)
-   - Place in `models/language/lid.176.bin`
-
-### Step 4: Prepare Data Files (Optional)
-
-Create the following data files if they don't exist:
-
-* `data/verified_facts.json` - Knowledge base for fact verification
-* `data/lifestyle_patterns.jsonl` - Custom NER patterns for lifestyle entities
-* `data/train.csv` - Training dataset (for baseline classifier)
-
----
-
-## 🚀 How to Run
-
-### Main Pipeline
-
-Run the complete analysis pipeline:
-
-```bash
+# Legacy pipeline
 python main.py
 ```
 
-The pipeline will:
-1. Process input text (supports Hinglish)
-2. Extract health claims (Subject-Relation-Object triples)
-3. Score linguistic style (sensationalism detection)
-4. Verify facts against knowledge base
-5. Calculate final risk score
+## Current status
 
-### Training Baseline Classifier
+- Built and tested: claim routing/decomposition, medical-advice gate, hybrid retrieval with RRF and rerank over the 36k-passage KB, mDeBERTa NLI, two-axis risk engine, LangGraph pipeline using all of these (shared `src/evidence_engine.py`), human-review `interrupt()` with SQLite checkpoints, persistent review queue and traces, multilingual preprocessing layer, FastAPI + web UI.
+- Weak spots: confidence weights are hand-set (no trained calibrator), harm scoring is keyword-based, the legacy `main.py` path still exists beside the graph, and nothing has been measured on a reviewed multilingual golden set yet.
+- Not started: Postgres/pgvector, OCR/ASR integration.
+- Results on the 2,799-claim set (see [docs/TruthCheck_Progress_Report.pdf](docs/TruthCheck_Progress_Report.pdf)); strict accuracy counts an abstention as wrong, "answered" covers only claims given a Real/Fake verdict:
 
-To train the baseline TF-IDF + Logistic Regression model:
+  | Run | Coverage | Strict acc. | Answered acc. |
+  |---|---|---|---|
+  | Legacy pipeline + LLM (`phase0_vllm`) | 61.5% | 0.462 | 0.752 |
+  | Graph, mDeBERTa NLI (`step3_graph_v2_aggregation`) | 45.9% | 0.367 | 0.799 |
+  | Graph, Qwen NLI judge (`step5_graph_llm_nli`) | 71.5% | 0.597 | 0.835 |
 
-```bash
-python train_baseline.py
-```
-
-Requires `data/train.csv` with columns: `text` and `risk_label`
-
----
-
-## ✅ Expected Output
-
-### Main Pipeline Output
-
-```
---- Initializing TruthCheck Engine ---
---- Pipeline Ready ---
-
-REPORT FOR: 'Subah khali pet drinking warm water improves digestion!!!'
-Claim: drinking warm water -> improves -> digestion
-Verdict: TRUE
-Risk: 0.09 (LOW RISK / LIKELY SAFE)
-Scientific Truth: Warm water aids digestion and blood circulation.
---------------------------------------------------
-```
-
-### Pipeline Components
-
-The system processes:
-* **Input**: Raw text (English, Hindi, or Hinglish)
-* **Translation**: Hinglish → English (if needed)
-* **Extraction**: Health claims as triples
-* **Verification**: Fact-checking against knowledge base
-* **Scoring**: Linguistic style analysis
-* **Risk Assessment**: Combined risk score and label
-
----
-
-## ⚠️ Known Warnings (Safe to Ignore)
-
-```
-FP16 is not supported on CPU; using FP32 instead
-```
-
-This is expected when running Whisper on CPU and does not affect correctness.
-
----
-
-## 📍 Current Project Status
-
-### ✅ Completed Features
-
-* ✔ Multimodal input processing (Text, Image, Audio)
-* ✔ Language detection and Hinglish translation
-* ✔ Claim extraction (Subject-Relation-Object triples)
-* ✔ Custom Lifestyle NER with spaCy
-* ✔ Linguistic style scoring (sensationalism detection)
-* ✔ Fact verification engine
-* ✔ Risk assessment system
-* ✔ Baseline ML classifier (TF-IDF + Logistic Regression)
-
-### 🔄 In Progress / Future Work
-
-* ⏳ Enhanced knowledge base expansion
-* ⏳ Transformer-based fine-tuning (MuRIL / IndicBERT)
-* ⏳ Android Share Sheet integration
-* ⏳ Web API deployment
-
----
-
-## 🧠 Design Philosophy
-
-* **Real-world focus**: Handles noisy, mixed-language inputs (Hinglish)
-* **Preservation over correction**: Maintains original text characteristics for style analysis
-* **Modular architecture**: Clean separation between preprocessing, extraction, and verification
-* **Knowledge-driven**: Fact verification against curated medical knowledge base
-* **Multi-signal risk assessment**: Combines linguistic style and factual accuracy
-
----
-
-## 📦 Dependencies Summary
-
-### Python Packages (Complete List)
-
-| Package | Purpose | Version |
-|---------|---------|---------|
-| `torch` | Deep learning backend for Whisper | Latest (CPU) |
-| `numpy` | Numerical operations | <2.0 |
-| `openai-whisper` | Automatic Speech Recognition | Latest |
-| `pytesseract` | OCR wrapper for Tesseract | Latest |
-| `pillow` | Image processing | Latest |
-| `fasttext` | Language detection | Latest |
-| `googletrans` | Hinglish translation | Latest |
-| `spacy` | NLP and entity recognition | Latest |
-| `scikit-learn` | ML classifier | Latest |
-| `pandas` | Data handling | Latest |
-
-### External Tools
-
-| Tool | Purpose | Required |
-|------|---------|----------|
-| Tesseract OCR | Image text extraction | ✅ Yes |
-| FFmpeg | Audio processing | ✅ Yes |
-| fastText model | Language detection | ✅ Yes (download separately) |
-| spaCy model | English NLP | ✅ Yes (`en_core_web_sm`) |
-
----
-
-## 📌 Project Architecture
-
-The pipeline follows this flow:
-
-```
-Input (Text/Image/Audio)
-    ↓
-[Preprocessing]
-    ├─ OCR (images) / ASR (audio)
-    ├─ Language Detection
-    └─ Hinglish Translation
-    ↓
-[Claim Extraction]
-    ├─ Custom Lifestyle NER
-    └─ Subject-Relation-Object Triples
-    ↓
-[Analysis]
-    ├─ Linguistic Style Scoring
-    └─ Fact Verification
-    ↓
-[Risk Assessment]
-    └─ Combined Risk Score & Label
-    ↓
-Output Report
-![alt text](image.png)
-
-```
-
----
+  **These numbers are confounded.** A classifier that sees only 10 style features of the claim text (length, punctuation, digits) and no evidence scores 0.987 on this set (`python evaluation/artifact_check.py data/final_health_claims.csv`): fake claims are short phrases, real ones are full article sentences. Do not use this set as a headline metric. The cleaner public-dataset rows (SciFact, HealthVer, PUBHEALTH, ai4bharat; style baseline 0.65 vs majority 0.64) replace it until the reviewed golden set exists: `run_graph_eval.py --public`. The old 0.6831 baseline (`phase0`) also hid abstentions behind a risk fallback.
+- Public benchmark, 1,898 claims (`evaluation/baselines/round2`, `round3`): without a relevance gate the pipeline is biased to FALSE (true claims called true 24%, false called false 96%, balanced accuracy 0.598) because off-topic passages get judged as refutations. With the relevance gate (`MIN_RELEVANCE = 0.6` in `config.py`) and the stricter judge prompt: balanced accuracy 0.704, but only 12% of claims get a verdict, since the knowledge base has no relevant passage for about 70% of them. Knowledge-base coverage is now the main limit. Trimming evidence to the top-2 sentences hurt both judges.
+- NLI stage test on 2,259 claim/evidence pairs (`evaluation/baselines/step4_*`): mDeBERTa 40.4%, DeBERTa-v3-large 45.0%, Qwen judge 65.4%. `TRUTHCHECK_NLI_BACKEND=llm|local|auto` selects the judge; the local model is the fallback.
+- Golden set: `evaluation/golden_set/golden_v1.csv` is still an unreviewed English candidate pool. Check it with `python evaluation/golden_set/validate_golden.py`.
+- `evaluation/smoke_audit.py` (formerly `run_validation_audit.py`) is a smoke check only, not an evaluation. `evaluation/generate_evaluation_report.py` now refuses to run without measured metrics.

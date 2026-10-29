@@ -1,0 +1,33 @@
+--- Loading Embedding Model: BAAI/bge-m3 ---
+
+🔍 Knowledge Base folder : /storage/home/bagler/FoodFactCheck/TruthCheck_eval/data/medical_kb
+✅ Loaded existing FAISS index (36316 vectors)
+✅ Loaded 36316 cached passages
+
+📂 Total .txt files  : 484
+   ⏭️  Already cached  : 484
+   🆕 New to process  : 0
+
+✅ Nothing new to process — KB is up to date.
+
+[Reranker] Loaded CrossEncoder model: BAAI/bge-reranker-v2-m3
+Processed 25/237 (650s)
+Processed 50/237 (1218s)
+Processed 75/237 (1818s)
+Processed 100/237 (2438s)
+Processed 125/237 (3009s)
+Processed 150/237 (3620s)
+Processed 175/237 (4233s)
+Processed 200/237 (4883s)
+Processed 225/237 (5479s)
+{
+  "n": 237,
+  "abstained": 80,
+  "coverage": 0.6624472573839663,
+  "strict_accuracy": 0.47257383966244726,
+  "strict_f1_weighted": 0.44714505507432495,
+  "answered_accuracy": 0.7133757961783439,
+  "answered_precision_weighted": 0.7136112295347965,
+  "answered_recall_weighted": 0.7133757961783439,
+  "answered_f1_weighted": 0.6530935107406598
+}

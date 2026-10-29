@@ -1,0 +1,13 @@
+## data/final_health_claims.csv
+subset                      n  majority   tfidf   style
+ALL                      2799     0.676   0.979   0.987  <- style leak
+
+## golden_v1.csv public rows, TRUE vs FALSE
+subset                      n  majority   tfidf   style
+ALL                      2260     0.639   0.709   0.653
+ai4bharat_dataset        1353     0.778   0.789   0.785
+covidfact_dataset         250     0.776   0.772   0.920  <- style leak
+healthver_dataset         167     0.503   0.593   0.677  <- style leak
+pubhealth_dataset         211     0.725   0.763   0.848  <- style leak
+raw_claims.json           112     0.973   0.973   0.973
+scifact_dataset           167     0.503   0.371   0.450

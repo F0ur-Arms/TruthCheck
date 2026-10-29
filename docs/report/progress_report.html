@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>TruthCheck v2 - Progress Report</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #1c2430; font-size: 10.5pt; line-height: 1.5; margin: 0; }
+  h1 { font-size: 26pt; margin: 0 0 4pt; letter-spacing: -0.5pt; }
+  h2 { font-size: 15pt; margin: 22pt 0 6pt; padding-bottom: 3pt; border-bottom: 2px solid #1f4e79; color: #1f4e79; page-break-after: avoid; }
+  h3 { font-size: 11.5pt; margin: 14pt 0 3pt; color: #1c2430; page-break-after: avoid; }
+  p { margin: 4pt 0 6pt; }
+  ul, ol { margin: 3pt 0 8pt; padding-left: 18pt; }
+  li { margin: 2pt 0; }
+  code { font-family: Menlo, Consolas, monospace; font-size: 8.8pt; background: #eef1f5; padding: 1pt 3pt; border-radius: 3px; }
+  pre { font-family: Menlo, Consolas, monospace; font-size: 8.3pt; background: #f1f4f8; border: 1px solid #d9dfe7; border-radius: 5px; padding: 7pt 9pt; white-space: pre-wrap; margin: 5pt 0 9pt; page-break-inside: avoid; }
+  table { border-collapse: collapse; width: 100%; margin: 6pt 0 10pt; font-size: 9.5pt; page-break-inside: avoid; }
+  th { background: #1f4e79; color: #fff; text-align: left; padding: 4pt 6pt; font-weight: 600; }
+  td { padding: 4pt 6pt; border-bottom: 1px solid #d9dfe7; vertical-align: top; }
+  tr.best td { background: #e6f2ea; font-weight: 600; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+  .sub { color: #5a6676; font-size: 10pt; margin-bottom: 14pt; }
+  .box { border: 1px solid #b7c7d9; background: #f3f7fb; border-radius: 6px; padding: 8pt 11pt; margin: 8pt 0 10pt; page-break-inside: avoid; }
+  .warn { border-color: #e2b96b; background: #fdf6e7; }
+  .box b.t { display: block; margin-bottom: 2pt; }
+  .kpis { display: flex; gap: 8pt; margin: 8pt 0; }
+  .kpi { flex: 1; border: 1px solid #d3dce6; border-radius: 6px; padding: 7pt 9pt; background: #fff; }
+  .kpi .v { font-size: 19pt; font-weight: 700; color: #1f4e79; line-height: 1.1; }
+  .kpi .l { font-size: 8.5pt; color: #5a6676; }
+  .cap { font-size: 8.8pt; color: #5a6676; margin: -4pt 0 8pt; }
+  .pb { page-break-before: always; }
+  .small { font-size: 9pt; color: #5a6676; }
+  svg text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; }
+</style>
+</head>
+<body>
+
+<h1>TruthCheck v2</h1>
+<div class="sub">Progress report: multilingual healthcare misinformation verification<br>
+Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot; updated 29 October 2026 &middot; repository <code>F0ur-Arms/TruthCheck</code></div>
+
+<h2>1. Summary (as of 29 October)</h2>
+<p>TruthCheck takes a health claim (English, Hinglish or Hindi) and returns a verdict, a confidence, a risk assessment and cited evidence. Over the last two weeks the work moved from "make the v2 pipeline real" to "measure it honestly and find where it fails".</p>
+
+<div class="kpis">
+  <div class="kpi"><div class="v">98.7%</div><div class="l">style-only accuracy on the old test set: it is not a valid benchmark</div></div>
+  <div class="kpi"><div class="v">0.706</div><div class="l">balanced accuracy on 1,898 clean public claims (was 0.598)</div></div>
+  <div class="kpi"><div class="v">57%&rarr;18%</div><div class="l">off-topic passages wrongly judged "refutes"</div></div>
+  <div class="kpi"><div class="v">~70%</div><div class="l">of public claims have no relevant passage in the knowledge base</div></div>
+</div>
+
+<ul>
+  <li><b>The pipeline is real and runs end to end</b> (sections 4 to 6): LangGraph orchestration over knowledge-base retrieval, reranking, an LLM evidence judge (Qwen2.5-7B, 64.7 to 65.4% vs 40 to 45% for dedicated NLI models), two-axis risk and a human-review pause.</li>
+  <li><b>The old evaluation set is broken</b> (section 7). Its fake claims are short phrases and its real claims are long sentences, so style alone predicts the label. All earlier headline scores on it are confounded. A cleaner benchmark of 1,898 public-dataset claims replaces it for now.</li>
+  <li><b>On the clean benchmark the pipeline was biased to "false"</b> (section 8): only 24% of true claims were called true, because passages on unrelated topics were judged as refutations.</li>
+  <li><b>A relevance gate and a stricter judge prompt remove the bias</b> (section 9): balanced accuracy 0.598 &rarr; 0.706. The gate alone does this, so the more accurate prompt v1 is kept. The price is coverage: verdicts on 15% of claims, because for about 70% the knowledge base holds nothing relevant. Knowledge-base coverage is now the main limit.</li>
+  <li><b>Multilingual evaluation has started</b> (section 10): on 413 English/Hinglish pairs judged against the same evidence, the judge changes its answer for about one claim in four when the claim is not in English (accuracy 62.0% English, 58.4% translated), and the pipeline's word-by-word normaliser makes it slightly worse (56.9%).</li>
+</ul>
+
+<h2>2. The system</h2>
+<pre>raw input
+  -> normalisation / multilingual preprocessing         (src/preprocessor.py, multilingual/)
+  -> claim routing + decomposition (LLM, heuristic fallback)   (src/claims_processor.py)
+       medical-advice request  =>  NOT_A_FACT_CHECK
+  -> per sub-claim: multi-lane queries, BM25 + dense retrieval, RRF, cross-encoder rerank
+  -> per passage: NLI judgment + source tier + quality score   (src/evidence_engine.py)
+  -> calibrated confidence and verdict                         (src/calibration.py)
+  -> combine sub-claim verdicts                                (graph/nodes.py)
+  -> two-axis risk (confidence vs. harm)                       (src/risk_engine_v2.py)
+  -> high harm or medication-stopping claim: pause for a human (LangGraph interrupt)
+  -> response with citations</pre>
+<p><b>Models.</b> BAAI/bge-m3 (embeddings), BAAI/bge-reranker-v2-m3 (reranker), Qwen2.5-7B-Instruct-AWQ served by vLLM on the IIITD CB GPU cluster (claim decomposition and, now, the NLI judge). The old mDeBERTa NLI model remains as a fallback. <b>Verdicts:</b> SUPPORTED, SUPPORTED_WITH_CAVEATS, MIXED_EVIDENCE, MISLEADING, MOSTLY_FALSE, FALSE, INSUFFICIENT_EVIDENCE, NOT_A_FACT_CHECK.</p>
+<p>Two entry points exist: the legacy <code>main.py</code> and the LangGraph app in <code>graph/</code> served by <code>app/api/main.py</code>. They now share one evidence engine.</p>
+
+<h2>3. Where we started</h2>
+<p>The audit of the repository against the v2 redesign document found that the redesign document described more than the code did.</p>
+<ul>
+  <li>The LangGraph evidence node used a hardcoded NLI stub (<code>"SUPPORTS" if "warm water" in text</code>).</li>
+  <li>The human-review node approved everything automatically; confidence weights were hand-set; the harm score was not used.</li>
+  <li>The golden-set candidates were English-only and overlapped the evaluation set.</li>
+  <li>The reported baseline (accuracy 0.6831, F1 0.6709) was produced without the LLM connected and decided uncertain claims from a risk-score fallback.</li>
+  <li>The repository did not install cleanly (unresolvable spaCy model pin, Python 3.13 vs 3.11).</li>
+</ul>
+
+<h2>4. What was done</h2>
+
+<h3>Step 0: Housekeeping</h3>
+<ul>
+  <li>Made the repo installable on Python 3.11 (fixed the spaCy model pin, rewrote <code>.gitignore</code>, removed stray files).</li>
+  <li>Rewrote the README and removed config constants that nothing used.</li>
+  <li>Test suite brought to a passing state (now 86 tests).</li>
+</ul>
+
+<h3>Step 1: Honest evaluation</h3>
+<ul>
+  <li><code>get_binary_prediction</code> now returns Real, Fake, or <i>abstain</i> instead of silently falling back to a risk threshold.</li>
+  <li>New <code>src/binary_scoring.py</code> reports coverage, strict accuracy (abstain counts as wrong) and accuracy on answered claims.</li>
+  <li><code>generate_evaluation_report.py</code> no longer invents numbers: it refuses to run without measured metrics.</li>
+  <li><code>run_validation_audit.py</code> renamed <code>smoke_audit.py</code> because it is a smoke test, not an evaluation.</li>
+</ul>
+
+<h3>Step 2: Golden set (in progress, with the teammate)</h3>
+<ul>
+  <li>Template and annotation guidelines written (<code>evaluation/golden_set/GUIDELINES.md</code>): 8 verdicts, language mix, population and cessation cases, double annotation with Cohen's kappa.</li>
+  <li>A validator (<code>validate_golden.py</code>) now checks the file against the guidelines. On the current file it reports: verdicts outside the taxonomy (<code>TRUE/UNCERTAIN/PARTLY_TRUE</code>), 100% English, no row labelled or annotated, no specific claim types, 33 duplicates, 1 overlap with the evaluation set.</li>
+  <li>About 2,260 rows have a claim, an evidence quote and a label, which is enough for the stage-level NLI test in step 4.</li>
+</ul>
+
+<h3>Step 3: Wire real components into the graph</h3>
+<ul>
+  <li><b>Shared evidence engine</b> (<code>src/evidence_engine.py</code>): retrieval, rerank, NLI, source tier and quality scoring in one class used by both <code>main.py</code> and the graph.</li>
+  <li><b>Graph nodes</b> now retrieve from the 36,316-passage knowledge base for every sub-claim, run real NLI, and use source tiers read from the knowledge-base filename.</li>
+  <li><b>Risk:</b> the two-axis risk engine is used. Only high harm or a medication-cessation override blocks a response for a human; low confidence is answered as INSUFFICIENT_EVIDENCE and flagged.</li>
+  <li><b>Human review:</b> a real LangGraph <code>interrupt()</code>; the API returns <code>pending_review</code> and <code>POST /api/v1/review/{id}</code> resumes the same thread.</li>
+  <li><b>Persistence:</b> SQLite checkpointer plus a SQLite store for review items and traces, so pending reviews survive a restart.</li>
+</ul>
+
+<h3>Step 4: Stage-level evaluation and fixes</h3>
+<ul>
+  <li>Compared the graph with the legacy pipeline claim by claim. On simple claims they matched (coverage 0.28 vs 0.29, accuracy 0.90 vs 0.88), so the port was faithful. Multi-part claims were the problem.</li>
+  <li><b>Fix 1, sub-claim aggregation.</b> Previously one noisy "false" sub-claim made the whole claim FALSE. Now supported plus refuted sub-claims give MIXED_EVIDENCE, and refutations only win when nothing is supported.</li>
+  <li><b>Fix 2, NLI judge.</b> Isolated test of the NLI stage on 2,259 claim/evidence pairs (section 6). Replaced mDeBERTa with a Qwen judge, keeping a local NLI model as a fallback if the LLM server is unreachable.</li>
+  <li>Held-for-review claims are reported as their own category.</li>
+</ul>
+
+<h2 class="pb">5. Full-pipeline results on the old test set (confounded, see section 7)</h2>
+<p><i>Kept as a record of what was run. These numbers mix fact-checking with the style artifact described in section 7.</i> Same 2,799 claims, same order, every run. "Strict" counts an abstention as a wrong answer; "answered" looks only at claims that received a Real or Fake verdict.</p>
+<table>
+  <tr><th>Run</th><th class="n">Coverage</th><th class="n">Strict acc.</th><th class="n">Strict F1</th><th class="n">Answered acc.</th></tr>
+  <tr><td>Old baseline (no LLM, risk fallback; not comparable)</td><td class="n">n/a</td><td class="n">0.6831</td><td class="n">0.6709</td><td class="n">n/a</td></tr>
+  <tr><td>Legacy pipeline + LLM</td><td class="n">61.5%</td><td class="n">0.4623</td><td class="n">0.4769</td><td class="n">0.7515</td></tr>
+  <tr><td>Graph v1: worst sub-claim wins, mDeBERTa NLI</td><td class="n">41.7%</td><td class="n">0.3023</td><td class="n">0.3124</td><td class="n">0.7256</td></tr>
+  <tr><td>Graph v2: new aggregation rule</td><td class="n">45.9%</td><td class="n">0.3669</td><td class="n">0.3839</td><td class="n">0.7992</td></tr>
+  <tr class="best"><td>Graph v3: + Qwen NLI judge (current)</td><td class="n">71.5%</td><td class="n">0.5970</td><td class="n">0.6085</td><td class="n">0.8347</td></tr>
+</table>
+
+<svg viewBox="0 0 520 162" width="100%" role="img" aria-label="Coverage and answered accuracy by run">
+  <g font-size="10" fill="#1c2430">
+    <text x="0" y="14" font-weight="700">Coverage (share of claims given a verdict)</text>
+    <text x="0" y="34">Legacy + LLM</text><rect x="110" y="25" width="215" height="12" fill="#9fb4c9"/><text x="330" y="35">61.5%</text>
+    <text x="0" y="52">Graph v1</text><rect x="110" y="43" width="146" height="12" fill="#9fb4c9"/><text x="261" y="53">41.7%</text>
+    <text x="0" y="70">Graph v2</text><rect x="110" y="61" width="161" height="12" fill="#9fb4c9"/><text x="276" y="71">45.9%</text>
+    <text x="0" y="88">Graph v3</text><rect x="110" y="79" width="250" height="12" fill="#1f4e79"/><text x="365" y="89">71.5%</text>
+    <text x="0" y="112" font-weight="700">Accuracy on answered claims</text>
+    <text x="0" y="132">Legacy + LLM</text><rect x="110" y="123" width="263" height="12" fill="#9fb4c9"/><text x="378" y="133">75.2%</text>
+    <text x="0" y="150">Graph v3</text><rect x="110" y="141" width="292" height="12" fill="#1f4e79"/><text x="407" y="151">83.5%</text>
+  </g>
+</svg>
+<p class="cap">Bars drawn to scale (100% = 350 px). Graph v3 is highest on both measures.</p>
+
+<h3>What the answered claims look like</h3>
+<table>
+  <tr><th>Run</th><th class="n">Fake claims answered</th><th class="n">Fake recall</th><th class="n">Real recall</th><th class="n">Real called Fake</th></tr>
+  <tr><td>Legacy + LLM</td><td class="n">518 / 907</td><td class="n">57.3%</td><td class="n">82.8%</td><td class="n">207</td></tr>
+  <tr class="best"><td>Graph v3</td><td class="n">684 / 907</td><td class="n">96.9%</td><td class="n">76.5%</td><td class="n">310</td></tr>
+</table>
+<p>The new pipeline catches far more misinformation but also flags more true statements as false. On the claims each pipeline answered, always guessing "Real" would score 0.699 (legacy) and 0.658 (graph v3), so both are above that floor: 0.752 and 0.835.</p>
+
+<h3>Verdict distribution (Graph v3)</h3>
+<table>
+  <tr><th>FALSE</th><th>SUPPORTED</th><th>MIXED_EVIDENCE</th><th>INSUFFICIENT_EVIDENCE</th><th>SUPPORTED_WITH_CAVEATS</th><th>NOT_A_FACT_CHECK</th><th>Held for review</th></tr>
+  <tr><td>973</td><td>863</td><td>366</td><td>168</td><td>166</td><td>117</td><td>146 (5.2%)</td></tr>
+</table>
+<p>INSUFFICIENT_EVIDENCE fell from 1,119 (graph v2) to 168 once the NLI judge replaced mDeBERTa. Excluding the 146 held claims, strict accuracy is 0.630 and coverage 75.5%.</p>
+
+<h2 class="pb">6. NLI stage test</h2>
+<p>To isolate the NLI stage, each model was given a claim and its gold evidence quote (2,259 rows from the public datasets in the candidate pool: ai4bharat, SciFact, HealthVer, COVID-Fact, PUBHEALTH) and asked for SUPPORTS, REFUTES or NEI. Majority-class guessing scores about 44%.</p>
+<table>
+  <tr><th>Judge</th><th class="n">Accuracy</th><th>Behaviour</th></tr>
+  <tr><td>mDeBERTa-v3-base (previous)</td><td class="n">40.4%</td><td>Answers NEI for 57% of rows when only 22% truly are</td></tr>
+  <tr><td>XLM-RoBERTa-large-xnli</td><td class="n">43.0%</td><td>Same pattern</td></tr>
+  <tr><td>DeBERTa-v3-large (mnli/fever/anli)</td><td class="n">45.0%</td><td>Same pattern</td></tr>
+  <tr><td>Qwen2.5-7B, single-letter answer with log-probs</td><td class="n">58.8%</td><td>Overconfident: right 63% of the time when it says 90%+</td></tr>
+  <tr class="best"><td>Qwen2.5-7B, JSON label (adopted)</td><td class="n">65.4%</td><td>Supports 74%, refutes 69%, NEI 46% recall</td></tr>
+</table>
+<svg viewBox="0 0 520 110" width="100%" role="img" aria-label="NLI accuracy by model">
+  <g font-size="10" fill="#1c2430">
+    <text x="0" y="14">mDeBERTa base</text><rect x="190" y="5" width="141" height="12" fill="#9fb4c9"/><text x="336" y="15">40.4%</text>
+    <text x="0" y="32">XLM-R large</text><rect x="190" y="23" width="151" height="12" fill="#9fb4c9"/><text x="346" y="33">43.0%</text>
+    <text x="0" y="50">DeBERTa-v3 large</text><rect x="190" y="41" width="158" height="12" fill="#9fb4c9"/><text x="353" y="51">45.0%</text>
+    <text x="0" y="68">Qwen, log-prob letter</text><rect x="190" y="59" width="206" height="12" fill="#6f93b6"/><text x="401" y="69">58.8%</text>
+    <text x="0" y="86">Qwen, JSON label</text><rect x="190" y="77" width="229" height="12" fill="#1f4e79"/><text x="424" y="87">65.4%</text>
+  </g>
+</svg>
+<p class="cap">Bars drawn to scale (100% = 350 px).</p>
+<p>The dedicated NLI models are trained on short sentence pairs and struggle with abstract-length evidence. The Qwen judge's confidences are interim: each label's confidence is the precision it achieved on these rows (SUPPORTS 0.58, REFUTES 0.79, NEI 0.55) until a calibrator is fitted on the golden set.</p>
+
+<h2 class="pb">7. Benchmark validity</h2>
+<p>A simple check: can the label be predicted from the claim text alone, without any evidence? If yes, a dataset rewards surface cues and pipeline scores on it say little about fact-checking. <code>evaluation/artifact_check.py</code> trains two text-only classifiers with 5-fold cross-validation: bag-of-words, and 10 style features (word count, length, digits, negation and hedge words, commas, final full stop, capitalisation, absolute words).</p>
+<table>
+  <tr><th>Dataset</th><th class="n">n</th><th class="n">Majority class</th><th class="n">Bag-of-words</th><th class="n">Style only</th><th>Verdict</th></tr>
+  <tr><td>Old test set, <code>final_health_claims.csv</code></td><td class="n">2,799</td><td class="n">0.676</td><td class="n">0.979</td><td class="n">0.987</td><td>Invalid</td></tr>
+  <tr><td>Public rows, all (TRUE vs FALSE)</td><td class="n">2,260</td><td class="n">0.639</td><td class="n">0.709</td><td class="n">0.653</td><td>Mostly clean</td></tr>
+  <tr><td>&nbsp;&nbsp;SciFact</td><td class="n">167</td><td class="n">0.503</td><td class="n">0.371</td><td class="n">0.450</td><td>Clean</td></tr>
+  <tr><td>&nbsp;&nbsp;ai4bharat</td><td class="n">1,353</td><td class="n">0.778</td><td class="n">0.789</td><td class="n">0.785</td><td>Clean</td></tr>
+  <tr><td>&nbsp;&nbsp;HealthVer</td><td class="n">167</td><td class="n">0.503</td><td class="n">0.593</td><td class="n">0.677</td><td>Mild leak</td></tr>
+  <tr><td>&nbsp;&nbsp;PUBHEALTH</td><td class="n">211</td><td class="n">0.725</td><td class="n">0.763</td><td class="n">0.848</td><td>Mild leak</td></tr>
+  <tr><td>&nbsp;&nbsp;COVID-Fact</td><td class="n">250</td><td class="n">0.776</td><td class="n">0.772</td><td class="n">0.920</td><td>Excluded</td></tr>
+</table>
+<p>In the old set, fake claims average 4.4 words and 27% end with a full stop; real claims average 18 words and 98% end with one. The interim benchmark is the 1,898 TRUE/FALSE claims from SciFact, HealthVer, PUBHEALTH and ai4bharat (67.4% false). It is English and mostly biomedical/COVID, so it is still not our target domain.</p>
+
+<h2>8. Round 2: the pipeline on the clean benchmark</h2>
+<h3>Does trimming evidence to the two most relevant sentences help the judge?</h3>
+<p>Gold evidence, 2,009 rows, three labels (supports / refutes / not enough information).</p>
+<table>
+  <tr><th>Judge</th><th class="n">Full passage</th><th class="n">Top-2 sentences</th></tr>
+  <tr><td>DeBERTa-v3-large</td><td class="n">45.2%</td><td class="n">42.4%</td></tr>
+  <tr><td>Qwen2.5-7B judge</td><td class="n">64.7%</td><td class="n">59.6%</td></tr>
+</table>
+<p>No: both judges get worse. Passage length is not what holds the dedicated models back, and the LLM uses the surrounding context. Full passages are kept.</p>
+<h3>Full pipeline, 1,898 claims</h3>
+<table>
+  <tr><th>Subset</th><th class="n">Answered</th><th class="n">Accuracy (answered)</th><th class="n">True called true</th><th class="n">False called false</th></tr>
+  <tr><td>All</td><td class="n">69.5%</td><td class="n">0.724 (always-false 0.676)</td><td class="n">24%</td><td class="n">96%</td></tr>
+  <tr><td>ai4bharat</td><td class="n">70%</td><td class="n">0.81</td><td class="n">28%</td><td class="n">97%</td></tr>
+  <tr><td>HealthVer</td><td class="n">74%</td><td class="n">0.64</td><td class="n">38%</td><td class="n">86%</td></tr>
+  <tr><td>PUBHEALTH</td><td class="n">62%</td><td class="n">0.39</td><td class="n">17%</td><td class="n">88%</td></tr>
+  <tr><td>SciFact</td><td class="n">71%</td><td class="n">0.49</td><td class="n">5%</td><td class="n">98%</td></tr>
+</table>
+<p><b>Cause.</b> The run saved, for every claim, the passages used and the judge's label for each. For true claims wrongly called false, the best passage found had a median reranker relevance of 0.13 (true claims answered correctly: 0.78), and the judge labelled 51% of these weak passages "refutes". Example: an encephalitis claim was "refuted" by a nutrition survey about Kerala. The knowledge base, built around Indian food and nutrition sources, mostly does not cover these research claims, and "nothing relevant found" turned into "false". Many correct "false" verdicts rested on equally weak evidence (median 0.25), so the 96% is largely the same bias.</p>
+
+<h2>9. Round 3: relevance gate and judge prompt</h2>
+<p><b>Relevance gate.</b> Passages the reranker scores below 0.6 are dropped before judging; with nothing left the answer is INSUFFICIENT_EVIDENCE. The threshold was chosen on a random half of the claims and checked on the other half (simulation: balanced accuracy 0.596 &rarr; 0.712). <b>Judge prompt v2.</b> "Refutes" now requires a passage on the same subject that directly contradicts the claim; off-topic text is explicitly "not enough information".</p>
+<table>
+  <tr><th>Judge-only test</th><th class="n">Prompt v1</th><th class="n">Prompt v2</th></tr>
+  <tr><td>Claim paired with another claim's evidence: wrongly "refutes"</td><td class="n">57%</td><td class="n">18%</td></tr>
+  <tr><td>Claim paired with its own gold evidence: accuracy</td><td class="n">64.7%</td><td class="n">58.0%</td></tr>
+</table>
+<table>
+  <tr><th>Full pipeline, 1,898 claims</th><th class="n">Answered</th><th class="n">True called true</th><th class="n">False called false</th><th class="n">Balanced acc.</th></tr>
+  <tr><td>Round 2: no gate, prompt v1</td><td class="n">69.5%</td><td class="n">24%</td><td class="n">96%</td><td class="n">0.598</td></tr>
+  <tr><td>Round 3: gate 0.6, prompt v2</td><td class="n">12.2%</td><td class="n">74%</td><td class="n">67%</td><td class="n">0.704</td></tr>
+  <tr class="best"><td>Round 4: gate 0.6, prompt v1</td><td class="n">15.1%</td><td class="n">65%</td><td class="n">76%</td><td class="n">0.706</td></tr>
+</table>
+<p>The bias is gone, but for 1,293 of 1,854 claims no passage passes the gate. Prompt v2 also costs 6.7 points with correct evidence, so round 4 re-ran the gate with prompt v1. <b>The gate alone is enough:</b> balanced accuracy is the same (0.706 vs 0.704), but prompt v1 answers more claims (286 vs 232) with higher accuracy on them (72.4% vs 69.8%). It leans slightly back toward "false" (true claims called true 65% vs 74%), which is why the balance is unchanged. Prompt v1 with the gate is now the default; v2 remains available for use without the gate. Separately, 255 claims (13%) were held for human review: the keyword harm detector fires on topic words such as "cancer" or "COVID", which is too many for real reviewers.</p>
+
+<h2>10. Multilingual data and round 4</h2>
+<p>The teammate's branch <code>golden-set-v1</code> (22 October, not merged) adds 1,050 rows: 700 Hinglish and 350 labelled Hindi. Validator findings: the "Hindi" rows contain no Devanagari (all romanized); the rows appear machine-translated from existing English claims, including some junk patterns; labels are still TRUE/FALSE/UNCERTAIN; no row is reviewed; translated rows skew false (571 vs 111 true). A copy of this report and ten chunk files were committed by mistake.</p>
+<p>What it enables now: 413 translated rows pair one-to-one with an English original sharing the same evidence (278 Hinglish, 135 romanized Hindi). The running cross-lingual test judges the English claim, the translated claim, and the translated claim after the pipeline's own normaliser, against the same evidence, measuring accuracy and agreement with English. The normaliser matters: it maps word by word, e.g. "Kya aap apni neend mein seekh sakte hain?" becomes "kya aap apni neend in seekh sakte are?", and this is what the graph currently gives the judge.</p>
+<h3>Cross-lingual result (413 pairs, judge prompt v1, same gold evidence)</h3>
+<table>
+  <tr><th>Version of the claim</th><th class="n">Judge accuracy</th><th class="n">Same label as English</th></tr>
+  <tr><td>English original</td><td class="n">62.0%</td><td class="n">n/a</td></tr>
+  <tr><td>Hinglish / romanized Hindi as written</td><td class="n">58.4%</td><td class="n">77.2%</td></tr>
+  <tr><td>After the pipeline's normaliser</td><td class="n">56.9%</td><td class="n">73.8%</td></tr>
+  <tr><td>&nbsp;&nbsp;Hinglish only (n=278): English vs translated</td><td class="n">62.9% vs 61.2%</td><td class="n">78.8%</td></tr>
+  <tr><td>&nbsp;&nbsp;Romanized Hindi only (n=135): English vs translated</td><td class="n">60.0% vs 52.6%</td><td class="n">74.1%</td></tr>
+</table>
+<p>About one judgment in four changes only because the claim is not in English. The most frequent change is the dangerous direction: 25 claims the judge refuted in English were judged "supports" in translation. The word-by-word normaliser does not help; it lowers both accuracy and agreement slightly. The translations are machine-made and the sample is small, so this is a first signal, but it supports translating claims properly into English before retrieval and judging.</p>
+<table>
+  <tr><th>Round 4 run</th><th>Question</th><th>Status</th></tr>
+  <tr><td>Gate + prompt v1, 1,898 claims</td><td>Is the gate alone enough, keeping the more accurate prompt?</td><td>Done: yes (section 9); v1 is the default</td></tr>
+  <tr><td>Cross-lingual pairs, 413</td><td>Does Hinglish change the judge's answer? Does the normaliser help or hurt?</td><td>Done (above)</td></tr>
+</table>
+
+<h2>11. Infrastructure and how to reproduce</h2>
+<ul>
+  <li><b>LLM server:</b> Qwen2.5-7B-Instruct-AWQ on vLLM 0.7.2, PBS queue <code>Gpu1-10g</code> (job limit one per queue, 48-hour walltime). Runbook: <code>docs/LOCAL_LLM_DEPLOYMENT.md</code>.</li>
+  <li><b>Evaluation jobs:</b> <code>scripts/cluster/eval_baseline.pbs</code>, sharded across 4 to 6 processes on a 40 GB slice. The script picks the MIG slice for whichever queue it runs on and waits for the LLM server before starting. The cluster allows one running job per queue and <b>two running jobs per user in total</b>, so with the LLM server up only one evaluation job runs at a time; judge-only tests that need no GPU run on the master node in parallel.</li>
+  <li><b>Access:</b> off campus the hostname does not resolve; the IP <code>192.168.3.91</code> works over the VPN.</li>
+  <li>The cluster account password is never stored in the repository.</li>
+</ul>
+<pre># Tests (86 pass)
+python -m pytest tests -q
+
+# Validate the golden set
+python evaluation/golden_set/validate_golden.py
+
+# Cluster jobs (from the master node, repo synced to ~/FoodFactCheck/TruthCheck_eval)
+qsub -v MODE=main  scripts/cluster/eval_baseline.pbs                          # legacy path
+qsub -v "MODE=graph,OUT_DIR=evaluation/baselines/my_run" scripts/cluster/eval_baseline.pbs
+qsub -v "MODE=nli,NLI_MODELS=default+org/model" scripts/cluster/eval_baseline.pbs
+qsub -q Gpu4-40g -v "MODE=graph,N=6,OUT_DIR=evaluation/baselines/x,EXTRA=--public+--details" scripts/cluster/eval_baseline.pbs
+
+# Benchmark artifact check; cross-lingual judge test
+python evaluation/artifact_check.py data/final_health_claims.csv
+python evaluation/eval_crosslingual.py path/to/golden.csv --out pairs.json
+
+# API with the LangGraph pipeline
+uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto</pre>
+<p>Results are stored under <code>evaluation/baselines/</code>: <code>phase0_vllm</code> (legacy + LLM), <code>step3_graph</code> (graph v1), <code>step3_graph_v2_aggregation</code>, <code>step4_nli</code> and <code>step4_llm_judge</code> (NLI tests), <code>step5_graph_llm_nli</code> (graph v3), <code>artifact_check</code>, <code>round2</code>, <code>round3</code>.</p>
+
+<h2>12. Caveats and corrections</h2>
+<ul>
+  <li><b>Correction to an earlier claim.</b> During this work I said the LLM's own knowledge produced the baseline verdicts. That was wrong: verdicts come from the calibrator over retrieved evidence. The LLM affected only claim decomposition and legacy risk fields.</li>
+  <li><b>Style artifact (found 25 October).</b> The 2,799-claim set can be classified at 98.7% from text style alone (section 7).</li>
+  <li><b>Partly contaminated run.</b> In round 2's full-pipeline run, the first half of the shards started before the LLM server had loaded, so their first claims were judged by the local fallback model. The effect is probably small but cannot be counted. Jobs now wait for the server, and every claim records how many fallback judgments it used. Round 3 was unaffected.</li>
+  <li><b>Knowledge-base content.</b> <code>data/medical_kb/testing.txt</code> holds 62 unsourced, hand-written statements, some matching old test claims word for word; it should probably leave the knowledge base.</li>
+  <li><b>Evaluation set limits.</b> The 2,799 claims are sentences scraped from articles, not clean standalone facts, and they overlap the knowledge base. Real/Fake labels were assigned at sentence level. Treat scores as relative.</li>
+  <li><b>The legacy "fast path"</b> (strong match to the 50 verified facts) always produced SUPPORTED evidence regardless of the NLI result and scored only 0.66, close to always guessing "Real". It was deliberately not ported to the graph.</li>
+  <li><b>Possible leakage.</b> Some of the public datasets used for the NLI test may be in the training data of the models tested. The NLI comparison is a screening test.</li>
+  <li><b>Scoring choices.</b> Held-for-review claims count as abstentions in the headline scores. Sub-claim aggregation and the NLI judge were chosen on these runs; both must be re-checked on the reviewed golden set.</li>
+  <li><b>Silent decomposition fallback.</b> When the LLM call that splits a claim into sub-claims failed or exceeded a hard-coded 15-second timeout, the code quietly used a simple heuristic instead. Judging by the decomposition patterns, this happened for about 14% of claims in round 2 and 26% in round 3. The timeout is now configurable (30 s default) and every fallback is counted; rounds 2 to 4 ran with the old behaviour.</li>
+  <li><b>Interim parts.</b> Calibration weights are hand-set; the judge's label confidences were measured with prompt v1; the harm score is keyword-based; the gate threshold was tuned on public claims, not on the target domain.</li>
+</ul>
+
+<h2>13. Status and next steps</h2>
+<table>
+  <tr><th style="width:32%">Item</th><th style="width:16%">Status</th><th>Notes</th></tr>
+  <tr><td>Step 0: housekeeping</td><td>Done</td><td>Repo installs on Python 3.11; 86 tests pass</td></tr>
+  <tr><td>Step 1: honest evaluation</td><td>Done</td><td>Abstentions visible; style-artifact check added</td></tr>
+  <tr><td>Step 2: golden set</td><td>In progress</td><td>English pool plus 1,050 machine-translated Hinglish rows; needs 8-verdict labels, Devanagari Hindi, review, double annotation</td></tr>
+  <tr><td>Step 3: real components in graph</td><td>Done</td><td>Legacy path still present; Postgres not done</td></tr>
+  <tr><td>Step 4: stage evaluation</td><td>Mostly done</td><td>Judge, sentence selection, off-topic test, relevance gate measured; retrieval recall needs gold evidence linked to the knowledge base</td></tr>
+  <tr><td>Step 5: calibration</td><td>Not started</td><td>Needs the reviewed golden set</td></tr>
+  <tr><td>Step 6: error analysis</td><td>Started</td><td>"False" bias traced to off-topic evidence; harm-hold rate too high</td></tr>
+  <tr><td>Step 7: scale and multimodal</td><td>Not started</td><td>OCR, audio, Postgres/pgvector</td></tr>
+</table>
+<ol>
+  <li><b>Finish round 4</b>: judge prompt chosen (v1 with the gate); pipeline-level cross-lingual test running.</li>
+  <li><b>Fix how Hinglish enters the pipeline</b>: replace the word-by-word normaliser with the multilingual processor's English gloss or an LLM translation, depending on round 4.</li>
+  <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
+  <li><b>Harm hold</b>: trigger on actionable harm (stopping medication, replacing treatment, dosage) instead of topic words.</li>
+  <li><b>Golden set v1</b> with the teammate: real Hinglish and Devanagari Hindi claims, 8 verdicts, evidence, review; then calibration and risk-coverage curves.</li>
+</ol>
+
+<h2>14. Commit history</h2>
+<table>
+  <tr><th style="width:14%">Commit</th><th>Change</th></tr>
+  <tr><td><code>42fbebb</code></td><td>Step 0 cleanup: installable repo, ignore rules, removed stray files</td></tr>
+  <tr><td><code>a0c83d4</code></td><td>Step 1: abstention-aware scoring, honest evaluation report</td></tr>
+  <tr><td><code>7b10ce2</code></td><td>Golden set template and annotation guidelines</td></tr>
+  <tr><td><code>3a2666e</code></td><td>Phase-0 baseline with LLM connected; sharded evaluation on the cluster</td></tr>
+  <tr><td><code>9ce521b</code></td><td>Step 3: graph on real retrieval, NLI and risk; interrupt review; persistent storage</td></tr>
+  <tr><td><code>88ce2e5</code></td><td>Step 4: stage NLI evaluation, LLM NLI judge, better sub-claim aggregation</td></tr>
+  <tr><td><code>e062496</code></td><td>Rounds 2-3: artifact check, clean public benchmark, relevance gate, stricter judge prompt</td></tr>
+</table>
+<p class="small">Generated from the repository state at the commit above. Numbers are taken from <code>evaluation/baselines/*/merged_summary.txt</code> and the NLI summary files.</p>
+
+</body>
+</html>

@@ -16,6 +16,7 @@ from typing import Any, Dict, List, Optional
 from pydantic import BaseModel, Field
 
 from src.llm_fallback import ConfiguredLLMVerifier
+from config import LLM_TIMEOUT_SECONDS
 
 
 class SubClaim(BaseModel):
@@ -95,6 +96,8 @@ Return valid JSON with the schema:
 class ClaimsProcessor:
     def __init__(self, llm_verifier: Optional[ConfiguredLLMVerifier] = None) -> None:
         self.llm = llm_verifier or ConfiguredLLMVerifier()
+        # Counts LLM routing/decomposition failures that fell back to the heuristic path.
+        self.fallback_count = 0
 
     def process_query(self, raw_text: str, cleaned_text: Optional[str] = None) -> CanonicalClaimRepresentation:
         """Process input text through the medical routing gate and claim decomposition engine."""
@@ -151,8 +154,7 @@ class ClaimsProcessor:
                     claims=sub_claims
                 )
             except Exception:
-                # LLM failed, fallback to heuristic processing
-                pass
+                self.fallback_count += 1
 
         # 2. Heuristic Rule-Based Processing (Fallback)
         return self._heuristic_processing(raw_text, cleaned_text)
@@ -222,7 +224,7 @@ class ClaimsProcessor:
             f"{self.llm.base_url}/chat/completions",
             headers=headers,
             json=payload,
-            timeout=15
+            timeout=LLM_TIMEOUT_SECONDS
         )
         res.raise_for_status()
         content = res.json()["choices"][0]["message"]["content"]

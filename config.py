@@ -21,7 +21,11 @@ DEBUG_LOG_PATH = BASE_DIR / "src" / "loginput.txt"
 # cannot accidentally reuse vectors produced by a different embedding model.
 EMBEDDING_MODEL = "BAAI/bge-m3"
 NLI_MODEL = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
+NLI_FALLBACK_MODEL = "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
 RERANKER_MODEL = "BAAI/bge-reranker-v2-m3"
+# Reranker score (0-1) below which a passage counts as off-topic and is not judged. 0.6 was chosen
+# on a dev half of the public claims (evaluation/baselines/round2); 0 disables the gate.
+MIN_RELEVANCE = 0.6
 
 # The fallback uses an explicit OpenAI-compatible endpoint.  It is disabled
 # unless both values are supplied by the deployment environment.
@@ -35,7 +39,3 @@ FACT_LABEL_SUGGESTIONS = DATA_DIR / "verified_facts_label_suggestions.json"
 # Risk Engine Weights
 WEIGHT_FACT  = 0.7
 WEIGHT_STYLE = 0.3
-
-# Translation Settings
-SOURCE_LANG = "hi"
-TARGET_LANG = "en"

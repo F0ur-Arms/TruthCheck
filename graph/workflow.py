@@ -2,9 +2,15 @@
 
 from __future__ import annotations
 
+import os
+import sqlite3
+from pathlib import Path
 from typing import Literal
 from langgraph.graph import StateGraph, START, END
 from langgraph.checkpoint.memory import MemorySaver
+from langgraph.checkpoint.sqlite import SqliteSaver
+
+from config import DATA_DIR
 
 from graph.state import TruthCheckState
 from graph.nodes import (
@@ -28,6 +34,18 @@ def review_decision_edge(state: TruthCheckState) -> Literal["human_review", "gen
     if state.needs_human_review:
         return "human_review"
     return "generate_response"
+
+
+def default_checkpointer():
+    """SQLite-backed checkpointer so a paused review survives a process restart.
+
+    TRUTHCHECK_CHECKPOINT_DB overrides the path; the value ":memory:" selects the in-memory saver.
+    """
+    path = os.environ.get("TRUTHCHECK_CHECKPOINT_DB", str(Path(DATA_DIR) / "checkpoints.sqlite"))
+    if path == ":memory:":
+        return MemorySaver()
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    return SqliteSaver(sqlite3.connect(path, check_same_thread=False))
 
 
 def create_truthcheck_graph(checkpointer=None):
@@ -73,7 +91,7 @@ def create_truthcheck_graph(checkpointer=None):
     builder.add_edge("human_review", "generate_response")
     builder.add_edge("generate_response", END)
 
-    saver = checkpointer if checkpointer is not None else MemorySaver()
+    saver = checkpointer if checkpointer is not None else default_checkpointer()
     return builder.compile(checkpointer=saver)
 
 

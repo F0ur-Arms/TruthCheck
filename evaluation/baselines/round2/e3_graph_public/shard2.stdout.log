@@ -1,0 +1,34 @@
+--- Loading Embedding Model: BAAI/bge-m3 ---
+
+🔍 Knowledge Base folder : /storage/home/bagler/FoodFactCheck/TruthCheck_eval/data/medical_kb
+✅ Loaded existing FAISS index (36316 vectors)
+✅ Loaded 36316 cached passages
+
+📂 Total .txt files  : 484
+   ⏭️  Already cached  : 484
+   🆕 New to process  : 0
+
+✅ Nothing new to process — KB is up to date.
+
+[Reranker] Loaded CrossEncoder model: BAAI/bge-reranker-v2-m3
+--- Loading NLI Model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli ---
+Processed 25/237 (985s)
+Processed 50/237 (1538s)
+Processed 75/237 (2116s)
+Processed 100/237 (2765s)
+Processed 125/237 (3405s)
+Processed 150/237 (4010s)
+Processed 175/237 (4658s)
+Processed 200/237 (5255s)
+Processed 225/237 (5889s)
+{
+  "n": 237,
+  "abstained": 77,
+  "coverage": 0.6751054852320675,
+  "strict_accuracy": 0.5189873417721519,
+  "strict_f1_weighted": 0.5112330226593662,
+  "answered_accuracy": 0.76875,
+  "answered_precision_weighted": 0.7930989583333333,
+  "answered_recall_weighted": 0.76875,
+  "answered_f1_weighted": 0.7250113122171945
+}

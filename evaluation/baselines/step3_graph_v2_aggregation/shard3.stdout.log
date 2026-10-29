@@ -1,0 +1,52 @@
+--- Loading Embedding Model: BAAI/bge-m3 ---
+
+🔍 Knowledge Base folder : /storage/home/bagler/FoodFactCheck/TruthCheck_eval/data/medical_kb
+✅ Loaded existing FAISS index (36316 vectors)
+✅ Loaded 36316 cached passages
+
+📂 Total .txt files  : 484
+   ⏭️  Already cached  : 484
+   🆕 New to process  : 0
+
+✅ Nothing new to process — KB is up to date.
+
+[Reranker] Loaded CrossEncoder model: BAAI/bge-reranker-v2-m3
+--- Loading NLI Model: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli ---
+Processed 25/699 (1157s)
+Processed 50/699 (1560s)
+Processed 75/699 (1989s)
+Processed 100/699 (2429s)
+Processed 125/699 (2880s)
+Processed 150/699 (3271s)
+Processed 175/699 (3732s)
+Processed 200/699 (4151s)
+Processed 225/699 (4540s)
+Processed 250/699 (4940s)
+Processed 275/699 (5358s)
+Processed 300/699 (5795s)
+Processed 325/699 (6236s)
+Processed 350/699 (6630s)
+Processed 375/699 (7036s)
+Processed 400/699 (7457s)
+Processed 425/699 (7848s)
+Processed 450/699 (8244s)
+Processed 475/699 (8638s)
+Processed 500/699 (9018s)
+Processed 525/699 (9405s)
+Processed 550/699 (9788s)
+Processed 575/699 (10211s)
+Processed 600/699 (10625s)
+Processed 625/699 (11008s)
+Processed 650/699 (11368s)
+Processed 675/699 (11783s)
+{
+  "n": 699,
+  "abstained": 381,
+  "coverage": 0.45493562231759654,
+  "strict_accuracy": 0.3590844062947067,
+  "strict_f1_weighted": 0.3733614952835917,
+  "answered_accuracy": 0.789308176100629,
+  "answered_precision_weighted": 0.8268687591995862,
+  "answered_recall_weighted": 0.789308176100629,
+  "answered_f1_weighted": 0.7951028046385068
+}

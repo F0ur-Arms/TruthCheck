@@ -24,15 +24,17 @@ LangGraph Workflow Engine (graph_app.invoke)
     │
     ├── 1. Ingest Node (text normalization & script mapping)
     ├── 2. Medical Routing & Decomposition Node (Medical Advice Gate -> NOT_A_FACT_CHECK or Claim Decomposition)
-    ├── 3. Hybrid Retrieve & Rerank Node (5-lane BM25 + Dense FAISS RRF + BAAI/bge-reranker-v2-m3)
-    ├── 4. Evidence & Calibration Node (Source tier weighting, domain recency, calibrated logit scoring)
-    ├── 5. Risk Assessment Node (Two-axis risk scoring & hard medication cessation override check)
-    ├── 6. Human Review Node (Conditional interrupt checkpoint if low confidence or critical harm)
-    └── 7. Generate Response Node (Bounded LLM explanation synthesis constrained to top reranked citations)
+    ├── 3. Hybrid Retrieve & Rerank Node (per sub-claim: 5-lane BM25 + dense FAISS RRF over the medical KB + BAAI/bge-reranker-v2-m3)
+    ├── 4. Evidence & Calibration Node (per sub-claim: mDeBERTa NLI, source tier from KB filename, hand-set logistic confidence; worst sub-claim verdict wins)
+    ├── 5. Risk Assessment Node (two-axis harm score and medication-cessation override; keyword-based, not learned)
+    ├── 6. Human Review Node (LangGraph interrupt(), only for high harm or a cessation override; low confidence is answered and flagged, not blocked)
+    └── 7. Generate Response Node (optional LLM-written explanation; the verdict itself never comes from the LLM)
     │
     ▼
 FastAPI Response JSON (Verdict, Calibrated Confidence, Citations, Trace ID)
 ```
+
+A held request returns `status: pending_review`; `POST /api/v1/review/{request_id}` resumes the same graph thread. Checkpoints are stored in SQLite (`TRUTHCHECK_CHECKPOINT_DB`, default `data/checkpoints.sqlite`); review items and traces in `TRUTHCHECK_STORE_DB` (default `data/store.sqlite`). Known limits: the confidence weights are not yet fitted to labelled data, and the harm axis is keyword-based.
 
 ## Architecture
 

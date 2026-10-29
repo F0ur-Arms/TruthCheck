@@ -1,0 +1,20 @@
+--- Loading NLI Model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli ---
+200/2009
+400/2009
+600/2009
+800/2009
+1000/2009
+1200/2009
+1400/2009
+1600/2009
+1800/2009
+2000/2009
+rows: 2009  accuracy: 0.4236
+gold \ pred  SUPPORTS   REFUTES       NEI
+   SUPPORTS       253        22       281
+    REFUTES       142       341       467
+        NEI       243         3       257
+  ai4bharat_dataset      n=1380  acc=0.384
+  healthver_dataset      n=250   acc=0.496
+  pubhealth_dataset      n=212   acc=0.528
+  scifact_dataset        n=167   acc=0.509

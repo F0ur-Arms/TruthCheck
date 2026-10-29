@@ -1,0 +1,12 @@
+{
+  "n": 2799,
+  "abstained": 1077,
+  "coverage": 0.6152197213290461,
+  "strict_accuracy": 0.46230796713111827,
+  "strict_f1_weighted": 0.47691359127355576,
+  "answered_accuracy": 0.7514518002322881,
+  "answered_precision_weighted": 0.7495878222329022,
+  "answered_recall_weighted": 0.7514518002322881,
+  "answered_f1_weighted": 0.7504677627005448
+}
+verdicts: [('SUPPORTED', 1099), ('INSUFFICIENT_EVIDENCE', 1076), ('FALSE', 451), ('NOT_A_FACT_CHECK', 117), ('MIXED_EVIDENCE', 56)]
