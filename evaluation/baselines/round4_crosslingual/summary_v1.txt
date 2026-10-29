@@ -1,0 +1,7 @@
+pairs: 413 {'hinglish': 278, 'hindi': 135}  prompt: v1
+  en         accuracy 0.620  agrees with English 1.000  errors 0
+  translated accuracy 0.584  agrees with English 0.772  errors 0
+  mapped     accuracy 0.569  agrees with English 0.738  errors 0
+  hindi      n=135: EN acc 0.600, translated acc 0.526, agreement 0.741
+  hinglish   n=278: EN acc 0.629, translated acc 0.612, agreement 0.788
+  label changes EN -> translated: [(('REFUTES', 'SUPPORTS'), 25), (('NEI', 'SUPPORTS'), 22), (('NEI', 'REFUTES'), 17), (('SUPPORTS', 'NEI'), 16), (('SUPPORTS', 'REFUTES'), 9), (('REFUTES', 'NEI'), 5)]

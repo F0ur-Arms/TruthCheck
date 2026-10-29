@@ -18,6 +18,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import pandas as pd
 
 from config import EVALUATION_DATASET
+import graph.nodes as nodes
 from graph.workflow import create_truthcheck_graph
 from src.binary_scoring import get_binary_prediction, score_with_abstain
 
@@ -76,6 +77,7 @@ def main():
     for idx, row in df.iterrows():
         cfg = {"configurable": {"thread_id": f"eval-{idx}"}}
         out = {}
+        fallback_before = getattr(nodes.get_engine().nli_judge, "fallback_calls", 0)
         try:
             out = app.invoke({"raw_input": str(row["claim"])}, config=cfg)
             if out.get("__interrupt__"):
@@ -86,7 +88,8 @@ def main():
         except Exception as exc:
             verdict, held = f"ERROR:{type(exc).__name__}", False
         pred = get_binary_prediction([{"verdict": verdict}]) if verdict and not verdict.startswith("ERROR") else None
-        rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held}
+        rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held,
+               "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before}
         if "origin" in row:
             rec["origin"] = row["origin"]
         if args.details:

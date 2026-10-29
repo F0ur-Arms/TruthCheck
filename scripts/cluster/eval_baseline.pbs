@@ -35,6 +35,16 @@ cd ~/FoodFactCheck/TruthCheck_eval
 # EXTRA: extra script arguments with + instead of spaces, e.g. EXTRA=--public+--details
 #   qsub -v "MODE=graph,OUT_DIR=evaluation/baselines/x,EXTRA=--public+--details" scripts/cluster/eval_baseline.pbs
 MODE=${MODE:-main}
+
+# LLM-dependent runs must not start before the vLLM server answers: otherwise the NLI judge
+# silently falls back to the local model and claim decomposition to heuristics.
+if [ "$MODE" != "nli" ]; then
+  for t in $(seq 1 80); do
+    curl -s -m 5 $TRUTHCHECK_LLM_BASE_URL/models | grep -q '"id"' && break
+    [ $t = 80 ] && { echo "LLM server not reachable after 20 minutes"; exit 1; }
+    sleep 15
+  done
+fi
 EXTRA_ARGS=$(echo ${EXTRA:-} | tr "+" " ")
 if [ "$MODE" = "llmnli" ]; then
   OUT=${OUT_DIR:-evaluation/baselines/step4_llm_judge}

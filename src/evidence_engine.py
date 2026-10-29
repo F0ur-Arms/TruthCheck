@@ -50,9 +50,10 @@ class EvidenceEngine:
         # auto (llm when an LLM endpoint is configured, else local). The LLM judge scored 65% on
         # the labelled evidence rows against 40-45% for the dedicated NLI models.
         backend = os.environ.get("TRUTHCHECK_NLI_BACKEND", "auto").lower()
-        # TRUTHCHECK_NLI_PROMPT: v2 (default, off-topic text is NEI) or v1 (prompt used until round 2).
+        # TRUTHCHECK_NLI_PROMPT: v1 (default; with the relevance gate it matches v2 on balance and
+        # answers more claims, round 4) or v2 (off-topic text is NEI, for use without the gate).
         from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1
-        prompt = SYSTEM_V1 if os.environ.get("TRUTHCHECK_NLI_PROMPT", "v2").lower() == "v1" else SYSTEM
+        prompt = SYSTEM_V1 if os.environ.get("TRUTHCHECK_NLI_PROMPT", "v1").lower() == "v1" else SYSTEM
         judge = LLMNLIJudge(system_prompt=prompt)
         if backend == "local" or (backend == "auto" and not judge.configured):
             nli = NLIVerifier()
