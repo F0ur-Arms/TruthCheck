@@ -103,11 +103,13 @@ class ClaimsProcessor:
         """Process input text through the medical routing gate and claim decomposition engine."""
         cleaned_text = cleaned_text or raw_text.lower()
 
-        # 1. Try LLM Routing & Decomposition if configured
+        # 1. Try LLM Routing & Decomposition if configured. The LLM gets the text as written: the
+        # word-by-word Hinglish mapping lowered agreement with English from 0.770 to 0.726 in the
+        # cross-lingual test. cleaned_text is kept for the heuristic fallback.
         if self.llm.configured:
             try:
                 # Step 1: Medical Routing Gate
-                route_res = self._call_llm_json(ROUTING_PROMPT, cleaned_text)
+                route_res = self._call_llm_json(ROUTING_PROMPT, raw_text)
                 route = route_res.get("route", "fact_check")
                 
                 if route == "medical_advice":
@@ -125,7 +127,7 @@ class ClaimsProcessor:
                     )
 
                 # Step 2: Decompose Claim
-                decomp_res = self._call_llm_json(DECOMPOSITION_PROMPT, cleaned_text)
+                decomp_res = self._call_llm_json(DECOMPOSITION_PROMPT, raw_text)
                 sub_claims = []
                 for idx, c_dict in enumerate(decomp_res.get("claims", []), 1):
                     sub_claims.append(

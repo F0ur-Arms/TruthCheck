@@ -55,7 +55,7 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
   <li><b>The old evaluation set is broken</b> (section 7). Its fake claims are short phrases and its real claims are long sentences, so style alone predicts the label. All earlier headline scores on it are confounded. A cleaner benchmark of 1,898 public-dataset claims replaces it for now.</li>
   <li><b>On the clean benchmark the pipeline was biased to "false"</b> (section 8): only 24% of true claims were called true, because passages on unrelated topics were judged as refutations.</li>
   <li><b>A relevance gate and a stricter judge prompt remove the bias</b> (section 9): balanced accuracy 0.598 &rarr; 0.706. The gate alone does this, so the more accurate prompt v1 is kept. The price is coverage: verdicts on 15% of claims, because for about 70% the knowledge base holds nothing relevant. Knowledge-base coverage is now the main limit.</li>
-  <li><b>Multilingual evaluation has started</b> (section 10): on 413 English/Hinglish pairs judged against the same evidence, the judge changes its answer for about one claim in four when the claim is not in English (accuracy 62.0% English, 58.4% translated), and the pipeline's word-by-word normaliser makes it slightly worse (56.9%).</li>
+  <li><b>Multilingual evaluation has started</b> (section 10): on 413 English/Hinglish pairs judged against the same evidence, the judge changes its answer for about one claim in four when the claim is not in English (accuracy 62.0% English, 58.4% translated), and the pipeline's word-by-word normaliser makes it slightly worse (56.9%). The LLM decomposer now receives the original text instead (agreement with English 72.6% &rarr; 77.0%).</li>
 </ul>
 
 <h2>2. The system</h2>
@@ -248,10 +248,20 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
   <tr><td>&nbsp;&nbsp;Romanized Hindi only (n=135): English vs translated</td><td class="n">60.0% vs 52.6%</td><td class="n">74.1%</td></tr>
 </table>
 <p>About one judgment in four changes only because the claim is not in English. The most frequent change is the dangerous direction: 25 claims the judge refuted in English were judged "supports" in translation. The word-by-word normaliser does not help; it lowers both accuracy and agreement slightly. The translations are machine-made and the sample is small, so this is a first signal, but it supports translating claims properly into English before retrieval and judging.</p>
+<h3>With the pipeline's LLM decomposition (same 413 pairs)</h3>
+<p>Here each claim first goes through the LLM that splits it into English sub-claims; each sub-claim is judged against the same gold evidence and the results are combined with the graph's aggregation rule. The two translated rows differ only in what the decomposer receives: the normaliser's output (the current graph) or the claim as written.</p>
+<table>
+  <tr><th>Decomposer input</th><th class="n">Judge accuracy</th><th class="n">Same label as English</th></tr>
+  <tr><td>English original</td><td class="n">60.5%</td><td class="n">n/a</td></tr>
+  <tr><td>Translated, after the normaliser (before the fix)</td><td class="n">55.9%</td><td class="n">72.6%</td></tr>
+  <tr class="best"><td>Translated, as written (after the fix)</td><td class="n">56.4%</td><td class="n">77.0%</td></tr>
+</table>
+<p>Passing the claim as written is better on both measures, so the decomposer and the medical-advice router now receive the original text; the normaliser is kept only for the heuristic used when the LLM is unavailable. No decomposition call fell back in this run (30-second timeout). Decomposition itself costs about 2 points against judging the whole claim directly (58.4%), and the gap to English (about 4 points, one judgment in four changed) remains: the next step is to test retrieval with the decomposer's English sub-claims, and to repeat this on real, reviewed Hinglish rather than machine translations.</p>
 <table>
   <tr><th>Round 4 run</th><th>Question</th><th>Status</th></tr>
   <tr><td>Gate + prompt v1, 1,898 claims</td><td>Is the gate alone enough, keeping the more accurate prompt?</td><td>Done: yes (section 9); v1 is the default</td></tr>
   <tr><td>Cross-lingual pairs, 413</td><td>Does Hinglish change the judge's answer? Does the normaliser help or hurt?</td><td>Done (above)</td></tr>
+  <tr><td>Cross-lingual pairs through LLM decomposition</td><td>Should the decomposer get the original text or the normaliser's output?</td><td>Done: original text; fixed</td></tr>
 </table>
 
 <h2>11. Infrastructure and how to reproduce</h2>
@@ -308,8 +318,8 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td>Step 7: scale and multimodal</td><td>Not started</td><td>OCR, audio, Postgres/pgvector</td></tr>
 </table>
 <ol>
-  <li><b>Finish round 4</b>: judge prompt chosen (v1 with the gate); pipeline-level cross-lingual test running.</li>
-  <li><b>Fix how Hinglish enters the pipeline</b>: replace the word-by-word normaliser with the multilingual processor's English gloss or an LLM translation, depending on round 4.</li>
+  <li><b>Round 4 done</b>: judge prompt v1 with the gate; the decomposer now gets the original Hinglish (section 10).</li>
+  <li><b>Hinglish retrieval</b>: re-run the full public benchmark and the cross-lingual pairs end to end, so the decomposer's English sub-claims also drive retrieval; check the medical-advice router on Hinglish.</li>
   <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
   <li><b>Harm hold</b>: trigger on actionable harm (stopping medication, replacing treatment, dosage) instead of topic words.</li>
   <li><b>Golden set v1</b> with the teammate: real Hinglish and Devanagari Hindi claims, 8 verdicts, evidence, review; then calibration and risk-coverage curves.</li>
