@@ -40,12 +40,12 @@
 <div class="sub">Progress report: multilingual healthcare misinformation verification<br>
 Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot; updated 29 October 2026 &middot; repository <code>F0ur-Arms/TruthCheck</code></div>
 
-<h2>1. Summary (as of 29 October)</h2>
+<h2>1. Summary (as of 30 October)</h2>
 <p>TruthCheck takes a health claim (English, Hinglish or Hindi) and returns a verdict, a confidence, a risk assessment and cited evidence. Over the last two weeks the work moved from "make the v2 pipeline real" to "measure it honestly and find where it fails".</p>
 
 <div class="kpis">
   <div class="kpi"><div class="v">98.7%</div><div class="l">style-only accuracy on the old test set: it is not a valid benchmark</div></div>
-  <div class="kpi"><div class="v">0.706</div><div class="l">balanced accuracy on 1,898 clean public claims (was 0.598)</div></div>
+  <div class="kpi"><div class="v">0.726</div><div class="l">balanced accuracy on 1,898 clean public claims (was 0.598)</div></div>
   <div class="kpi"><div class="v">57%&rarr;18%</div><div class="l">off-topic passages wrongly judged "refutes"</div></div>
   <div class="kpi"><div class="v">~70%</div><div class="l">of public claims have no relevant passage in the knowledge base</div></div>
 </div>
@@ -56,6 +56,7 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
   <li><b>On the clean benchmark the pipeline was biased to "false"</b> (section 8): only 24% of true claims were called true, because passages on unrelated topics were judged as refutations.</li>
   <li><b>A relevance gate and a stricter judge prompt remove the bias</b> (section 9): balanced accuracy 0.598 &rarr; 0.706. The gate alone does this, so the more accurate prompt v1 is kept. The price is coverage: verdicts on 15% of claims, because for about 70% the knowledge base holds nothing relevant. Knowledge-base coverage is now the main limit.</li>
   <li><b>Multilingual evaluation has started</b> (section 10): on 413 English/Hinglish pairs judged against the same evidence, the judge changes its answer for about one claim in four when the claim is not in English (accuracy 62.0% English, 58.4% translated), and the pipeline's word-by-word normaliser makes it slightly worse (56.9%). The LLM decomposer now receives the original text instead (agreement with English 72.6% &rarr; 77.0%).</li>
+  <li><b>Clean end-to-end baseline</b> (round 5, section 10): with all fixes together, balanced accuracy 0.726, verdicts on 16.6% of claims, 76.5% correct when answered.</li>
 </ul>
 
 <h2>2. The system</h2>
@@ -257,11 +258,22 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
   <tr class="best"><td>Translated, as written (after the fix)</td><td class="n">56.4%</td><td class="n">77.0%</td></tr>
 </table>
 <p>Passing the claim as written is better on both measures, so the decomposer and the medical-advice router now receive the original text; the normaliser is kept only for the heuristic used when the LLM is unavailable. No decomposition call fell back in this run (30-second timeout). Decomposition itself costs about 2 points against judging the whole claim directly (58.4%), and the gap to English (about 4 points, one judgment in four changed) remains: the next step is to test retrieval with the decomposer's English sub-claims, and to repeat this on real, reviewed Hinglish rather than machine translations.</p>
+<h3>Round 5: clean end-to-end baseline (1,898 public claims)</h3>
+<p>All fixes together: relevance gate 0.6, judge prompt v1, decomposer given the original text, 30-second decomposition timeout. No judge call fell back to the local model.</p>
+<table>
+  <tr><th>Full pipeline, 1,898 claims</th><th class="n">Answered</th><th class="n">Accuracy (answered)</th><th class="n">True called true</th><th class="n">False called false</th><th class="n">Balanced acc.</th></tr>
+  <tr><td>Round 2: no gate</td><td class="n">69.5%</td><td class="n">72.4%</td><td class="n">24%</td><td class="n">96%</td><td class="n">0.598</td></tr>
+  <tr><td>Round 3: gate, prompt v2</td><td class="n">12.2%</td><td class="n">69.8%</td><td class="n">74%</td><td class="n">67%</td><td class="n">0.704</td></tr>
+  <tr><td>Round 4: gate, prompt v1</td><td class="n">15.1%</td><td class="n">72.4%</td><td class="n">65%</td><td class="n">76%</td><td class="n">0.706</td></tr>
+  <tr class="best"><td>Round 5: all fixes</td><td class="n">16.6%</td><td class="n">76.5%</td><td class="n">62%</td><td class="n">83%</td><td class="n">0.726</td></tr>
+</table>
+<p>Round 5 answers 315 claims (round 4: 286) and is right on more of them. Claims wrongly routed as personal medical-advice questions fell from 51 to 15, and claims with no usable sub-claim from 51 to 15, consistent with the decomposer no longer failing or seeing mangled text. Per source (answered accuracy): ai4bharat 79.8% (n=218), HealthVer 67.2% (64), PUBHEALTH 63.6% (22), SciFact 90.9% (11). Two cautions: the system again leans toward "false" (true claims called true 62%), and coverage is still the main limit, because the knowledge base has nothing relevant for most claims. The decomposition-fallback counter exists but was not written to this run's logs; the drop in empty decompositions is indirect evidence.</p>
 <table>
   <tr><th>Round 4 run</th><th>Question</th><th>Status</th></tr>
   <tr><td>Gate + prompt v1, 1,898 claims</td><td>Is the gate alone enough, keeping the more accurate prompt?</td><td>Done: yes (section 9); v1 is the default</td></tr>
   <tr><td>Cross-lingual pairs, 413</td><td>Does Hinglish change the judge's answer? Does the normaliser help or hurt?</td><td>Done (above)</td></tr>
   <tr><td>Cross-lingual pairs through LLM decomposition</td><td>Should the decomposer get the original text or the normaliser's output?</td><td>Done: original text; fixed</td></tr>
+  <tr><td>Round 5: all fixes, 1,898 claims</td><td>Clean end-to-end baseline</td><td>Done: balanced acc. 0.726</td></tr>
 </table>
 
 <h2>11. Infrastructure and how to reproduce</h2>
@@ -289,7 +301,7 @@ python evaluation/eval_crosslingual.py path/to/golden.csv --out pairs.json
 
 # API with the LangGraph pipeline
 uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto</pre>
-<p>Results are stored under <code>evaluation/baselines/</code>: <code>phase0_vllm</code> (legacy + LLM), <code>step3_graph</code> (graph v1), <code>step3_graph_v2_aggregation</code>, <code>step4_nli</code> and <code>step4_llm_judge</code> (NLI tests), <code>step5_graph_llm_nli</code> (graph v3), <code>artifact_check</code>, <code>round2</code>, <code>round3</code>.</p>
+<p>Results are stored under <code>evaluation/baselines/</code>: <code>phase0_vllm</code> (legacy + LLM), <code>step3_graph</code> (graph v1), <code>step3_graph_v2_aggregation</code>, <code>step4_nli</code> and <code>step4_llm_judge</code> (NLI tests), <code>step5_graph_llm_nli</code> (graph v3), <code>artifact_check</code>, <code>round2</code>, <code>round3</code>, <code>round4_crosslingual</code>, <code>round5</code>.</p>
 
 <h2>12. Caveats and corrections</h2>
 <ul>
@@ -319,7 +331,7 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
 </table>
 <ol>
   <li><b>Round 4 done</b>: judge prompt v1 with the gate; the decomposer now gets the original Hinglish (section 10).</li>
-  <li><b>Hinglish retrieval</b>: re-run the full public benchmark and the cross-lingual pairs end to end, so the decomposer's English sub-claims also drive retrieval; check the medical-advice router on Hinglish.</li>
+  <li><b>Hinglish retrieval</b>: run the cross-lingual pairs end to end with retrieval (round 5 covered the public benchmark); check the medical-advice router on Hinglish; record decomposition fallbacks per claim.</li>
   <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
   <li><b>Harm hold</b>: trigger on actionable harm (stopping medication, replacing treatment, dosage) instead of topic words.</li>
   <li><b>Golden set v1</b> with the teammate: real Hinglish and Devanagari Hindi claims, 8 verdicts, evidence, review; then calibration and risk-coverage curves.</li>

@@ -1,0 +1,24 @@
+{
+  "n": 1898,
+  "abstained": 1583,
+  "coverage": 0.16596417281348788,
+  "strict_accuracy": 0.12697576396206534,
+  "strict_f1_weighted": 0.14263925924147816,
+  "answered_accuracy": 0.765079365079365,
+  "answered_precision_weighted": 0.765079365079365,
+  "answered_recall_weighted": 0.765079365079365,
+  "answered_f1_weighted": 0.765079365079365
+}
+held for human review: 255 (13.4%); scores excluding them:
+{
+  "n": 1643,
+  "abstained": 1328,
+  "coverage": 0.19172245891661593,
+  "strict_accuracy": 0.14668289713937918,
+  "strict_f1_weighted": 0.1602963734914684,
+  "answered_accuracy": 0.765079365079365,
+  "answered_precision_weighted": 0.765079365079365,
+  "answered_recall_weighted": 0.765079365079365,
+  "answered_f1_weighted": 0.765079365079365
+}
+verdicts: [('INSUFFICIENT_EVIDENCE', 1266), (None, 255), ('FALSE', 217), ('SUPPORTED', 83), ('MIXED_EVIDENCE', 47), ('SUPPORTED_WITH_CAVEATS', 15), ('NOT_A_FACT_CHECK', 15)]
