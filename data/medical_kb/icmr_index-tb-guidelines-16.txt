@@ -1,0 +1,32 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 10.1	 Background
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+10.1	 Background
+TB can cause meningitis (TBM), cerebral and spinal tuberculoma, myelitis and arachnoiditis. These are all severe forms of TB associated with high incidence of death or disability.
+Exact prevalence of CNS TB in India is not known, but it accounts for an estimated 1% of all cases of TB, which equates to around 17 000 cases in India in 2014 (WHO, 2015). Case fatality rates for the most common form of CNS TB, i.e.
+TB meningitis, are high. All forms of CNS TB can leave survivors with long-term disabilities.
+10.2	 Patients who should be investigated for TBM
+TBM is a medical emergency. Early diagnosis and prompt treatment with ATT saves lives.
+TBM classically presents as subacute or chronic meningitis with symptoms developing over days or weeks. Evidence suggests that patients presenting with less than 5 days of symptoms are more likely to have bacterial or viral meningitis than TBM (Thwaites, 2009). However, it should be noted that TBM can present acutely with a short duration of illness, and this acute presentation is not uncommon.
+CSF sampling and testing Lumbar puncture should be performed in every patient (unless there are contraindications to the procedure) and CSF should be analysed with the following tests given in the table below. Other tests may also be indicated in some circumstances.
+At least 6 mL of CSF should be collected for adults, 2–3 mL for children.
+CSF:serum glucose ratio (serum samples need to be taken alongside the CSF)
+Xpert MTB/RIF can be used as an adjunctive test in the diagnosis of TBM, but a negative test does not rule out a diagnosis of TBM. If it is safe to obtain, 1 mL of CSF is optimal for this test (Nhu, 2014).
+Other PCR-based tests for Mtb are available, but diagnostic accuracy is highly variable.
+Mycobacterial culture, speciation and drug susceptibility testing Xpert may be used as an adjunctive test for TBM. A negative Xpert result does not rule out TBM. The decision to give ATT should be based on clinical features and CSF profile. (Conditional recommendation, high quality evidence for specificity estimate, low quality evidence for sensitivity estimate).
+Other tests Interferon-gamma release assays such as ELISPOT and Quantiferon Gold are designed for the diagnosis of latent TB, and are not indicated in the diagnosis of TBM. Currently, the use of these tests is restricted in India.
+MRC staging The British Medical Research Council (MRC) staging is a widely recognized system for classifying disease severity in TBM (MRC, 1948).
+Stage I Mild cases, for those without altered consciousness or focal neurological signs Stage II Moderate cases, for those with altered consciousness who are not comatose and those with moderate neurological signs, e.g. single cranial nerve palsies, paraparesis, and hemiparesis Stage III Severe cases, for comatose patients and those with multiple cranial nerve palsies, hemiplegia or paraplegia, or both.
+Aims: Microbiological cure Prevention of complications, morbidity and mortality Management of treatment complications First line treatment for adults and children with TB meningitis Intensive phase: 2 months RHZE The was the recommendation made by the INDEX-TB Guidelines Panel at the INDEX-TB meeting in 2015, based on the evidence summarized in Annex 2 in the online supplementary materials, as follows: Continuation phase: at least 7 months RHE The Technical Advisory Sub-committee for CNS TB, who drafted these clinical practice points, expressed a preference for an alternative approach to the continuation phase that differs from the INDEX TB recommendation in two ways: a) recommend the use of pyrazinamide instead of ethambutol; and b) treatment to be continued in all patients for a total of at least 12 months.
+The current RNTCP guidance is to use ethambutol in the continuation phase because of the risk of isoniazid mono-resistance. The variations in expert opinion reflect the uncertainty regarding the optimum choice of regimen, and further research is required.
+If vision is impaired or cannot be assessed, use streptomycin instead of ethambutol in the intensive phase. Use of streptomycin in pregnant women, and patients with kidney impairment or hearing loss should be avoided.
+TB meningitis should be treated with standard first-line ATT for at least 9 months (conditional recommendation, very low quality evidence) Note: see Drugs section above.
+ATT should be started as early as possible in all cases of TBM.
+Presumptive TBM patients should be referred to a secondary/tertiary care centre immediately.
+If referral and transfer is likely to take more than 24 h, or if the patient is critically ill, treatment with ATT may be started prior to transfer. Where possible, CSF sampling prior to initiation of treatment is preferred, as ATT reduces the accuracy of the diagnostic tests for TB, but this should not unduly delay initiation of ATT.
+Patients should be assessed for clinical response at the end of the treatment period and at intervals for 2 years. Sustained resolution of clinical features including headache and fever should guide stopping of ATT. Residual neurological deficits may be permanent and should not be used to assess for active TB infection.
+There is evidence that steroids are associated with increased adverse events and disability in patients with HIV-associated cryptococcal meningitis (Beardsley J, 2016).
+Suggested regimen In hospital: intravenous dexamethasone 0.4 mg/kg/24 h in 3–4 divided doses may be preferred with a slow switch to oral therapy and taper. Currently, there is insufficient evidence to recommend one formulation/ regimen of steroids over any other.
+Patients who develop hydrocephalus with raised intracranial pressure may require CSF diversion by ventriculo-peritoneal shunt insertion. Such patients should be managed in settings with neurosurgical services.

@@ -1,0 +1,31 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 8.6.2 Clinical examination:
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+8.6.2 Clinical examination:
+8.6.3 Investigations:
+8.6.4 Treatment:
+Tight glycemic control is essential. If there is painful peripheral neuropathy, drugs such as antiepileptics (gabapentin, pregabalin), tricyclic antidepressants (TCAs) (amitryptiline, imipramine), and serotonin and noradrenaline reuptake inhibitors (SNRIs), (venlafaxine, duloxetine) are the first line medications.
+8.7 Diabetic Foot
+8.7.1 Diabetic foot screening:
+This aims at categorizing feet into Low risk, At Risk or Active Foot Disease.
+8.7.1.1. Foot inspection:
+Charcot foot 8.7.1.2. 10g monofilament sensation: It delivers a 10 gram force when applied so as to make it buckle.
+8.7.1.3. Vibration perception (128 Hz tuning fork):
+Place the stem of the fork over the bony prominences of the foot (big toe and medial malleolus) and ask the patient if he feels the vibration. Record the result as absent, reduced or present depending on the patient’s response. If absent, check at more proximal sites such as tibial tuberosity and anterior superior iliac spine.
+8.7.1.4. Biothesiometer test:
+The vibration perception threshold (VPT) is examined using a biothesiometer with the patient in the supine position with or without eyes closed.
+8.7.1.5. Vascular assessment:
+This involves the manual palpation of the dorsalis pedis and posterior tibial pulses in both feet. Ankle brachial pressure index (ABI) using hand held Doppler should be assessed if peripheral pulsations are absent or clinical suspicion of peripheral ischaemia (Normal ABI is between 0.9 to 1.3).
+8.7.2. Risk categorization:
+8.7.3. General Principles of Management:
+8.7.4. Foot care education:
+All patients with diabetes should be educated on the do’s and don’ts of foot care as listed in the Table 8.2.
+9.1. Pre-gestational diabetes
+9.2 Gestational Diabetes Mellitus (GDM)
+Glucose intolerance of any severity detected for the first time during pregnancy is termed as gestational diabetes mellitus (GDM).
+9.2.1 Screening for gestational diabetes:
+9.2.1a Indications: Ideally all pregnant women in India should be screened for GDM i.e. universal screening. In case this is not possible, and only selective screening is done, at least the following women should be screened: History of GDM First degree relative with diabetes Pre-pregnancy obesity (BMI > 25 kg/m2) History of large weight babies (>3.5kgs) Bad obstetric history; - stillbirth, congenital anomalies, recurrent pregnancy loss, eclampsia, hydramnios Repeated or persistent urinary tract infection Glycosuria during pregnancy Age above 25 years However, if all these criteria are employed there will be very few women who are at low risk and do not need screening for GDM. Hence, it is better to try to screen all pregnant women for GDM.
+9.2.1b Screening methods for GDM: Screening for diabetes is ideally done at the first antenatal visit. Screening at the first trimester is mainly to rule out pre-existing diabetes. For this, fasting blood glucose or random blood glucose or HbA1C should be done. If the fasting glucose is ≥ 126 mg/dl or the random glucose is ≥200 mg/dl or HbA1C is ≥6.5%, it indicates pre-existing diabetes. A fasting plasma glucose between 92-125 mgs/dl at the first trimester screening is considered as GDM according to International Association of Diabetes and Pregnancy Study Groups (IADPSG) criteria. At the second trimester, screening for GDM is done usually between 24 and 28 weeks of gestation. An Oral Glucose Tolerance Test (OGTT) should be done using 75 gm glucose load using the IADPSG criteria (endorsed by WHO 2013 & FIGO 2016). The following are the IADPSG glucose cut-offs for GDM: Fasting Plasma Glucose (mg/dl) 1 hour (mg/dl) 2 hour (mg/dl) If any one of the values is above these cut-offs, the woman is diagnosed to have GDM.
+In situations where pregnant women cannot come in a fasting state and in resource limited settings, the Diabetes in Pregnancy Study Groups of India (DIPSI) guidelines of non-fasting 75 gms single 2 Hr post glucose value ≥ 140 mg/dl can be used.

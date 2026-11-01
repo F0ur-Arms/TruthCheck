@@ -1,0 +1,40 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes, part 4
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+DiMeglio LA, Evans-Molina C, Oram RA. Type 1 diabetes. Lancet 2018; 391:2449-2462.
+Atkinson MA, Eisenbarth GS, Michels AW. Type 1 diabetes. Lancet. 2014; 383:69-82.
+American Diabetes Association. Classification and diagnosis of diabetes: standards of medical care in diabetes-2018. Diabetes Care 2018; 41 (suppl 1): S13–27.
+IDF_Atlas_9th_Edition_2019.pdf [Internet]. [cited 2020 Apr 14]. Available from: https://www. diabetesatlas.org/upload/resources/2019/IDF_Atlas_9th_Edition_2019.pdf Jensen ET, Dabelea DA, Praveen PA, Amutha A, Hockett CW, Isom SP, et al. Comparison of the incidence of diabetes in United States and Indian youth: An international harmonization of youth diabetes registries. Pediatr Diabetes 2020 Mar 20; doi: 10.1111/pedi.13009. Online ahead of print.
+Ilonen J, Lempainen J, Veijola R. The heterogeneous pathogenesis of type 1 diabetes mellitus. Nat Rev Endocrinol 2019;15:635–50.
+Katsarou A, Gudbjörnsdottir S, Rawshani A, Dabelea D, Bonifacio E, Anderson BJ, et al. Type 1 diabetes mellitus. Nat Rev Dis Primers 2017;3:17016.
+Redondo MJ, Jeffrey J, Fain PR, Eisenbarth GS, Orban T. Concordance for islet autoimmunity among monozygotic twins. N Engl J Med 2008;359:2849–50.
+Regnell SE, Lernmark Å. Early prediction of autoimmune (type 1) diabetes. Diabetologia 2017; 60:1370- 10. Rewers M, Bugawan TL, Norris JM, Blair A, Beaty B, Hoffman M, et al. Newborn screening for HLA markers associated with IDDM: diabetes autoimmunity study in the young (DAISY). Diabetologia 11. Rewers A, Babu S, Wang TB, Bugawan TL, Barriga K, Eisenbarth GS, et al. Ethnic differences in the associations between the HLA-DRB1*04 subtypes and type 1 diabetes. Ann N Y Acad Sci 12. The Lancet. Towards a better understanding of type 1 diabetes. Lancet 2016;387:2264.
+13. Insel RA, Dunne JL, Atkinson MA, Chiang JL, Dabelea D, Gottlieb PA, et al. Staging presymptomatic type 1 diabetes: a scientific statement of JDRF, the Endocrine Society, and the American Diabetes Association.Diabetes Care 2015;38:1964-74.
+14. Ziegler AG, Rewers M, Simell O, Simell T, Lempainen J, Steck A, et al. Seroconversion to multiple islet autoantibodies and risk of progression to diabetes in children. JAMA 2013;309:2473-9.
+15. De Grijse J, Asanghanwa M, Nouthe B,Albrecher N, Goubert P, Vermeulen I, et al. Belgian Diabetes Registry. Predictive power of screening for antibodies against insulinoma associated protein 2 beta (IA- 2beta) and zinc transporter-8 to select first-degree relatives of type 1 diabetic patients with risk of rapid progression to clinical onset of the disease: implications for prevention trials. Diabetologia 2010;53: 517–524.
+16. Classification of diabetes mellitus [Internet]. [cited 2020 Apr 14]. Available from: https:// www.who.int/ publications-detail/classification-of-diabetes-mellitus.
+17. Merger SR, Leslie RD, Boehm BO. The broad clinical phenotype of Type 1 diabetes at presentation.
+18. Chiang JL, Kirkman MS, Laffel LM, Peters AL; Type 1 Diabetes Sourcebook Authors. Type 1 diabetes through the life span: a position statement of the American Diabetes Association. Diabetes Care 2014; 37:2034-54.
+19. Unnikrishnan R, Shah VN, Mohan V. Challenges in diagnosis and management of diabetes in the young. Clin Diabetes Endocrinol 2016;2:18.
+20. Park Y, Wintergerst KA, Zhou Z. Clinical heterogeneity of type 1 diabetes (T1D) found in Asia. Diabetes Metab Res Rev 2017;33.
+21. Imagawa A, Hanafusa T, Miyagawa J, Matsuzawa Y. A novel subtype of type 1 diabetes mellitus characterized by a rapid onset and an absence of diabetes-related antibodies. Osaka IDDM Study Group. N Engl J Med. 2000;342:301-7.
+22. Buzzetti R, Zampetti S, Maddaloni E. Adult-onset autoimmune diabetes: current knowledge and implications for management.Nat Rev Endocrinol 2017;13:674-686.
+23. Tuomi T, Santoro N, Caprio S, Cai M, Weng J, Groop L. The many faces of diabetes: a disease with increasing heterogeneity. Lancet 2014;383:1084-94.
+24. Praveen PA, Madhu SV, Mohan V, Das S, Kakati S, Shah N, et al. Registry of Youth Onset Diabetes in India (YDR): Rationale, Recruitment, and Current Status. J Diabetes Sci Technol 2016;10:1034-41.
+25. Dabelea D, Pihoker C, Talton JW, D’Agostino RB Jr, Fujimoto W, Klingensmith GJ, et al. Etiological approach to characterization of diabetes type: the SEARCH for Diabetes in Youth Study. Diabetes Care 26. Hockett CW, Praveen PA, Ong TC, Amutha A, Isom SP, Jensen ET, et al. Clinical profile at diagnosis with youth-onset type 1 and type 2 diabetes in two pediatric diabetes registries: SEARCH (United States) and YDR (India). Pediatr Diabetes. 2020 Jan 17. doi: 10.1111/pedi.12981. Online ahead of print.
+27. Praveen PA, Hockett CW, Ong TC, Amutha A, Isom SP, Jensen ET, et al. Diabetic ketoacidosis at diagnosis among youth with type 1 and type 2 diabetes: Results from SEARCH (United States) and YDR (India) registries. Pediatr Diabetes. 2020 Jan 14. doi: 10.1111/pedi.12979. Online ahead of print.
+28. Amutha A, Praveen PA, Hockett CW, Ong TC, Jensen ET, Isom SP, et al. Treatment regimens and glycosylated hemoglobin levels in youth with Type 1 and Type 2 diabetes: Data from SEARCH (United States) and YDR (India) registries. Pediatr Diabetes. 2020 Mar 5. doi: 10.1111/ pedi.13004. Online ahead of print.
+29. Barrett TG. Differential diagnosis of type 1 diabetes: which genetic syndromes need to be considered?
+30. Thanabalasingham G, Owen KR. Diagnosis and management of maturity onset diabetes of the young (MODY). BMJ 2011;343:d6044.
+31. Naylor R, Philipson LH. Who should have genetic testing for maturity-onset diabetes of the young?
+32. Lemelman MB, Letourneau L, Greeley SAW. Neonatal Diabetes Mellitus: An Update on Diagnosis and Management. Clin Perinatol 2018;45:41-59.
+33. Rubio-Cabezas O, Klupa T, Malecki MT; CEED3 Consortium. Permanent neonatal diabetes mellitus-- the importance of diabetes differential diagnosis in neonates and infants. Eur J Clin Invest 2011;41:323- 34. Jain V, Satapathy A, Yadav J, Sharma R, Radha V, Mohan V, et al. Clinical and Molecular Characterization of Children with Neonatal Diabetes Mellitus at a Tertiary Care Center in Northern India. Indian Pediatr 2017;54:467-471.
+35. Jahnavi S, Poovazhagi V, Mohan V, Bodhini D, Raghupathy P, Amutha A, et al. Clinical and molecular characterization of neonatal diabetes and monogenic syndromic diabetes in Asian Indian children.
+36. Balamurugan K, Kavitha B, Yang Z, Mohan V, Radha V, Shyng SL. Functional characterization of activating mutations in the sulfonylurea receptor 1 (ABCC8) causing neonatal diabetes mellitus in Asian Indian children. Pediatr Diabetes 2019;20:397-407.
+37. Varadarajan P, Sangaralingam T, Senniappan S, Jahnavi S, Radha V, Mohan V. Clinical profile and outcome of infantile onset diabetes mellitus in southern India. Indian Pediatr 2013;50:759-63.
+38. Jahnavi S, Poovazhagi V, Kanthimathi S, Gayathri V, Mohan V, Radha V. EIF2AK3 mutations in South Indian children with permanent neonatal diabetes mellitus associated with Wolcott- Rallison syndrome. Pediatr Diabetes 2014;15:313-8.
+39. Unnikrishnan R, Mohan V. Fibrocalculous pancreatic diabetes (FCPD). Acta Diabetol 2015;52:1- 9.
+40. Papita R, Nazir A, Anbalagan VP, Anjana RM, Pitchumoni C, Chari S, et al. Secular trends of fibrocalculous pancreatic diabetes and diabetes secondary to alcoholic chronic pancreatitis at a tertiary care diabetes centre in South India. JOP 2012;13:205-9.
+41. Maassen JA, ‘T Hart LM, Van Essen E, Heine RJ, Nijpels G, Jahangir Tafrechi RS, et al. Mitochondrial diabetes: molecular mechanisms and clinical presentation. Diabetes 2004;53 Suppl 1:S103-9.

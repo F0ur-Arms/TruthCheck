@@ -1,0 +1,30 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR-DBT Guidelines for Evaluation of Probiotics in Food: 2.3  Genus, species and strain identification: Effects of probiotics are strain
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/PROBIOTICS_GUIDELINES.pdf
+────────────────────────────────────────────────────────────
+
+2.3  Genus, species and strain identification: Effects of probiotics are strain
+specific. Strain identity is important to link a strain to a specific health effect as well as to enable accurate surveillance and epidemiological studies. Both phenotypic and genotypic tests should be done using validated standard methodology. Nomenclature of the bacteria must conform to the current, scientifically recognized names as per the International Committee on Systematics of Prokaryotes (ICPS) (available at http://www.the-icsp.org/).
+The current molecular techniques used for identification include PCR based techniques, 16S rRNA sequencing and DNA finger printing techniques like ribotyping and Pulsed Field Gel Electrophoresis (PFGE).
+It is recommended that probiotic strains in use in India should be deposited in an internationally recognized culture collection/repositories.
+2.4 In vitro tests to screen potential probiotic strains: The following in
+2.4.1  Resistance to gastric acidity.
+2.4.2  Bile acid resistance.
+2.4.3 Antimicrobial activity against potentially pathogenic bacteria (acid and
+Adherence to mucus and/or human epithelial cells and cell lines has in the past been used to screen candidate probiotics. The Committee debated this and concluded that there are probiotics which are not adherent. Hence this should not be used as a mandatory criterion or to claim superiority of one strain over another in terms of probiotic attributes and functionality.
+2.4.4 Ability to reduce pathogen adhesion to surfaces
+2.4.5 Bile salt hydrolase activity
+These tests are based on the hostile gut environment which they mimic under in vitro conditions. The cultures evaluated as probiotics based on these tests should be subjected to preclinical validation in appropriate animal models before clinical trials are conducted in human subjects.
+2.5 In vivo safety studies in animal models: Assessment of the acute,
+subacute and chronic toxicity of ingestion of extremely large amounts of probiotics should be carried out for all potential strains. Such assessment may not be necessary for strains with established documented use.
+2.6 In vivo efficacy studies in animal models: To substantiate in vitro effects, appropriate, validated animal models must be used first, prior to human trials.
+2.7.1 Determination of antibiotic resistance patterns. It should be ascertained
+that any given probiotic strain is not at significant risk with regard to transferable antibiotic resistance.
+2.7.2 Assessment of undesirable side-effects.
+2.7.3 If the strain under evaluation belongs to a species that is a known mammalian toxin producer or of hemolytic potential, it must be tested for toxin production and hemolytic activity respectively.
+As defined by Food and Drug Administration (FDA), USA Assessment of lack of infectivity by a probiotics strain in immunocompromised individuals would be an added measure.
+2.8  Evaluation of efficacy studies in humans:   The principal outcome of
+efficacy studies on probiotics should be proven with similar benefits in human trials, such as statistically and clinically significant improvement in condition, symptoms, signs, well-being or quality of life, reduced risk of disease or longer time to next occurrence or faster recovery from illness. Each of the parameter should have proven correlation with the probiotics tested.
+Probiotics delivered in food may not be tested in Phase 3 studies (effectiveness), unless the product makes a specific health claim wherein it becomes imperative to generate the required evidence necessitating carrying out Phase 3 studies.
+If a probiotic food has a record of documented long and safe use outside the country, the data regarding this could be reviewed and deemed as sufficient to allow its marketing within the country. However, labeling of health benefits may require evaluation in a different manner. While taking into account studies done abroad, efficacy studies of probiotics (which are of proven benefit in ‘other’ populations) should also be conducted on Indian subjects. It is recommended that such ‘bridging’ human trials should comply with the principles laid down by the Drug Regulatory Authority. Adverse effects, if any, should be monitored and incidents reported to the appropriate authority.
+2.9 Effective dosage of probiotic strain / strains: The minimal effective dose or the level of viable cells of the probiotic strain in terms of cfu/ml/day in the carrier food that demonstrates general health promoting functions or well being or specific health claims in target population should be clearly indicated.

@@ -1,0 +1,24 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes: 6. A monthly measurement of HbA1c is suggested by
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+6. A monthly measurement of HbA1c is suggested by
+10. As per the UK NICE guidelines,the recommended target includes:
+ A fasting plasma glucose (FPG) of 90–126 mg /dl on waking  Plasma glucose of 72–126 mg /dl before meals at other times of the day.  After meal plasma glucose level of 90–162 mg/dl.
+Women may require monitoring of blood glucose around 6-8 times in a day to achieve these targets without hypoglycemia. To increase compliance on decided strategy the monitoring frequency needs to be individualized. This is based on shared decisions,and striking a balance between the need for achieving glycemic targets and available resources.
+Insulin storage/technique, self-adjustment of insulin doses required at certain times, sick day rules, ketone testing and hypoglycemia care are important components of education for safety achieving glycemic targets. The woman herself or any family member should have necessary skills for the same.
+The woman should undergo a review for drugs with potential teratogenic effect (like ACE inhibitors or angiotensin receptor blockers, statins) and evaluation for glycemic and blood pressure control, diabetes related complications and thyroid status (Table I). This is in addition to other investigations done as routine for all women in preconception period or special investigations required an individual basis.
+During Pregnancy The American Diabetes Association (ADA) has recommended targets for women with T1DM, similar to women with GDM, which are as follows FPG ≤ 95 mg/dl and Either one-hour postprandial ≤ 140 mg/dl or Two-hour postprandial ≤ 120 mg/dl.
+Preconception counselling: Aim to inform woman to have optimal glycemic control before pregnancy.
+Optimization of insulin therapy preferably with multiple daily dose insulin or continuous subcutaneous insulin.
+HbA1c levels should be as close to normal as possible without undue hypoglycemia.
+Medications should be reviewed. Comorbidities and complications should be assessed and taken care of.
+Folic acid (5 mg) daily should be prescribed daily before conception to reduce the risk of neural tube defects.
+Abbreviations: TSH-Thyroid stimulating hormone, HbA1c-Glycated hemoglobin The UK NICE recommends almost similar target levels for pregnant women except a slightly lower target (of < 115 mg/dl) for two hour postprandial glucose, if these can be achieved without causing problematic hypoglycemia.
+7. The HbA1c is used as an additional measure of
+glycemic control (a monthly measurement is suggested) and should not be a replacement of self-monitoring of blood glucose, due to physiological changes in pregnancy affecting its accuracy. The data suggest that HbA1c of < 6-6.5% is associated with lower rates of adverse fetal outcomes7.
+Fetal Growth monitoring It is important to have an objective assessment of fetal growth in addition to close clinical monitoring of the pregnancy, since poor glycemic control is associated with accelerated fetal growth. Ideally a scan is done at 28 weeks and then 4 weekly to monitor growth. If this is not feasible in resource limited settings, at least one at 28 and another at 36 weeks is advisable. The presence of polyhydramnios and accelerated growth may be due to less than optimal glycemic control and needs to be factored in along with the blood glucose values.
+Growth restriction can happen in women who have long standing type 1 diabetes and vasculopathy. Similarly, the tailing off of growth can also be a warning for impending preeclampsia. The risk of preeclampsia is higher in women with T1DM, and poor glycemic control increases it further.
+In women with T1DM, there is higher risk of stillbirth. This is due to fetal hyperglycemia and hyperinsulinemia which induce fetal hypoxemia and maternal vasculopathy, causing poor utero placental circulation. This therefore, unlike pure placental dysfunction in IUGR or preeclampsia, does not lend itself to surveillance by fetal doppler examination. Indeed there are no good studies based on which one could make recommendations on the frequency or the best method of fetal surveillance. As of now, combination of a Non Stress test and amniotic fluid volume is monitored depending on local institutional protocols.
+The NICE 2015 guidelines have elaborated in detail the antenatal management of women with diabetes during pregnancy and the same have been adapted here and presented in Table II. This table refers to physical activity and not antenatal management.

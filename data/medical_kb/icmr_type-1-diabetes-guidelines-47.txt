@@ -1,0 +1,28 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes: 4. However, this study may have
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+4. However, this study may have
+6. In the Nurses Health
+7. Patients with T1DM are also at higher risk of premature
+8. Of these, 104 (72%) suffered a vascular composite end
+point (hard cardiovascular event or death from cardiovascular or diabetes- related cause), with an overall 1-year survival of 76% and 5-year survival of 58%. The presence of hemorrhagic stroke subtype and progression of diabetic kidney disease were predictors of worse outcome in the study cohort.
+9. In the Swedish Inpatient registry involving > 31,000 patients
+1.     Hyperglycemia
+11. However, in the Epidemiology of Diabetes Interventions
+12. Also, the progression of carotid intima-
+media thickness (CIMT), a non-invasive marker of CVD was significantly lower in the intensive arm at six years after the end of DCCT13. The data from DCCT/EDIC therefore suggests that early intensive glycemic control may play a major role in reduction of future CV risk in T1DM patients.
+Persistent hyperglycemia leads to increased generation of mitochondrial reactive oxygen species (ROS) and proinflammatory mediators through various pathways (Figure-1), resulting in endothelial dysfunction14-16. Healthy endothelium efficiently regulates vascular tone, thrombosis, leukocyte adhesion, platelet aggregation and inflammation.
+Hyperglycemia causes loss of vasodilatory, anti-inflammatory and anti-atherogenic properties of the healthy endothelium, leading to genesis of atherosclerotic CVD. In addition, uncontrolled diabetes is associated with other cardiovascular risk factors (such as dyslipidemia), as shown in the SEARCH for Diabetes in Youth study17.
+Acute hyperglycemia is also associated with poor post-stroke outcomes (both ischemic and hemorrhagic stroke)18. In patients with ischemic stroke, it increases cerebral lactate production and reduces the salvageable penumbral tissue, resulting in infarct expansion, while, in those with hemorrhagic stroke, it may cause expansion of hematoma and perihematomal edema. Optimal management of hyperglycemia is therefore extremely important in such patients.
+2.    Hypertension
+Hypertension is a risk factor for microvascular as well as macrovascular complications in T1DM. The increased risk for CVD with hypertension occurs regardless of the presence of diabetic kidney disease (DKD)
+2. In the Coronary Artery Calcification in T1DM study
+(CACTI), involving 1416 subjects aged 19-56 years (652 T1DM subjects with mean age of 37 years and diabetes duration of 23 years, and 764 controls with mean age of 39 years) with no past history of coronary artery disease, hypertension was more common in subjects with T1DM than controls (43% versus 15%)
+19. Hypertension was better controlled
+in subjects with T1DM than controls, however, only 42% T1DM subjects met the target goal of <130/80 mmHg. In the SEARCH for Diabetes in Youth study involving >3600 patients with T1DM aged 3-17 years, hypertension was seen in about 6% of the study participants, predominantly affecting obese adolescents and those with poor glycemic control Hypertension in T1DM may occur as a result of DKD and obesity/insulin resistance.
+21. The
+landmark DCCT/EDIC study thus suggested that hyperglycemia may have a definitive role in the pathogenesis of hypertension; however, effects of intensive glycemic control on reduction of hypertension risk may appear in a delayed fashion (similar to the macrovascular complications).
+3.    Diabetic Kidney Disease (DKD)
+DKD can manifest as microalbuminuria (albumin excretion rate (AER) 30-299 mg/ day), macroalbuminuria (AER ≥ 300 mg/day), and impaired glomerular filtration rate (GFR) (estimated GFR<60 ml/min/1.73m2) with or without albuminuria. In various studies, DKD has been associated with graded increase in CV mortality from microalbuminuria to macroalbuminuria to end stage renal disease (ESRD)

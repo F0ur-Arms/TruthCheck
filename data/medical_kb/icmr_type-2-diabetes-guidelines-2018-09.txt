@@ -1,0 +1,29 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 7.3 Non-insulin injectable therapy (GLP-1 receptor agonists)
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+7.3 Non-insulin injectable therapy (GLP-1 receptor agonists)
+The incretin hormones glucagon-like peptide 1 (GLP-1) and glucose dependent insulinotropic peptide (GIP) are secreted from the gut in response to a meal and bring about glucose-dependent insulin secretion from the beta cells of the pancreas and suppression of glucagon release from the alpha cells. The GLP-1 receptor analogues currently available are resistant to degradation by the DPP-4 enzyme and hence have longer half-lives than native GLP-1. The main advantages of these agents are that they reduce hyperglycaemia with minimal risk of hypoglycaemia and also promote weight loss. The main side effects are nausea and vomiting; a few cases of acute pancreatitis have also been reported. They can be combined with all other classes of anti-hyperglycaemic agents except the DPP-4 inhibitors. There is some evidence that these agents improve cardiovascular outcomes over and beyond their effects on blood glucose. Exenatide, liraglutide, lixisenatide and dulaglutide are the GLP-1 receptor agonists available in India at present (Table 7.2). They can be taken at any time of day, but preferably at the same time every day.
+COMPLICATIONS OF DIABETES
+Most of the morbidity and mortality due to diabetes arises on account of its complications. Diabetes complications can be broadly divided into acute and chronic complications. Acute complications include hypo- and hyperglycaemic emergencies whereas chronic complications include microvascular disease (retinopathy, nephropathy and neuropathy), macrovascular disease (coronary artery disease, cerebrovascular disease and peripheral vascular disease) and diabetic foot.
+8.1 Acute Complications
+8.1.1 Hypoglycaemia:
+It is a common side effect due to drug therapy of diabetes especially sulphonylureas and insulin. The patient may have classical symptoms like hunger, sweating, tremors, palpitation with or without loss of consciousness.
+8.1.2 Hyperglycaemic emergencies (Diabetic Ketoacidosis- DKA or
+Hyperosmolar Hyperglycaemic State- HHS): Usually such emergencies occur in situations like infections or other stressful conditions. There is usual history of missed dose of insulin or poor control of diabetes.
+DKA is characterized by abdominal pain and is manifested with breathlessness, vomiting, altered sensorium and dehydration. The symptoms of HHS are predominantly neurological; dehydration is usually more profound but abdominal pain is uncommon.
+8.2 Chronic Complications
+Diabetes mellitus is a systemic disorder, which potentially can cause serious organ damage involving eyes, heart, kidney, nerves and limbs, which ultimately can lead to blindness, heart attack, kidney failure and limb amputation respectively. If diagnosed early and treated in time appropriately, the damage to some of these organs can be largely prevented or reversed. Another important issue is that most complications cause clinical symptoms only at a very late stage and thus for their early diagnosis, these complications have to be specifically looked for even at the time of prediabetes.
+Considering this, the following approach is advisable for management of people with type 2 diabetes.
+On the first clinic visit detailed history and a thorough examination with preliminary tests are essential. Additional investigations may be necessary if there are high risk factors in the patient and/or there is any abnormality in history, examination and preliminary investigations. At that stage, these patients need to be referred to specialists for further management.
+8.2.1 History:
+8.2.1.1 Present history:
+Has the patient any specific symptoms related to organ involvement that have brought him/her to the doctor?
+8.2.1.2 Past history:
+8.2.1.3 Personal history:
+8.2.1.4 Family history:
+8.2.2 Examination:
+8.2.2.1 Eye examination:
+8.2.3 Investigations:
+8.3 Coronary Artery Disease

@@ -1,0 +1,22 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR-DBT Guidelines for Evaluation of Probiotics in Food: Abbreviations
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/PROBIOTICS_GUIDELINES.pdf
+────────────────────────────────────────────────────────────
+
+ABBREVIATIONS
+ICMR-DBT GUIDELINES FOR EVALUATION OF PROBIOTICS
+IN FOOD
+1. INTRODUCTION
+The concept of probiotics (which means, "for life") was introduced in early 20th century by Elie Metschnikoff (1), it however gained momentum only recently with considerable and significant advances in functional and health food market across the world. India is also fast emerging as a potential market for probiotics in food. The global probiotic market generated US $15.9 billion in 2008 and is expected to be worth US$ 32.6 billion by 2014 with a compound annual growth rate of 12.6% from 2009 to 2014 (2). On the other hand the probiotic product industry in India was estimated to be around Rs 20.6 million with a projected annual growth rate of 22.6% until 2015 (3).
+Also, Lactobacilli and Bifidobacteria have been rarely associated with human clinical infections which are likely to be a result of opportunistic infections especially in immunocompromised individuals (16-17). Many probiotic strains in use for several decades have been validated for their safety and efficacy and are therefore, safe to use (18,19). Any new strain used as a probiotic should be evaluated for safety and efficacy.
+However, Enterococcus is emerging as an important cause of nosocomial infections and isolates are increasingly becoming vancomycin resistant (20). Some side effects, though rare with probiotics are i) systemic infections ii) deleterious metabolic activities iii) excessive immune stimulation in susceptible individuals and iv) gene transfer (21). The absence of pathogenicity and infectivity thus is an essential pre-requisite of probiotic safety (22).
+International guidelines (23,24) on probiotics in food broadly specify the kind of tests that may be required to determine the safety and to assess the health claim of a probiotic product in food. Such tests are based on the current understanding of the subject.
+The regulatory mechanism for probiotics differs from country to country and also even within a country (23,25).
+In India there are no regulatory guidelines for probiotic foods. In the absence of any such standards and guidelines, there is great scope for spurious products with false claims being marketed. It therefore, becomes imperative that these products fulfill some essential prerequisite conditions before being labeled as a ‘probiotic product’.
+A holistic approach is therefore needed for formulating guidelines and regulations for evaluating the safety and efficacy of probiotics in India which should be in consonance with current international standards.
+Keeping in view the above, a Task Force was constituted by ICMR, comprising of experts from varied fields to develop guidelines for evaluation of probiotics in food in India. The Task Force took into consideration the guidelines available in different parts of the world (20, 26-31) and deliberated on the various aspects to be covered (32-36). The guidelines set forth in this document are meant to be followed for a strain or food to be termed as ‘probiotic’ for marketing in India.
+2. GUIDELINES AND REQUIREMENTS FOR  PROBIOTIC PRODUCTS
+2.1. Scope: The guidelines deal with the use of probiotics in food and provides requirements for assessment of safety and efficacy of the probiotic strain and health claims and labeling of products with probiotics.
+Note: These guidelines are not meant for probiotics which by definition would come under drugs, beneficial microorganisms not used in foods or genetically modified microorganisms (GMOs).
+2.2 Definition of Probiotics: Probiotics are ‘live microorganisms which when
+administered in adequate amounts confer a health benefit on the host’ (FAO/WHO, 2002) (20).

@@ -1,0 +1,40 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 14.1	 Patients who should be investigated for TB
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+14.1	 Patients who should be investigated for TB
+pericarditis Presumptive TB pericarditis A patient with chest pain, shortness of breath, with or without fever and weight loss or haemodynamic abnormalities, who has evidence of pericardial effusion or constriction on chest X-ray (CXR) electrocardiogram (ECG) or echocardiogram All patients presenting with symptoms consistent with TB should have a chest X-ray. Features suggestive of pericardial disease include hilar widening, and a globular or “water bottle” heart shadow, although the cardiac shadow may appear normal. Evidence of pulmonary TB or pleural effusions may be noted.
+ECG May reveal evidence of pericardial effusion (low voltage trace, T wave flattering or inversion). Patients are at risk of atrial arrhythmia.
+Cardiac tamponade Cardiac tamponade occurs when fluid accumulating in the pericardial sac impedes ventricular filling, causing cardiovascular compromise, which can progress to cardiac arrest. Pericardiocentesis is urgently required to relieve the pressure in the pericardial sac and allow normal ventricular filling.
+Pericardiocentesis The European Society of Cardiology guidelines give recommendations about pericardiocentesis (The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC), 2015). If the patient does not have signs of cardiac tamponade, pericardiocentesis can be considered for diagnostic purposes, but should only be carried out by trained personnel using ultrasound guidance.
+Microbiological tests Microscopy and culture of pericardial fluid for Mtb have very low sensitivity, meaning that few cases have a microbiologically confirmed diagnosis. In patients with concurrent pulmonary disease, smear and culture of serial sputum samples may yield a diagnosis.
+Very few studies have assessed the diagnostic accuracy of Xpert MTB/RIF in pericardial fluid, and so the INDEX-TB guidelines panel did not make a recommendation regarding the use of Xpert MTB/RIF on pericardial specimens.
+If pericardial fluid is obtained, it should be sent for culture for Mtb, despite low sensitivity of this test. A differential cell count and raised ADA level may support the diagnosis.
+Total treatment duration: 6 months Patients who develop cardiovascular compromise require urgent management in a specialist setting.
+Patients who develop constrictive pericardial disease as a late complication may benefit from assessment by a cardiologist.
+this requires diagnostic investigation and possibly a change of treatment. Deterioration in the first 3 months may be due to paradoxical reaction; this does not require repeat diagnostic tests or change of treatment.
+Pericardectomy is sometimes indicated in patients who develop constrictive pericardial disease as a late complication. Some of these patients will improve without surgery, but others may require pericardectomy too for progressive cardiac failure.
+Abdominal TB refers to TB infection of any organ in the abdominal cavity, including the gut and peritoneum. Abdominal TB cases make up about 3% of all EPTB cases in India (Sharma S.K., 2004).
+Abdominal TB causes a variety of presentations relating to the site of disease within the abdomen, stage of disease and complications. When treated with appropriate ATT, mortality is low, but some patients experience ongoing complications which can affect their long-term health, such as strictures in the bowel and adhesions. The most commonly affected sites in the abdomen are the GI tract distal to the duodenum (the ileum, jejunum and colon) and the peritoneum. The other organs are more rarely affected.
+15.1	 Patients who should be investigated for abdominal TB
+Sites where other differential diagnoses like malignancy are more common than TB infection Presumptive abdominal TB A patient with abdominal pain, distension, fever, unexplained weight loss, chronic diarrhoea or an abdominal mass.
+Abdominal TB All patients with presumptive abdominal TB All patients presenting with symptoms consistent with TB should have a chest X-ray.
+EPTB is associated with HIV infection. All patients should be offered integrated counselling and testing.
+Patients with presumptive peritoneal TB Ascitic fluid sampling Simple percutaneous sampling of ascitic fluid can aid in the diagnosis of peritoneal TB. Specimens should be sent for: a) cytology; b) albumin and protein; c) adenosine deaminase (ADA); d) microscopy for AFB; e) culture for Mtb and other organisms A serum albumin:ascitic fluid albumin ratio (SAAG) of <1.1 with a high protein (>2.5 g/mL) is suggestive of an exudative process, in keeping with abdominal TB (although several other conditions also cause this).
+ADA >39 IU/mL in ascitic fluid is suggestive of abdominal TB (Riquelme A, 2006).
+Sensitivity of smear microscopy and culture for Mtb on ascitic fluid samples is low; however, culture is required to confirm the diagnosis and test for drug susceptibility.
+PCR-based methods for identifying Mtb in ascitic fluid samples are highly variable in terms of diagnostic accuracy, and so no recommendation on the use of these tests has been made.
+Ultrasound of abdomen Many abnormal features may be noted, including intra- abdominal fluid (free or loculated), inter-loop ascites, mesenteric lymphadenopathy, bowel wall thickening, enlarged lymph nodes with central necrosis and peripheral enhancement and peritoneal and omental thickening.
+Requires a trained practitioner. Specimens should be sent for: a) histology; b) microscopy for AFB; c) culture for Mtb and other organisms.
+CT or MR scan of abdomen Many abnormal features may be noted, but as with ultrasound, none are diagnostic for peritoneal TB. These tests may be useful when other differential diagnoses are being considered.
+Not routinely suggested. Radiation exposure should be considered when deciding to perform a CT.
+Laparoscopy Visual appearance on laparoscopy can be highly suggestive of peritoneal TB. Typical appearances include: Thickened peritoneum with tubercles: multiple, yellowish white, uniform sized (about 4–5mm) tubercles diffusely distributed on the parietal peritoneum. The peritoneum is thickened, hyperaemic and lacks its usual shiny lustre.
+Targeted diagnostic sampling at laparoscopy may improve the yield from biopsy specimens sent for microscopy and culture for Mtb and histopathology.
+Laparoscopy is not routinely recommended due to the high cost and invasive nature of the procedure, and is usually reserved for cases where the diagnosis remains unclear after other tests.
+Patients with presumptive GI TB Ileocolonoscopy Unless contraindicated, all patients suspected of TB affecting the lower GI tract should be offered endoscopic examination with appropriate biopsy sampling.
+Examination of the ileum by retrograde ileoscopy is important, as this is the commonest site of involvement in GI TB.
+Appearances vary considerably, and differentiating GI TB from other bowel diseases such as Crohn’s disease is often challenging.
+Biopsy specimens should be sent for: a) histology and staining for AFBs; b) culture for Mtb PCR-based methods for identifying Mtb in biopsy specimens from the GI tract are highly variable in terms of diagnostic accuracy, and so no recommendation on the use of these tests has been made.
+Common findings include short segment strictures and ileocecal wall thickening with enlarged necrotic lymph nodes.
+Barium studies Barium studies of the upper GI tract and small bowel may be indicated where endoscopy is not available or not possible, or where small bowel stricture is suspected.

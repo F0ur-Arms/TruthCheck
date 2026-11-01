@@ -1,0 +1,23 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 7.1.10 Combination of oral drugs with insulin:
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+7.1.10 Combination of oral drugs with insulin:
+When glycemic control is not achieved with the maximum tolerable dose of a single oral agent or combination of oral drugs, combination of oral drugs and insulin can help to achieve good control of diabetes. Oral drugs may be continued in optimal doses, while intermediate acting/long acting/short acting insulin is added either at bedtime or in the morning depending on the blood glucose profile of the patient. When premixed or multiple dose insulin is given, consideration may be given to reducing the dose of secretagogues or stopping them altogether.
+7.1.11 Use of Indigenous Drugs:
+Many people with diabetes in our country use indigenous drugs from other systems of medicine like Ayurveda, Homeopathy, Unani etc. Several herbal products have been advocated for the treatment of diabetes such as Pterocarpus marsupium, Gymnema sylvestre, Mormordica chirantica, Eugenia jambolana etc. These drugs by themselves or in combination, do have blood glucose lowering effects. Their exact mechanism of action is still not clear. There is a common belief that all herbal drugs are safe and non-toxic which is not necessarily true.
+In view of the widespread use of these indigenous medicines, physicians should be aware of the herb-drug interactions. There is ample scope for research and careful evaluation of these agents needs to be done in the management of diabetes.
+7.2 Insulin therapy
+Insulin is the mainstay of therapy in type 1 diabetes. However, many patients with type 2 diabetes will also require insulin injections to help them achieve their glycemic targets.
+7.2.2 Other situations where insulin is indicated:
+7.2.3 Types of insulin preparations:
+Different types of insulin are available. They have different pharmacokinetic properties. Insulin type, injection technique, insulin antibodies, site of injection and individual patient response differences can affect the onset, degree and duration of insulin activity.
+Human insulin manufactured by rDNA technology and insulin analogues are the only insulins available at present. Animal insulin is no longer available. (i) Human insulin: Short acting – human soluble insulin (regular) Intermediate acting – neutral protamine Hagedorn (NPH) Premixed- mixtures of regular and NPH insulin in 25/75, 30/70, 50/50 proportion (ii) Insulin Analogues: Rapid acting (e.g. Lispro, Aspart, Glulisine) Long acting (Glargine, Degludec, Detemir) Premixed Insulin analogue (Lispro/ lispro protamine, aspart/ aspart protamine) Co-formulations (Degludec + Aspart insulin) Insulin degludec/insulin aspart (IDegAsp) is a soluble formulation of the novel basal analogue insulin degludec(70%) and insulin aspart (IAsp: 30%)
+7.2.4 Insulin action profiles (Figure 7.4):
+7.2.5 Storage of insulin:
+7.2.6 Mixing of insulin:
+7.2.7 Use of syringes:
+7.2.8 Insulin administration:
+(i) Insulin pens: Several pen-like devices and insulin containing cartridges are available that deliver insulin subcutaneously through a needle They are easy to use (ii) Insulin pumps: Insulin pump for continuous subcutaneous insulin infusion is available in India with integrated algorithm, which can automatically stop release of insulin thirty minutes before onset of hypoglycemia. It is indicated for those with brittle diabetes, multiple dose injections and recurrent episodes of hypoglycaemia Its use may be restricted to diabetes specialists with relevant experience The main problems associated with insulin use are hypoglycaemia and weight gain.
+Weight gain can be significant and is generally well correlated with the total daily dose of insulin. Used needles must be disposed off in a bio-safe manner. For initiating insulin, it is not necessary to hospitalize the patient. It can be done on outpatient basis.

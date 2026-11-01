@@ -1,0 +1,38 @@
+SOURCE: ICMR — Guidelines
+TITLE: DHR-ICMR Guidelines on Rickettsial Diseases: 3.2.2	Supportive laboratory Investigations
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/DHR-ICMR Guidelines on Ricketesial Diseases.pdf
+────────────────────────────────────────────────────────────
+
+3.2.2	Supportive laboratory Investigations
+These are required as additional diagnostic clues and sometimes can indicate severity and development of complications. These investigations can assist in deciding upon appropriate management of patients. a) Hematology Total Leucocytes Count during early course of the disease may be normal but later in the course of the disease; WBC count may become elevated to more than 11,000 / cu. mm.
+3.3.3	Imaging
+Figure: 5 Figure: 6 Figure: 7 Figure 5: X-ray of a patient with scrub typhus showing bilateral lower lobe interstitial infiltrates Figure 6: X-Ray of a 30-year old woman presenting with fever of 10 days, non-productive cough of 5 days and complaining of breathlessness. X-ray shows bilateral reticulonodular (interstitial) opacities in the lower lobes before treatment.
+Treatment There is paucity of evidence based on randomized controlled trials for the management of rickettsial diseases including scrub typhus.25 These guidelines for treatment cover the most common infection, the scrub typhus, murine typhus and Indian Tick typhus and do not cover acute Q fever though treatment of Q fever is on similar lines.
+Without waiting for laboratory confirmation of the Rickettsial infection, antibiotic therapy should be instituted when rickettsial disease is suspected.
+3.3.1 At Primary level: The Health Care provider needs to do the following: a) Recognition of disease severity. If the patients come with complications to primary health facility and treating physician considers it as rickettsial infection, treatment with doxycycline should be initiated before referring the patient. b) Referral to secondary or tertiary centre in case of complications like ARDS, acute renal failure, meningo-encephalitis, multi-organ dysfunction. In addition to recommended management of community acquired pneumonia, doxycycline is to be initiated when scrub typhus is considered likely. c) In fever cases of duration of 5 days or more where malaria, dengue and typhoid have been ruled out; following drugs should be administered when scrub typhus is considered likely – Adults a) Doxycycline 200 mg/day in two divided doses for individuals above 45 kg for duration of 7 days.
+Patients should be advised to swallow capsules with plenty of fluid during meals while sitting or standing Or b) Azithromycin 500 mg in a single oral dose for 5 days.
+Children a) Doxycycline in the dose of 4.5 mg/kg body weight/day in two divided doses for children below 45 kg Or b) Azithromycin in the single dose of 10mg/kg body weight for 5 days.
+3.3.2	At secondary and tertiary care:
+a) The treatment as specified above in uncomplicated cases. b) In complicated cases the following treatment is to be initiated – i) Intravenous doxycycline (wherever available) 100mg twice daily in 100 ml normal saline to be administered as infusion over half an hour initially followed by oral therapy to complete 7-15 days of therapy.
+Or ii) Intravenous Azithromycin in the dose of 500mg IV in 250 ml normal saline over 1 hour once daily for 1-2 days followed by oral therapy to complete 5 days of therapy. 26 Or iii) Intravenous chloramphenicol 50-100 mg/kg/d 6 hourly doses to be administered as infusion over 1 hour initially followed by oral therapy to complete 7-15 days of therapy. iv) Management of the individual complications should be done as per the existing practices.
+These strains are sensitive to Azithromycin 27 Blewitt B. Fevers of the typhus group in the Bhim Tal area, Kumaon Hills, UP, India. J of Royal Army Medical Corps. 1938:241-5.
+Mackie TT. Paper: Observations on Tsutsugamushi disease (scrub typhus) in Assam and Burma Preliminary report. Transactions of the Royal Society of Tropical Medicine and Hygiene. 1946;40(1):15- Sayen JJ, Pond HS, et al. Scrub typhus in Assam and Burma; a clinical study of 616 cases. Medicine (Baltimore). 1946 May;25:155-214.
+Indian J Med Res. 1949; 37(4):373- Kalra SL, Rao KN. Typhus fevers in Kashmir State. Part II.
+Menon RD, Padbidri VS, Gupta NP. Sero-epidemiological survey of scrub typhus. J Hyg Epidemiol Microbiol Immunol. 1978; 22(3):306-11.
+Prabhakaran A, Lal S, Biswas S, Vinoth S, Asraf AS, Mittal V. Serological study of rickettsial diseases in human and rodent population in Chittoor dist. (A.P.). J Commun Dis. 2010 Sep; 42(3):209-13.
+Mittal V, Gupta N, Bhattacharya D, Kumar K, Ichhpujani RL, Singh S, et al. Serological evidence of rickettsial infections in Delhi. Indian J Med Res. 2012 Apr;135(4):538-41.
+Mathai E, Lloyd G, Cherian T, Abraham OC, Cherian AM. Serological evidence for the continued presence of human rickettsioses in southern India. Ann Trop Med Parasitol. 2001 Jun;95(4):395-8.
+Padbidri VS, Kulkarni SM, Joshi MV, Mahadev PV, Geevarghese G. Murine rickettsiosis along the western ghats of Maharashtra State, India. Indian J Med Res. 1980 May;71:721-4.
+Mahajan SK, Rolain JM, Kashyap R, Bakshi D, Sharma V, Prasher BS, Pal LS, Raoult D. Scrub typhus in Himalayas. Emerg Infect Dis. 2006; 12:1590-1592.
+Chrispal A, Boorugu H, Gopinath KG, Prakash JA, Chandy S, Abraham OC, Abraham AM, Thomas K.
+Scrub typhus: an unrecognized threat in South India- Clinical profile and predictors of mortality. Trop Doc. 2010; 40:129-133.
+Mahajan SK, Kashyap R, Kanga A, Sharma V, Prasher BS, Pal LS.
+Relevance of Weil-Felix test in diagnosis of scrub typhus in India. J Assoc Physicians India.2006;54:619–621.
+Batra HV. Spotted fevers and typhus fevers in Tamil Nadu. Indian J Med Res. 2007; 126:101-103 Issac R, Varghese GM, Mathai E, J M, Joseph I. Scrub typhus: Prevalence and diagnostic issues in rural Southern India. Clin Infect Dis.2004; 39: 1395-1396. http://wwwnc.cdc.gov/travel/yellowbook/2014/chapter-3-infectious-diseases-related-to-travel/ rickettsial-spotted-and-typhus-fevers-and-related-infections-anaplasmosis-and-ehrlichiosis (as accessed on 21st August, 2014).
+Sharma P, Kakkar R, Kaore S, Yadav V, Sharma R. Geographical Distribution, Effect of season & Life Cycle of Scrub Typhus. JK Science. 2010 Apr; 12 (2): 63-64.
+Yuehong Wei, Yong Huang, Lei Luo, Xincai Xiao, Lan Liu , and Zhicong Yang. Rapid Increase of Scrub Typhus: An Epidemiology and Spatial-Temporal Cluster Analysis in Guangzhou City, Southern China, 2006–2012. 2014 PLoS One. 2014; 9(7): e101976.
+References Mathai E, Rolain JM, Verghese GM, Abraham OC, Mathai D, Mathai M, Raoult D. Outbreak of scrub typhus in southern India during cooler moths. Ann N Y Acad Sci. 2003; 990:359-364.
+Vivekanandan M, Mani A, Priya YS, Singh AP, Jayakumar S, Purty S. Outbreak of scrub typhus in Pondicherry. J assoc Physicians India. 2010; 58:24-28.
+Paris D H, Shelite T R, Day N P and Walker D H. Review Article: Unresolved Problems related to scrub typhus: A seriously neglected life-threatening disease. Am J Trop. Med. Hyg. 2013; 89 (2): 301- Kaushik R M, Kaushik R, Bhargava A. Multiple eschars in scrub typhus. Tropical Medicine and Health [serial on the Internet]. 2014 [cited 2014 7th May]: Available from: http://jlc.jst.go.jp/DN/JST.JSTAGE/ tmh/2013-33.
+Rathi N and Rathi A. Rickettsial Infections: Indian Perspective. Indian Pediatrics 2010;47: 157-164.
+Liu Q, Panpanich R. Anitbiotics for treating scrub typhus. Cochrane Database of Systematic Reviews 2002; Issue 3 Art No. CD002159.

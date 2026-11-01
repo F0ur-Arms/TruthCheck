@@ -1,0 +1,28 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 11.1	 Presentation
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+11.1	 Presentation
+Laryngeal TB Presents with hoarse voice and pain on swallowing, mimicking non-specific laryngitis or laryngeal carcinoma. Can be infectious, unlike other forms of EPTB.
+Ear TB Usually presents with chronic suppurative otitis media – painless discharging ear not responding to antibiotics, with hearing loss disproportionate to the clinical appearance. Can be complicated by facial paralysis, promontorial fistulae and inner ear involvement, which may also occur in TB meningitis.
+Oral TB Multiple presentations as TB can affect any part of the mouth. Lesions are usually ulcerative and painless, sometimes with a necrotic base and discharge.
+Oropharyngeal TB TB of the tonsils presents with asymmetrical enlargement with ulceration, mimicking carcinoma. TB of the cervical spine can extend to cause retropharyngeal abscess presenting with pain on swallowing, and complicated by airway compromise which requires emergency intervention.
+Sinonasal TB Very rare, usually presents with nasal obstruction, bleeding and runny nose and lymphadenopathy Salivary gland TB Very rare; usually associated with immunosuppression. Presents with swelling Thyroid gland TB Very rare; multiple presentations from isolated nodules to thyrotoxicosis.
+Ear, nose and throat TB with TB should have a chest X-ray.
+First line treatment for adults and children with ENT TB 2RHZE/4–7RHE Steroids have no role in the treatment of ENT TB, and should be avoided as they may do harm.
+Total treatment duration: 6 to 9 months All cases involving bone, including all TB otitis media cases, should receive 9 months treatment.
+All patients with ENT TB, except those who have accessible cervical lymph nodes which are amenable to FNAC, will need referral to ENT specialists for diagnosis.
+Monthly follow-up for patients with sinonasal and ear/temporal bone TB is suggested during treatment to assess response and monitor adherence, and after treatment to assess resolution and detect recurrence.
+May be indicated in some circumstances to treat complications or for reconstruction of the ear or nose.
+Where facial nerve palsy complicates tuberculous otitis media, surgical decompression should be considered if there is no improvement after 3 to 4 weeks of ATT (good practice statement).
+Surgical drainage of retropharyngeal abscess complicating TB of the cervical spine may be considered, but requires specialist judgement.
+Surgery should be avoided in TB of the salivary glands or thyroid; medical treatment is usually sufficient.
+There is little evidence to guide recommendations about the duration of treatment in ENT TB, and so this outline is based on the consensus of the ENT expert group.
+11.4	 Sequelae
+Sequelae are related to tissue destruction. Serious complications result from resorption of facial bone. Airway compromise resulting from ankylosis is a life- threatening complication, which requires emergency surgical treatment.
+TB of the ear can lead to permanent hearing loss, facial nerve palsy and balance problems (vestibulopathy). It can be complicated by infection of the underlying bone and meningitis from spread into the central nervous system.
+Sinonasal TB can lead to deformity of the nose, and can be complicated by involvement of the eye socket.
+Lymph node TB (LNTB, also called TB lymphadenitis) refers to Mtb infection of the lymph nodes, and may occur as the sole manifestation of TB infection, or alongside pulmonary or miliary TB. LNTB is the most common form of EPTB in India, accounting for around 35% of EPTB cases (Sharma S.K., 2004). Total estimated incidence of LNTB was 30.8 per 100 000 population in India in 2013 (RNTCP, 2014).
+Care should be taken to identify patients who need to be investigated for LNTB, as there are multiple differential diagnoses for chronic lymphadenopathy.
+TB of the deep lymph nodes in the chest (mediastinal TB) may present with cough or shortness of breath. Abdominal LNTB patients may have abdominal pain or distension.
