@@ -24,6 +24,11 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# The decomposer reads its endpoint from config at import time; point it at the judge's server so
+# --pipeline really uses the LLM (without these it silently falls back to the heuristic).
+os.environ.setdefault("TRUTHCHECK_LLM_BASE_URL", "http://cb-gpu-server:8000/v1")
+os.environ.setdefault("TRUTHCHECK_LLM_MODEL", "qwen2.5-7b-awq")
+os.environ.setdefault("TRUTHCHECK_LLM_API_KEY", "none")
 from src.preprocessor import HinglishMapper
 from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1, LLMNLIJudge
 
@@ -74,7 +79,7 @@ def main():
     for p in pairs:
         p["mapped"] = mapper.clean_text(p["translated"])
 
-    base_url = os.environ.get("TRUTHCHECK_LLM_BASE_URL", "http://cb-gpu-server:8000/v1")
+    base_url = os.environ["TRUTHCHECK_LLM_BASE_URL"]
     for attempt in range(80):
         try:
             if requests.get(f"{base_url}/models", timeout=5).ok:
@@ -86,7 +91,7 @@ def main():
         sys.exit("LLM server not reachable after 20 minutes")
 
     judge = LLMNLIJudge(base_url=base_url,
-                        api_key="none", model=os.environ.get("TRUTHCHECK_LLM_MODEL", "qwen2.5-7b-awq"),
+                        api_key="none", model=os.environ["TRUTHCHECK_LLM_MODEL"],
                         system_prompt=SYSTEM_V1 if args.prompt == "v1" else SYSTEM)
 
     def run(item):
@@ -112,6 +117,8 @@ def main():
         }
         for name, make_input in settings.items():
             cp = ClaimsProcessor()
+            if not cp.llm.configured:
+                sys.exit("decomposer has no LLM endpoint; refusing to report heuristic sub-claims")
 
             def decompose_and_judge(p, cp=cp, make_input=make_input):
                 rep_ = cp.process_query(*make_input(p))

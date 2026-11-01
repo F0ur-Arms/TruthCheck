@@ -1,0 +1,33 @@
+#!/bin/bash
+# Candidate LLM server for the judge comparison: Qwen2.5-32B-Instruct-AWQ on a 40 GB MIG
+# slice. Runs beside the production 7B server (vllm_prod.pbs, port 8000) on port 8001 with
+# its own served name, so evaluation scripts pick it with
+#   TRUTHCHECK_LLM_BASE_URL=http://cb-gpu-server:8001/v1 TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq
+#
+# Usage: qsub scripts/cluster/vllm_32b.pbs
+#PBS -N TRUTHCHECK-VLLM-32B
+#PBS -l select=1:ncpus=8
+#PBS -l walltime=24:00:00
+#PBS -q Gpu4-40g
+#PBS -e /storage/home/bagler/vllm_32b.err
+#PBS -o /storage/home/bagler/vllm_32b.out
+
+# Gpu4-40g's MIG slice UUID (see docs/LOCAL_LLM_DEPLOYMENT.md for the queue -> UUID mapping).
+export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef
+
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
+export HF_HUB_OFFLINE=1
+
+echo "VLLM 32B server starting: $(date)"
+echo "Host: $(hostname -f)"
+
+python -m vllm.entrypoints.openai.api_server \
+  --model Qwen/Qwen2.5-32B-Instruct-AWQ \
+  --served-model-name qwen2.5-32b-awq \
+  --host 0.0.0.0 \
+  --port 8001 \
+  --tensor-parallel-size 1 \
+  --gpu-memory-utilization 0.90 \
+  --max-model-len 8192 \
+  --quantization awq
