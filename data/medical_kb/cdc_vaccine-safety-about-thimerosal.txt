@@ -1,0 +1,75 @@
+SOURCE: CDC
+TITLE: Thimerosal and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/thimerosal.html
+────────────────────────────────────────────────────────────
+
+Key points
+- Thimerosal is a mercury-based preservative that has been used for decades in the United States in multi-dose vials (vials containing more than one dose) of medicines and vaccines.
+- In July 1999, the Public Health Service agencies, the American Academy of Pediatrics, and vaccine manufacturers agreed that thimerosal should be reduced or eliminated in vaccines as a precautionary measure.
+Overview
+About thimerosal
+Mercury is a naturally occurring element found in the earth's crust, air, soil, and water. Two types of mercury to which people may be exposed — methylmercury and ethylmercury — are very different.
+In the United States, federal guidelines keep as much methylmercury as possible out of the environment and food, but over a lifetime, everyone is exposed to some methylmercury.
+Purpose of thimerosal
+Thimerosal is added to vials of vaccine that contain more than one dose (multi-dose vials) to prevent growth of germs, like bacteria and fungi.
+Introduction of bacteria and fungi has the potential to occur when a syringe needle enters a vial as a vaccine is being prepared for administration. Contamination by germs in a vaccine could cause severe local reactions, serious illness or death. In some vaccines, preservatives, including thimerosal, are added during the manufacturing process to prevent germ growth.
+Removal of thimerosal
+Fact
+- Measles, mumps, and rubella (MMR) vaccines do not and never did contain thimerosal.
+- Varicella (chickenpox), inactivated polio (IPV), and pneumococcal conjugate vaccines have also never contained thimerosal.
+- Influenza (flu) vaccines are currently available in both thimerosal-containing (for multi-dose vaccine vials) and thimerosal-free versions.
+For a complete list of vaccines and their thimerosal content level, see the U.S. Food and Drug Administration (FDA) Thimerosal in Vaccines page.
+What the research shows
+The most common side-effects of thimerosal in vaccines are minor reactions like redness and swelling at the injection site. Although rare, some people may be allergic to thimerosal.
+No connection with autism
+Research does not show any link between thimerosal in vaccines and autism , a neurodevelopmental disorder. Many well conducted studies have concluded that thimerosal in vaccines does not contribute to the development of autism. 1 2 3 Even after thimerosal was removed from almost all childhood vaccines, autism rates continued to increase, which is the opposite of what would be expected if thimerosal caused autism.
+No association with neuropsychological delays
+Studies have assessed the possible association between ethyl mercury exposure from thimerosal-containing vaccines and neuropsychological functioning including an objective measurement of neuropsychological functioning.
+Timeline: Thimerosal in Vaccines
+September 13. Results of a CDC study do not support an association between prenatal and infant exposure to vaccines and immunoglobulins that contain thimerosal and an increased risk for autism spectrum disorder (ASD).
+February 1. Results of an Italian study were reassuring that immunization in infancy with thimerosal-containing vaccines does not decrease neuropsychological performance later in childhood.
+September 27. Results of a CDC study do not support an association between early exposure to thimerosal in vaccines and neuropsychological problems in children between the ages of 7 and 10 years.
+July 7. CDC issues a statement on autism and thimerosal that states in part: “Some people believe increased exposure to thimerosal (from the addition of important vaccines recommended for children) explains the higher prevalence [of autism] in recent years. However, evidence from several studies examining trends in vaccine use and changes in autism frequency does not support such an association.”
+September 26. In a statement prepared for the Coalition for Mercury-free Drugs, the FDA concludes that the evidence reviewed by the IOM in 2004 does not support an association between thimerosal-containing vaccines and autism.
+May 28. ACIP recommends that children between the ages of 6 and 23 months routinely receive an inactivated influenza (flu) vaccine. ACIP does not recommend using the thimerosal-free flu vaccine over the thimerosal-containing flu vaccine, and states that the benefits of flu vaccination outweigh any risk from thimerosal exposure.
+May 17. After reviewing over 200 scientific studies that examined thimerosal-containing vaccines and autism, IOM concludes in a report that the studies “consistently provided evidence of no association between thimerosal-containing vaccines and autism.”
+November. A study finds no consistent significant associations between exposure to thimerosal-containing vaccines and a variety of kidney, nervous system, and developmental problems.
+August. Another study looks for a link between autism incidence and the use of thimerosal-containing vaccines. The study does not find a link between thimerosal-containing vaccines and autism in Denmark and Sweden, where autism rates continued to increase although thimerosal was removed from vaccines in 1992.
+January. The last children’s vaccines that use thimerosal as a preservative expire .
+Except for influenza (flu), thimerosal is removed from or reduced in all vaccines routinely recommended for children 6 years of age and under manufactured for the U.S. market.
+October 1. IOM’s Immunization Safety Review Committee issues a report concluding there is not enough evidence to disprove claims that thimerosal in childhood vaccines causes autism, attention deficit hypersensitivity disorder, or speech or language delay.
+May 5. A risk assessment of thimerosal use in childhood vaccines finds no evidence of harm from the use of thimerosal as a preservative, other than redness and swelling at the injection site.
+June 7 and 8. Fifty-one vaccine and vaccine safety researchers and experts meet in Atlanta, GA to review data regarding thimerosal in vaccines and nervous system disorders. A report summarizing the meeting was presented to ACIP.
+The FDA reviews the use of thimerosal in childhood vaccines and finds no evidence of harm, but as a precautionary measure, recommends removing thimerosal from vaccines routinely given to infants.
+November 5. CDC states that vaccine manufacturers, FDA, and other agencies are working together to reduce the amount of thimerosal in vaccines, or to replace them with thimerosal-free vaccines, as soon as possible.
+October 20. ACIP reviews information about thimerosal in vaccines provided by CDC’s National Immunization Program and several vaccine manufacturers regarding the availability of vaccines that do not contain thimerosal as a preservative.
+July 7. The American Academy of Pediatrics and the Public Health Service issue a joint statement that says “There is no data or evidence of any harm caused by the level of exposure that some children may have encountered in following the existing immunization schedule.” The American Academy of Family Physicians issues a comparable statement soon after.
+Frequently asked questions
+What is thimerosal?
+Thimerosal is a vaccine additive, added to some vaccines to prevent germs (like bacteria and fungi) from growing in them. If germs grow in vaccines, they can cause illness—or even death.
+Why do some people worry about thimerosal in vaccines?
+You may have heard that thimerosal has mercury in it. Not all types of mercury are the same. Some types of mercury, like mercury in some kinds of fish, stay in the human body and can make people sick. Thimerosal is a different kind of mercury. It doesn’t stay in the body, and is unlikely to make us sick.
+Is thimerosal safe?
+Yes. Thimerosal has been used safely in vaccines for a long time (since the 1930s).
+Scientists have been studying the use of thimerosal in vaccines for many years. They haven’t found any evidence that thimerosal causes harm.
+Is thimerosal still used in vaccines for children?
+No. Thimerosal hasn't been used in vaccines for children since 2001.
+However, thimerosal is still used in some flu vaccines . Yearly flu vaccines are recommended for all children. If you are worried about thimerosal, you can ask for a flu vaccine without it.
+Does thimerosal cause autism?
+No. Research does not show any link between thimerosal and autism.
+Are there side effects from thimerosal in vaccines?
+Most people don't have any side effects from thimerosal, but some people will have mild side effects like redness and swelling at the place where the shot was given, which will only last 1 to 2 days. It's very unlikely you will have an allergic reaction to thimerosal.
+How can I find out if thimerosal is in a vaccine?
+Ask your doctor or pharmacist.
+Ask to see the vaccine's list of ingredients. All vaccine packages come with information (called an insert) that lists the ingredients.
+What CDC is doing
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+Explore CDC research on vaccine safety
+CDC's Vaccine Safety Research page provides access to CDC vaccine safety studies and data published in scientific journals. On this page, you can explore journal articles that use CDC's data and cover a variety of vaccine safety related topics.
+Keep Reading Vaccine Safety Research
+- Price CS, Thompson WW, Goodson B, Weintraub ES, Croen LA, Hinrichsen VL, Marcy M, Robertson A, Erisken E, Lewis E, Bernal P, Shay D, Davis RL, DeStefano F. Prenatal and infant exposure to thimerosal from vaccines and immunoglobulins and risk of autism. Pediatrics. 2010 Oct;126(4):656-64. Epub 2010 Sep 13.
+- Alberto Eugenio Tozzi, Patrizia Bisiacchi, Vincenza Tarantino, Barbara De Mei, Lidia D'Elia, Flavia Chiarotti, Stefania Salmaso; Neuropsychological Performance 10 Years After Immunization in Infancy With Thimerosal-Containing Vaccines. Pediatrics February 2009; 123 (2): 475–482. 10.1542/peds.2008-0795
+- Stehr-Green, P., Tull, P., Stellfeld, M., Mortenson, P. B., & Simpson, D. (2003). Autism and thimerosal-containing vaccines: lack of consistent evidence for an association. American journal of preventive medicine , 25 (2), 101–106. https://doi.org/10.1016/s0749-3797(03) 00113-2
+- Thompson WW, Price C, Goodson B, Shay DK, Benson P, Hinrichsen VL, Lewis E, Eriksen E, Ray P, Marcy SM, Dunn J, Jackson LA, Lieu TA, Black S, Stewart G, Weintraub ES, Davis RL, DeStefano F, Vaccine Safety Datalink Team. Early Thimerosal exposure and neuropsychological outcomes at 7 to 10 years. N Engl J Med. 2007 Sept 27;357(13):1281-92.
+- Verstraeten, T., Davis, R. L., DeStefano, F., Lieu, T. A., Rhodes, P. H., Black, S. B., Shinefield, H., Chen, R. T., & Vaccine Safety Datalink Team (2003). Safety of thimerosal-containing vaccines: a two-phased study of computerized health maintenance organization databases. Pediatrics , 112 (5), 1039–1048.
+- Ball, L. K., Ball, R., & Pratt, R. D. (2001). An assessment of thimerosal use in childhood vaccines. Pediatrics , 107 (5), 1147–1154. https://doi.org/10.1542/peds.107.5.1147

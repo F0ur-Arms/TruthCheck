@@ -1,0 +1,40 @@
+SOURCE: CDC
+TITLE: 2010-2019 Highlights in the History of Avian Influenza (Bird Flu) Timeline
+URL: https://www.cdc.gov/bird-flu/avian-timeline/2010-2019.html
+────────────────────────────────────────────────────────────
+
+What to know
+- The below timeline gives a summary of significant HPAI and LPAI outbreaks in birds, infections in people, and events from 2010-2019.
+2010-2019
+- During the 2010s, multiple HPAI H5 viruses were identified with new NA subtypes (e.g., H5N2, H5N3, H5N6, H5N8 and H5N9) following reassortment (gene swapping) with wild bird lineages among wild birds and/or domestic poultry 1 .
+- By 2011, United Nations Food and Agriculture Organization considered six countries to be enzootic (regularly affecting animals) for HPAI H5N1 virus in poultry: Bangladesh, China, Egypt, India, Indonesia, and Vietnam.
+- Sporadic outbreaks of HPAI H5N1 virus also occurred among poultry in non-enzootic countries 1 2 .
+- In March 2013, human infections with LPAI H7N9 virus were reported in China. These detections were linked to LPAI H7N9 virus in poultry in live poultry markets 2 .
+- While LPAI H7N9 virus infection does not generally cause observable illness in poultry 3 , these viruses caused severe illness and death in people 4 .
+- HPAI H5N6 and H5N8 viruses emerged during 2014 1 .
+- Reassortment (gene-swapping) of H5 viruses with wild bird lineages led to the emergence and detection of H5N6 and H5N8 virus subtypes belonging to clade 2.3.4.4 in 12 countries in Asia, Europe, and North America. Of note, the H5N6 viruses had a poultry-adapted NA.
+- H5 viruses with various NA genes continue to be detected, including in US wild birds and domestic poultry.
+- In January 2014, the first human infection with Asian lineage HPAI H5N1 virus in the Americas was reported in Canada in a traveler returning from China.
+- Also in January 2014, the Malaysian Ministry of Health reported a human infection with LPAI H7N9 virus. The case occurred in a traveler from China who had developed symptoms before traveling. This was the first case of H7N9 detected outside of China.
+- In December 2014 , the United States Department of Agriculture’s (USDA) Animal and Plant Health Inspection Service ( APHIS ) reported HPAI H5N2 and H5N8 viruses in US wild birds in several states.
+- In January 2015 , an HPAI H5N1 virus was identified in a sample taken from a US wild bird in 2014. This virus resulted from reassortment of the Asian lineage H5 viruses with an N1 NA from North American wild birds. No human infections with this reassortant HPAI H5N1 virus were reported.
+- Also in January 2015, the first two human infections with Asian lineage LPAI H7N9 virus in North America were reported in travelers who became ill after a trip to China 5 .
+- From January to June 2015, HPAI H5 virus outbreaks (including H5N2 and H5N8 viruses) were reported in commercial poultry flocks in 21 US states and in Canada.
+- In January 2016, an outbreak of North American lineage HPAI H7N8 virus was detected in a commercial poultry flock in the United States, and subsequently North American lineage LPAI H7N8 was detected in eight additional nearby turkey flocks.
+- In December 2016, two human infections with a North American lineage LPAI H7N2 virus were reported in the United States. These people experienced mild upper respiratory tract illness following unprotected exposure to infected cats at an animal shelter experiencing an outbreak of LPAI H7N2 in cats.
+- Avian influenza HPAI H5N8 virus was detected in two seals stranded on the Baltic coast of Poland in 2016 and 2017 6 .
+- In late 2016 and early 2017, there were outbreaks of HPAI H5N8 virus in domestic poultry and wild birds in Europe, Asia, and parts of Africa.
+- In early 2017, the World Health Organization ( WHO ) reported human infections with Asian lineage H7N9 bird flu. It is thought that during these outbreaks in poultry some LPAI H7N9 virus strains mutated to become HPAI H7N9 viruses because markers for HPAI viruses were found in the second wave of infections, though the majority of confirmed H7N9 human cases reported were LPAI H7N9.
+- With nearly 700 infections reported, this was the largest epidemic of Asian lineage H7N9 human infections in China since 2013.
+- In March 2017, an outbreak of HPAI H7N9 virus was detected in two commercial chicken breeder flocks in the United States 7 . This North American lineage HPAI H7N9 virus was genetically unrelated to the Asian lineage HPAI H7N9 viruses reported in China and was not believed to pose the same risk to public health.
+- During 2018, HPAI H5N6 and H5N8 viruses belonging to clade 2.3.4.4b become the predominant type of bird flu circulating among birds in Asia, Africa, the Middle East, and Europe 1 .
+- As of May 2019, 861 human cases of H5N1 virus infection and 455 deaths had been reported from 17 countries since November 2003.
+- Also as of May 2019, 1,568 lab confirmed H7N9 human cases had occurred since 2013, with 612 deaths 8 .
+- CDC ID. Emergence and Evolution of H5N1 Bird Flu . CDC Influenza Division; 2022. https://www.cdc.gov/flu/pdf/avianflu/bird-flu-origin-graphic.pdf . Accessed 2022.
+- Swayne DE. Animal Influenza . 2nd ed. Hoboken, NJ: Wiley-Blackwell; 2016.
+- Chen Y, Liang W, Yang S, et al. Human infections with the emerging avian influenza A H7N9 virus from Wet Market Poultry: Clinical analysis and characterisation of viral genome. The Lancet . 2013;381(9881):1916-1925. doi:10.1016/s0140-6736(13)60903-4
+- Gao R, Cao B, Hu Y, et al. Human infection with a novel avian-origin influenza A (h7n9) virus. New England Journal of Medicine . 2013;368(20):1888-1897. doi:10.1056/nejmoa1304459
+- Skowronski D, Chambers C, Gustafson R, et al. Avian Influenza A(H7N9) Virus Infection in 2 Travelers Returning from China to Canada, January 2015. Emerging Infectious Diseases . 2016;22(1):71-74. doi:10.3201/eid2201.151330
+- Shin D, Siebert U, Lakemeyer J, et al. Highly Pathogenic Avian Influenza A(H5N8) Virus in Gray Seals, Baltic Sea. Emerging Infectious Diseases . 2019;25(12):2295-2298. doi:10.3201/eid2512.181472.
+- Lee D, Torchetti MK, Killian M, et al. Highly Pathogenic Avian Influenza A(H7N9) Virus, Tennessee, USA, March 2017. Emerging Infectious Diseases . 2017;23(11):1860-1863. doi:10.3201/eid2311.171013
+- World Health Organization WHO. Cumulative number of confirmed human cases for avian influenza A(H5N1) reported to WHO, 2003-2021. April 2022. https://cdn.who.int/media/docs/default-source/influenza/human-animal-interface-risk-assessments/2022_april_tableh5n1.pdf

@@ -1,0 +1,59 @@
+SOURCE: CDC
+TITLE: Benefits of Getting Vaccinated
+URL: https://www.cdc.gov/covid/vaccines/benefits.html
+────────────────────────────────────────────────────────────
+
+What to know
+- Getting vaccinated against COVID-19 has many benefits that are supported by scientific studies.
+- The COVID-19 vaccine helps protect you from severe illness, hospitalization, and death.
+- A 2026-2027 COVID-19 vaccine is recommended for all adults ages 18 years and older.
+- A 2026-2027 COVID-19 vaccine is also recommended for all children ages 6 months–17 years with moderate to severe immunocompromise; for all other children in this age group, a COVID-19 vaccine is recommended through shared clinical decision-making.
+COVID-19 vaccines protect your health
+COVID-19 continues to cause millions of illnesses, hundreds of thousands of hospitalizations, and tens of thousands of deaths each year in the United States. 1 2 It was the 10th leading cause of death in 2023. 3
+COVID-19 vaccines can help keep you from getting sick from COVID-19. If you do get COVID-19, vaccines can make the illness shorter 4 5 and less severe.
+Stay up to date
+The data below describe how well vaccines work to reduce your risk. This risk reduction is in addition to protection you may have from previous infections with COVID-19 or from receiving earlier versions of COVID-19 vaccines.
+COVID-19 vaccines:
+- For adults ages 18 and older, the 2023–2024 COVID-19 vaccines reduced the risk of critical illness from COVID-19 by almost 70% in the first 2 months after vaccination. Protection decreased over time. During the 10 months after vaccination, the vaccines reduced critical illness risk by about 50%. 6
+- For adults ages 18 and older, the 2023­­–2024 COVID-19 vaccines reduced the risk of COVID-19 hospitalization by about 50% in the first 2 months after vaccination. Protection decreased over time. During the 10 months after vaccination, the vaccines reduced hospitalization risk by about 30%. 6 7
+- For adults ages 18 and older, the 2023–2024 COVID-19 vaccines reduced the risk of COVID-19 urgent care and emergency department visits by about 50% in the first 2 months after vaccination. Protection decreased over time, with little protection remaining at 4–6 months. 6 7
+- Studies show that people who got vaccinated against COVID-19 and later get COVID-19 are less likely to have Long COVID, compared to people who are unvaccinated or not up to date with their COVID-19 vaccines. 8 9
+Important for people at higher risk from COVID-19
+- The 2023–2024 COVID-19 vaccines reduced the risk of critical illness (admission to intensive care unit or death) among older adults by about 67% in the first 2 months after vaccination. During the 4–6 months after vaccination, the vaccines reduced critical illness risk by about 40%. 6
+- The 2023–2024 COVID-19 vaccines reduced the risk of COVID-19 hospitalization among older adults by about 50% in the first 2 months after vaccination. Protection from vaccination wanes by 4–6 months after vaccination. 6 7 Because adults ages 65 years and older have a higher risk for severe COVID-19, they are recommended to receive a second dose of COVID-19 vaccine 6 months after their first dose.
+- The 2023–2024 COVID-19 vaccines reduced the risk of COVID-19 hospitalization for people with a weakened immune system by about 36% in the first 2 months after vaccination. Protection from vaccination wanes by 4–6 months after vaccination. 6 10 Because people with a weakened immune system have a higher risk for severe COVID-19, they are recommended to receive a second dose of COVID-19 vaccine 6 months after their first dose.
+- Getting a COVID-19 vaccine while you are pregnant helps protect you. It also helps protect your baby from severe health outcomes due to COVID-19 before they become eligible for COVID-19 vaccination when they are 6 months old. 11
+- COVID-19–associated hospitalization rates among infants younger than 6 months remain higher than rates among any other age group except adults ages 75 years and older. 12
+- Maternal vaccination during pregnancy reduced the risk of COVID-19-related hospitalization by around 54% among infants during the first 3 months of life. 11
+Children
+The 2023–2024 COVID-19 vaccines reduced the risk of COVID-19-associated emergency room and urgent care visits by
+- Around 65% in children ages 9 months to 4 years in the first 2 months after vaccination. Protection decreased over time. 6
+- About 70% in children ages 5–17 years in the first 2 months after vaccination. Protection decreased over time. At 4–6 months after vaccination, the vaccines reduced risk by about 50%. 6
+Vaccination is more reliable way to build protection than getting sick
+COVID-19 vaccination helps protect people by creating an immune response without the potentially severe illness that can be associated with COVID-19 infection.
+What Can Happen If You Get Sick with COVID-19
+- COVID-19 can cause severe illness or death, even in children, but it is not always possible to determine who will experience mild or severe illness from COVID-19 infection.
+- People may have long-term health issues after having COVID-19. Even people who do not have symptoms when they are first infected with COVID-19 can experience long-term health problems, also known as Long COVID or post-COVID conditions.
+- Complications can appear after mild or severe COVID-19, or after multisystem inflammatory syndrome in children (MIS-C) .
+Protection from having had COVID-19
+Keep in mind
+- Immunity (protection) from infection can vary depending on how mild or severe someone's illness was, their age, and whether they have a weakened immune system. Immunity also changes depending on what variant of SARS-CoV-2 someone had and how similar it is to the variants currently circulating.
+- Immunity from infection decreases over time.
+A closer look at the safety data
+During the COVID-19 pandemic, COVID-19 vaccines underwent the most intensive safety analysis in U.S. history. COVID-19 vaccines continue to be monitored for safety, even after FDA approval, to make sure they continue to meet FDA's standards for safety and effectiveness. To date, the systems in place to monitor the safety of COVID-19 vaccines currently used in the United States have identified anaphylaxis and myocarditis or pericarditis as serious types of adverse events following COVID-19 vaccination. Other rare events, such as Guillain-Barré syndrome (GBS) , are also monitored for and studied.
+After vaccination
+Learn what you can do after vaccination to protect your family from COVID-19 in CDC's respiratory virus guidance .
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+- Preliminary Estimates of COVID-19 Burden for 2024-2025 | COVID-19 | CDC
+- CDC COVID Data Tracker: Trends by Geographic Area
+- Mortality in the United States — Provisional Data, 2023 | MMWR
+- COVID-19 vaccination decreased COVID-19 hospital length of stay, in-hospital death, and increased home discharge - PMC
+- Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines | New England Journal of Medicine
+- COVID-19 vaccine effectiveness
+- Interim Effectiveness of Updated 2023–2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19–Associated Emergency Department and Urgent Care Encounters and Hospitalization Among Immunocompetent Adults Aged ≥18 Years — VISION and IVY Networks, September 2023–January 2024 | MMWR
+- Protective Effect of Coronavirus Disease 2019 (COVID-19) Vaccination on Postacute Sequelae of COVID-19: A Multicenter Study From a Large National Health Research Network | Open Forum Infectious Diseases | Oxford Academic
+- Protective effect of COVID-19 vaccination against long COVID syndrome: A systematic review and meta-analysis - ScienceDirect
+- Interim Effectiveness of Updated 2023–2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19–Associated Hospitalization Among Adults Aged ≥18 Years with Immunocompromising Conditions — VISION Network, September 2023–February 2024 | MMWR
+- Effectiveness of Maternal mRNA COVID-19 Vaccination During Pregnancy Against COVID-19–Associated Hospitalizations in Infants Aged 6 Months During SARS-CoV-2 Omicron Predominance — 20 States, March 9, 2022–May 31, 2023 | MMWR
+- COVID-19–Associated Hospitalizations and Maternal Vaccination Among Infants Aged 6 Months — COVID-NET, 12 States, October 2022–April 2024 | MMWR

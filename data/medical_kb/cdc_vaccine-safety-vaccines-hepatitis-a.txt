@@ -1,0 +1,33 @@
+SOURCE: CDC
+TITLE: Hepatitis A Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/hepatitis-a.html
+────────────────────────────────────────────────────────────
+
+Key points
+Overview
+Hepatitis A infection can range from a mild illness lasting a few weeks to a severe illness lasting several months. Although rare, hepatitis A can cause death in some people.
+Available vaccines & manufacturer package inserts
+Single antigen vaccines and manufacturer inserts
+Contains only hepatitis A vaccine.
+Combination vaccine and manufacturer insert
+Contains hepatitis A vaccine and hepatitis B vaccine, combined into a single dose.
+Who should & should not get the vaccine
+Common side effects
+When to call 911
+Severe allergic reactions following vaccination are rare, but can be life threatening. If someone experiences symptoms of a severe allergic reaction, which can include hives, swelling of the face and throat, difficulty breathing, a fast heartbeat, dizziness, and weakness.
+Hepatitis A vaccines are safe and effective at preventing hepatitis A infections. Vaccines, like any medicine, can have side effects. The common side effects are usually mild and last 1-2 days.
+Report possible adverse events to VAERS‎
+The Vaccine Adverse Event Reporting System (VAERS) is an early warning system, co-managed by CDC and FDA, that monitors for potential vaccine safety problems. Healthcare providers and vaccine manufacturers are required by law to report certain adverse events (any side effect or health problem after vaccination that is concerning to you, even if you are not sure if the vaccine caused the event) following vaccination to VAERS; patients and caregivers can also submit reports.
+A closer look at the safety data
+Findings from vaccine safety monitoring systems and scientific studies have shown that hepatitis A vaccines have a favorable safety profile—the body of scientific evidence overwhelmingly supports their safety.
+How CDC monitors vaccine safety
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5507a1.htm
+- Black, S., Shinefield, H., Hansen, J., Lewis, E., Su, L., & Coplan, P. (2004). A post-licensure evaluation of the safety of inactivated hepatitis A vaccine (VAQTA, Merck) in children and adults. Vaccine , 22 (5-6), 766–772. https://doi.org/10.1016/j.vaccine.2003.08.034
+- Niu, M. T., Salive, M., Krueger, C., & Ellenberg, S. S. (1998). Two-year review of hepatitis A vaccine safety: data from the Vaccine Adverse Event Reporting System (VAERS). Clinical infectious diseases : an official publication of the Infectious Diseases Society of America , 26 (6), 1475–1476. https://doi.org/10.1086/517673
+- Niu MT, Salive M, Kruger C, Ellenberg SS. Two-year review of hepatitis A vaccine safety: Data from the Vaccine Adverse Event Reporting System (VAERS) . Clin Infect Dis . 1998 Jun;26(6):1475-6.
+- Black S, Shinefield H, Hansen J, Lewis E, Su L, Coplan P. A post-licensure evaluation of the safety of inactivated hepatitis A vaccine (VAQTA, Merck) in children and adults . Vaccine . 2004 Jan 26;22(5-6):766-72.
+- Woo EJ, Miller NB, Ball R, VAERS Working Group. Adverse events after hepatitis A B combination vaccine . Vaccine. 2006 Mar 24;24(14):2685-91.
+- Fiore AE, Wasley A, Bell BP. Prevention of Hepatitis A Through Active or Passive Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm and Reps. 2006 May 16;55(RR07):1-23.
+- Karali Z, Basaranoglu ST, Karali Y, Oral B, Kilic SS. Autoimmunity and hepatitis A vaccine in children . J Investig Allergol Clin Immuno. 2011;21(5):389-93.
+- Moro PL, Museru O, Niu M, Lewis P, Broder K. Reports to the Vaccine Adverse Event Reporting System After Hepatitis A and Hepatitis AB Vaccines in Pregnant Women. Am J, Obstet Gynecol. 2014 Jun;210(6): 561.e1-6.

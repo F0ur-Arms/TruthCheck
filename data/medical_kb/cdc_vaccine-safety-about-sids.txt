@@ -1,0 +1,24 @@
+SOURCE: CDC
+TITLE: Sudden Infant Death Syndrome (SIDS) and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/sids.html
+────────────────────────────────────────────────────────────
+
+Key points
+Overview
+Babies receive multiple vaccines when they are between 2 to 4 months old. This age range is also the peak age for sudden infant death syndrome (SIDS) . The timing of the 2 month and 4 month shots and SIDS has led some people to question whether they might be related. However, studies have found that vaccines do not cause and are not linked to SIDS.
+Multiple research studies and safety reviews have looked at possible links between vaccines and SIDS. The evidence accumulated over many years do not show any links between childhood immunization and SIDS.
+Steps you can take
+Fact
+Placing healthy babies on their backs to sleep reduces the risk of SIDS.
+In 1992, the American Academy of Pediatrics recommended that healthy babies be placed on their backs to sleep. That recommendation, along with the National Institute of Child Health and Human Development's 1994 "Back-to-Sleep" campaign (now known as the Safe to Sleep® campaign ), encouraged caregivers to place infants on their backs to sleep, and coincided with a dramatic reduction in the SIDS rate in the United States. See the latest recommendations on a safe infant sleep environment from the American Academy of Pediatrics.
+Also, research has found the rate of SIDS declined dramatically following the 1994 "Back-to-Sleep" campaign, and then stabilized in the 2000s at a time when the number of infant immunizations was increasing. The findings provide strong evidence that immunization is not linked to SIDS. See the published article on SIDS rates.
+What CDC is doing
+CDC and FDA closely monitor the safety of all vaccines.
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- Moro PL, Perez-Vilar S, Lewis P, Bryant-Genevier M, Kamiya H, Cano M. Safety Surveillance of Diphtheria and Tetanus Toxoids and Acellular Pertussis (DTaP) Vaccines. Pediatrics. 2018;142(1). pii: e20174171.
+- Moon RY; TASK FORCE ON SUDDEN INFANT DEATH SYNDROME. SIDS and Other Sleep-Related Infant Deaths: Evidence Base for 2016 Updated Recommendations for a Safe Infant Sleeping Environment. Pediatrics. 2016;138(5). pii: e20162940.
+- Moro PL, Arana J, Cano M, Lewis P, Shimabukuro TT. Deaths Reported to the Vaccine Adverse Event Reporting System, United States, 1997-2013. Clin Infect Dis. 2015;61(6):980-7.
+- Eriksen EM, Perlman JA, Miller A, Marcy SM, Lee H, Vadheim C, Zangwill KM, Chen RT, DeStefano F, Lewis E, Black S, Shinefield H, Ward JI. Lack of association between hepatitis B birth immunization and neonatal death: a population-based study from the vaccine safety datalink project. Pediatr Infect Dis J. 2004;23(7):656-62.
+- Institute of Medicine (US) Immunization Safety Review Committee. Immunization Safety Review: Vaccinations and Sudden Unexpected Death in Infancy. Washington, DC: National Academies Press, 2003.
+- Silvers et al. The epidemiology of fatalities reported to the vaccine adverse event reporting system 1990-1997. Pharmacoepidemiol Drug Saf. 2001 Jun-Jul;10(4):279-85.
+- Griffin, M.R., W. A. Ray, J. R. Livengood, et al. Risk of sudden infant death syndrome after immunization with diphtheria-tetanus-pertussis vaccine. N Engl J Med. 1988 Sep 8;319(10):618-23.

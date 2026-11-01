@@ -1,0 +1,38 @@
+SOURCE: CDC
+TITLE: 1960-1999 Highlights in the History of Avian Influenza (Bird Flu) Timeline
+URL: https://www.cdc.gov/bird-flu/avian-timeline/1960-1999.html
+────────────────────────────────────────────────────────────
+
+What to know
+- The below timeline gives a summary of significant HPAI and LPAI outbreaks in birds, infections in people, and events from 1960-1999.
+1960s – 1990s
+- During the 1960s several LPAI viruses of different subtypes were isolated from turkeys, chickens, ducks, quail, pheasants and partridges with respiratory and reproductive disease, providing new light into the great variation existing among influenza A viruses 1 , 2 . But the natural wild reservoir of these viruses still had not been identified.
+- An outbreak in wild birds (common tern) in South Africa suggests wild birds as a possible reservoir for avian influenza A viruses.
+- Researchers proposed a relationship between human and avian influenza A viruses after a study showed a relationship between the 1957 human pandemic influenza virus and an influenza A virus isolated from a turkey. The study raised the question, and triggered additional studies, on whether human influenza viruses are of avian origin.
+- The 1968 pandemic was caused by an influenza A (H3N2) virus comprised of two genes from an avian influenza A virus, including a new H3 hemagglutinin, but also contained the N2 neuraminidase from the 1957 H2N2 virus. In addition, the 1968 H3N2 pandemic virus was a reassortant virus between the seasonal human influenza A(H2N2) virus and a low pathogenic avian influenza A virus 3 . It was first detected in Hong Kong in July, and noted in the United States by September 1968 4 , 5 , 6 . The estimated number of deaths was 1 million worldwide and about 100,000 in the United States.
+- Though indications on the potential role of bird flu on the origin of human pandemics had been present for nearly a decade, it wasn’t until 1968 that avian influenza A virus infections in wild birds in the United States, Australia, and Russia were confirmed using blood tests 7 , 8 , 9 , 10 , 11 .
+- In April 1983, an LPAI H5N2 virus circulated in chickens in the United States. Later that year, this virus had evolved into a highly pathogenic strain causing high mortality in affected flocks 12 .
+- In May 1994, a LPAI H5N2 virus was detected in chickens in Mexico 13 .
+- Also in 1994, an outbreak of HPAI H7N3 virus occurred in poultry farms in Pakistan 14 . In 2001, 2003 and 2004, viruses of low and high pathogenicity continued to emerge in birds.
+- HPAI H5N1 virus first identified in farmed waterfowl (geese) in Southern China in 1996 15 .
+- In 1997, large HPAI H5N1 virus outbreaks were detected in poultry in Hong Kong, and zoonotic (animal to human) transmission led to 18 human infections with six deaths. These were the recognized first H5N1 human infections with fatal outcomes 16 .
+- In March 1999, a LPAI H7N1 virus was isolated from chickens in Italy 17 , 18 , 19 .
+- Easterday B.C., B. Tumova. Avian influenza. Biester H.E. (Ed.), Diseases of poultry (6th ed.), Iowa State University Press, Ames (1972), pp. 670-700.
+- Rowan M.K. Mass mortality among European common terns in South Africa in April–May 1961. British Birds, 55 (1962), pp. 103-114.
+- Neumann G, Noda T, Kawaoka Y. Emergence and pandemic potential of swine-origin H1N1 influenza virus. Nature . 2009;459(7249):931-939. doi:10.1038/nature08157
+- Jester BJ, Uyeki TM, Jernigan DB. Fifty Years of influenza A(H3N2) following the pandemic of 1968. American Journal of Public Health . 2020;110(5):669-676. doi:10.2105/ajph.2019.305557
+- Kilbourne ED. Influenza pandemics of the 20th Century. Emerging Infectious Diseases . 2006;12(1):9-14. doi:10.3201/eid1201.051254
+- Viboud C, Grais RF, Lafont BAP, Miller MA, Simonsen L. Multinational impact of the 1968 Hong Kong Influenza pandemic: Evidence for a smoldering pandemic. The Journal of Infectious Diseases . 2005;192(2):233-248. doi:10.1086/431150
+- Zakstel'skaja LJ, Isacenko VA, Osidze NG, Timofeeva CC, Slepuskin AN, Sokolova NN. Some observations on the circulation of influenza viruses in domestic and wild birds. Bull World Health Organ . 1972;47(4):497-501.
+- Dasen CA, Laver WG. Antibodies to influenza viruses (including the human A2-Asian-57 strain) in sera from Australian shearwaters (Puffinus pacificus). Bull World Health Organ . 1970;42(6):885-889.
+- Easterday BC, Trainer DO, Tůmová B, Pereira HG. Evidence of infection with influenza viruses in migratory waterfowl. Nature . 1968;219(5153):523-524. doi:10.1038/219523a0
+- Slepuskin AN, Pysina TV, Gonsovsky FK, et al. Haemagglutination-inhibiting activity to type a influenza viruses in the sera of wild birds from the far east of the USSR. Bull World Health Organ . 1972;47(4):527-530.
+- Winkler WG, Trainer DO, Easterday BC. Influenza in Canada geese. Bull World Health Organ . 1972;47(4):507-513.
+- Kawaoka Y, Webster RG. Evolution of the A/chicken/pennsylvania/83 (H5N2) influenza virus. Virology . 1985;146(1):130-137. doi:10.1016/0042-6822(85)90059-5
+- C.L. Villareal, A.O. Flores. The Mexican Avian Influenza (H5N2) Outbreak. Proceedings of the Fourth International Symposium on Avian Influenza, Athens, GA (1998), pp. 18-22.
+- K. Naeem. The Avian Influenza H7N3 Outbreak in South Central Asia. Proceedings of the Fourth International Symposium on Avian Influenza, Athens, GA (1998), pp. 31-35.
+- CDC ID. Emergence and Evolution of H5N1 Bird Flu . CDC Influenza Division; 2022. https://www.cdc.gov/flu/pdf/avianflu/bird-flu-origin-graphic.pdf [5.28 MB, 1 page] . Accessed 2022.
+- Swayne DE. Animal Influenza . 2nd ed. Hoboken, NJ: Wiley-Blackwell; 2016.
+- Zanella A. Avian influenza attributable to serovar H7N1 in light layers in Italy. Avian Dis . 2003;47(3 Suppl):1177-1180. doi:10.1637/0005-2086-47.s3.1177
+- Mutinelli F, Capua I, Terregino C, Cattoli G. Clinical, gross, and microscopic findings in different avian species naturally infected during the H7N1 low- and high-pathogenicity avian influenza epidemics in Italy during 1999 and 2000. Avian Dis . 2003;47(3 Suppl):844-848. doi:10.1637/0005-2086-47.s3.844
+- Capua I, Mutinelli F, Pozza MD, Donatelli I, Puzelli S, Cancellotti FM. The 1999-2000 avian influenza (H7N1) epidemic in Italy: veterinary and human health implications. Acta Trop . 2002;83(1):7-11. doi:10.1016/s0001-706x(02)00057-8

@@ -1,0 +1,21 @@
+SOURCE: CDC
+TITLE: Fainting and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/fainting.html
+────────────────────────────────────────────────────────────
+
+Key points
+After vaccination
+Fainting can be triggered by many types of medical procedures. In fact, CDC has received reports of people fainting after nearly all vaccines. Fainting after getting a vaccine is most commonly reported after three vaccines given to adolescents: HPV , MCV4 , and Tdap . Because the ingredients of these three vaccines are different, yet fainting is seen with all of them, scientists think that fainting is due to the vaccination process and not to the vaccines themselves. However, there is not yet a definite answer about whether an ingredient of the vaccines is responsible for the fainting or if adolescents are simply more likely than children or adults to experience fainting.
+Fact
+Fainting can happen after many types of vaccinations.
+About 3% of men and 3.5% of women report fainting at least once during their lifetimes, but it is not known just how often fainting happens after vaccination. Because fainting usually has no lasting effects, it is hard to study using medical records-based systems. However, the Vaccine Adverse Event Reporting System (VAERS) , receives many reports of syncope each year, and many more are likely to go unreported.
+Adolescents and fainting after vaccination
+Reports from VAERS shows that fainting after vaccinations is common in adolescents. One study of VAERS reports found that 62% of syncope reports were among adolescents 11 to 18 years old. However, because syncope may not always be reported, VAERS data cannot be used to determine how often fainting happens after vaccination.
+Fainting and injuries
+Fainting itself is generally not serious, but harm from related falls or other accidents can cause injury. The main concern is head injury. In a study of syncope-related VAERS reports , 7% of the fainting reports were coded as serious; 12% of these involved head injuries. Although fainting itself might or might not be preventable, it is important to prevent injuries when people do faint.
+Preventing fainting and related injuries after vaccination
+Giving patients a beverage, a snack, or some reassurance about the procedure has been shown to prevent some fainting. Studies are being done to look more into these strategies. However, many falls due to fainting can be prevented by having the patient sit or lie down. For this reason, experts recommend having patients sit in a chair or lay down when they receive a vaccination. In addition, patients should be observed for 15 minutes after vaccination.
+If a patient does faint after a vaccination, she or he should be observed by medical personnel until she or he regains consciousness so that further treatment needs can be determined. If fainting happens outside the medical setting and the patient does not recover immediately, contact local emergency medical services. Patients who faint after vaccination generally recover within a few minutes.
+What CDC is doing
+CDC and FDA closely monitor the safety of all vaccines.
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.

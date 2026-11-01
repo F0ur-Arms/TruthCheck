@@ -1,0 +1,62 @@
+SOURCE: CDC
+TITLE: Developing Safe and Effective Vaccines
+URL: https://www.cdc.gov/vaccines-children/about/developing-safe-effective-vaccines.html
+────────────────────────────────────────────────────────────
+
+What to know
+- Vaccination is the best way to help protect you and your family against serious diseases.
+- FDA regulates vaccines to make sure they are safe and effective.
+- CDC provides clinical guidance for vaccine use.
+- Before a vaccine can be approved, it must go through years of testing to show it is safe, effective, and its benefits outweigh the risks.
+- Once it is approved for use, FDA and CDC continue to monitor its safety.
+Testing vaccines in the laboratory is a long process
+Researchers spend several years testing a vaccine in a lab to see if it can help protect against a specific disease. They may also use small animals, like mice, to see if the vaccine causes an immune response and is safe.
+If the vaccine shows promising results during this early stage of testing, the Food and Drug Administration (FDA) can give approval to test in people during clinical trials.
+Clinical trials ensure the vaccine is safe and effective
+Clinical trials are research studies involving volunteers, who will test the vaccine. This is how researchers learn if the new vaccine is safe and effective in people.
+Clinical trials usually have three phases. While the main priority is vaccine safety and effectiveness, each phase has a specific focus for researchers to explore.
+Phase 1: Safety and dosage
+During Phase 1, researchers explore:
+- How safe is the vaccine?
+- Does the vaccine cause an immune response?
+- Are there any potential side effects?
+- How does the size of the dose relate to side effects?
+Phase 2: Side effects and immune response
+During Phase 2, researchers explore:
+- What are the most common short-term side effects?
+- How well do people's immune systems respond to the vaccine?
+Phase 3: Vaccine benefits
+During Phase 3, researchers explore:
+- Is the vaccine safe?
+- How well does the vaccine work for people who got the vaccine compared to people who did not?
+- What are the less common side effects?
+FDA approves and regulates the vaccine
+If a vaccine is successful in all three phases of clinical trials, FDA reviews all the gathered research data to consider approving it for use in people.
+FDA approves the vaccine if:
+- It's safe and effective
+- The benefits of receiving the vaccine outweigh any risks
+- The manufacturer meets FDA regulations
+Approved Vaccines can go through more testing
+After FDA approves a new vaccine for use, it may move to a fourth clinical trial phase, called Phase 4. This phase includes several thousand volunteers. Phase 4 is an ongoing study that looks at the vaccine’s safety and effectiveness over a longer period of time.
+Manufacturers test the vaccines they make
+Vaccines are made in batches called "lots," which are tested to make sure each dose remains reliable and safe for use in people.
+- Vaccine manufacturers test all lots
+- FDA checks each lot for safety and quality
+- FDA regularly inspects manufacturing facilities
+Experts make recommendations for using the vaccine
+You may have seen the recommended schedule for vaccinations at your doctor's office. CDC creates these schedules each year with help from a group of medical and public health experts called the Advisory Committee on Immunization Practices (ACIP) .
+To make a recommendation after FDA approval, ACIP carefully reviews all data about a vaccine. This includes:
+- The safety and effectiveness of the vaccine for people in different age groups
+- The seriousness of the disease that this vaccine is designed to prevent
+- The estimated number of people who would get the disease if the vaccine didn't exist
+After ACIP makes a recommendation to add a vaccine to a schedule, the CDC Director decides whether to approve the recommendation. If the CDC Director approves, the new vaccine will be added to the immunization schedule.
+Vaccines are constantly monitored for safety
+The vaccine safety system in the U.S. ensures vaccines remain safe and effective for use. Health experts constantly monitor a vaccine's safety—starting as soon as FDA approves it.
+CDC and ACIP monitor vaccine-related risks and side effects. If needed, they can update their recommendation and the immunization schedule.
+Vaccine monitoring systems include
+Reporting adverse effects
+Vaccine Adverse Event Reporting System (VAERS) Anyone can submit a report of adverse events (serious health problems) after vaccination, regardless of whether it is vaccine-related.
+For Researchers
+Vaccine Safety Datalink (VSD) Scientists can analyze health information from over 24 million people and determine if possible adverse effects are actually related to vaccination.
+Post-Licensure Rapid Immunization Safety Monitoring (PRISM) Researchers can monitor vaccine safety, analyzing data from 190 million people.
+Clinical Immunization Safety Assessment (CISA) Project This collaboration between CDC and medical research centers helps experts conduct vaccine safety studies.

@@ -1,0 +1,110 @@
+SOURCE: CDC
+TITLE: Questions About Measles
+URL: https://www.cdc.gov/measles/about/questions.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Get answers to frequently asked questions about measles and the measles, mumps, and rubella (MMR) vaccine used to prevent it.
+Protection against measles
+Q: Am I protected against measles?
+There are several ways to know if you are protected against measles.
+- You have received the recommended number of measles-containing vaccines (e.g., MMR) based on your age and exposure risk.
+- A laboratory test confirmed that you had measles at some point in your life.
+- A laboratory test confirmed that you are immune to measles.
+- You were born before 1957.
+Q: Does my family need another dose of measles vaccine before we travel?
+When traveling within the United States, you should make sure you are protected from measles. No matter which U.S. state you are traveling to or live in, CDC recommends that people get MMR vaccine to protect against measles, mumps, and rubella. If you're not sure whether you were vaccinated, talk with your doctor, especially if you are traveling to an area with a measles outbreak.
+If you are planning international travel, it is important to ensure that you and your family are protected against measles. CDC's recommendations for international travel include an early dose of MMR vaccine for infants ages 6–11 months of age and 2 doses of MMR (or other measles-containing) vaccine for most children and adults born during or after 1957. Talk to your provider about what vaccines you may need before your trip.
+Q: If I received 2 doses of a measles vaccine, do I ever need a booster vaccine?
+No. If you received 2 doses of measles vaccine at age 12 months or older according to CDC recommendations you should be protected for life, and do not need a booster dose for measles protection.
+If you're not sure whether you should get a dose of measles vaccine, talk with your healthcare provider.
+Q: I am an adult now but got only 1 dose of measles vaccine as a child. Do I need a second dose?
+For most adults born during or after 1957, 1 dose of measles vaccine is sufficient to be considered protected from measles. Some adults, including those who are in settings that pose a high risk for measles transmission or in specific populations, are recommended to have 2 lifetime documented doses separated by at least 28 days. These adults include:
+- Students at post-high school educational institutions
+- Healthcare personnel
+- International travelers
+- Adults who are household contacts or other close contacts of people who are immunocompromised
+- Adults living with HIV who are not severely immunocompromised
+- People who public health authorities determine are at increased risk for getting measles during a measles outbreak
+If you're not sure whether you are up to date on measles vaccine, talk with your healthcare provider.
+Q: What should I do if I'm unsure whether I'm immune to measles?
+If you are unsure whether you're immune to measles, you should first try to find your vaccination records or check with your healthcare provider if you have documentation of measles immunity. If you do not have written documentation of measles immunity, you should get vaccinated with the MMR vaccine. There is no harm in getting another dose of MMR vaccine if you may already be immune to measles (or mumps or rubella). Your healthcare provider may also perform a blood test to check for evidence of immunity.
+Q: Do people who got the inactivated (or "killed") measles vaccine in the 1960s need to be revaccinated with the current, live measles vaccine?
+Yes, people who know they got the inactivated measles vaccine (this is an earlier formulation of measles vaccine that is no longer used) should talk to their healthcare provider about getting revaccinated with the current, live measles-mumps-rubella (MMR) vaccine.
+Not many people fall into this group; the inactivated vaccine was given to less than 1 million people between 1963 and 1967. Also, most people don't know if they got the inactivated vaccine during this time. If you're unsure whether you fall into this group, you should discuss this with your healthcare provider. They will review your vaccination records and check if you have other documentation of measles immunity. If it is unclear whether you have immunity to measles, you should get vaccinated with the current MMR vaccine. There is no harm in getting another dose of MMR vaccine if you may already be immune to measles (or mumps or rubella). Your healthcare provider may also perform a blood test to check for evidence of immunity.
+Q: If I was born outside the United States before 1957, am I considered immune to measles?
+Yes. All people, regardless of their country of birth, are considered to be presumptively immune to measles if they were born before 1957. People born before 1957, regardless of where they were born, are likely to have been infected with measles, mumps, and rubella when they were children, and are therefore presumed to be protected against these diseases. Although some countries use different cutoff years when determining presumptive immunity, CDC uses a cutoff of birth before 1957 for all people, regardless of country of birth or prior residence.
+Measles complications
+Q: I've heard that measles can cause a complication called immune amnesia. What is it?
+Immune amnesia is a complication that can occur after a measles infection. It refers to a temporary change in the body's ability to recognize and fight other viruses and bacteria it was previously protected from. Immune amnesia can make it easier for the person to get sick from other infections while the immune system rebuilds its defenses. The effects of immune amnesia may last months to years, and severity of these effects may vary from person to person. Current research shows that measles can affect the immune system's 'memory' even in otherwise healthy people.
+Measles vaccine
+Q: How effective is the measles vaccine?
+The measles vaccine is very effective. Two doses of measles vaccine are about 97% effective at preventing measles if you are exposed to the virus. One dose is about 93% effective.
+Q: How long does it take for the measles vaccine to work in your body?
+For the measles vaccine to work, the body needs time to produce protective antibodies in response to the vaccine. Detectable antibodies generally appear within just a few days after vaccination. People are considered protected after about 2 or 3 weeks, but the vaccine may provide protection sooner. If you're traveling, make sure you're protected with measles vaccination. Before traveling, plan to be vaccinated at least 2 weeks before you depart. If your trip is less than 2 weeks away and you're not protected against measles, 1 dose of MMR vaccine is still recommended.
+Q: How does the measles vaccine work?
+When you get an MMR vaccine, your immune system makes protective virus-fighting antibodies against the weakened vaccine measles virus. MMR vaccines protect you from measles because if you have been vaccinated and then are exposed to someone with measles, your body remembers how to fight off the virus. That's because the vaccine trained your immune system.
+Q: Could I still get measles if I am fully vaccinated?
+Very few people—about 3 out of 100 people who get 2 doses of measles vaccine (or about 7 out of 100 people who get 1 dose of a measles vaccine) will still get measles if exposed to the virus. In some cases, this occurs because their immune systems didn't respond as well as they should have to the vaccine; this is more common if someone has had only 1 prior dose of MMR. In other instances, people can develop measles even if they responded to the vaccine previously if they have prolonged, intense exposure to measles, such as multiple measles cases among unvaccinated people in their household. But the good news is, people who get measles despite being vaccinated tend to have milder illness. People with immunity to measles also seem less likely to spread the disease to other people, including to people who can't get vaccinated because they are too young or have weakened immune systems.
+Q: Who should not get the measles vaccine (MMR)?
+As a vaccine that contains live-attenuated (weakened) viruses, MMR should not be given to some people.
+Q: Is it safe for me to get the MMR vaccine if I live with someone who is severely immunocompromised or someone who is pregnant?
+Yes. The live-attenuated (weakened) versions of the measles, mumps, and rubella viruses in the MMR vaccine cannot spread from person to person. People who are immunocompromised or pregnant should not receive MMR vaccine. However, people who live with (or are in close contact with) a person who is immunocompromised or pregnant do not need to take any special precautions after getting vaccinated with MMR.
+Q: What are common side effects of MMR vaccination?
+Find information on common side effects from MMR and how CDC monitors vaccine safety: MMR Vaccine Safety .
+Exposure to measles
+Q: I've been exposed to someone who has measles. What should I do?
+Immediately call your healthcare provider and let them know that you have been exposed to someone who has measles. Your healthcare provider can:
+- Determine if you are immune to measles based on your vaccination record, age, or laboratory evidence of prior infection.
+- Make special arrangements to evaluate you, if needed, without putting other patients and medical office staff at risk for getting measles.
+- If you are not immune to measles, and are within a few days of your exposure, MMR vaccine or a medicine called immune globulin may help reduce your risk for developing measles. Your healthcare provider can advise you on next steps and monitor you for signs and symptoms of measles.
+- If you are not immune and do not get MMR or immune globulin, you should stay away from settings where there are susceptible people (such as schools, hospitals, or childcare) until your healthcare provider says it's okay to return. This will help ensure that measles isn't spread to others, if you do develop measles.
+Q: I think I have measles. What should I do?
+Immediately call your healthcare provider and let them know about your symptoms so that they can tell you what to do next. Your healthcare provider can make special arrangements to evaluate you, if needed, without putting other patients and medical office staff at risk for getting measles.
+Q: My healthcare provider or someone from the health department told me that I have measles. What should I do?
+If you have measles, you should stay home and away from others for four days after you develop the rash. Staying home is an important way to not spread measles to other people. Ask your healthcare provider when it is safe to be around other people again.
+Call your healthcare provider if you are concerned about your symptoms. If your symptoms worsen rapidly or you have urgent symptoms go to the emergency department of a hospital immediately. DO NOT WAIT.
+Have someone call before you arrive to let the hospital know a person with measles is coming.
+U.S. measles cases & statistics
+Q: How common was measles in the United States before the vaccine?
+Before the measles vaccination program started in 1963, an estimated 3 to 4 million people got measles each year in the United States, of which 500,000 were reported. Among reported cases, approximately 400 to 500 died, 48,000 were hospitalized, and 1,000 developed encephalitis (brain swelling) from measles.
+Q: What percentage of people in the United States are vaccinated against measles?
+Nationally, the rates of people vaccinated against measles have been high and mostly stable since the Vaccines for Children (VFC) program began measuring vaccine coverage in 1994. Among children born in 2021, 90.6% received at least 1 dose of MMR vaccine by age 24 months. However, MMR vaccine coverage levels continue to vary by state (among the 50 states plus the District of Columbia). For children born in 2021, 22 states had MMR coverage less than 90% among children age 24 months. At the county or lower levels, vaccine coverage rates may vary considerably. Pockets of unvaccinated people can exist in states with high vaccination coverage, underscoring considerable measles susceptibility at some local levels.
+Some states also post their state- or local-level school vaccination coverage assessment reports online. The local data may help parents understand the risks for vaccine-preventable diseases and the benefits of vaccinations for their children.
+Q: Where do cases of measles that are brought into the United States come from?
+Travelers can bring measles into the United States from any country where the disease still occurs or where outbreaks are occurring, including common U.S. travel destinations. Since 2000, when measles was declared eliminated in the United States, most measles cases related to foreign travel were among unvaccinated U.S. residents who traveled abroad. Making sure you are protected from measles before travelling can prevent you from getting sick, and from bringing measles back home to your community.
+Q: Why have there been more measles cases in the United States in some years?
+Some years, states report more measles cases. CDC experts attribute this to:
+- Measles outbreaks in some countries to which Americans often travel, and therefore more measles cases coming into the United States.
+- More spread of measles in U.S. communities with a higher number of unvaccinated people.
+Q: What is CDC's role in responding to measles cases and outbreaks?
+State and local health departments have the lead in investigating measles cases and outbreaks when they occur. CDC helps and supports health departments in these investigations by:
+- Communicating with public health officials from states with reported measles cases and providing guidance and support.
+- Gathering data reported by states on confirmed measles cases and evaluating and monitoring these data from a national perspective.
+- Testing specimens from suspected measles cases when requested by states.
+- Using laboratory methods to track measles virus genotypes and strains.
+- Providing rapid assistance on the ground during outbreak investigations, often through a formal request by the state health department.
+- Investing in state and local health departments for public health infrastructure and laboratory capacity to support front-line response to suspected and confirmed measles cases.
+- Alerting clinicians, healthcare facilities, and public health officials around the country about current outbreaks, providing vaccine recommendations, and updating clinical guidance for healthcare providers regarding measles diagnosis and management.
+- Providing information to the public and healthcare providers through a variety of media including the CDC website.
+U.S. measles elimination
+Q: Has measles been eliminated from the United States?
+Yes. In 2000, measles was declared eliminated from the United States. The United States eliminated measles because it has a highly effective measles vaccine, a strong vaccination program that achieved high vaccine coverage in children, and a strong public health system for detecting and responding to measles cases and outbreaks.
+Q: What does "measles elimination" mean?
+Measles elimination is the absence of continuous disease transmission for 12 months or more in a specific geographic area. Measles was endemic (constantly present) in the United States before measles vaccination was introduced and high population immunity was achieved. Measles was declared eliminated in the United States in 2000.
+Q: If measles is eliminated, why do people still get it in the United States?
+Measles is still common in many parts of the world. Every year, unvaccinated travelers (Americans or foreign visitors) get measles while they are in other countries and bring it into the United States. Since 2000, when measles was declared eliminated in the United States, most measles cases related to foreign travel were among unvaccinated U.S. residents who traveled abroad. People who develop measles after international travel can spread measles to other people in their household or community who are not protected against measles, which sometimes leads to outbreaks. This can occur in communities with large numbers of unvaccinated people.
+Most people in the United States are protected against measles through vaccination or prior infection (adults born before 1957). So, measles cases in the country are uncommon compared to the number of cases before a vaccine was available. During 2000–2024, the annual number of people reported to have measles ranged from a low of 37 people in 2004 to a high of 1,282 in 2019. Since early 2025, U.S. measles cases have been increasing, and we've had several large outbreaks of more than 50 cases.
+Q: Could measles ever reestablish itself in the United States?
+Yes. Measles could reestablish itself or become endemic (constantly present) in the United States again, especially if vaccine coverage levels decrease. When measles gets into communities with higher numbers of unvaccinated people, outbreaks are more likely to occur. It is more difficult to control measles in communities with higher numbers of people unvaccinated against measles.
+Maintaining high rates of measles vaccination and rapid public health response are critical for preventing and controlling measles cases and outbreaks.
+Q: Will the United States ever get rid of measles completely?
+The most important step is increasing MMR vaccination in the United States to prevent and reduce the size of outbreaks that stem from measles cases related to international travel. However, better control and progress to elimination in other countries and regions is necessary to reduce the risk of importation and reach the goal of global elimination. Unless measles elimination is achieved across the globe, the United States will remain at risk of reintroduction when measles occurs after international travel.
+Measles virus classification
+Q: What is wild-type measles virus?
+"Wild-type" refers to measles viruses that circulate globally and cause measles infections. Wild-type measles virus is different from the measles virus that was isolated decades ago and weakened to develop the vaccine. Scientists divide wild-type measles viruses into genetic groups called genotypes. Of the 24 known genotypes, only genotypes B3 and D8 have been detected globally since 2021. MMR vaccine protects you equally against all wild-type measles viruses.
+Q: How is the type of measles virus identified?
+Scientists divide measles viruses into genetic groups called genotypes. Scientists identify the genotype in a laboratory using a method called nucleic acid sequencing. The genotype is based on a specific genetic marker, the RNA (ribonucleic acid) sequence, of the measles virus.
+When a person becomes infected with measles, scientists can use a sample to identify the genotype of the measles virus that caused the disease.
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+The information on this page was last reviewed by subject matter experts to ensure accuracy.

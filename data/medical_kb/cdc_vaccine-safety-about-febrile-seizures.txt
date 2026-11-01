@@ -1,0 +1,28 @@
+SOURCE: CDC
+TITLE: Febrile Seizures and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/febrile-seizures.html
+────────────────────────────────────────────────────────────
+
+Key points
+Background
+Sometimes, fevers can cause a child to experience spasms or jerky movements called seizures. Seizures caused by fever are called "febrile seizures." They are most common with fevers of 102°F (38.9°C) or higher, but they can also happen at lower body temperatures or when a fever is going down. Most febrile seizures last for less than one or two minutes.
+Febrile seizures can be frightening, but nearly all children who have a febrile seizure recover quickly. Febrile seizures do not cause any permanent harm and do not have any lasting effects.
+Did you know?
+Febrile seizures can happen with any condition that causes a fever.
+Fevers can be caused by common childhood illnesses like colds, the flu, an ear infection, or roseola. Vaccines can sometimes cause fevers, but febrile seizures are uncommon after vaccination.
+Infants, young children, and febrile seizures
+Fact
+Infants and young children are most at risk for febrile seizures.
+Up to 5% of young children will have a febrile seizure at some time in their life. Febrile seizures happen in children between the ages of 6 months and 5 years, with most occurring between 14–18 months of age. About 1 out of every 3 children who have a febrile seizure will have at least one more during childhood.
+What the research shows
+Preventing febrile seizures
+Vaccinating children at the recommended age may prevent some febrile seizures by protecting children against measles, mumps, rubella, chickenpox, influenza, pneumococcal infections and other diseases that can cause fever and febrile seizures.
+MMR and MMRV vaccines
+There is a small increased risk for febrile seizures after MMR and MMRV vaccines. Studies have shown a small increased risk for febrile seizures during the 5 to 12 days after a child has received their first vaccination with the measles, mumps, rubella (MMR) vaccine. The risk is slightly higher with the measles, mumps, rubella, varicella (MMRV) combination vaccine, but the risk is still small. Studies have not shown an increased risk for febrile seizures after the separate varicella (chickenpox) vaccine.
+Influenza (flu) and PCV13 (pneumococcal) vaccines
+There is a small increased risk for febrile seizures when inactivated influenza vaccine (flu shot) is given at the same doctor visit as either the PCV13 (pneumococcal) vaccine or the DTaP vaccine.
+A CDC study of children aged 6 months to 2 years has shown a small increased risk for febrile seizures during the 24 hours after a child receives the inactivated influenza vaccine (flu shot) at the same time as the pneumococcal 13-valent conjugate (PCV13) vaccine or the diphtheria, tetanus, acellular pertussis (DTaP) vaccine. The flu shot was not associated with an increased risk of febrile seizures when it was given on a different day from the other two vaccines. Studies have not shown an increased risk for febrile seizures after the DTaP vaccine, except when it is given at the same time as the flu shot. There may be a small increase in the risk of febrile seizure when PCV13 (pneumococcal) vaccine is given by itself.
+The risk of febrile seizure with any combination of these vaccines is small (at most 30 febrile seizures in 100,000 children vaccinated) and CDC's Advisory Committee on Immunization Practices (ACIP) continues to encourage the vaccination of children according to the vaccination schedule, which allows for the flu, pneumococcal and DTaP vaccinations to be given during the same doctor's visit.
+What CDC is doing
+CDC and FDA closely monitor the safety of all vaccines.
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.

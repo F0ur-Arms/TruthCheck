@@ -1,0 +1,60 @@
+SOURCE: CDC
+TITLE: Living With Long COVID
+URL: https://www.cdc.gov/long-covid/living-with/
+────────────────────────────────────────────────────────────
+
+Key points
+- Long COVID is a serious illness that can result in chronic conditions, require comprehensive care, and can sometimes cause disability.
+- Long COVID symptoms may resolve months after illness for some people, while others may experience symptoms for years.
+- Anyone who gets COVID-19 can experience Long COVID, including children.
+- Talk to your healthcare provider if you think you have, or your child has, Long COVID.
+- Resources are available to help you or someone you care about, manage Long COVID.
+How Long COVID impacts daily life
+Experiencing or caring for someone with Long COVID can be confusing, challenging, and frustrating. About 1 in 5 adults with Long COVID have reported experiencing significant limitations in their daily activity . 1 2 People experience Long COVID in different ways and may:
+- Feel shame or isolation about their condition or experiences
+- Develop entirely different symptoms compared to others
+- Experience more severe health problems compared to others
+Taking steps to listen to a person's lived experience and talking with compassion can help you better understand and address their needs. CDC's How Right Now campaign provides helpful tools for navigating these types of conversations with empathy.
+Long COVID as a disability
+Research shows that people who develop Long COVID may experience new or ongoing symptoms that can significantly affect their daily activities. These symptoms can cause health conditions that can result in a disability, including in children. 1 2 3 Resources are available .
+Did you know?
+Caring for someone with Long COVID
+Caring for children, including adolescents, with Long COVID
+Although Long COVID appears to be less common in children than in adults, children can develop Long COVID. As of 2023, roughly one million US children aged 5-17 years have experienced Long COVID. Research suggests an estimated 1.4% of children who get COVID-19 may go on to develop Long COVID . 4 5 Recognizing and identifying Long COVID can be difficult, especially for children. Young children may have even more trouble describing the symptoms or problems they are experiencing.
+Talk to your healthcare provider if you think your child might have Long COVID.
+If your child has Long COVID, it may impact their ability to attend school, complete schoolwork, or participate in other normal activities 4 5 such as:
+- Sports and recreational activities
+- Social gatherings or activities (for example, afterschool events)
+- Child care
+More than 1 in 10 children who have experienced Long COVID missed 6 weeks or more of school because of their symptoms or conditions. 6 School administrators, counselors, teachers, and nurses can work with families and healthcare professionals to provide learning or other accommodations for children with Long COVID. Resources are available for you and your child.
+Caring for adults with Long COVID
+Research shows adults are more likely than children to get Long COVID. 7 8 Long COVID symptoms and conditions can affect the ability to perform many of their normal daily activities and cause physical, emotional, and financial stress.
+The unknown and long-term nature of Long COVID can worsen this stress. Taking steps to understand the patient's unique experiences might make them feel less isolated.
+Long COVID impact on the workforce
+Some estimates suggest that more than 1 million U.S. adults are out of work at any given time due to Long COVID . 9 Additional impacts of Long COVID for adults in the workforce include:
+- Reduced ability to work full time
+- Increased healthcare costs
+- Food and housing financial hardship
+- Increased risk of developing functional disabilities
+Long COVID can reduce your ability to work
+Workers in certain occupations face different risks of COVID-19 illness, and potentially Long COVID. Employers can take steps to help prevent their workers from getting COVID-19 and support workers with Long COVID, including:
+- Improving ventilation and filtration
+- Using respirators and masks, when appropriate
+- Supporting workplace accommodations
+Resources are available for employees and employers to better understand how Long COVID may affect them or their work.
+Help manage Long COVID
+Everyday strategies
+Long COVID is different for everyone, and people experiencing Long COVID may find different activities, treatments, or strategies to be helpful. Some people find journaling about their Long COVID symptoms and what makes them better or worse to be helpful, but you should use whatever strategies work best for your health. There are support groups that can help people who are experiencing Long COVID and their caregivers. Talk to your healthcare provider about creating a personal medical management plan to help improve your symptoms and quality of life.
+- Ford ND, Slaughter D, Edwards D, et al. Long COVID and Significant Activity Limitation Among Adults, by Age - United States, June 1-13, 2022, to June 7-19, 2023. MMWR Morb Mortal Wkly Rep. 2023 Aug 11;72(32):866-870. doi: 10.15585/mmwr.mm7232a3 .
+- Ford ND, Agedew A, Dalton AF, Pratt C, Gregory CO, Saydah S. Notes from the Field: Long COVID and Significant Long COVID–Associated Activity Limitation Among Adults, by Jurisdiction — United States, 2023. MMWR Morb Mortal Wkly Rep 2024;73:1142–1143. DOI: http://dx.doi.org/10.15585/mmwr.mm7350a2 .
+- Silver SR, Li J, Ford ND, Saydah SH. Functional disabilities and adverse well-being by COVID-19 and Long COVID history and employment status: 2022 Behavioral Risk Factor Surveillance System. Am J Ind Med. 2024 Dec;67(12):1089-1107. Epub 2024 Oct 25. doi: 10.1002/ajim.23669 .
+- Ford ND, Vahratian A, Pratt CQ, Yousaf AR, Gregory CO, Saydah S. Long COVID Prevalence and Associated Activity Limitation in US Children. JAMA Pediatr. 2025;179(4):471–473. doi:10.1001/jamapediatrics.2024.6206
+- Yousaf AR, Mak J, Gwynn L, et al. COVID-19 Vaccination and Odds of Post-COVID-19 Condition Symptoms in Children Aged 5 to 17 Years. JAMA Netw Open . 2025;8(2):e2459672. Published 2025 Feb 3. doi:10.1001/jamanetworkopen.2024.59672
+- Harris E. Millions of US Children Experience Range of Long COVID Effects. JAMA. 2024;331(9):726. doi: 10.1001/jama.2024.0356 .
+- Ford, N. D., Simeone, R. M., Pratt, C., & Saydah, S. (2025). Functional Limitations and Illness-Related Absenteeism among School-Aged Children with and without Long COVID, United States, 2022–2023. Emerging Infectious Diseases , 31 (14), 11-19. https://doi.org/10.3201/eid3114.251035.
+- Adjaye-Gbewonyo D, Vahratian A, Perrine CG, Bertolli J. Long COVID in adults: United States, 2022. NCHS Data Brief, no 480. Hyattsville, MD: National Center for Health Statistics. 2023. DOI: https://dx.doi.org/10.15620/cdc:132417 .
+- Ford, N.D., Dalton, A.F., Edwards, D., King, H., Luckhaupt, S.E., Ma, K.C., Slaughter, D., Silver, S.R. and Saydah, S. (2025), Employment Status, Work Limitations, Cognitive Dysfunction, and Sickness Absenteeism Among US Adults With and Without Long COVID. American Journal of Industrial Medicine, 68: 909-919. https://doi.org/10.1002/ajim.70014
+- Cutler DM. The Costs of Long COVID. JAMA Health Forum. 2022 May 6;3(5):e221809. doi: 10.1001/jamahealthforum .2022.
+- Silver SR, Li J, Ford ND, Shi D, Saydah SH. Prevalence of COVID-19 and Long COVID by industry and occupation: Behavioral Risk Factor Surveillance System 2022. Am J Ind Med. 2024 Oct 11. doi: 10.1002/ajim.23665 .
+- Rao S, Gross RS, Mohandas S, et al. Postacute Sequelae of SARS-CoV-2 in Children. Pediatrics. 2024 Mar 1;153(3):e2023062570. doi: 10.1542/peds.2023-062570 .
+- Vahratian A, Adjaye-Gbewonyo D, Lin JS, Saydah S. Long COVID in children: United States, 2022. NCHS Data Brief, no 479. Hyattsville, MD: National Center for Health Statistics. 2023. DOI: https://dx.doi.org/10.15620/cdc:132416 .

@@ -1,0 +1,292 @@
+filename,publisher,url,date_accessed
+cdc_covid-site.txt,CDC,https://www.cdc.gov/covid/site.html,2026-11-02
+cdc_covid-about.txt,CDC,https://www.cdc.gov/covid/about/index.html,2026-11-02
+cdc_covid-about-reinfection.txt,CDC,https://www.cdc.gov/covid/about/reinfection.html,2026-11-02
+cdc_covid-communication-get-your-covid-vaccine.txt,CDC,https://www.cdc.gov/covid/communication/get-your-covid-vaccine.html,2026-11-02
+cdc_covid-communication-improve-air-home.txt,CDC,https://www.cdc.gov/covid/communication/improve-air-home.html,2026-11-02
+cdc_covid-communication-medicine.txt,CDC,https://www.cdc.gov/covid/communication/medicine.html,2026-11-02
+cdc_covid-communication-people-with-disabilities.txt,CDC,https://www.cdc.gov/covid/communication/people-with-disabilities.html,2026-11-02
+cdc_covid-communication-vaccines-children-teens.txt,CDC,https://www.cdc.gov/covid/communication/vaccines-children-teens.html,2026-11-02
+cdc_long-covid-living-with.txt,CDC,https://www.cdc.gov/long-covid/living-with/,2026-11-02
+cdc_covid-prevention.txt,CDC,https://www.cdc.gov/covid/prevention/index.html,2026-11-02
+cdc_covid-risk-factors.txt,CDC,https://www.cdc.gov/covid/risk-factors/index.html,2026-11-02
+cdc_covid-signs-symptoms.txt,CDC,https://www.cdc.gov/covid/signs-symptoms/index.html,2026-11-02
+cdc_covid-testing.txt,CDC,https://www.cdc.gov/covid/testing/index.html,2026-11-02
+cdc_covid-treatment.txt,CDC,https://www.cdc.gov/covid/treatment/index.html,2026-11-02
+cdc_covid-vaccines-benefits.txt,CDC,https://www.cdc.gov/covid/vaccines/benefits.html,2026-11-02
+cdc_covid-vaccines-getting-your-covid-19-vaccine.txt,CDC,https://www.cdc.gov/covid/vaccines/getting-your-covid-19-vaccine.html,2026-11-02
+cdc_covid-vaccines-how-they-work.txt,CDC,https://www.cdc.gov/covid/vaccines/how-they-work.html,2026-11-02
+cdc_covid-ht-signs-symptoms-sentom-covid-19-yo.txt,CDC,https://www.cdc.gov/covid/ht/signs-symptoms/sentom-covid-19-yo.html,2026-11-02
+cdc_vaccine-safety-about-adjuvants.txt,CDC,https://www.cdc.gov/vaccine-safety/about/adjuvants.html,2026-11-02
+cdc_vaccine-safety-about-fainting.txt,CDC,https://www.cdc.gov/vaccine-safety/about/fainting.html,2026-11-02
+cdc_vaccine-safety-about-febrile-seizures.txt,CDC,https://www.cdc.gov/vaccine-safety/about/febrile-seizures.html,2026-11-02
+cdc_vaccine-safety-about-guillain-barre.txt,CDC,https://www.cdc.gov/vaccine-safety/about/guillain-barre.html,2026-11-02
+cdc_vaccine-safety-about-multiples.txt,CDC,https://www.cdc.gov/vaccine-safety/about/multiples.html,2026-11-02
+cdc_vaccine-safety-about-pregnancy.txt,CDC,https://www.cdc.gov/vaccine-safety/about/pregnancy.html,2026-11-02
+cdc_vaccine-safety-about-sids.txt,CDC,https://www.cdc.gov/vaccine-safety/about/sids.html,2026-11-02
+cdc_vaccine-safety-about-thimerosal.txt,CDC,https://www.cdc.gov/vaccine-safety/about/thimerosal.html,2026-11-02
+cdc_vaccine-safety-historical-concerns.txt,CDC,https://www.cdc.gov/vaccine-safety/historical-concerns/index.html,2026-11-02
+cdc_vaccine-safety-recalls.txt,CDC,https://www.cdc.gov/vaccine-safety/recalls/index.html,2026-11-02
+cdc_vaccine-safety-vaccines-covid-19.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html,2026-11-02
+cdc_vaccine-safety-vaccines-dtap-tdap.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/dtap-tdap.html,2026-11-02
+cdc_vaccine-safety-vaccines-flu.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/flu.html,2026-11-02
+cdc_vaccine-safety-vaccines-hepatitis-a.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/hepatitis-a.html,2026-11-02
+cdc_vaccine-safety-vaccines-hepatitis-b.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/hepatitis-b.html,2026-11-02
+cdc_vaccine-safety-vaccines-hib.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/hib.html,2026-11-02
+cdc_vaccine-safety-vaccines-hpv.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/hpv.html,2026-11-02
+cdc_vaccine-safety-vaccines-meningococcal.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/meningococcal.html,2026-11-02
+cdc_vaccine-safety-vaccines-mmr.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/mmr.html,2026-11-02
+cdc_vaccine-safety-vaccines-mmrv.txt,CDC,https://www.cdc.gov/vaccine-safety/vaccines/mmrv.html,2026-11-02
+cdc_vaccines-site.txt,CDC,https://www.cdc.gov/vaccines/site.html,2026-11-02
+cdc_vaccines-basics-explaining-how-vaccines-work.txt,CDC,https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html,2026-11-02
+cdc_vaccines-basics-how-developed-approved.txt,CDC,https://www.cdc.gov/vaccines/basics/how-developed-approved.html,2026-11-02
+cdc_vaccines-basics-immunity-types.txt,CDC,https://www.cdc.gov/vaccines/basics/immunity-types.html,2026-11-02
+cdc_vaccines-basics.txt,CDC,https://www.cdc.gov/vaccines/basics/index.html,2026-11-02
+cdc_vaccines-basics-possible-side-effects.txt,CDC,https://www.cdc.gov/vaccines/basics/possible-side-effects.html,2026-11-02
+cdc_vaccines-basics-vaccine-equity.txt,CDC,https://www.cdc.gov/vaccines/basics/vaccine-equity.html,2026-11-02
+cdc_vaccines-by-age.txt,CDC,https://www.cdc.gov/vaccines/by-age/index.html,2026-11-02
+cdc_vaccines-by-disease.txt,CDC,https://www.cdc.gov/vaccines/by-disease/index.html,2026-11-02
+cdc_vaccines-data-reporting.txt,CDC,https://www.cdc.gov/vaccines/data-reporting/index.html,2026-11-02
+cdc_vaccines-imz-schedules-adolescent-easyread.txt,CDC,https://www.cdc.gov/vaccines/imz-schedules/adolescent-easyread.html,2026-11-02
+cdc_vaccines-imz-schedules-adult-easyread.txt,CDC,https://www.cdc.gov/vaccines/imz-schedules/adult-easyread.html,2026-11-02
+cdc_vaccines-imz-schedules-child-easyread.txt,CDC,https://www.cdc.gov/vaccines/imz-schedules/child-easyread.html,2026-11-02
+cdc_vaccines-children-about-combination-vaccines.txt,CDC,https://www.cdc.gov/vaccines-children/about/combination-vaccines.html,2026-11-02
+cdc_vaccines-children-about-developing-safe-effective-vaccines.txt,CDC,https://www.cdc.gov/vaccines-children/about/developing-safe-effective-vaccines.html,2026-11-02
+cdc_vaccines-children-about.txt,CDC,https://www.cdc.gov/vaccines-children/about/index.html,2026-11-02
+cdc_vaccines-children-before-during-after-shots.txt,CDC,https://www.cdc.gov/vaccines-children/before-during-after-shots/index.html,2026-11-02
+cdc_vaccines-children-before-during-after-shots-less-stress.txt,CDC,https://www.cdc.gov/vaccines-children/before-during-after-shots/less-stress.html,2026-11-02
+cdc_vaccines-children-before-during-after-shots-when-your-child-is-sick.txt,CDC,https://www.cdc.gov/vaccines-children/before-during-after-shots/when-your-child-is-sick.html,2026-11-02
+cdc_vaccines-children.txt,CDC,https://www.cdc.gov/vaccines-children/diseases/index.html,2026-11-02
+cdc_vaccines-children-reasons.txt,CDC,https://www.cdc.gov/vaccines-children/reasons/index.html,2026-11-02
+cdc_vaccines-children-records-adoption.txt,CDC,https://www.cdc.gov/vaccines-children/records/adoption.html,2026-11-02
+cdc_vaccines-children-records.txt,CDC,https://www.cdc.gov/vaccines-children/records/index.html,2026-11-02
+cdc_vaccines-children-schedules-reasons-to-follow.txt,CDC,https://www.cdc.gov/vaccines-children/schedules/reasons-to-follow.html,2026-11-02
+cdc_vaccines-adults.txt,CDC,https://www.cdc.gov/vaccines-adults/diseases/index.html,2026-11-02
+cdc_vaccines-adults-reasons.txt,CDC,https://www.cdc.gov/vaccines-adults/reasons/index.html,2026-11-02
+cdc_vaccines-adults-recommended-vaccines-how-to-pay-adult-vaccines.txt,CDC,https://www.cdc.gov/vaccines-adults/recommended-vaccines/how-to-pay-adult-vaccines.html,2026-11-02
+cdc_vaccines-adults-recommended-vaccines.txt,CDC,https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html,2026-11-02
+cdc_vaccines-adults-recommended-vaccines-keeping-vaccine-records-up-to-date.txt,CDC,https://www.cdc.gov/vaccines-adults/recommended-vaccines/keeping-vaccine-records-up-to-date.html,2026-11-02
+cdc_vaccines-adults-recommended-vaccines-vaccine-planning.txt,CDC,https://www.cdc.gov/vaccines-adults/recommended-vaccines/vaccine-planning.html,2026-11-02
+cdc_vaccines-pregnancy-about-vaccines-family-caregivers.txt,CDC,https://www.cdc.gov/vaccines-pregnancy/about/vaccines-family-caregivers.html,2026-11-02
+cdc_vaccines-pregnancy-moms-to-be.txt,CDC,https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html,2026-11-02
+cdc_vaccines-pregnancy-recommended-vaccines.txt,CDC,https://www.cdc.gov/vaccines-pregnancy/recommended-vaccines/index.html,2026-11-02
+cdc_pandemic-flu-basics-outbreak-investigations.txt,CDC,https://www.cdc.gov/pandemic-flu/basics/outbreak-investigations.html,2026-11-02
+cdc_flu-site.txt,CDC,https://www.cdc.gov/flu/site.html,2026-11-02
+cdc_flu-about-coldflu.txt,CDC,https://www.cdc.gov/flu/about/coldflu.html,2026-11-02
+cdc_flu-about-flu-vs-covid19.txt,CDC,https://www.cdc.gov/flu/about/flu-vs-covid19.html,2026-11-02
+cdc_flu-about.txt,CDC,https://www.cdc.gov/flu/about/index.html,2026-11-02
+cdc_flu-about-season.txt,CDC,https://www.cdc.gov/flu/about/season.html,2026-11-02
+cdc_bird-flu-site.txt,CDC,https://www.cdc.gov/bird-flu/site.html,2026-11-02
+cdc_bird-flu-about-avian-influenza-type-a.txt,CDC,https://www.cdc.gov/bird-flu/about/avian-influenza-type-a.html,2026-11-02
+cdc_bird-flu-about.txt,CDC,https://www.cdc.gov/bird-flu/about/index.html,2026-11-02
+cdc_bird-flu-about-preparedness-response.txt,CDC,https://www.cdc.gov/bird-flu/about/preparedness-response.html,2026-11-02
+cdc_bird-flu-about-what-cdc-does.txt,CDC,https://www.cdc.gov/bird-flu/about/what-cdc-does.html,2026-11-02
+cdc_bird-flu-avian-timeline-1880-1959.txt,CDC,https://www.cdc.gov/bird-flu/avian-timeline/1880-1959.html,2026-11-02
+cdc_bird-flu-avian-timeline-1960-1999.txt,CDC,https://www.cdc.gov/bird-flu/avian-timeline/1960-1999.html,2026-11-02
+cdc_bird-flu-avian-timeline-2000-2009.txt,CDC,https://www.cdc.gov/bird-flu/avian-timeline/2000-2009.html,2026-11-02
+cdc_bird-flu-avian-timeline-2010-2019.txt,CDC,https://www.cdc.gov/bird-flu/avian-timeline/2010-2019.html,2026-11-02
+cdc_ebola.txt,CDC,https://www.cdc.gov/ebola/index.html,2026-11-02
+cdc_ebola-site.txt,CDC,https://www.cdc.gov/ebola/site.html,2026-11-02
+cdc_ebola-about.txt,CDC,https://www.cdc.gov/ebola/about/index.html,2026-11-02
+cdc_ebola-causes.txt,CDC,https://www.cdc.gov/ebola/causes/index.html,2026-11-02
+cdc_ebola-outbreaks.txt,CDC,https://www.cdc.gov/ebola/outbreaks/index.html,2026-11-02
+cdc_ebola-signs-symptoms.txt,CDC,https://www.cdc.gov/ebola/signs-symptoms/index.html,2026-11-02
+cdc_ebola-situation-summary.txt,CDC,https://www.cdc.gov/ebola/situation-summary/index.html,2026-11-02
+cdc_ebola-situation-summary-returning-travelers.txt,CDC,https://www.cdc.gov/ebola/situation-summary/returning-travelers.html,2026-11-02
+cdc_ebola-situation-summary-what-cdc-is-doing.txt,CDC,https://www.cdc.gov/ebola/situation-summary/what-cdc-is-doing.html,2026-11-02
+cdc_marburg-about.txt,CDC,https://www.cdc.gov/marburg/about/index.html,2026-11-02
+cdc_marburg-outbreaks.txt,CDC,https://www.cdc.gov/marburg/outbreaks/index.html,2026-11-02
+cdc_measles-travel.txt,CDC,https://www.cdc.gov/measles/travel/,2026-11-02
+cdc_measles-about-history.txt,CDC,https://www.cdc.gov/measles/about/history.html,2026-11-02
+cdc_measles-about.txt,CDC,https://www.cdc.gov/measles/about/index.html,2026-11-02
+cdc_measles-about-questions.txt,CDC,https://www.cdc.gov/measles/about/questions.html,2026-11-02
+cdc_measles-causes.txt,CDC,https://www.cdc.gov/measles/causes/index.html,2026-11-02
+cdc_polio-about.txt,CDC,https://www.cdc.gov/polio/about/index.html,2026-11-02
+cdc_polio-vaccines.txt,CDC,https://www.cdc.gov/polio/vaccines/index.html,2026-11-02
+cdc_hpv-about-cancers-caused-by-hpv.txt,CDC,https://www.cdc.gov/hpv/about/cancers-caused-by-hpv.html,2026-11-02
+cdc_hpv-about.txt,CDC,https://www.cdc.gov/hpv/about/index.html,2026-11-02
+cdc_hpv-vaccination-impact.txt,CDC,https://www.cdc.gov/hpv/vaccination-impact/index.html,2026-11-02
+cdc_hpv-vaccines.txt,CDC,https://www.cdc.gov/hpv/vaccines/index.html,2026-11-02
+cdc_rsv-about.txt,CDC,https://www.cdc.gov/rsv/about/index.html,2026-11-02
+cdc_rsv-adults.txt,CDC,https://www.cdc.gov/rsv/adults/index.html,2026-11-02
+cdc_rsv-causes.txt,CDC,https://www.cdc.gov/rsv/causes/index.html,2026-11-02
+cdc_rsv-infants-young-children.txt,CDC,https://www.cdc.gov/rsv/infants-young-children/index.html,2026-11-02
+cdc_dengue-about.txt,CDC,https://www.cdc.gov/dengue/about/index.html,2026-11-02
+cdc_dengue-areas-with-risk.txt,CDC,https://www.cdc.gov/dengue/areas-with-risk/index.html,2026-11-02
+cdc_malaria-site.txt,CDC,https://www.cdc.gov/malaria/site.html,2026-11-02
+cdc_malaria-about.txt,CDC,https://www.cdc.gov/malaria/about/index.html,2026-11-02
+cdc_malaria-causes.txt,CDC,https://www.cdc.gov/malaria/causes/index.html,2026-11-02
+nhs__pregnancy-keeping-well-vaccinations.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/vaccinations/,2026-11-02
+nhs__vaccinations.txt,NHS,https://www.nhs.uk/vaccinations/,2026-11-02
+nhs__vaccinations-4-in-1-preschool-booster-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/,2026-11-02
+nhs__vaccinations-6-in-1-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/6-in-1-vaccine/,2026-11-02
+nhs__vaccinations-bcg-vaccine-for-tuberculosis-tb.txt,NHS,https://www.nhs.uk/vaccinations/bcg-vaccine-for-tuberculosis-tb/,2026-11-02
+nhs__vaccinations-booking-your-childs-vaccination-appointment.txt,NHS,https://www.nhs.uk/vaccinations/booking-your-childs-vaccination-appointment/,2026-11-02
+nhs__vaccinations-chickenpox-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/chickenpox-vaccine/,2026-11-02
+nhs__vaccinations-child-flu-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/child-flu-vaccine/,2026-11-02
+nhs__vaccinations-covid-19-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/covid-19-vaccine/,2026-11-02
+nhs__vaccinations-flu-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/flu-vaccine/,2026-11-02
+nhs__vaccinations-hepatitis-b-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/hepatitis-b-vaccine/,2026-11-02
+nhs__vaccinations-hpv-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/hpv-vaccine/,2026-11-02
+nhs__vaccinations-menacwy-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/menacwy-vaccine/,2026-11-02
+nhs__vaccinations-menb-vaccine-for-children.txt,NHS,https://www.nhs.uk/vaccinations/menb-vaccine-for-children/,2026-11-02
+nhs__vaccinations-menb-vaccine-for-gonorrhoea.txt,NHS,https://www.nhs.uk/vaccinations/menb-vaccine-for-gonorrhoea/,2026-11-02
+nhs__vaccinations-mmr-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/mmr-vaccine/,2026-11-02
+nhs__vaccinations-mmrv-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/mmrv-vaccine/,2026-11-02
+nhs__vaccinations-mpox-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/mpox-vaccine/,2026-11-02
+nhs__vaccinations-nhs-vaccinations-and-when-to-have-them.txt,NHS,https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/,2026-11-02
+nhs__vaccinations-pneumococcal-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/pneumococcal-vaccine/,2026-11-02
+nhs__vaccinations-rotavirus-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/rotavirus-vaccine/,2026-11-02
+nhs__vaccinations-rsv-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/rsv-vaccine/,2026-11-02
+nhs__vaccinations-shingles-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/shingles-vaccine/,2026-11-02
+nhs__vaccinations-td-ipv-vaccine-3-in-1-teenage-booster.txt,NHS,https://www.nhs.uk/vaccinations/td-ipv-vaccine-3-in-1-teenage-booster/,2026-11-02
+nhs__vaccinations-travel-vaccinations.txt,NHS,https://www.nhs.uk/vaccinations/travel-vaccinations/,2026-11-02
+nhs__vaccinations-vaccination-tips-for-parents.txt,NHS,https://www.nhs.uk/vaccinations/vaccination-tips-for-parents/,2026-11-02
+nhs__vaccinations-whooping-cough-vaccine.txt,NHS,https://www.nhs.uk/vaccinations/whooping-cough-vaccine/,2026-11-02
+nhs__vaccinations-why-vaccination-is-important-and-the-safest-way-to-protect-yourself.txt,NHS,https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/,2026-11-02
+nhs__medicines-amlodipine.txt,NHS,https://www.nhs.uk/medicines/amlodipine/,2026-11-02
+nhs__medicines-atorvastatin.txt,NHS,https://www.nhs.uk/medicines/atorvastatin/,2026-11-02
+nhs__medicines-codeine.txt,NHS,https://www.nhs.uk/medicines/codeine/,2026-11-02
+nhs__medicines-ibuprofen-for-adults.txt,NHS,https://www.nhs.uk/medicines/ibuprofen-for-adults/,2026-11-02
+nhs__medicines-metformin.txt,NHS,https://www.nhs.uk/medicines/metformin/,2026-11-02
+nhs__medicines-omeprazole.txt,NHS,https://www.nhs.uk/medicines/omeprazole/,2026-11-02
+nhs__medicines-paracetamol-for-adults.txt,NHS,https://www.nhs.uk/medicines/paracetamol-for-adults/,2026-11-02
+nhs__medicines-prednisolone-tablets-and-liquid.txt,NHS,https://www.nhs.uk/medicines/prednisolone-tablets-and-liquid/,2026-11-02
+nhs__medicines-simvastatin.txt,NHS,https://www.nhs.uk/medicines/simvastatin/,2026-11-02
+nhs__pregnancy-keeping-well-drinking-alcohol-while-pregnant.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/drinking-alcohol-while-pregnant/,2026-11-02
+nhs__pregnancy-keeping-well-exercise.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/exercise/,2026-11-02
+nhs__pregnancy-keeping-well-foods-to-avoid.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/,2026-11-02
+nhs__pregnancy-keeping-well-have-a-healthy-diet.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/,2026-11-02
+nhs__pregnancy-keeping-well-illegal-drugs.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/illegal-drugs/,2026-11-02
+nhs__pregnancy-keeping-well-infections-that-may-affect-your-baby.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/infections-that-may-affect-your-baby/,2026-11-02
+nhs__pregnancy-keeping-well-medicines.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/medicines/,2026-11-02
+nhs__pregnancy-keeping-well-overweight.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/overweight/,2026-11-02
+nhs__pregnancy-keeping-well-pregnancy-and-covid-19.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/pregnancy-and-covid-19/,2026-11-02
+nhs__pregnancy-keeping-well-pregnancy-vitamins-and-supplements.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/,2026-11-02
+nhs__pregnancy-keeping-well-stop-smoking.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/,2026-11-02
+nhs__pregnancy-keeping-well-travelling.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/travelling/,2026-11-02
+nhs__pregnancy-keeping-well-weight-gain.txt,NHS,https://www.nhs.uk/pregnancy/keeping-well/weight-gain/,2026-11-02
+nhs__conditions-chickenpox.txt,NHS,https://www.nhs.uk/conditions/chickenpox/,2026-11-02
+nhs__conditions-dengue.txt,NHS,https://www.nhs.uk/conditions/dengue/,2026-11-02
+nhs__conditions-flu.txt,NHS,https://www.nhs.uk/conditions/flu/,2026-11-02
+nhs__conditions-hepatitis-b.txt,NHS,https://www.nhs.uk/conditions/hepatitis-b/,2026-11-02
+nhs__conditions-high-cholesterol.txt,NHS,https://www.nhs.uk/conditions/high-cholesterol/,2026-11-02
+nhs__conditions-iron-deficiency-anaemia.txt,NHS,https://www.nhs.uk/conditions/iron-deficiency-anaemia/,2026-11-02
+nhs__conditions-malaria.txt,NHS,https://www.nhs.uk/conditions/malaria/,2026-11-02
+nhs__conditions-measles.txt,NHS,https://www.nhs.uk/conditions/measles/,2026-11-02
+nhs__conditions-mumps.txt,NHS,https://www.nhs.uk/conditions/mumps/,2026-11-02
+nhs__conditions-polio.txt,NHS,https://www.nhs.uk/conditions/polio/,2026-11-02
+nhs__conditions-rubella.txt,NHS,https://www.nhs.uk/conditions/rubella/,2026-11-02
+nhs__conditions-shingles.txt,NHS,https://www.nhs.uk/conditions/shingles/,2026-11-02
+nhs__conditions-tuberculosis-tb.txt,NHS,https://www.nhs.uk/conditions/tuberculosis-tb/,2026-11-02
+nhs__conditions-whooping-cough.txt,NHS,https://www.nhs.uk/conditions/whooping-cough/,2026-11-02
+who__advice-for-public.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public,2026-11-02
+who__advice-for-public-healthy-parenting.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/healthy-parenting,2026-11-02
+who__advice-for-public-videos.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/videos,2026-11-02
+who__advice-for-public-when-and-how-to-use-masks.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--casirivimab-and-im.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-casirivimab-and-imdevimab---monoclonal-antibody-therapy,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--contact-tracing-fo.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-contact-tracing-for-responders,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--covid-19-and-peopl.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-covid-19-and-people-living-with-hiv,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--hydroxychloroquine.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-hydroxychloroquine,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--post-covid-19-cond.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-post-covid-19-condition,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--tocilizumab-and-sa.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-tocilizumab-and-sarilumab---interleukin-6-receptor-blockers,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--vaccines.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-vaccines,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease--covid-19--variants-of-sars-c.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-variants-of-sars-cov-2,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-adolescents-and-yout.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-adolescents-and-youth,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-breastfeeding.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-breastfeeding,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-cleaning-and-disinfe.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-cleaning-and-disinfecting-surfaces-in-non-health-care-settings,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-climate-change.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-climate-change,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-contact-tracing.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-contact-tracing,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-contraception-and-fa.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-contraception-and-family-planning,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-dexamethasone.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-dexamethasone,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-ethics-resource-allo.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-ethics-resource-allocation-and-priority-setting,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-food-businesses.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-food-businesses,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-food-safety-and-nutr.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-food-safety-and-nutrition,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-food-safety-authorit.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-food-safety-authorities,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-food-safety-for-cons.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-food-safety-for-consumers,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-health-and-safety-in.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-health-and-safety-in-the-workplace,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-home-care-for-famili.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-home-care-for-families-and-caregivers,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-home-care-for-health.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-home-care-for-health-workers-and-administrators,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-how-is-it-transmitte.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-how-is-it-transmitted,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-hydroxychloroquine.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-hydroxychloroquine,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-malaria-and-covid-19.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-malaria-and-covid-19,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-masks.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-masks,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-mass-gatherings.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-mass-gatherings,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-pregnancy-and-childb.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-pregnancy-and-childbirth,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-risks-and-safety-for.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-risks-and-safety-for-older-people,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-schools.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-schools,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-serology.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-serology,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-similarities-and-dif.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-similarities-and-differences-with-influenza,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-small-public-gatheri.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-staying-active.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-staying-active,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-staying-at-hotels-an.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-staying-at-hotels-and-accommodation-establishments,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-tobacco.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-tobacco,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-travel-advice-for-th.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-travel-advice-for-the-general-public,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-tuberculosis.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-tuberculosis,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-ventilation-and-air.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-ventilation-and-air-conditioning,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-violence-against-wom.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-violence-against-women,2026-11-02
+who__question-and-answers-hub-q-a-detail-coronavirus-disease-covid-19-working-in-hotels.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-working-in-hotels,2026-11-02
+who__question-and-answers-hub-q-a-detail-environmental-surveillance.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/environmental-surveillance,2026-11-02
+who__question-and-answers-hub-q-a-detail-global-excess-deaths-associated-with-the-covid-19.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/global-excess-deaths-associated-with-the-COVID-19-pandemic,2026-11-02
+who__question-and-answers-hub-q-a-detail-herd-immunity-lockdowns-and-covid-19.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/herd-immunity-lockdowns-and-covid-19,2026-11-02
+who__question-and-answers-hub-q-a-detail-pandemic-prevention--preparedness-and-response-ac.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/pandemic-prevention--preparedness-and-response-accord,2026-11-02
+who__question-and-answers-hub-q-a-detail-pqt-ivd-questions-and-answers.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/pqt-ivd-questions-and-answers,2026-11-02
+who__question-and-answers-hub-q-a-detail-q-a-children-and-masks-related-to-covid-19.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-children-and-masks-related-to-covid-19,2026-11-02
+who__question-and-answers-hub-q-a-detail-sale-of-live-wild-mammals-in-traditional-food-mar.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/sale-of-live-wild-mammals-in-traditional-food-markets,2026-11-02
+who__question-and-answers-hub-q-a-detail-sars-cov-2-evolution.txt,WHO,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/sars-cov-2-evolution,2026-11-02
+vishvas__fact-check-cattle-vaccine-not-related-to-covid-19-misleading-post-getting-viral.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-cattle-vaccine-not-related-to-covid-19-misleading-post-getting-viral/,2026-11-02
+vishvas__fact-check-claims-made-in-this-viral-message-about-corona-virus-recoveries-in-italy-a.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-claims-made-in-this-viral-message-about-corona-virus-recoveries-in-italy-are-false/,2026-11-02
+vishvas__fact-check-consuming-alcohol-beverages-or-vodka-will-not-reduce-risk-of-covid-19-infe.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-consuming-alcohol-beverages-or-vodka-will-not-reduce-risk-of-covid-19-infection/,2026-11-02
+vishvas__fact-check-consuming-bananas-wont-prevent-from-coronavirus-viral-post-is-fake.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-consuming-bananas-wont-prevent-from-coronavirus-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-consuming-cold-water-cucumber-during-menstruation-wont-cause-cancer-infert.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-consuming-cold-water-cucumber-during-menstruation-wont-cause-cancer-infertility-misleading-post-getting-viral/,2026-11-02
+vishvas__fact-check-coronavirus-testing-swabs-do-not-plant-substances-in-the-brain-viral-post.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-coronavirus-testing-swabs-do-not-plant-substances-in-the-brain-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-dog-vaccine-not-related-to-covid-19-misleading-post-getting-viral.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-dog-vaccine-not-related-to-covid-19-misleading-post-getting-viral/,2026-11-02
+vishvas__fact-check-dr-uma-kumar-of-aiims-did-not-give-this-interview-on-coronavirus-viral-pos.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-dr-uma-kumar-of-aiims-did-not-give-this-interview-on-coronavirus-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-drinking-pigeon-membrane-slurry-wont-cure-coronavirus-fake-post-going-vira.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-drinking-pigeon-membrane-slurry-wont-cure-coronavirus-fake-post-going-viral/,2026-11-02
+vishvas__fact-check-experts-dismiss-the-claim-that-covid-19-can-be-transmitted-by-mosquitoes.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-experts-dismiss-the-claim-that-covid-19-can-be-transmitted-by-mosquitoes/,2026-11-02
+vishvas__fact-check-experts-rubbishes-the-claim-that-covid-19-is-fake-and-just-a-coverup-of-5g.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-experts-rubbishes-the-claim-that-covid-19-is-fake-and-just-a-coverup-of-5g-technology/,2026-11-02
+vishvas__fact-check-experts-warn-against-self-medicating-covid-19-using-aspirin-lemon-honey-ho.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-experts-warn-against-self-medicating-covid-19-using-aspirin-lemon-honey-home-remedy/,2026-11-02
+vishvas__fact-check-inaccurate-information-in-the-viral-graphics-related-to-coronavirus-is-not.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-inaccurate-information-in-the-viral-graphics-related-to-coronavirus-is-not-issued-by-unicef-viral-post-is-misleading/,2026-11-02
+vishvas__fact-check-inhaling-vinegar-isnt-a-recommended-treatment-to-treat-covid-19-symptoms-a.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-inhaling-vinegar-isnt-a-recommended-treatment-to-treat-covid-19-symptoms-as-per-experts-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-medical-professionals-warn-against-inhaling-hydrogen-peroxide-for-treatmen.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-medical-professionals-warn-against-inhaling-hydrogen-peroxide-for-treatment-of-covid-19-and-other-respiratory-illnesses-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-misleading-post-suggests-black-garlic-cures-cancer-health-experts-say-ther.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-misleading-post-suggests-black-garlic-cures-cancer-health-experts-say-there-is-insufficient-scientific-evidence/,2026-11-02
+vishvas__fact-check-mouthwash-wont-cure-coronavirus-can-only-neutralize-the-virus-in-oral-cavi.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-mouthwash-wont-cure-coronavirus-can-only-neutralize-the-virus-in-oral-cavity-for-some-time-experts-suggest/,2026-11-02
+vishvas__fact-check-neem-leaves-powder-isnt-covid-19-cure-viral-post-is-fake-as-per-experts.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-neem-leaves-powder-isnt-covid-19-cure-viral-post-is-fake-as-per-experts/,2026-11-02
+vishvas__fact-check-neither-the-viral-post-on-coronavirus-covid-19-is-from-unicef-nor-it-is-ac.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-neither-the-viral-post-on-coronavirus-covid-19-is-from-unicef-nor-it-is-accurate/,2026-11-02
+vishvas__fact-check-no-adding-pepper-in-your-food-wont-cure-or-prevent-coronavirus-viral-post.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-adding-pepper-in-your-food-wont-cure-or-prevent-coronavirus-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-no-agarbatti-incense-sticks-do-not-prevent-from-coronavirus.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-agarbatti-incense-sticks-do-not-prevent-from-coronavirus/,2026-11-02
+vishvas__fact-check-no-bitter-guard-juice-cannot-cure-novel-coronavirus-health-experts-refute.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-bitter-guard-juice-cannot-cure-novel-coronavirus-health-experts-refute-the-viral-claim/,2026-11-02
+vishvas__fact-check-no-confirmed-case-of-coronavirus-reported-in-purnia-so-far-fake-post-getti.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-confirmed-case-of-coronavirus-reported-in-purnia-so-far-fake-post-getting-viral/,2026-11-02
+vishvas__fact-check-no-consuming-onion-with-salt-wont-treat-covid-19-in-15-minutes-viral-claim.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-consuming-onion-with-salt-wont-treat-covid-19-in-15-minutes-viral-claim-is-fake/,2026-11-02
+vishvas__fact-check-no-covid-19-doesnt-mean-certificate-of-identification-of-vaccination-with.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-covid-19-doesnt-mean-certificate-of-identification-of-vaccination-with-artificial-intelligence-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-no-evidence-proves-palm-oil-as-a-simple-solution-to-coronavirus-viral-post.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-evidence-proves-palm-oil-as-a-simple-solution-to-coronavirus-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-no-evidence-to-prove-that-turmeric-and-lemon-help-fight-against-coronaviru.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-evidence-to-prove-that-turmeric-and-lemon-help-fight-against-coronavirus/,2026-11-02
+vishvas__fact-check-no-holding-your-breath-for-10-seconds-isnt-a-coronavirus-self-check-test.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-holding-your-breath-for-10-seconds-isnt-a-coronavirus-self-check-test/,2026-11-02
+vishvas__fact-check-no-mustard-oil-cannot-cure-coronavirus-however-it-has-certain-health-benef.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-mustard-oil-cannot-cure-coronavirus-however-it-has-certain-health-benefits/,2026-11-02
+vishvas__fact-check-no-netflix-isnt-giving-free-1-year-subscription-due-to-covid-19-fake-post.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-netflix-isnt-giving-free-1-year-subscription-due-to-covid-19-fake-post-going-viral/,2026-11-02
+vishvas__fact-check-no-this-is-not-covid-5g-chip-diagram-viral-post-is-fake.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-this-is-not-covid-5g-chip-diagram-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-no-this-isnt-a-coronavirus-vaccine-this-is-a-covid-19-test-kit.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-this-isnt-a-coronavirus-vaccine-this-is-a-covid-19-test-kit/,2026-11-02
+vishvas__fact-check-no-this-photo-has-no-connection-with-covid-19-vaccination-viral-post-is-fa.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-this-photo-has-no-connection-with-covid-19-vaccination-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-no-wearing-mask-to-protect-from-covid-19-doesnt-cause-fungal-lung-infectio.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-wearing-mask-to-protect-from-covid-19-doesnt-cause-fungal-lung-infection-fake-claim-going-viral/,2026-11-02
+vishvas__fact-check-no-who-didnt-say-coronavirus-is-losing-potency-viral-post-falsely-attribut.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-who-didnt-say-coronavirus-is-losing-potency-viral-post-falsely-attributed-to-world-health-organization/,2026-11-02
+vishvas__fact-check-no-who-didnt-warn-against-consuming-cabbage-to-prevent-covid-19.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-who-didnt-warn-against-consuming-cabbage-to-prevent-covid-19/,2026-11-02
+vishvas__fact-check-no-who-hasnt-issued-advisory-against-buying-of-holi-colors-from-coronaviru.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-who-hasnt-issued-advisory-against-buying-of-holi-colors-from-coronavirus-hit-china/,2026-11-02
+vishvas__fact-check-no-who-hasnt-ranked-sri-lanka-fifth-best-country-for-covid-19-response-vir.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-no-who-hasnt-ranked-sri-lanka-fifth-best-country-for-covid-19-response-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-nobel-laureate-luc-montagnier-did-not-say-this-about-covid-19-vaccine-vira.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-nobel-laureate-luc-montagnier-did-not-say-this-about-covid-19-vaccine-viral-post-is-fake/,2026-11-02
+vishvas__fact-check-old-pictures-of-a-flooded-hospital-in-bihar-shared-as-recent-with-a-covid.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-old-pictures-of-a-flooded-hospital-in-bihar-shared-as-recent-with-a-covid-19-spin/,2026-11-02
+vishvas__fact-check-over-the-counter-self-medications-not-recommended-by-doctors-to-treat-covi.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-over-the-counter-self-medications-not-recommended-by-doctors-to-treat-covid-19-viral-post-is-misleading/,2026-11-02
+vishvas__fact-check-peepal-leaves-may-have-medicinal-properties-but-cant-be-a-substitute-of-me.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-peepal-leaves-may-have-medicinal-properties-but-cant-be-a-substitute-of-medical-oxygen-for-covid-19-patients-fake-post-going-viral/,2026-11-02
+vishvas__fact-check-post-claiming-alcohol-kills-coronavirus-is-fake.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-post-claiming-alcohol-kills-coronavirus-is-fake/,2026-11-02
+vishvas__fact-check-post-claiming-army-getting-deployed-in-telangana-amidst-covid-19-outbreak.txt,Vishvas News,https://www.vishvasnews.com/english/health/fact-check-post-claiming-army-getting-deployed-in-telangana-amidst-covid-19-outbreak-is-fake/,2026-11-02
+medline_childhoodvaccines.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/childhoodvaccines.html,2026-11-02
+medline_vaccines.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/vaccines.html,2026-11-02
+medline_flu.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/flu.html,2026-11-02
+medline_hpv.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/hpv.html,2026-11-02
+medline_malaria.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/malaria.html,2026-11-02
+medline_tuberculosis.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/tuberculosis.html,2026-11-02
+medline_anemia.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/anemia.html,2026-11-02
+medline_diabetestype2.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/diabetestype2.html,2026-11-02
+medline_pregnancyandmedicines.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/pregnancyandmedicines.html,2026-11-02
+medline_antibiotics.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/antibiotics.html,2026-11-02
+medline_complementaryandintegrativemedicine.txt,"MedlinePlus, National Library of Medicine",https://medlineplus.gov/complementaryandintegrativemedicine.html,2026-11-02

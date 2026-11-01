@@ -1,0 +1,43 @@
+SOURCE: CDC
+TITLE: Vaccines and the Diseases they Prevent
+URL: https://www.cdc.gov/vaccines/by-disease/index.html
+────────────────────────────────────────────────────────────
+
+Recommended vaccines by disease
+Vaccines are available for these potentially dangerous or deadly diseases. Over the years, these vaccines have prevented countless cases of disease and saved lives. Research shows that routine vaccinations for children born during 1994–2023 will have prevented about 508 million illnesses and 32 million hospitalizations and saved over 1.1 million lives. Infants, children, adolescents, teens, and adults need different vaccinations, depending on their age, location, job, lifestyle, travel schedule, health conditions, or previous vaccinations.
+Click on a disease name to learn more about the diseases and the vaccines that prevent them.
+- Chickenpox (varicella)
+- COVID-19
+- Dengue
+- Diphtheria
+- Flu (influenza)
+- Hepatitis A
+- Hepatitis B
+- Hib ( Haemophilus influenzae type b)
+- HPV (human papillomavirus)
+- Measles
+- Meningococcal
+- Monkeypox
+- Mumps
+- Pneumococcal
+- Polio (poliomyelitis)
+- Rotavirus
+- RSV (respiratory syncytial virus)
+- Rubella (German measles)
+- Shingles (herpes zoster)
+- Tetanus (lockjaw)
+- Whooping cough (pertussis)
+Vaccines recommended for travel and some specific groups
+People in certain research jobs and travel situations might be exposed to dangerous or deadly diseases that are no longer common in the U.S. Because of the increased risk of disease exposure in these instances, nine non-routine vaccines are available, listed below by disease. These are considered non-routine vaccines because they are not part of CDC's routinely recommended immunization schedules for children, adolescents and adults.
+- Adenovirus
+- Anthrax
+- Chikungunya
+- Cholera
+- Ebola
+- Japanese encephalitis (JE)
+- Rabies
+- Smallpox
+- Tick-borne encephalitis
+- Tuberculosis
+- Typhoid fever
+- Yellow fever

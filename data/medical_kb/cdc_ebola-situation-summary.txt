@@ -1,0 +1,81 @@
+SOURCE: CDC
+TITLE: Ebola Outbreak: Current Situation
+URL: https://www.cdc.gov/ebola/situation-summary/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+- CDC is responding to an outbreak of Ebola disease caused by Bundibugyo virus in remote areas of the Democratic Republic of the Congo (DRC).
+- To date, no cases of Ebola disease have been confirmed in the United States because of this outbreak.
+- The overall risk to the American public and travelers remains low.
+Outbreak overview
+Risk to the United States
+- To date, no Ebola cases associated with this outbreak have been reported in the United States.
+- The likelihood of Ebola spreading to the United States is considered very low.
+- If a case was diagnosed in the United States, the risk of Ebola spreading in the United States is also low due to the strength of our public health system and infection control measures.
+- CDC is responding to an outbreak of Ebola in the Democratic Republic of the Congo (DRC).
+- This outbreak is spreading substantially faster than previous Ebola outbreaks and is now the second-largest Ebola outbreak on record.
+- The outbreak is caused by Bundibugyo virus, a type of Ebola virus.
+- This is the 17th outbreak of Ebola in DRC.
+- This Ebola outbreak surpassed 1,000 confirmed cases within 40 days of response activation. In comparison, the 2018 Ebola outbreak in DRC took approximately 235 days to reach more than 1,000 cases.
+- South Kivu has reported no confirmed cases since May 29.
+- The initial case was a confirmed travel-related infection reported on October 6. A man traveled from DRC, through Uganda, to Kenya's capital Nairobi, where he was hospitalized and died in an isolation unit. He did not contract Ebola while in Kenya.
+- Further cases, including an additional death, were among relatives or healthcare providers with close contact with the first infected man, and all were already in quarantine when diagnosed. All cases were in Nairobi, and Kenya's MOH has reported no community spread of Ebola in the country.
+- On October 20, Nigeria reported its first case of Ebola in the 2026 outbreak. Testing confirmed the infection was caused by the Bundibugyo virus, which is the virus driving the current Ebola outbreak.
+- Uganda reported 21 confirmed and probable cases and 3 deaths. The last reported case there was confirmed June 21.
+Response challenges
+- Limited health infrastructure, including limited access to healthcare, diagnostic and laboratory services, infection prevention and control supplies, and other basic services make stopping this outbreak more difficult.
+- Ongoing conflict in the area where the outbreak is occurring creates security issues and complicates contact tracing and infection prevention and control.
+- Violence against healthcare workers and shortages of personal protective equipment are leading to healthcare workers becoming infected while treating patients.
+- Frequent population movement and cross-border travel increase the risk of spread to Uganda, South Sudan, Rwanda, and to other areas.
+- Lack of trust in the government and misinformation make communicating about Ebola more difficult.
+- All U.S. citizens and U.S. nationals who have been in DRC should plan to remain outside DRC for 21 days before entering the United States. This includes all passengers with an intermediate stop in DRC or on multi-stop itineraries via DRC regardless of whether they disembark or stay on the airplane.
+- U.S. citizens and U.S. nationals who have been present in Uganda or South Sudan (and not present in DRC) within 21 days of arrival in the United States must only enter through designated airports for enhanced screening.
+- This process is in addition to CDC's Order, under 42 CFR 71.40 , that continued the temporary entry restrictions to the United States for certain categories of travelers after they were in DRC, Uganda, or South Sudan.
+- CDC recommends avoiding all travel to Ituri and Nord-Kivu (North Kivu) provinces and avoiding nonessential travel to Haut-Uele and Tshopo provinces in DRC. Travelers to other parts of DRC or Uganda should take enhanced precautions to avoid Ebola exposure and monitor for symptoms while traveling and for 21 days after leaving.
+- After November 3, 2026, at 11:59 pm Eastern Standard Time, all passengers boarding an international flight to the United States, regardless of location of embarkation, must attest (sign a statement) that they have not been present in the Democratic Republic of the Congo (DRC) during the 21 days before their flight leaves for the United States.
+Latest data
+Reported cases
+This is a rapidly evolving situation, and case counts are subject to change.
+Total Cases (as of Oct. 28, 2026)
+Democratic Republic of the Congo
+- 10,274 confirmed cases
+- 4,992 confirmed deaths
+- 0 probable cases
+- 0 probable deaths
+Kenya
+- 9 confirmed cases
+- 2 confirmed deaths
+- 1 confirmed case
+- 0 confirmed deaths
+- 20 confirmed cases
+- 1 probable case
+- 1 probable death
+Investigation of additional cases is ongoing and case counts are expected to change. The DRC MoH does not include probable cases in their official reporting. Suspected cases and suspected deaths in DRC have been temporarily excluded from the count pending ongoing investigations and data standardization. The Uganda MoH does not include suspected cases in their official reporting.
+*The last confirmed case in Uganda recovered and was released from care on July 16, 2026. Currently, there are no reported active cases.
+** The last case in France recovered and was released from care on July 4, 2026. Currently, there are no reported active cases.
+Map of affected areas
+To date, the Ebola disease outbreak in DRC has been confirmed in Bas-Uele, Haut-Uele, Ituri, Nord-Kivu (North Kivu), Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), and Tshopo provinces. Cases related to the DRC outbreak also have been reported in Uganda's capital of Kampala.
+CDC response
+CDC is working internationally and domestically to respond to this outbreak and prevent Ebola from entering the United States. About 500 people at CDC are involved in responding to the outbreak, including more than 120 people deployed to the affected countries.
+Information for returning travelers
+CDC has guidance for people who recently have been in areas affected by this Ebola outbreak, including what to do if you feel sick after travel.
+For everyone
+- Ebola Disease Basics
+Travel information
+- Information for Travelers Returning from Ebola-Affected Areas
+- Destination : Democratic Republic of the Congo
+- Destination: Uganda
+- Destination: South Sudan
+- Ebola Bundibugyo Virus Disease in Ituri and Nord-Kivu Provinces of the Democratic Republic of the Congo - Level 4 - Avoid All Travel
+- Ebola Bundibugyo Virus Disease in Haut-Uélé and Tshopo Provinces of the Democratic Republic of the Congo - Level 3 - Reconsider Nonessential Travel
+- Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda - Level 2 - Practice Enhanced Precautions
+- Ebola Bundibugyo Virus Disease in Kenya - Level 1 - Practice Usual Precautions
+For healthcare providers
+- Clinical Guidance for Ebola Disease
+- Clinical Screening and Diagnosis for Viral Hemorrhagic Fevers
+- Infection Prevention and Control Recommendations for Patients in U.S. Hospitals who are Suspected or Confirmed to have Selected Viral Hemorrhagic Fevers
+For public health professionals
+- Public Health Management of People with Suspected or Confirmed VHF or High-Risk Exposures
+- Interim Guidance: Public Health Assessment and Management of Travelers Arriving from the Affected Countries during the 2026 Ebola Outbreak
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+The information on this page was last reviewed by subject matter experts to ensure accuracy.

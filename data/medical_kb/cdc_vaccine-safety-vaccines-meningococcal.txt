@@ -1,0 +1,55 @@
+SOURCE: CDC
+TITLE: Meningococcal Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/meningococcal.html
+────────────────────────────────────────────────────────────
+
+Key points
+Overview
+Meningococcal disease can refer to any illness that is caused by a type of bacteria called Neisseria meningitidis , also known as meningococcus.
+N. meningitidis is a leading cause of bacterial meningitis in children ages 2 through 18 years in the United States. There are six serogroups (a group of bacteria that are closely related) of N. meningitidis that cause most meningococcal disease in the world. They are referred to as serogroups A, B, C, W, X, and Y.
+Available vaccines & manufacturer package inserts
+MenACWY
+Also known as quadrivalent meningococcal conjugate vaccines. Protects against meningococcal disease caused by serogroups A, C, W, and Y.
+MenB
+Also known as serogroup B meningococcal vaccines. Protects against meningococcal disease caused by serogroup B.
+Who should & should not get the vaccine
+CDC recommends adolescents receive two doses of MenACWY vaccine. Younger children and adults usually do not need MenB vaccines.
+Common side effects
+Reminder
+Most side effects are mild to moderate and last from 1 to 3 days.
+When to call 911
+Severe allergic reactions following vaccination are rare, but can be life threatening. If someone experiences symptoms of a severe allergic reaction, which can include hives, swelling of the face and throat, difficulty breathing, a fast heartbeat, dizziness, and weakness.
+Vaccines, like any medicine, can have side effects. The most common side effects are usually mild and go away on their own.
+Report possible adverse events to VAERS‎
+The Vaccine Adverse Event Reporting System (VAERS) is an early warning system, co-managed by CDC and FDA, that monitors for potential vaccine safety problems. Healthcare providers and vaccine manufacturers are required by law to report certain adverse events (any side effect or health problem after vaccination that is concerning to you, even if you are not sure if the vaccine caused the event) following vaccination to VAERS; patients and caregivers can also submit reports.
+A closer look at the safety data
+Findings from vaccine safety monitoring systems and scientific studies have shown that MenACWY and MenB vaccines have a favorable safety profile—the body of scientific evidence overwhelmingly supports their safety. The Advisory Committee on Immunization Practices (ACIP) no longer considers a history of GBS to be a contraindication nor precaution for meningococcal vaccination.
+In studies evaluating the possible relationship between Menactra and GBS, the risk of GBS after Menactra, if any, was small. 1
+Guillain-Barré and Menactra
+Meningococcal conjugate vaccine (MenACWY-D; Menactra) was approved by the Food and Drug Administration in 2005 and became available for public use. Shortly after, case reports of Guillain-Barré after Menactra vaccination were reported to the Vaccine Adverse Event Reporting System (VAERS). In studies evaluating the possible relationship between Menactra and GBS, the risk of GBS after Menactra, if any, was small.
+GBS is a rare disorder in which a person's own immune system damages their nerve cells, causing muscle weakness and sometimes paralysis. Many things can cause GBS, including common infections such as sore throats and other infections that occur in the community. While the cause is not fully understood, the syndrome often follows infection with a virus or bacteria.
+Fact
+Menactra Meningococcal Conjugate Vaccine does not cause Guillain-Barré Syndrome (GBS)
+The vaccine manufacturers changed the package insert for Menactra to identify a history of GBS as a precaution to vaccination. Subsequently, this precaution was added to other MenACWY vaccines.
+Studies were conducted to investigate whether GBS was caused by the vaccine or was coincidental with vaccination. These studies included a combined total of over 2 million vaccinated adolescents. The results of these studies showed that there was no link between Menactra and GBS and that the risk for GBS after Menactra vaccination was not increased over the usual (non-vaccine related) GBS rate among people ages 11 to 21 years. Based on these studies, the Advisory Committee on Immunization Practices (ACIP) no longer considers a history of GBS to be a contraindication nor precaution for meningococcal vaccination. 1 2 3 4 5
+How CDC monitors vaccine safety
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- Yih, W. K., Weintraub, E., & Kulldorff, M. (2012). No risk of Guillain-Barré syndrome found after meningococcal conjugate vaccination in two large cohort studies. Pharmacoepidemiology and drug safety , 21 (12), 1359–1360. https://doi.org/10.1002/pds.3353
+- CDC. Update: Guillain-Barré Syndrome among recipients of Menactra meningococcal conjugate vaccine–United States, June 2005-September 2006 . MMWR . 2006 Oct 20:55(41);1120-1124.
+- CDC. Update: Guillain-Barré Syndrome among recipients of Menactra meningococcal conjugate vaccine–United States, October 2005-February 2006 . MMWR . 2006 Apr 7:(55(13);364-366.
+- CDC. Guillain-Barré Syndrome among recipients of Menactra meningococcal conjugate vaccine–United States, June-July 2005 . MMWR . 2005 Oct 6:54(Dispatch);1-3.
+- Velentgas P, Amato AA, Bohn RL, Chan KA, Cochrane T, Funch DP, et al. Risk of Guillain-Barré syndrome after meningococcal conjugate vaccination . Pharmacoepidemiol Drug Saf . 2012 Dec;21(12):1350-8. Epub 2012 Jul 16.
+- Duffy J, Marquez P, Dores GM, Ng C, Su J, Cano M, Perez-Vilar S. Safety surveillance of bivalent meningococcal group B vaccine, Vaccine Adverse Event Reporting System, 2014-2018 Open Forum Infect Dis. 2020 Oct 27;7(12):ofaa516. Epub 2020 Dec.
+- Mbaeyi SA, Bozio CH, Duffy J, Rubin LG, Hariri S, Stephen DS, MacNeil JR. Meningococcal Vaccination: Recommendations of the Advisory Committee on Immunization Practices, United States, 2020 MMWR Recomm Rep. 2020 Sep 25;69(No. RR-9):1-41.
+- Myers TR, McNeil MM, Ng CS, Li R, Marquez PL, Moro PL, Omer SB, Cano MV. Adverse events following quadrivalent meningococcal diphtheria toxoid conjugate vaccine (Menactra®) reported to the Vaccine Adverse Event Reporting System (VAERS), 2005-2016 Vaccine. 2020 Sep 11;38(40):6291-8. Epub 2020 Jul 31.
+- Li R, Weintraub E, McNeil MM, Kulldorff M, Lewis EM, Nelson J, Xu S, Qian L, Klein NP, Destefano F. Meningococcal conjugate vaccine safety surveillance in the Vaccine Safety Datalink using a tree-temporal scan data mining method Pharmacoepidemiol Drug Saf. 2018 Apr;27(4):391-7. Epub 2018 Feb 15.
+- Myers TR, McNeil MM. Current safety issues with quadrivalent meningococcal conjugate vaccines Hum Vaccin Immunother. 2018 May 4;14(5):1175-8. Epub 2017 Nov 8.
+- Duffy J, Johnsen P, Ferris M, Miller M, Leighton K, McGilvray M, McNamara L, Breakwell L, Yu Y, Bhavsar T, Briere E, Patel M. Safety of a meningococcal group B vaccine used in response to two university outbreaks. J Am Coll Health. Aug-Sep 2017;65(6):380-8. Epub 2017 May 8.
+- Myers TR, McNeil MM, Ng CS, Li R, Lewis PW, Cano MV. Adverse events following quadrivalent meningococcal CRM-conjugate vaccine (Menveo®) reported to the Vaccine Adverse Event Reporting System (VAERS), 2010-2015. Vaccine. 2017 Mar 27;35(14):1758-63. Epub 2017 Mar 3.
+- Su JR, Miller ER, Duffy J, Baer BM, Cano MV. Notes from the Field: Administration Error Involving a Meningococcal Conjugate Vaccine—United States, March 1, 2010-September 22, 2015. MMWR Morb Mortal Wkly Rep . 2016 Feb 19;65(6):161-2.
+- Yih WK, Weintraub E, Kulldorff M. No risk of Guillain-Barré syndrome found after meningococcal conjugate vaccination in two large cohort studies Pharmacoepidemiol Drug Saf . 2012 Dec;21(12):1359-60.
+- Velentgas P, Amato AA, Bohn RL, Chan KA, Cochrane T, Funch DP, Dashevsky I, Duddy AL, Gladowski P, Greenberg SA, Kramer JM, McMahill-Walraven C, Nakasato C, Spettell CM, Syat BL, Wahl PM, Walker AM, Zhang F, Brown JS, Platt R. Risk of Guillain-Barré syndrome after meningococcal conjugate vaccination Pharmacoepidemiol Drug Saf . 2012 Dec;21(12):1350-8. Epub 2012 Jul 16.
+- CDC. Update: Guillain-Barré syndrome among recipients of Menactra meningococcal conjugate vaccine – United States, June 2005-September 2006. MMWR Morb Mortal Wkly Rep. 2006 Oct 20;55(41):1120-4.
+- CDC. Update: Guillain-Barré syndrome among recipients of Menactra meningococcal conjugate vaccine – United States, October 2005-February 2006. MMWR Morb Mortal Wkly Rep. 2006 Apr 7;55(13):364-6.
+- Centers for Disease Control and Prevention (CDC). Guillain-Barré Syndrome among recipients of Menactra meningococcal conjugate vaccine- United States, June-July 2005. MMWR . 2005 Oct 6:54(Dispatch);1-3.
+- Li, R., Weintraub, E., McNeil, M. M., Kulldorff, M., Lewis, E. M., Nelson, J., Xu, S., Qian, L., Klein, N. P., & Destefano, F. (2018). Meningococcal conjugate vaccine safety surveillance in the Vaccine Safety Datalink using a tree-temporal scan data mining method. Pharmacoepidemiology and drug safety , 27 (4), 391–397. https://doi.org/10.1002/pds.4397

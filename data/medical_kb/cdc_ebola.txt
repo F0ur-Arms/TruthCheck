@@ -1,0 +1,13 @@
+SOURCE: CDC
+TITLE: Ebola
+URL: https://www.cdc.gov/ebola/index.html
+────────────────────────────────────────────────────────────
+
+For Healthcare and Public Health Professionals
+- Clinical Guidance Clinical guidance for assessing and treating suspect, probable, or confirmed Ebola disease.
+- Screening and Evaluating an Ill Person for Viral Hemorrhagic Fevers Clinical guidelines for screening patients for viral hemorrhagic fevers.
+- Guidance on Performing Routine Diagnostic Testing for Patients with Suspected VHFs or Other High-Consequence Disease VHFs can be confused with more common causes of febrile illness like malaria, flu, other infections
+- Laboratory Testing for Patients with a Suspected VHF or High-Consequence Disease Screen the patient for Ebola symptoms and risk factors, then order appropriate laboratory tests.
+- Public Health Management of People with Suspected or Confirmed VHFs or High-risk Exposures People with suspected or confirmed viral hemorrhagic fever may be subject to public health measures
+- Recommendations for Organizations Sending U.S.-based Personnel to Areas with Viral Hemorrhagic Fever Outbreaks Health & safety guidance for U.S.-based organizations sending staff to outbreak areas
+Featured

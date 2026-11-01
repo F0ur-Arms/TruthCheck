@@ -1,0 +1,85 @@
+SOURCE: CDC
+TITLE: Measles, Mumps, Rubella (MMR) Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/mmr.html
+────────────────────────────────────────────────────────────
+
+Key points
+You can protect against measles, mumps, and rubella with vaccination.
+Overview
+Measles causes fever, rash, cough, runny nose, and red, watery eyes. Complications can include ear infection, diarrhea, pneumonia, brain damage, and death.
+Mumps causes fever, headache, muscle aches, tiredness, loss of appetite, and swollen salivary glands. Complications can include swelling of the testicles or ovaries, deafness, inflammation of the brain and/or tissue covering the brain and spinal cord (encephalitis/meningitis) and, rarely, death.
+Rubella , causes fever, sore throat, rash, headache, and red, itchy eyes. If a woman gets rubella while she is pregnant, she could have a miscarriage, or her baby could be born with serious birth defects.
+Due to high vaccination rates, outbreaks of measles, mumps, and rubella in the U.S. are not as common as they were before the vaccine began being used. However, these diseases still appear in the U.S. and people who decide not to vaccinate their children because of religious or personal beliefs put their children and others at risk for getting these diseases.
+Available vaccines & manufacturer package inserts
+The measles, mumps, rubella, and varicella (MMRV) vaccine also protects against these diseases.
+Common side effects
+Some people may experience swelling in the cheeks or neck. MMR vaccine rarely causes a temporary low platelet count, which can cause a bleeding disorder that usually goes away without treatment and is not life threatening.
+Vaccines, like any medicine, can have side effects. Most people who get MMR vaccine do not have any serious problems with it. Getting MMR vaccine is much safer than getting measles, mumps, or rubella.
+When to call 911‎
+MMR vaccine has been linked with a very small risk of febrile seizures . Febrile seizures following MMR vaccination are rare and are not associated with any long-term effects. Because the risk of febrile seizures increases as infants get older, it is recommended that they get vaccinated as soon as recommended.
+Extremely rarely, a person may have a serious allergic reaction to MMR vaccine. Anyone who has ever had a life-threatening allergic reaction to the antibiotic neomycin, or any other component of MMR vaccine, should not get the vaccine.
+Report possible adverse events to VAERS‎‎
+A closer look at the safety data
+Safety studies
+Adverse events
+Separating MMR vaccine shots
+No published scientific evidence shows any benefit in separating the combination MMR vaccine into three individual shots .
+Outbreaks
+Measles outbreaks can occur in communities with a high number of unvaccinated people. Maintaining high overall MMR vaccination rates is needed to continue to limit the spread of measles.
+Autism
+Because signs of autism may appear around the same time children receive the MMR vaccine, some parents may worry that the vaccine causes autism. Vaccine safety experts, including experts at CDC and the American Academy of Pediatrics (AAP), agree that MMR vaccine is not responsible for recent increases in the number of children with autism. In 2004, a report by the Institute of Medicine (IOM) concluded that there is no link between autism and MMR vaccine, and that there is no link between autism and vaccines that contain thimerosal as a preservative.
+Fact‎
+How CDC monitors vaccine safety
+CDC and the Food and Drug Administration (FDA) are committed to ensuring that vaccines provided to the public are safe and effective. Once vaccines are licensed or authorized for emergency use in the United States, CDC and FDA continuously monitor them through several safety systems.
+Organizations
+Other resources
+- Rowhani-Rahbar, A., Fireman, B., Lewis, E., Nordin, J., Naleway, A., Jacobsen, S. J., Jackson, L. A., Tse, A., Belongia, E. A., Hambidge, S. J., Weintraub, E., Baxter, R., & Klein, N. P. (2013). Effect of age on the risk of Fever and seizures following immunization with measles-containing vaccines in children. JAMA pediatrics , 167 (12), 1111–1117. https://doi.org/10.1001/jamapediatrics.2013.2745
+- Klein, N. P., Fireman, B., Yih, W. K., Lewis, E., Kulldorff, M., Ray, P., Baxter, R., Hambidge, S., Nordin, J., Naleway, A., Belongia, E. A., Lieu, T., Baggs, J., Weintraub, E., & Vaccine Safety Datalink (2010). Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures. Pediatrics , 126 (1), e1–e8. https://doi.org/10.1542/peds.2010-0665
+- Hornig, M., Briese, T., Buie, T., Bauman, M. L., Lauwers, G., Siemetzki, U., Hummel, K., Rota, P. A., Bellini, W. J., O'Leary, J. J., Sheils, O., Alden, E., Pickering, L., & Lipkin, W. I. (2008). Lack of association between measles virus vaccine and autism with enteropathy: a case-control study. PloS one , 3 (9), e3140. https://doi.org/10.1371/journal.pone.0003140
+- Frank DeStefano, Tanya Karapurkar Bhasin, William W. Thompson, Marshalyn Yeargin-Allsopp, Coleen Boyle; Age at First Measles-Mumps-Rubella Vaccination in Children With Autism and School-Matched Control Subjects: A Population-Based Study in Metropolitan Atlanta. Pediatrics February 2004; 113 (2): 259–266. 10.1542/peds.113.2.259
+- Richler, J., Luyster, R., Risi, S. et al. Is There a 'Regressive Phenotype' of Autism Spectrum Disorder Associated with the Measles-Mumps-Rubella Vaccine? A CPEA Study. J Autism Dev Disord 36, 299–316 (2006). https://doi.org/10.1007/s10803-005-0070-1
+- Madsen, K. M., Hviid, A., Vestergaard, M., Schendel, D., Wohlfahrt, J., Thorsen, P., Olsen, J., & Melbye, M. (2002). A population-based study of measles, mumps, and rubella vaccination and autism. The New England journal of medicine , 347 (19), 1477–1482. https://doi.org/10.1056/NEJMoa021134
+- Jain A, Marshall J, Buikema A, Bancroft T, Newschaffer CJ. Autism occurrence by MMR vaccine status among US children with older siblings with and without autism , JAMA 2015 Apr 21:313(15):1534-40.
+- Krow-Lucal E, Marin M, Shepersky L, Bahta L, Loehr J, Dooling K. Measles, Mumps, Rubella Vaccine (PRIORIX): Recommendations of the Advisory Committee on Immunization Practices – United States, 2022 . MMWR Morb Mortal Wkly Rep. 2022 Nov 18; 71(46);1465–1470.
+- Rowhani-Rahbar A, Fireman B, Lewis E, Nordin J, Naleway A, et al. Effect of age on the risk of Fever and seizures following immunization with measles-containing vaccines in children . JAMA Pediatr . 2013 Dec;167(12):1111-7.
+- Klein NP, Fireman B, Yih WK, Lewis E, Kulldorff M, Ray P, et al. Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures . Pediatrics . 2010 Jul;126(1):e1-8.
+- Mrozek-Budzyn D, et al. Lack of Association Between Measles-Mumps-Rubella Vaccination and Autism in Children: A Case-Control Study , The Pediatric Infectious Disease Journal . 2010 May; 29(5): 397-400
+- Baird G, et al. Measles Vaccination and Antibody Response in Autism Spectrum Disorders , Archives of Disease in Childhood . 2008 Oct; 93(10): 832-7
+- Hornig M et al. Lack of Association between Measles Virus Vaccine and Autism with Enteropathy: A Case-Control Study , PLoS ONE . 2008 Sept; 3(9): e3140
+- Bibby AC, Farrell A, Cummins M, Erlewyn-Lajeunesse M. Is MMR immunisation safe in chronic idiopathic thrombocytopenic purpura? Arch Dis Child . 2008 Apr;93(4):354-5.
+- France EK, Glanz J, Xu S, Hambidge S, Yamasaki K, et al. Risk of immune thrombocytopenic purpura after measles-mumps-rubella immunization in children . Pediatrics. 2008 Mar;121(3):e687-92.
+- Uchiyama T, et al. MMR-Vaccine and Regression in Autism Spectrum Disorders: Negative Results Presented from Japan , Journal of Autism and Developmental Disorders . 2007; 37(2): 210-7
+- Doja A, and Roberts W Immunizations and Autism: A Review of the Literature , The Canadian Journal of Neurological Sciences . 2006 Nov; 33(4): 341-6
+- D'Souza Y, et al. No Evidence of Persisting Measles Virus in Peripheral Blood Mononuclear Cells from Children with Autism Spectrum Disorder , Pediatrics . 2006 Oct; 118(4): 1664-75.
+- Fombonne E, et al. Pervasive Developmental Disorders in Montreal and Quebec, Canada: Prevalence and Links with Immunizations , Pediatrics . 2006 July; 118(1): e139-50
+- Richler, et al. Is There a 'Regressive Phenotype' of Autism Spectrum Disorder Associated with the Measles-Mumps-Rubella Vaccine? A CPEA Study , Journal of Autism and Developmental Disorders . 2006 Apr; 36(3): 299-316
+- Honda H, et al. No effect of MMR withdrawal on the incidence of autism: a total population study , Journal of Child Psychology and Psychiatry . 2005; 46(6): 572-9
+- Smeeth L, et al. MMR Vaccination and Pervasive Developmental Disorders: A Case-Control Study , Lancet 2004 Sept; 364(9438): 963-9
+- Klein KC, Diehl EB. Relationship between MMR Vaccine and Autism , The Annals of Pharmacotherapy . 2004 Jul-Aug; 38(7-8):1297-300
+- Chen W, et al. No evidence for links between autism, MMR and measles virus , Psychological Medicine . 2004 April; 34(3): 543-53
+- DeStefano F et al. Age at First Measles-Mumps-Rubella Vaccination in Children with Autism and School-Matched Control Subjects: A Population-Based Study in Metropolitan Atlanta , Pediatrics 2004 Feb; 113(2): 259-66
+- Immunization Safety Review: Vaccines and Autism Institute of Medicine, The National Academies Press: 2004
+- Lingam R, et al. Prevalence of Autism and Parentally Reported Triggers in a North East London Population , Archives of Disease in Childhood . 2003; 88(8): 666-70
+- Makela A, et al. Neurologic Disorders after Measles-Mumps-Rubella Vaccination , Pediatrics . 2002 Nov; 110: 957-63
+- Madsen KM, et al. A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism , New England Journal of Medicine . 2002 Nov; 347(19): 1477-82
+- Black C, et al. Relation of Childhood Gastrointestinal Disorders to Autism: Nested Case Control Study Using Data from the UK General Practice Research Database , British Medical Journal . 2002 Aug; 325: 419-21
+- Taylor B, et al. Measles, Mumps, and Rubella Vaccination and Bowel Problems or Developmental Regression in Children with Autism: Population Study , British Medical Journal . 2002 Feb; 324(7334): 393-6
+- Fombonne E, et al. No Evidence for a New Variant of Measles-Mumps-Rubella-Induced Autism , Pediatrics . 2001 Oct; 108(4): e58
+- Barlow WE, Davis RL, Glasser JW, Rhodes PH, Thompson RS, et al. The risk of seizures after receipt of whole-cell pertussis or measles, mumps, and rubella vaccine . N Engl J Med . 2001 Aug 30;345(9):656-61.
+- Farrington CP, et al. MMR and autism: further evidence against a causal association , Vaccine . 2001; Jun 14; 19(27): 3632-5
+- Miller E, Waight P, Farrington CP, et al. Idiopathic thrombocytopenic purpura and MMR vaccine . Arch Dis Child. 2001 Mar; 84(3): 227–229.
+- Davis RL, et al. Measles-Mumps-Rubella and Other Measles-Containing Vaccines Do Not Increase the Risk for Inflammatory Bowel Disease: A Case-Control Study from the Vaccine Safety Datalink Project , Archives of Pediatric and Adolescent Medicine . 2001 Mar;155(3): 354-9
+- Dales L et al. Time Trends in Autism and in MMR Immunization Coverage in California , Journal of the American Medical Association . 2001 Mar; 285(9): 1183-5
+- Kaye JA, et al. Mumps, Measles, and Rubella Vaccine and the Incidence of Autism Recorded by General Practitioners: A Time Trend Analysis , British Medical Journal . 2001 Feb; 322:460-63
+- Bitnun A, Shannon P, Durward A, Rota PA, Bellini WJ, et al. Measles inclusion-body encephalitis caused by the vaccine strain of measles virus . Clin Infect Dis . 1999 Oct;29(4):855-61.
+- Taylor B, et al. Autism and Measles, Mumps, and Rubella Vaccine: No Epidemiological Evidence for a Causal Association , Lancet . 1999; 353(9169): 2026-9
+- DeStefano F, Chen RT. Negative association between MMR and autism . [Commentary] Lancet. 1999;353(9169):1987–1988.
+- Peltola H, et al . No Evidence for Measles, Mumps, and Rubella Vaccine-Associated Inflammatory Bowel Disease or Autism in a 14-year Prospective Study , Lancet . 1998; 351:1327-8
+- Black S, Shinefield H, Ray P, Lewis E, Chen R, et al. Risk of hospitalization because of aseptic meningitis after measles-mumps-rubella vaccination in one- to two-year-old children: An analysis of the Vaccine Safety Datalink (VSD) Project . Pediatr Infect Dis J . 1997 May;16(5):500-3.
+- Beeler J, Varricchio F, Wise R. Thrombocytopenia after immunization with measles vaccines: Review of the Vaccine Adverse Events Reporting System (1990 to 1994) . Pediatr Infect Dis J. 1996;15:88-90.
+- Baram TZ, Gonzalez-Gomez I, Xie ZD, et al. Subacute sclerosing panencephalitis in an infant: diagnostic role of viral genome analysis . Ann Neurol . 1994;36:103-108.
+- Mustafa MM, Weitman SD, Winick NJ, et al. Subacute measles encephalitis in the young immunocompromised host: Report of two cases diagnosed by polymerase chain reaction and treated with ribavirin and review of the literature . Clin Infect Dis. 1993 May;16(5):654-60.
+- Polk BF, Modlin JF, White JA, DeGirolami PC. A controlled comparison of joint reactions among women receiving one of two rubella vaccines . Am J Epidemiol. 1982 Jan;115(1):19-25.
+- Marshall WC, Peckham CS, Darby CP, Dudgeon JA, Hawkins GT . Further studies with rubella vaccines in adults and children . Practitioner. 1971 Nov;207(241):632-8.
+- Dudgeon JA, Marshall WC, Peckham CS. Rubella vaccine trials in adults and children. Comparison of three attenuated vaccines . Am J Dis Child. 1969 Aug;118(2):237-43.
+- Cooper LZ, Ziring PR, Weiss HJ, Matters BA, Krugman S. Transient arthritis after rubella vaccination . Am J Dis Child . 1969;118:218-225.

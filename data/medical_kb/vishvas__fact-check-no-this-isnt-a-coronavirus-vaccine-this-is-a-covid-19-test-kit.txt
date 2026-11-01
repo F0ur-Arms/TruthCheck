@@ -1,0 +1,36 @@
+SOURCE: Vishvas News — Health Fact Check
+TITLE: Fact Check: No, this isn’t a coronavirus vaccine, this is a COVID-19 test kit
+URL: https://www.vishvasnews.com/english/health/fact-check-no-this-isnt-a-coronavirus-vaccine-this-is-a-covid-19-test-kit/
+────────────────────────────────────────────────────────────
+
+A viral post on social media claims that a new vaccine to cure coronavirus has been developed by US Scientists. The post further claims that US President Donald Trump has announced that Roche Medical Company will launch the vaccine this Sunday. Vishvas News investigated and found that the viral post is fake. The viral image isn’t a coronavirus vaccine, it is actually a COVID-19 test kit.
+Claim
+A viral post on Facebook shared by a user named Bachcha Babu Yadav reads: A new vaccine to cure coronavirus has been developed by US Scientists. US President Donald Trump has announced that Roche Medical Company will launch the vaccine this Sunday . The archived version of the post can be checked here .
+Investigation
+Vishvas News started its investigation by performing the Google Reverse Image Search of the image. The search revealed that the product shown in the image is not a vaccine but a test kit for the novel coronavirus. We landed on the website of Sugentech which is the manufacturer of the product shown in the viral image.
+The product description shows that “ SGTi-flex COVID-19 IgM/IgG is a gold nanoparticle-based immunochromatographic test kit for qualitative determination of COVID-19’s IgM and IgG antibodies in human whole blood (finger prick or venous), serum or plasma. The kits are accurate and easy to use and results can be observed with the naked eye within 10 minutes.”
+When we checked the ‘ About us ‘ section of the ‘Sugentech’ page we found that Sugentech, Inc. is a Korea-based manufacturer that develops commercialized a variety of in-vitro diagnostic products.
+Vishvas News spoke to Dr. Nikhil Modi who is a Pulmonologist at Indraprastha Apollo Hospital, New Delhi. We showed the viral image to him, he said “This is a kit developed by a Korean company for testing coronavirus. This isn’t a vaccine. There is no vaccine for coronavirus so far.”
+Indian Council of Medical Research (ICMR) has also recommended test kits for commercial use.
+As per Centers for Disease Control and Prevention , there is currently no vaccine to prevent 2019-nCoV infection. However, preventive actions can be taken to help prevent the spread of respiratory viruses.
+Vishvas News has debunked similar viral posts that had spread misinformation about coronavirus. These posts can be checked in Health Fact Check page .
+Disclaimer: The #CoronavirusFacts database records fact-checks published since the beginning of the COVID-19 outbreak. The pandemic and its consequences are constantly evolving and data that was accurate weeks or even days ago might have changed. Remember to check the date when the fact-check you are reading was published before sharing it.
+Conclusion: No, the image in the viral post isn’t a coronavirus vaccine. It is a COVID-19 test kit.
+- Claim Review : A new vaccine to cure coronavirus has been developed by US Scientists
+- Claimed By : FB user: Bachcha Babu Yadav
+- Fact Check : False
+- Fact Check By
+- Urvashi Kapoor
+- urvvashii
+- Re-Checked by
+- Abhishek Parashar
+- abhishekiimc
+Know the truth! If you have any doubts about any information or a rumor, do let us know!
+Knowing the truth is your right. If you feel any information is doubtful and it can impact the society or nation, send it to us by any of the sources mentioned below.
+- WhatsApp 9205270923
+- Email-Id contact@vishvasnews.com
+Related Fact Check
+- Fact Check: Can Limestone Cure Breast Lumps? Know From Experts
+- Fact Check: Claim That Eating Turmeric, Lemon, Basil, And Neem Cures Stage-4 Cancer Is False
+- Fact Check: The Claim That Drinking Fenugreek, Clove, Cardamom, And Cinnamon Mixed In Water Cures Last-Stage Cancer Is False
+Contribute to Vishwas News

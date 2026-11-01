@@ -1,0 +1,33 @@
+SOURCE: CDC
+TITLE: 2000-2009 Highlights in the History of Avian Influenza (Bird Flu) Timeline
+URL: https://www.cdc.gov/bird-flu/avian-timeline/2000-2009.html
+────────────────────────────────────────────────────────────
+
+What to know
+- The below timeline gives a summary of significant HPAI and LPAI outbreaks in birds, infections in people, and events from 2000-2009.
+2000-2009
+- Although there are reports of HPAI virus outbreaks in South America during the early 1900s, it was not until 2002 that the first HPAI bird flu virus was detected on this continent. In May 2002, an LPAI H7N3 virus was isolated from commercial poultry in Chile. In June, an HPAI virus of the same subtype was obtained from the same flock 1 .
+- Also in 2002, one human case of LPAI H7N2 virus infection was identified in the United States 2 .
+- February 2003, HPAI H7N7 virus caused outbreaks in layer farms in the Netherlands, affecting around 28% of the total national chicken population. This outbreak in poultry was also associated with 89 human cases, 1 of which with fatal outcomes 3 4 .
+- In December 2003, HPAI H5N1 viruses re-emerged in Asia in wild birds, causing outbreaks in poultry and two fatal human infections in Hong Kong 5 , 6 , 7 .
+- Between February and May 2004, an outbreak of bird flu due to an H7N3 virus occurred among poultry in Canada. Within days, the virus causing this outbreak had changed from low to high pathogenicity. There were two human cases identified, both with very mild illness 8 9 : One case was infected with a LPAI virus, and one case was infected with a HPAI H7N3 virus 10 11 .
+- Additionally, another human case of HPAI H7N2 virus infection was identified, but findings were not published until 2012 12 13 .
+- Reports of detections in poultry followed from Japan, Hong Kong, Thailand, Cambodia, Lao PDR, Indonesia, China, Malaysia from January-August 2004 with sporadic human infections of varying severity reported 14 .
+- In 2004, the United States experienced a poultry outbreak of a North American lineage HPAI H5N2 virus that was restricted to one farm.
+- This outbreak was reported in a flock of 7,000 chickens and was the first outbreak of HPAI virus in the United States in 20 years 15 .
+- From 2003-2005, wild birds spread HPAI H5N1 virus to poultry in Africa, the Middle East and Europe, and the HPAI H5N1 virus’s HA surface protein diversified into numerous clades (related groups), and viruses reassorted into multiple genetic lineages (genotypes) that were detected around the world 3 14 .
+- In the spring of 2009, a novel influenza A H1N1 virus emerged in humans. It was detected first in the United States and spread quickly across the United States and the world. This new H1N1 virus contained a unique combination of swine, avian and human influenza genes not previously identified in animals or people. This virus was designated as influenza A (H1N1)pdm09 virus 16 .
+- Rojas H, Moreira R, Avalos P, Capua I, Marangon S. Avian influenza in poultry in Chile. Vet Rec . 2002;151(6):188.
+- Trebuh P, Adija A, Edwards L, et al. Human infection with avian influenza A(H7N2) virus-virginia, 2002. Influenza and Other Respiratory Viruses . 2018;12(4):529-532. doi:10.1111/irv.12546
+- Swayne DE. Animal Influenza . 2nd ed. Hoboken, NJ: Wiley-Blackwell; 2016.
+- Koopmans M, Wilbrink B, Conyn M, et al. Transmission of H7N7 avian influenza A virus to human beings during a large outbreak in commercial poultry farms in the Netherlands. The Lancet . 2004;363(9409):587-593. doi:10.1016/s0140-6736(04)15589-x
+- Sims LD, Domenech J, Benigno C, et al. Origin and evolution of highly pathogenic H5N1 avian influenza in Asia. Veterinary Record . 2005;157(6):159-164. doi:10.1136/vr.157.6.159
+- Peiris JSM, Yu WC, Leung CW, et al. Re-emergence of fatal human influenza a subtype H5N1 disease. The Lancet . 2004;363(9409):617-619. doi:10.1016/s0140-6736(04)15595-5
+- Tweed SA, Skowronski DM, David ST, et al. Human illness from avian influenza H7N3, British Columbia. Emerging Infectious Diseases . 2004;10(12):2196-2199. doi:10.3201/eid1012.040961
+- Hirst M, Astell CR, Griffith M, et al. Novel avian influenza H7N3 strain outbreak, British Columbia. Emerg Infect Dis. 2004;10(12):2192-2195. doi:10.3201/eid1012.040743
+- Skowronski DM, Tweed SA, Petric M, Booth T, Li Y, Tam T. Human illness and isolation of low-pathogenicity avian influenza virus of the H7N3 subtype in British Columbia, Canada. J Infect Dis. 2006;193(6):899-901. doi:10.1086/500219
+- Ostrowsky B, Huang A, Terry W, et al. Low pathogenic avian influenza A (H7N2) virus infection in immunocompromised adult, New York, USA, 2003. Emerg Infect Dis. 2012;18(7):1128-1131. doi:10.3201/eid1807.111913
+- Ostrowsky B, Huang A, Terry W, et al. Low Pathogenic Avian Influenza A (H7N2) Virus Infection in Immunocompromised Adult, New York, USA, 2003. Emerging Infectious Diseases. 2012;18(7):1128-1131. doi:10.3201/eid1807.111913
+- World Health Organization WHO, World Organization for Animal Health OIE, Food and Agriculture Organization FAO. H5N1 highly pathogenic avian influenza: Timeline of major events. December 2014. https://cdn.who.int/media/docs/default-source/influenza/avian-and-other-zoonotic-influenza/h5n1_avian_influenza_update20141204.pdf
+- Lee CW, Swayne DE, Linares JA, Senne DA, Suarez DL. H5N2 avian influenza outbreak in Texas in 2004: the first highly pathogenic strain in the United States in 20 years. J Virol . 2005;79(17):11412-11421. doi:10.1128/JVI.79.17.11412-11421.2005
+- Neumann G, Noda T, Kawaoka Y. Emergence and pandemic potential of swine-origin H1N1 influenza virus. Nature . 2009;459(7249):931-939. doi:10.1038/nature08157

@@ -1,0 +1,24 @@
+SOURCE: CDC
+TITLE: Guillain-Barré Syndrome (GBS) and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/guillain-barre.html
+────────────────────────────────────────────────────────────
+
+Key points
+Guillain-Barré syndrome (GBS) is a rare disorder where the body’s immune system damages nerve. To study whether a new vaccine might be causing GBS, CDC compares the usual rate of GBS to the observed rate of GBS in vaccinated people.
+Overview
+Guillain-Barré syndrome (GBS) is a rare disorder where the body’s immune system damages nerve. The damage to the nerves causes muscle weakness and sometimes paralysis. While its cause is not fully understood, the syndrome often follows infection with a virus or bacteria. Most people fully recover from GBS, but some have permanent nerve damage.
+GBS is rare
+Each year in the United States, an estimated 3,000 to 6,000 people develop GBS.
+To study whether a new vaccine might be causing GBS, CDC compares the usual rate of GBS to the observed rate of GBS in vaccinated people. This helps to determine whether a vaccine could be causing more cases.
+What the research shows
+Influenza (flu) vaccine
+In response to a potential pandemic strain of a flu virus in 1976, there was a national campaign for people to get the swine flu vaccination. Over 45 million people were vaccinated and there were increased reports of GBS following vaccination. Those who received the 1976 swine flu vaccine had a slight increased risk for developing GBS of approximately one additional case of GBS for every 100,000 people who got the swine flu vaccine. Scientists have several theories about the cause, but the exact reason for this link remains unknown.
+CDC monitors GBS cases during each flu season. From data collected, the association between seasonal flu vaccine and GBS has been found to vary from season to season. When there has been an increased risk, it has consistently been in the range of 1-2 additional GBS cases per million flu vaccine doses administered.
+Additional studies have been conducted on the risk of GBS following flu vaccination. Results of these studies suggest that it is more likely that a person will get GBS after getting the flu than after vaccination. It is important to keep in mind flu infection can potentially cause severe illness and death. The best way to prevent flu infection and its complications is to get the flu vaccine.
+COVID-19 vaccine
+CDC monitors multiple vaccine safety systems to determine if GBS is occurring more among those who are vaccinated than the general rate of GBS in the population.
+Recent CDC studies based on data from the Vaccine Safety Datalink (VSD) and the Vaccine Adverse Event Reporting System (VAERS) have found evidence suggesting an increased risk of GBS among adults 18 years and older after J&J/Janssen COVID-19 vaccination but not after Pfizer-BioNTech or Moderna COVID-19 vaccination. CDC will continue to monitor for and evaluate reports of GBS occurring after COVID-19 vaccination and will share more information as it becomes available.
+What CDC is doing
+Fact
+CDC and FDA closely monitor the safety of all vaccines.
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.

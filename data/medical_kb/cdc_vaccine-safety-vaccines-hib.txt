@@ -1,0 +1,42 @@
+SOURCE: CDC
+TITLE: Haemophilus influenzae type b (Hib) Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/hib.html
+────────────────────────────────────────────────────────────
+
+Key points
+Available vaccines & manufacturer package inserts
+Single antigen Hib vaccines
+Only contain Hib vaccine.
+Combination vaccines with Hib
+Contain Hib vaccine plus other vaccines, combined into a single dose.
+Who should & should not get the vaccine
+CDC recommends Hib vaccination for all children younger than 5 years old. Children need multiple (3 or 4) shots of a Hib vaccine. Older children and adults usually do not need a Hib vaccine. However, CDC recommends Hib vaccination for people with certain medical conditions.
+Common side effects
+When to call 911
+Severe allergic reactions following vaccination are rare, but can be life threatening. If someone experiences symptoms of a severe allergic reaction, which can include hives, swelling of the face and throat, difficulty breathing, a fast heartbeat, dizziness, and weakness.
+Hib vaccine is safe and effective at preventing Hib disease. Vaccines, like any medicine, can have side effects. The most common side effects are usually mild and go away on their own.
+Report possible adverse events to VAERS‎
+The Vaccine Adverse Event Reporting System (VAERS) is an early warning system, co-managed by CDC and FDA, that monitors for potential vaccine safety problems. Healthcare providers and vaccine manufacturers are required by law to report certain adverse events (any side effect or health problem after vaccination that is concerning to you, even if you are not sure if the vaccine caused the event) following vaccination to VAERS; patients and caregivers can also submit reports.
+A closer look at the safety data
+Findings from vaccine safety monitoring systems and scientific studies have shown that Hib vaccines have a favorable safety profile—the body of scientific evidence overwhelmingly supports their safety.
+Hib vaccine recall in 2007
+In 2007, Merck & Company, Inc. voluntarily recalled 1.2 million doses of Haemophilus influenzae type b (Hib) vaccines due to concerns about potential contamination with bacteria called B. cereus. The recall was a precaution, and after careful review, no evidence of B. cereus infection was found in recipients of recalled Hib vaccines.
+Recall summary
+In 2010, CDC published a report summarizing the findings of a safety assessment after the 2007 Hib vaccine recall. The report, Summary of Safety Assessment of Recalled Haemophilus influenzae type be (Hib) conjugate vaccines–United States, 2007-2008 , was a collaborative effort involving the Food and Drug Administration (FDA) and CDC vaccine and laboratory experts.
+In response to concerns about potential contamination, the Vaccine Adverse Event Reporting System (VAERS) and the Epidemic Information Exchange (Epi-X) were used to rapidly conduct post-recall safety surveillance for vaccine associated B cereus infections. Based on a review of reports to VAERS and Epi-X, this assessment found no evidence of B. cereus infection in recipients of recalled Hib vaccines.
+Findings
+How CDC monitors vaccine safety
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- Moro, P. L., Jankosky, C., Menschik, D., Lewis, P., Duffy, J., Stewart, B., & Shimabukuro, T. T. (2015). Adverse events following Haemophilus influenzae type b vaccines in the Vaccine Adverse Event Reporting System, 1990-2013. The Journal of pediatrics , 166 (4), 992–997. https://doi.org/10.1016/j.jpeds.2014.12.014
+- Nelson, J. C., Yu, O., Dominguez-Islas, C. P., Cook, A. J., Peterson, D., Greene, S. K., Yih, W. K., Daley, M. F., Jacobsen, S. J., Klein, N. P., Weintraub, E. S., Broder, K. R., & Jackson, L. A. (2013). Adapting group sequential methods to observational postlicensure vaccine safety surveillance: results of a pentavalent combination DTaP-IPV-Hib vaccine safety study. American journal of epidemiology , 177 (2), 131–141. https://doi.org/10.1093/aje/kws317
+- Fritzell B, Plotkin S. Efficacy and safety of a Haemophilus influenzae type b capsular polysaccharide-tetanus protein conjugate vaccine . J Pediatr. 1992 Sep;121(3):355-62.
+- Decker MD, Edwards KM, Bradley R, Palmer P. Comparative trial in infants of four conjugate Haemophilus influenzae type b vaccines . J Pediatr. 1992 Feb;120(2 Pt 1):184-9.
+- Holmes SJ, Fritzell B, Guito KP, Esbenshade JF, Blatter MM, Reisinger KS, et al. Immunogenicity of Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccine in infants . Am J Dis Child. 1993 Aug;147(8):832-6.
+- Davis RL, Black S, Shinefield H, Mahoney L, Zavitkovsky A, Lewis E, et al. Post-marketing evaluation of the short term safety of COMVAX . Vaccine. 2004 Jan 2;22(3-4):536-43.
+- Black S, Greenberg DP. A combined diphtheria, tetanus, five-component acellular pertussis, poliovirus, and Haemophilus influenzae type b vaccine . Expert Rev Vaccines 2005 Dec;4(6):793-805.
+- Guerra FA, Blatter MM, Greenberg DP, Pichichero M, Noriega FR. Pentacel Study Group. Safety and immunogenicity of a pentavalent vaccine compared with separate administration of licensed equivalent vaccines in US infants and toddlers and persistence of antibodies before a preschool booster dose: A randomized, clinical trial . Pediatrics. 2009 Jan;123(1):301-12.
+- CDC. Prevention and Control of Haemophilus influenzae type b Disease: Recommendations of the Advisory Committee on Immunization Practices (ACIP) . MMWR. 2014;63(No. RR-1):1-14.
+- Rinderknecht S, Bryant KA, Nolan T, Pavia-Ruz N, Doniz CA, Weber MA, et al. The safety profile of Haemophilus influenzae type b- Neisseria meningitidis serogroups C and Y tetanus toxoid conjugate vaccine (HibMenCY) . Hum Vaccin Immunother. 2012 Mar;8(3):304-11.
+- Nelson JC, Yu O, Dominguez-Islas CP, Cook AJ, Peterson D, Greene SK. Adapting group sequential methods to observational postlicensure vaccine safety surveillance: Results of a pentavalent combination DTaP-IPV-Hib vaccine safety study . Am J Epidemiol. 2013 Jan 15;177(2):131-41.
+- Moro PL, Jankosky C, Menschik D, Lewis P, Duffy J, Stewart B, et al. Adverse events following Haemophilus influenzae type b (Hib) vaccines in the Vaccine Adverse Event Reporting System (VAERS), 1990-2013 . J Pediatr. 2015 Apr;166(4):992-7.
+- Oliver SE, Moore KL. Licensure of a Diphtheria and Tetanus Toxoids and Acellular Pertussis, Inactivated Poliovirus, Haemophilus influenzae Type b Conjugate, and Hepatitis B Vaccine, and Guidance for Use in Infants . MMWR Morb Mortal Wkly Rep . 2020 Feb 7;69:136-139.
