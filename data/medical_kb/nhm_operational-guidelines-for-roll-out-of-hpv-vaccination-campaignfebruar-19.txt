@@ -1,0 +1,47 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 19
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Recording Net Utilization (Cold Chain Point/Last Storage Point) At the last storage point or cold chain point, net utilization of HPV vaccines is recorded to link issued doses with session-level use. This ensures that consumption data aligns with issues and supports monitoring of wastage and coverage. Under “Stock Management,” the cold chain handler selects “Issue / Net Utilization,” then chooses “Adolescent Vaccines” and HPVV Gardasil. The relevant batch issued to the session site is selected, date of actual transaction is entered, net utilization quantity is recorded with material status (e.g. “VVM Usable”), and the entry is saved and submitted after review.
+In this way, the eVIN module for the HPV campaign forms a continuous digital chain that starts from stock visibility, moves through indenting and shipment, and ends with documented receipt and utilization at the last cold chain point, with each step supported by the referenced screenshots.
+1. View Stock (All Level Stores/Facilities)
+1.	 In Stock Management, click “Closing Stock”. (as shown in Fig. 23)
+2. Under the “Adolescent Vaccines” tab, to view the total stock of HPVV Gardasil. (as shown in Fig. 24) 3. Click on the vaccine name “HPVV Gardasil” to view the stock details such as Available Stock, Allocated Stock, and In Transit Stock, followed by batch-wise stock details & quantity. (as shown in Fig. 25)
+2. Creation of Indent (Issuing Store/Facility)
+1. Go to the “Indent” tab and click “New Indent”. (as shown in Fig. 26)
+2.	 Click “Issue”. (as shown in Fig. 27)
+3. From the list, choose the appropriate receiving facility name. (as shown in Fig. 28) 4. Using filter option or navigation, select the vaccine name. (as shown in Fig. 29) 5. Enter the required number of doses to confirm for the facility. Click “Save” to confirm. (as shown in Fig.
+6.	 Click “Next” to proceed. (as shown in Fig. 31)
+7. Enter the Estimated date of arrival for the vaccine, add the challan number, choose from Order tags as “Routine/Critical” based on manner of order. Enter Comments in “Comments” section (optional) & Click “Review” to check the details. (as shown in Fig. 32)
+8.	 Click “Save” to confirm the entry. (as shown in Fig. 33)
+9. Click “Drafts” to review and finalize the process. (as shown in Fig. 34)
+10.	Click “Submit” (as shown in Fig. 35)
+12.	The Indent will then be placed in “Confirmed” Status
+3. Allocate Vaccine Batch (Issuing Store/Facility)
+1. Go to the “Indent” tab and click “View Indent”. (as shown in Fig. 37) 2. From the drop-down menu (on upper left side of screen) select “Issue”. (as shown in Fig. 38) 3. Choose the created Indent with “Confirmed” status from the list—for example, in this case, the indent was created for Chimbel PHC. (as shown in Fig. 39) Fig. 37 Fig. 38 Fig. 39 4. Click on the three-bar menu (on lower right side of screen). (as shown in Fig. 40)
+5.	 Select "Allocate Stock." (as shown in Fig. 41)
+6. Enter the number of vaccine doses to be allocated from the batch(s). & Click "Save" to confirm (as shown in Fig. 42)
+7.	 Click “Save”. (as shown in Fig. 43)
+8. Verify the doses allocated are correct. & click “Review”. (as shown in Fig. 44)
+9.	 Click “Submit”. (as shown in Fig. 45)
+4. Ready for dispatch & Ship Indent (Issuing Store/Facility)
+1. Select the Indent with “Confirmed” status and allocation done using above steps, click on the three- bar menu (on lower right side of screen) and select “Ready for dispatch” (as shown in Fig. 46) 2. Enter relevant comments (optional) & click on “Ready for dispatch”. (as shown in Fig. 47) 3. Click “YES” to update the Indent status as “Ready for dispatch”. (as shown in Fig. 48) 4. Select the Indent with “Ready to Dispatch” status as done using above steps, click on the three-bar menu (on lower right side of screen). (as shown in Fig. 49)
+5.	 Select “Ship indent”. (as shown in Fig. 50)
+5. Fulfil Indent (Receiving Store/Facility)
+1. The receiving store handler need to click on “Indent” tab. & click “View indents”. (as shown in Fig. 53) 2. Ensure “Receipt” is selected from the drop-down menu (on upper left side of screen). & Select the Indent with “Shipped” status, which need to be fulfilled. (as shown in Fig. 54) 3. Review the Indent, and click on three-bar menu (on lower right side of screen). (as shown in Fig. 55)
+4.	 Click “Fulfil Indent”. (as shown in Fig. 56)
+6. Net Utilization (Cold Chain Point/Last storage point)
+1. Under “Stock Management”, click “Issue / Net Utilization”. (as shown in Fig.60)
+2.	 Click “ADOLESCENT VACCINES” & select “HPVV Gardasil”. (as shown in Fig.61)
+PRE HPV VACCINATION CAMPAIGN
+The preparatory activities for U-WIN for the HPV vaccination campaign, to be carried out by Programme Managers and Vaccinators/ANMs are as follows: a. Programme Managers - The UIP program managers at all levels (national, state, district, sub-district, and planning units) will act as Programme managers for HPV vaccination and also as users for U-WIN administrator module. Training of Health Facility Manager will be organized on the following aspects: Finalize list of Vaccinators: Update the existing data of registered vaccinators, include any additional or newly hired vaccinators, and register all available vaccinators on U-WIN for the HPV vaccination. Ensure to conduct training of vaccinators on the U-WIN Vaccinator Module to enhance their skills in using the app for: Starting and ending the session, vaccinating registered beneficiaries, registering and vaccinating walk- in beneficiaries, and providing digital acknowledgment.
+Finalize list of Session Sites: Create HPV vaccination session sites in U-WIN at Planning Unit/Health Facility level which is a cold chain point (CCP).
+Prepare due list : Supervise the preparation of due list for 14-year-old girls based on the Head Count Survey capturing the details - name, DOB, photo ID type & number, and parent/guardian mobile number - in U-WIN.
+Microplanning for the HPV vaccination drive: Prepare micro-plans assigning vaccinators, mobilizers, and other resources using U-WIN data.
+Monitoring and Reporting: Monitor the HPV vaccination drive using the Reports Module of U-WIN and utilize these digital dashboards to prepare presentations and updates. b. Vaccinators – Pre-registration of the eligible beneficiaries.
+Populate the due list of eligible girls for registration in U-WIN.
+DURING HPV VACCINATION CAMPAIGN
+During the HPV vaccination campaign, the following activities will be performed on U-WIN by Program Managers, Vaccinators, and Parents/Guardians: a. Program Managers - Health Facility Manager will create, publish, and manage HPV vaccination sessions in U-WIN during the HPV vaccination campaign.
+Plan session dates, times, and sites, and assign vaccinators and mobilizers.
+Monitor progress on session loads, due lists, and planned versus held sessions through the U-WIN Reports Module.

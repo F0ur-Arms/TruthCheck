@@ -1,0 +1,44 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Public Health Guidelines for Floods Events, part 5
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769333008_95276575411596609841.pdf
+────────────────────────────────────────────────────────────
+
+6.1.12 Toilets and Hygiene
+Remind patients and staff of the importance of hand washing with soap after every toilet use. If hand-washing facilities have become dysfunctional, provide temporary alternatives (such as a basin, soap and a jug of water and/or hand rub). In an emergency situation, it is particularly important to clean toilets regularly, preferably with detergent and/or disinfectant. Provide gloves for cleaners.
+Prevent toilets from becoming a breeding place for disease-transmitting organisms (such as mosquitoes, flies and rats) – no puddles or other habitats for mosquitoes and other animals should be present in toilet rooms.
+Provide emergency lighting to ensure the safe use of toilets during power outages.
+6.1.13 Dysfunctional or Insufficient Numbers of Toilets
+Where toilets in health care facilities are dysfunctional or insufficient in number, open defecation in the surroundings of hospitals and health care centres must be avoided. In order to prevent open defecation, the following measures can be taken.
+In Urban Settings If the sewers or water pipes are broken or unusable but the toilet bowls are still functional, cover them with sealable plastic bags. After each use, add disinfectant or garden mould to decrease infectivity and odour. Store full bags in tight containers until a waste collection system has been re-established.
+Where the toilet bowls have become unusable, provide chemical toilets if financially and logistically viable (including transport and regular emptying/replacement). The least preferred alternative is the use of (camping-)bucket toilets, but this can be encouraged to prevent open defecation.
+In Rural Settings Construct (additional) latrines in the surroundings of the health care facility, but at least 30 metres away from any water source and 10 metres away from any water storage tank or treatment facility. If latrines cannot be built, defecation fields provide an alternative.
+Where toilets are functional but insufficient in numbers and additional sanitation facilities are provided outside the health care facility, patients with restricted mobility (including pregnant women, people with physical disabilities and elderly people) should be given priority access to the functioning indoor toilets.
+Where additional or alternative sanitation facilities are built or used, the same considerations regarding functioning toilets for patients with restricted mobility apply.
+7. Vector Borne Diseases: Emergency Vector Control Response
+Plan Floods due to heavy rains or natural disaster needs preparedness for emergency vector control response in the given area. The understanding of duration of floods and area affected is essential to plan emergency vector control response during and after floods. Rapid and appropriate precautionary vector-control measures applied in a post-floods settings can prevent and mitigate vector borne diseases.
+1. Heavy rains and flood wash away aquatic (larval) stages of vectors.
+2. The adult vector population from the peripheral areas or any mother foci, if existing may help in building vector population again in those areas 3. After floods, water stagnations in the low lying areas may become prolific breeding sites for vector breeding after 15 days to 1 month for anopheline and culicine breeding 4. However, mother foci for dengue vector (larval) may exist indoors in the dengue endemic areas 5. Sandfly population may increase after the water receded and lot of moisture in the soil is available with organic matter.
+7.1 Emergency Preparedness for Vector Control Response
+1. Re-habilitation Camps
+2. Possibilities of circulating vector-borne viruses.
+3. Close proximity of large population
+4. Optimal Climatic Factors
+5. Presence of open water containers
+6. Possibility of adult population of vectors for Malaria / Dengue
+7. Creation of large breeding places
+1. IEC for minimizing exposure to existing adult vectors
+3. Adult vector surveillance in rehabilitation centres / shelter homes
+4. Mapping of potential breeding sites
+C. Short Term Vector Control Response (After Floods): Heavy rains in dengue prone areas usually flushes Aedes larvae from outdoor breeding sites. However, many indoor receptacles may retain Aedes eggs and larvae. This may increase in adult Aedes population within 7–10 days. There is a probability that vector may transmit the disease, if virus is in circulation.
+Stagnated flood waters may also result in breeding sites for Anopheles vector. Mosquito population build up from these sites may take 2–4 weeks. In case parasitic reservoir is available, malaria case may be reported after 4–6 weeks.
+In case of JE and Kala-azar, vector population build up and presence of pathogen reservoir is essential to determine the onset of new clinical cases. Regular vector surveillance and control is required in the affected areas.
+The following actions are required: Intensify vector surveillance (both larval & adult) in high risk areas Larval control in localized area near human rehabilitation sites/camps Ensure sustainable vector control to prevent transmission in peripheral areas surrounding flood areas, in case known endemic areas for any vector borne disease Community awareness to cover water storage containers with lids to prevent vector breeding Use of Indoor residual spray (IRS) should be based on disease incidence in last 3-5 years Use of Space spray in areas reporting confirmed malaria / dengue cases.
+8. Rodent-Borne Diseases
+There is some concern about diseases transmitted by rodents, which could increase during or after heavy rainfall and flooding as a result of altered patterns of contact. Leptospirosis is an example of such diseases.
+The following advice should be given to people during floods and when returning home: Keep food in sealed cupboards and/or containers out of the reach of rodents Dispose waste in rubbish bins with covers/lids Ensure that all entrances and windows are suitably sealed to prevent entry of rodents into the property.
+8.1 Snakebites
+There is an increased risk of snakebite as venomous snakes will be washed from their normal habitats and carried in flood waters into new areas. Since both people and snakes will seek drier ground there is a greater chance of contact.
+Snake bites during floods are common. Bites by venomous snakes can cause severe consequences.
+8.1.1 Victims of Snake Bites May Suffer Any or all of the Following: Local envenoming, confined to the part of the body that has been bitten – these effects may be debilitating, sometimes permanently; Systemic envenoming, involving organs and tissues away from the part of the body that has been bitten – these effects may be life-threatening and debilitating, sometimes permanently; Effects of anxiety prompted by the frightening experience of being bitten and by exaggerated beliefs about the potency and speed of action of snake venoms – these symptoms can be misleading for medical personnel; Effects of first aid and other pre-hospital treatments that may cause misleading clinical features these may be debilitating and, rarely, even life-threatening.
+8.1.2 Stages in Management of Snake Bites
+Apply first aid reassure the victim, who may be very anxious; Immobilize the whole of the patient’s body by lying him/her down in a comfortable and safe position and, especially, immobilize the bitten limb with a splint or sling – any movement or muscular contraction increases absorption of venom into the bloodstream and lymphatics; Consider pressure immobilization or a pressure pad if the necessary equipment and skills are available, unless an elapid bite can be excluded; Avoid any interference with the bite wound (incisions, rubbing, vigorous cleaning, massage or application of herbs or chemicals) as this may introduce infection, increase absorption of the venom and increase local bleeding; Release tight bands, bandages and ligatures – ideally, these should not be released until the patient is under medical care in hospital, resuscitation facilities are available and antivenom treatment has been started Transport the patient to hospital Undertake rapid clinical assessment and resuscitation Perform detailed clinical assessment and species diagnosis Perform investigations and laboratory tests Administer antivenom treatment Observe the response to antivenom Decide whether further dose(s) of antivenom are needed Administer supportive/ancillary treatment Treat the bitten part of the body Begin rehabilitation Treat chronic complications A knowledge of which species of venomous snakes present the greatest risks to human populations in any particular region or country is essential to addressing snake bite problems.

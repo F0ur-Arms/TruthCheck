@@ -1,0 +1,37 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: FAQ on Immunization for Health Workers English, part 5
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/FAQ_on_Immunization_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Following precautions must be taken when more than one vaccine is to be administered to a child: Two or more vaccines should not be mixed in the same syringe. If two injectable vaccines are given on the same site, they should be given 2.5 cm (1 inch) apart.
+From public health perspective, administration of more than one vaccine as per the schedule at the same time reduces the number of visits to the health facilities, thereby reducing drop outs. Also, giving multiple vaccinations during the same visit does not result in a higher incidence of adverse events.
+Vaccine Handling, Administration, and Injection Safety What should be the interval between administrations of two doses of same vaccine as per the National Immunization Schedule?
+Why are vaccines in NIS administered at specific sites only?
+Why are some vaccines now being administered in thigh instead of buttocks?
+There should be minimum 4 weeks of interval between administration of two doses of same multi-dose vaccine (like, Pentavalent and Rotavirus vaccines), except for PCV which is 2 months and JE vaccine which is 3 months. For booster doses, the recommended interval can be 6 months to more than one year after the primary doses.
+Decreasing the interval between two doses of multi-dose vaccine may interfere with the antibody response and protection. Longer than normal recommended intervals between two subsequent doses of multi-dose vaccines normally does not impair the immunologic response. Therefore, interruption in the recommended schedule does not require a re-start from beginning.
+Each vaccine is normally administered at the same, specific site on the body to maintain uniformity and to help determine vaccination history by asking from beneficiary or caretaker (in case immunization card is not available or lost). Specific sites of administration also help parents and caretakers recall previous vaccinations during the follow-up visits and household surveys.
+Mid-thigh is the correct site for administering injectable vaccines in young children, especially up to five years of age. This site is recommended under UIP and therefore should be followed uniformly.
+What should be done if child spits out or vomits immediately after taking vaccine orally?
+During 6th, 10th, 14th weeks and 9 months when more than one vaccine is to be administered on the same day, is there a definite sequence in which vaccines need to be given?
+No. All vaccines supplied for immunization programme undergo strict quality checks.
+There can be instances that colour of vaccine is slightly different in different vials, but this in no way affects the efficacy of vaccine.
+If a child vomits immediately after taking vaccine orally, like OPV and rotavirus vaccines, then the vaccine dose should be given again. However, a repeat dose should be given after ensuring that child does not vomit it out again.
+During 6th, 10th, 14th weeks and 9 months, when multiple vaccines are to be administered, it is preferable for health workers/ vaccinators to follow the sequence as given below, for the sake of programmatic consistency and uniformity; region). This nerve may get accidentally damaged in case of injection, leading to weakness or paralysis of lower limb. There is lot of fat in the buttocks. Vaccine gets deposited in this fat and either does not elicit or elicits a delayed or partial immune response. Anterolateral aspect (front and outer part) of mid-thigh is preferred site for giving injection in children as it provides the largest muscle mass, leading to quick absorption of vaccine into the blood capillaries.
+6 Weeks
+10 Weeks
+14 Weeks
+9 Months
+What specific precautions should be taken during vaccine administration?
+Before opening vaccine vial, check the following; Label for type of vaccine, the label must be readable Expiry date Status of VVM Cap or bottle is not cracked The vaccine is not visibly frozen, in case the vaccine is freeze-sensitive Note: Just after opening the vial (and reconstituting it, when applicable), health worker/vaccinator should mention the date and time of opening on the vial.
+There are few specific precautions that should be taken by you. These are: Check the label for expiry date and the VVM label of the vaccine vials and diluents before use. Always use a new AD syringe for administering injectable vaccine. Always use a new syringe for reconstituting the vaccine (BCG, Measles/MR and JE vaccines). Ensure that the vaccine and diluents are of the same temperature and supplied by the same manufacturer (bundled) before reconstituting. Check expiry date and packaging of AD syringe before opening it. Never mix two or more injectable vaccines in the same syringe. Never use spirit, soap or liquid antibiotic to clean injection site. Water swab is adequate. Never rub or touch injection site after vaccine administration.
+AD or Auto Disabled syringes are specialized plastic syringes introduced in UIP for administering injectable vaccines. Once used, these syringes get locked, as the plunger cannot be withdrawn to refill the syringe with vaccine again. This avoids reuse or misuse of used syringes, and prevents transmission of infections from one child or a pregnant woman to another.
+Care should be taken that under no condition different vaccines are withdrawn or mixed in the same syringe. You must use a new AD syringe for every vaccine administered to a child. The syringe should be opened from the plunger-end and only when vaccine is to be administered.
+Cold chain is a system for storing and transporting vaccines at recommended temperatures from the point of manufacture till the point of use (administration to beneficiary). The system comprises of walk-in freezers, walk-in coolers, deep freezers, ice-lined refrigerators installed at different levels for the storage of vaccines, and refrigerated vaccine vans/ insulated vaccine vans, vaccine carriers and insulated cold boxes for transportation. Entire system is closely monitored to ensure delivery of potent and effective vaccines to the beneficiary.
+WIC & WIF
+ILR & DF
+WIC & WIF
+What should be the order from bottom to top for storing vaccines inside ice lined refrigerator?
+At health facilities and immunization session sites, all vaccines should always be stored at the recommended temperature between +2OC to +8OC.
+Care should be taken to avoid keeping vaccines in conditions where the temperature is much lower (for example, freezers that are used for preparing ice), or where temperature is higher (for example, in direct sunlight). If a vaccine is not stored or transported at recommended temperature, there may be decline in potency and efficacy of the vaccine.
+The order of different vaccines from bottom to top inside an ice lined refrigerator should be; OPV (bottom most), Measles/MR, BCG, JE, Rotavirus, TT, DPT, IPV, Pentavalent, PCV, Hepatitis B, followed by diluents (top most).

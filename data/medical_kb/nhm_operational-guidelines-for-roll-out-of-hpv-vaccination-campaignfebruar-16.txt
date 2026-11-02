@@ -1,0 +1,55 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 16
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Number of AEFI Kits required ?(1 kit per Health Facility) Contents of AEFI kit are verified & Inj. Adrenaline is within expiry ?
+Medical officer(s) are available at the health facility to manage AEFIs Medical officer(s) are trained on AEFI management and reporting Medical Officer received dedicated training on HPV vaccination and Crisis Communication Number of Squeeze balls required? (5-10 per Health Facility) Number of posters required? (4 per Health Facility) Number of banners required? (2 per Health Facility) Functional desktops/laptops for U-WIN registration?
+Functional Printer for U-WIN Certificate, consent form, age undertaking form?
+Provision of running water & soap for hand washing before vaccination?
+Availability of adequate cotton swabs for cleaning skin before vaccination?
+Sufficient Ice packs Availability of adequate stock of Paracetamol tablet?
+Write NA in front of Health Facility where it is not applicable MOIC Signature with date__________________ Form 6 – District Planning Form This form will be filled by the DIOs and submitted to the SIO. It serves as a compilation format of all health facility-level information collected using Form No. 4.
+Column a: List of all HF – PHC/U-PHC/CHC/SDH/RH/DH/GMCH Write the complete list of all Health Facilities (HF) – Primary Health Centres (PHC) and above like Urban PHCs (U-PHC), Community Health Centres (CHC), Sub-District Hospitals (SDH), Rural Hospitals (RH), District Hospitals (DH), and Government Medical colleges and Hospitals (GMCH) in the designated area.
+Column b: Name & Phone number of Nodal MO Write the name and active phone number of the designated Nodal Medical Officer responsible for vaccination at the facility.
+Column c: Health Facility is functional 24x7: Y/N Write Y/N whether the HF is functional 24x7.
+Column d: Health Facility has functional Ambulance: Y/N Write Y/N whether the HF has a functional Ambulance.
+Column e: Total Population Mention the total population in the catchment area of the health facility. Write NA in front of Health Facility where it is not applicable such as DH, SDH and GMCH.
+Column f: Estimated number of girls aged 14 years (~1% of population) Calculate approximately ~1% of the total population to estimate the number of 14-year-old girls in the catchment area.
+Column g: Number of girls* aged 14 years Based on actual Head count Survey by ASHA/AWW/LW/MAS/ JAS (Form 4, Column D) Write the exact number of 14-year-old girls from the head count survey conducted by ASHA, AWW, LW, MAS, or JAS, as recorded in Form 4, Column D.
+Column h: Total number of ANMs Mention the total number of ANMs currently in position under this health facility.
+Column i: Total number of ASHAs Mention the total number of ASHAs currently in position under this health facility.
+Column j: Total Number of AWWs Mention the total number of AWWs currently in position under this health facility.
+Column k: Total number of MAS/JAS Mention the total number of MAS/JAS member currently in position under this health facility.
+Column l: Total number of Link Workers Mention the total number of Link Workers currently available under this health facility.
+Column m: Health Facility has a functional Cold Chain point as per eVIN(Y/N) Indicate whether the health facility has a functional cold chain point (Y/N).
+Column n: Health Facility has Medical Officer(s) available for AEFI Management (Y/N) Confirm if the health facility has a Medical Officer for Adverse Events Following Immunization (AEFI) management (Y/N).
+Column o: Health Facility has internet connection, desktop/laptop & printer for U-WIN (Y/N) Verify if the health facility has an internet connection and desktop/laptop & printer for U-WIN (Y/N).
+Column p: Health Facility identified as HPV vaccination Centre (Y/N) Specify whether the health facility is designated as an HPV vaccination centre (Y/N).
+Column q: If no in Column P, link the target population to nearest HPV vaccination centre If Column P "No", link the target population for this health facility to the nearest HPV vaccination center.
+MAS/JAS
+Write NA in front of Health Facility where it is not applicable DIO Signature with date__________________ CMO/CS Signature with date________________ District Planning Form Form 7 – State Planning Form This form is to be completed by the SIO and submitted to the MoHFW. It serves as a compilation format of all district-level information collected using Form No. 6.
+Information regarding Helpline number, for AEFI Management, identified for HPV vaccination Campaign Column a: District Write the name of the district.
+Column b: Total population of the district Please mention the total population of the district.
+Column c: Estimated number of girls aged 14 years (~1% of population) Write the estimated number of eligible girls aged 14 years, which is approximately 1% of the population.
+Column d: Number of girls aged 14 years Based on actual Head count Survey by ASHA/AWW/LW/MAS/JAS (Form 6, Column G) Write the total number of girls aged 14 years as per the actual count survey conducted by the ASHA/AWW/ LW/MAS/JAS.
+Column e: Total no. of Health Facilities (PHC/U-PHC/CHC/SDH/RH/DH/GMCH) in the district Mention the total number of health facilities (PHC/U-PHC/CHC/SDH/RH/DH/GMCH) in the district.
+Column f: Out of total no. of HFs, how many are 24x7?
+Write the total number of health facilities which are functional 24x7 in each district out of the total no of health facilities.
+Column g: Out of total no. of HFs, how many have functional Ambulance?
+Write the total number of HF which have functional ambulances.
+Column h: Out of total no. of HFs, how many have a functional Cold Chain point as per eVIN?
+Mention the total no of HF which has functional cold chain points, as per eVIN.
+Column i: Out of total no. of HFs, how many have a medical officer available for AEFI management?
+Write the total number of health facilities which have a MO, available for AEFI Management.
+Column j: Out of total no. of HFs, how many have internet connection, desktop/laptop & printer for U-WIN?
+Write the total number of HF which has internet connection, desktop/laptop and printer for U-WIN.
+Column k: Out of total no. of HFs, how many Health Facilities are identified as HPV vaccination Centre?
+Mention the total number of HFs that are identified as HPV vaccination center.
+ASHA/AWW/LW/MAS/
+CHC/SDH/RH/DH/
+Out of total no. of HFs, how many have a functional Cold Chain point, as per eVIN?
+Out of total no. of HFs, how many have a medical officer available for AEFI management?
+Out of total no. of HFs, how many have internet connection, desktop & printer for U-WIN?
+Out of total no. of HFs, how many Health Facilities are identified as HPV vaccination Centre?
+Only consider PHC and above PHC as Health Facilities (HFs) SIO Signature with date__________________ MD (NHM) Signature with date__________________ State Planning Form Form 8: Session-Site Monitoring Form Once the HPV vaccination campaign has started, supervisors/monitors will oversee HPV vaccination sessions, including cold chain points and AEFI-related activities, to ensure smooth implementation and quality service delivery. They will use the standard monitoring checklist (Form no. 8) on the U-Mentor application, shown on the next page, and visit at least four session sites per day. Throughout the three-month campaign, monitors will provide hands-on support, mentoring, and guidance to vaccinators, focusing on the following areas: Adherence to micro-plan and session schedules Manpower available at the session site Registration, recording and reporting on U-WIN Vaccine supply, logistics, and cold chain management Safe injection practices by ANMs and proper waste disposal AEFI management protocols being followed IEC material display Record-keeping and effective communication with beneficiaries Setting: Urban / Rural: Organization: Govt. /Partners (Please specify) General Information Name of the Health Facility: session site visited Date & Time of Visit Is session being conducted today?

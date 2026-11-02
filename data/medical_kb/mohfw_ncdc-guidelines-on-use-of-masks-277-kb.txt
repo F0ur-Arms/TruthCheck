@@ -1,0 +1,53 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Guidelines on use of masks
+URL: https://ncdc.mohfw.gov.in/uploads/pdf/18096774991561442082.pdf
+────────────────────────────────────────────────────────────
+
+National Centre for Disease Control Directorate General of Health Services Ministry of Health and Family Welfare Seasonal Influenza  Guidelines on use of masks for health care workers, patients and general public (Revised on 25.02.2019)
+Masks are personal protective devices which if used correctly would protect the user from contracting Seasonal Influenza or for that matter, any other aerosol/droplet borne/air- borne infection.
+Masks should be used mandatorily for all health personnel working in an infective environment.
+The type of mask to be used is related to the risk of exposure of a person.
+The risk categorization may change according to the expected degree of environmental contamination and transmissibility of the virus.
+1. Disposable triple layer mask
+2. N 95 Mask/ Respirator
+The specifications of these masks are as follows: Item Specification Disposable Triple Layer Mask Tie on Mask of Non-woven, Hypoallergenic 3 ply construction with filter in between with 4 tie strings N-95 Mask/ Respirator Filter efficiency of 95 % or more against particulate aerosols. The mask should be provided with expiration valve. It should be disposable & to be able to fit for wide range of face sizes. It should accompany with certification from NIOSH or equivalent certification.
+1. Hospital Setting:
+1.1 Screening Area/ relevant OPD areas :
+All medical personnel including nursing and paramedical staff should use Disposable Triple layer mask while interacting with patients.
+1.2 Isolation Ward:
+All patients kept in the isolation wards must wear Disposable Triple layer mask.
+Medical and nursing staff involved in Clinical Care in isolation facilities would require Disposable Triple layer mask, along with other Personal Protective Equipment (PPE).
+However, if the staff is involved in any aerosol generating procedures like suction, intubation, nebulization, etc. they must use N-95 Mask/ Respirator.
+If the medical personnel need to collect respiratory samples from patients then they should use N-95 Mask/ Respirator.
+1.3 Critical Care Facility for Influenza patients :
+Medical and nursing staff involved in critical care in Intensive Care Unit should use N-95 Mask/ Respirator.
+1.4 Laboratory:
+All personnel working in laboratories and handling respiratory samples related to Influenza should use N-95 Mask/ Respirator.
+1.5 Mortuary:
+Personnel involved in handling dead bodies of suspect/confirmed cases of Seasonal Influenza should use Disposable Triple layer mask, along with other infection control practices.
+1.6 Ambulance Staff:
+Driver of the ambulance earmarked for transporting patients of Influenza should use Disposable Triple layer mask.
+The paramedic in the patient cabin should use Disposable Triple layer mask and if performance of any aerosol generating procedures is contemplated (suction, oxygen administration by nasal catheter, intubation, nebulization etc) N-95 Mask/ Respirator should be used.
+2. Health Workers in Community Setting:
+2.1 Doctors attending to patients with Influenza Like Illness (ILI) and other health workers working with them should use Disposable Triple layer mask.
+2.2  Health workers involved in community surveillance, contact tracing and health
+monitoring of cases at home or under home quarantine should use Disposable Triple layer mask.
+3. Security personnel:
+Security personnel working in an infected/ potentially infected area for example Influenza ward in a hospital, screening centre etc. should use Disposable Triple layer mask.
+4. General Public/care providers:
+There is no scientific evidence to show health benefit of using Disposable Triple layer mask for general public. In fact erroneous use of masks or continuous use of a Disposable Triple layer mask for longer than 6 hours or repeated use of same mask may actually further increase risk of infection.
+All categories of cases of influenza should use Disposable Triple layer mask to prevent spread of infection to others.
+The care provider in home care settings should use Disposable Triple layer mask.
+1. The correct procedure of wearing Disposable Triple layer mask:
+Unfold the pleats; make sure that they are facing down.
+Secure with tie strings (upper string to be tied on top of head above the ears –lower string at the back of the neck.)
+Ensure there are no gaps on either side of the mask, adjust to fit.
+Do not let the mask hanging from the neck.
+Change the mask after six hours or as soon as they become wet.
+Disposable triple layer masks are never to be reused and should be disposed off.
+To remove mask first untie the string below and then the string above and handle the mask using the upper strings.
+2. Disposal of used masks: Used mask should be considered as potentially infected medical waste.
+In the hospital setting, it should be disposed off in the identified infectious waste disposal bag/container (yellow) using appropriate Bio-medical Waste Management practices.
+Disposable Triple layer mask should not be re-used.
+Masks used by patients / care givers/ close contacts during home care and should be disinfected using ordinary bleach solution (5%) or sodium hypochlorite solution (1%) or appropriate concentration of Quaternary Ammonium household disinfectant and then disposed off either by burning or deep burial.
+In community settings, where medical waste management protocol cannot be practiced, it may be disposed off either by burning or deep burial.

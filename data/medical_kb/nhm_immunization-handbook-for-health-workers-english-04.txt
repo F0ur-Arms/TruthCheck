@@ -1,0 +1,37 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 4
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Healthy children carrying the virus in their noses and throats can also infect others. By vaccinating children with Hib vaccine (contained in Pentavalent vaccine) as per the Immunization schedule, we can prevent Hib infection and its complications.
+2.8	 Rotavirus gastroenteritis
+Rotavirus gastroenteritis is a highly infectious diarrhoeal disease caused by rotavirus infecting the small intestines. It causes severe diarrhoea in infants and young children. Infants between three and 12 months of age may die due to severe dehydration. Clinical symptoms and signs range from mild loose stools to severe watery diarrhoea and vomiting leading to dehydration. The disease spreads by the faecal-to-oral route. It is stable in the environment and can spread via contaminated food, water and objects. By vaccinating children with rotavirus vaccine as per the Immunization schedule, we can prevent infection and its complications. Remember to give ORS during any diarrhoea.
+2.9	 Pneumococcal disease
+Pneumococcal disease is a group of diseases caused by a bacterium Streptococcus pneumoniae (also known as pneumococcus). The most serious of these diseases are pneumonia, meningitis, and blood stream infections. Streptococcus pneumoniae is the leading cause of bacterial pneumonia in children under 5 years of age. b) What diseases does pneumococcus cause?
+Diseases that are often caused by pneumococci include: Pneumonia, Bacteraemia, sepsis: bloodstream infection, Bacterial meningitis: infection of the membranes and fluid that covers and protects the spinal cord and brain Middle ear infection (otitis media) Sinusitis, Bronchitis c) How is pneumococcal disease spread?
+Pneumococcus spreads from person to person (coughing, sneezing or close contact). Many people have pneumococcus in their nasopharynx for days or weeks at a time. In most cases the pneumococcus disappears from the nasopharynx without causing any symptoms, but sometimes disease develops. d) Who is at increased risk of pneumococcal disease?
+Young children and elderly individuals are most at risk. The children most at risk of pneumococcal disease are: Children under 5 years of age, especially those under 2 years of age Immunocompromised children Those with influenza or other respiratory virus infections can get a second infection with pneumococcus. Malnutrition, lack of breastfeeding, exposure to indoor smoke and crowded living conditions. Poor and marginalized populations with poor access to health care. e) How is the disease prevented?
+These diseases can be prevented by administering PCV in three doses - 2 primary doses and at 6 & 14 weeks and 1 booster dose at 9 months of age along with MR first dose.
+2.10	Measles/Rubella
+Measles is a highly infectious disease caused by a virus. It is an important cause of death among children who are poorly nourished and live in crowded conditions. Complications include dehydration due to severe diarrhoea, malnutrition, inflammation of middle ear, pneumonia, blindness and encephalitis (brain infection).
+Rubella is generally a mild disease in children but when infection occurs in early pregnancy, it has the potential to cause spontaneous abortions, fetal deaths, still births and serious congenital defects (congenital rubella syndrome – CRS) in the child causing lifelong disabilities.
+Any person with fever and maculopapular rash, i.e. non-vesicular AND cough, coryza (runny nose), or conjunctivitis (red eyes) The virus is spread through nose and throat secretions of infected people and in airborne droplets released when an infected person sneezes or coughs. The Measles/Rubella containing vaccine (MR) is effective in preventing measles and should be given according to the immunization schedule.
+2.11	Japanese Encephalitis
+Japanese encephalitis (JE) is an infection of the brain caused by a virus. It is prevalent in certain geographical areas in some of the states. JE is fatal in 20-30% of cases, with young children (less than 10 years) having a greater risk of severe disease and death. A person of any age, at any time of the year with acute onset of fever and change in mental status (including symptoms as confusion, disorientation, coma or inability to talk) AND/OR new onset of seizures (excluding simple febrile seizures). JE virus is spread by mosquitoes. The virus normally infects birds and domestic animals, especially pigs, which serve as its reservoirs. Humans may contract the disease when a mosquito that has bitten an infected animal then bites a person. Following the campaigns targeting all children in the age group of 1-15 years in the high risk districts, the vaccine is integrated into the UIP of the district. Children between 9 months - 2 years are targeted for two doses of JE.
+Before age 1 year - for Full Immunization  3 doses of OPV, 3 doses of Rotavirus (where applicable), 3 doses of Pentavalent, 2 doses of fractional IPV, 3 doses of PCV (where applicable), MR vacccine -1st dose , JE 1st dose (where applicable)
+Before age 2 years - for Complete Immunization  MR vaccine - 2nd dose, DPT booster, OPV booster, PCV booster (where applicable) and JE - 2nd dose (where applicable)
+3.1	 National Immunization Schedule
+5 Years
+7 Years of
+16 Years
+Give TT-2 or Booster doses before 36 weeks of pregnancy. However, give these even if more than 36 weeks have passed. Give TT to a woman in labour, if she has not previously received TT.
+3.2	 Frequently Asked Questions on the Immunization schedule
+a) General queries Why are vaccines administered at specific sites on the body?
+Vaccines are administered at specific sites on the body to maintain uniformity and for helping you or anyone in checking that the vaccine was given. e.g BCG on left upper arm.
+Why should there be a minimum gap of 4 weeks between two doses of most vaccines?
+There should be a minimum of 4 weeks gap between two doses because decreasing the interval between doses may not achieve the needed antibody production to give protection.
+How long can a bottle of Vitamin A be used, once opened?
+A Vitamin A bottle, once opened, should be used within 8 weeks. Write the date of opening on the bottle. It is important that the date of opening is clearly written on the bottle. It must be kept away from direct sunlight.
+What is the dose of Zinc to be used along with ORS in the treatment of diarrhoea?
+The dose of zinc for infants aged 2–6 months is 10 mg of dispersible tablet in expressed breast milk for 14 days. For children 6 months to 5 years of age, it is 20 mg of dispersible tablet for 14 days. b) Vaccine schedule related queries If a child is brought late for a subsequent dose, should one re-start with the first dose of a vaccine?
+No, do not restart the schedule again; pick up where the schedule was left off. For example, If a child who has received BCG, penta1 and OPV1 at 5 months of age returns at 11 months of age, then vaccinate the child with penta 2, OPV2 , measles, Rotavirus vaccine (where applicable) and JE (where applicable).

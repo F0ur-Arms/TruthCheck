@@ -1,0 +1,41 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Paracetamol Guidelines, part 1
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Paracetamol_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+GUIDELINES ON USE OF SYRUP
+PARACETAMOL
+FOLLOWING
+VACCINATIONS
+CONTENTS
+LIST OF CONTRIBUTORS
+EXPERT COMMITTEE MEMBERS
+NATIONAL AEFI COMMITTEE MEMBER
+AEFI SECRETARIAT
+ABBREVIATIONS
+GUIDELINES ON
+USE OF SYRUP
+PARACETAMOL
+FOLLOWING
+VACCINATIONS
+Fever following vaccination may precipitate febrile seizure in susceptible infants. Table 1 below lists the frequency and window period for fever occurring after administration of some commonly administered vaccines: Table 1: Frequency and window period for fever occuring after vaccination Sr. No.
+INTRODUCTION
+AND BACKGROUND
+Current practices related to paracetamol use in UIP Currently, tablet paracetamol is being provided by vaccinators (ANM/health worker) at session sites for treatment of fever as well as local pain and swelling after vaccination. The recommended dose of paracetamol is 10-15mg/kg body weight every 8 hours with a maximum of four doses within 24 hours (2).
+However, health workers have been observed recommending tablet paracetamol doses in different fractions like 1/4th, 1/6th or 1/8th part of 500 mg tablet to treat fever occurring after vaccination. Concerns have been raised regarding inaccurate dosing (overdosing in case of infants) as it is difficult to break paracetamol tablets evenly into required fractions. Vaccinators in some states dispense paracetamol after every vaccination while others dispense paracetamol after pentavalent/DPT vaccination only. Some vaccinators advise caregivers to administer paracetamol soon after vaccination prophylactically to prevent/reduce occurence of fever and local reactions. Others ask care-givers to administer only in case of fever and/or pain and swelling.
+Mothers/care-givers find it difficult to crush and dissolve paracetamol tablets in milk/water before administering to children. There have been instances of accidental choking of children due to uncrushed paracetamol tablets. In some cases, adverse events have occurred due to inadvertent dispensation of other drugs in place of paracetamol tablets. A few states have been providing paracetamol syrup in place of tablets.
+No uniform practices exist across states for use of paracetamol to manage fever following vaccination.
+Development of guidelines for use of paracetamol The need for clear instructions for use of paracetamol after vaccination was felt as there are no recommendations/ guidelines for management of fever following vaccination. Fever and pain following vaccination is also one of the factors for dropouts following vaccination. An expert group was constituted to examine the following points:  Should paracetamol be administered prophylacti- cally or only when fever occurs after vaccination?  What are the benefits and risk of use of paracetamol syrup over tablets for managing fever following vaccination?  What should be the dose of paracetamol to be given based on age or weight?  What instructions should be given to vaccinators and care-givers regarding use of paracetamol?  What are indications of referral to higher facility in fever cases?
+The expert group examined in detail the available literature, existing guidelines and other important sources of information, assessed and discussed the evidence related to each of the above points and guided in framing of operational guidelines on the use of paracetamol in Universal Immunization Programme (UIP) following vaccination.
+Anti-pyretic drugs and paracetamol In children, the recommended drugs for management of fever are paracetamol and ibuprofen. However, in children under three months of age, in those with chickenpox, with dehydration and pneumonia, use of Ibuprofen is not recommended. Paracetamol is hence the drug of choice for treatment of fever in all age groups and fever due to all reasons.
+Paracetamol is an analgesic and anti-pyretic drug with weak anti-inflammatory effects. Paracetamol is well absorbed orally and peak plasma concentration occur within 30-60 minutes. Its metabolism is mainly by conjugation with glucuronic acid and sulfate.
+These conjugates are rapidly excreted in the urine.
+The half life (t½) of paracetamol is 2-3 hours, and it has a lasting effect for 3-5 hours. Paracetamol is a safe and well-tolerated drug with low incidence of gastrointestinal side effects. It does not affect the acid-base balance, platelet function, or the cardio- vascular system. The recommended dosage is 10-15 mg/kg/dose. Paracetamol is not recommended in pre-mature infants (<2 kg) for fear of hepatotoxicity (3).
+Benefits and risks of prophylactic/therapeutic use of paracetamol for fevers following vaccination Paracetamol is used as an antipyretic and analgesic agent post vaccination in infants and children.
+Currently paracetamol, tepid sponging and maintaining hydration are recommended for a child with fever following vaccination. (4) The benefi ts and limitations of prophylactic administration are not established and have been a subject of research. Scientifi c literature related to prophylactic use of paracetamol following vaccination was reviewed. Out of thirteen studies, two were systematic reviews, both of which observed that though there was relief in local and systemic symptoms after primary vaccinations, there was also a reduction in antibody responses to some vaccine antigens. Of the remaining 11 studies, nine were randomized control trials (RCTs), one observational study and one review article. Most of the RCTs showed that the antibody response was lower when paracetamol was given prophylactically (soon after vaccination) as against when no paracetamol was given. Two studies suggested that counselling of mother on non-pharmacological methods such as breastfeeding, tepid sponging and skin to skin contact are benefi cial in managing post vaccination events like crying, fever & irritability.
+Generally, it is easier to administer drops or syrups or suspensions to children below 6 years of age.
+Oral liquids provide greater dosing fl exibility than oral solid (single-unit dosage forms). They may be appropriately fl avoured and have taste that is accepted by children (including full-term and also pre-term neonates) who are able to swallow and accept enteral feeding. Oral liquid dosage forms are normally packaged together with an appropriate measuring device for accurate dosing. (5) Though tablets are cheaper and weigh lesser than syrups, syrups are easier to administer to infants and allow more accurate dosing.
+Use of syrup paracetamol The frequency of fever occuring within the fi rst 24 hours following vaccination is highest following pentavalent, DPT and IPV. Paracetamol should be administered only if fever develops after vaccination and never prophylactically.
+It is recommended to administer syrup paracetamol to the child in case of fever (axillary temperature > 38 oC/100.4 oF or feels hot to touch) following vaccination at 1½ months, 2½ months and 3½ months (fi rst, second and third doses of pentavalent) and at 16-24 months and 5-6 years (fi rst and second booster doses of DPT).
+Syrup paracetamol is available in market in diff erent strengths (120 mg/5ml, 125mg/5ml and 250mg/5ml).
+For children aged between 6 weeks to 6 years under the universal immunization programme, syrup paracetamol of strength 125mg/5ml is preferable for uniformity and preventing dosing errors. The recommended doses and frequency of administration of paracetamol syrup (125 mg/5 ml) as per age is as follows: Age wise dose of paracetamol syrup (125 mg/5 ml) in infants (recommended dose of paracetamol : 10-15 mg/kg body weight) Age group Dose When 6 weeks-6 months In case of fever*, following vaccination and 4-6 hourly thereafter if needed 6-24 months Paracetamol is not recommended in children weighing <2 kg. Maximum four doses in 24 hours with a gap of at least four hours between two doses.

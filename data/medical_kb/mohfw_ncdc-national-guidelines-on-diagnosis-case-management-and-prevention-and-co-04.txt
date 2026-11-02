@@ -1,0 +1,37 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: National Guidelines on Diagnosis Case Management and Prevention and Control of Leptospiros, part 4
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769332981_File558.pdf
+────────────────────────────────────────────────────────────
+
+4. Adopting appropriate technology for anti rodent operations. This includes
+5. Capacity building 6. Creating awareness in general community and community
+6.5 Mapping of water bodies for establishing a proper
+drainage system The mapping of water bodies and human activities in water logged areas should be carried out. This will help to identify the high risk population. Farmers may be educated to drain out the urine from the cattle shed into a pit, instead of letting it ow and mix with water bodies (rivers, ponds etc.)
+6.6 Health impact assessment of developmental projects
+6.7 Vaccination of animals
+Leptospiral vaccines confer a limited duration of immunity. Boosters are needed every one to two years. Vaccination should however be very selective and used only in endemic situations having high incidence of leptospirosis. The vaccine must contain the dominant local serovars. While this prevents illness, it does not necessarily protect from infection and renal shedding.
+1.  Isolation of Leptospires
+Isolation of leptospires from clinical specimens is the strongest evidence for conrmatory diagnosis. Isolation and identication is the method of choice to identify circulating serovars in a particular geographical region. a) Blood culture Ideal time : Within 10 days of the onset of the disease.Sample should be collected before antibiotics are started Media : EMJH, Fletcher's and Stuart's (commercially available or obtain from the designated regional/ district laboratory) Procedure : Swab the area with the spirit Draw the blood using sterile syringe and needle by vein puncture Take 2 tubes containing 5 ml EMJH medium and inoculate two drops of blood in the rst tube and four drops in the second tube.
+Incubate at 30 C for 4-6 weeks. st rd th Examine the culture using dark eld illumination initially on 1 , 3 and 5 days followed by at 7-10 days interval upto 6 weeks.
+Selective culture media containing 5FU 50-1000 µg/ml can be used to avoid contamination.
+Sub culture should be made within 48 hrs to minimize the inhibitory effect of the selective agents on Leptospires. Growth of the fastidious isolates is encouraged by adding to the medium 0.1% -0.15% agarose & 0.4%-1% of rabbit serum or fetal calf serum. b) Urine culture : Time: 10-30 days after the onset of the disease Media: EMJH, Fletcher's and Stuart's Procedure : Collect fresh midstream sample. The sample should be tested within 2 hours of collection.
+Dilute the urine as follows: using sterile test tubes and sterile phosphate buffer (pH 7.2). o Add 0.4 ml of urine to 3.6 ml of PBS (1in 10) o Add 3 ml of (urine) to 3 ml of PBS (1 in 20) o Add 2 ml of (urine) to 2 ml of PBS (1 in 40) o Add 1 ml of (urine) to 1 ml of PBS (1 in 80) Take 5 ml of medium in 4 separate tubes and add 0.5 ml each of a, b, c, d solutions of PBS in 4 different medium tubes.
+Label the tubes mentioning the dilution Incubate at 30 C Examine the culture using dark eld illumination at intervals of 7-10 days upto 6 weeks.
+The above procedure should be repeated 2 or 3 times with urine samples collected at different times/days to increase the probability of isolation.
+Urine can be ltered (through 0.22 µm lter) and/or inoculated into selective culture media to avoid contamination.
+Urine may have acidic pH in many cases. Therefore urine should be collected in tubes containing equal amount of PBS with pH 7.2. c) CSF Culture Time : Within 5 - 10 days of the onset of the disease Medium : EMJH, Fletcher's and Stuart's Procedure : Inoculate 0.5 ml of CSF into 5 ml of culture media Follow the same procedure as blood culture Advantages of isolating leptospires from clinical specimens: Denite proof of infection Circulating serovars can be identied Local isolates can be used as antigen in MAT Local isolates can be used in vaccine development.
+Limitations : Fastidious organism requires special medium for isolation Leptospires grow slowly. Isolation of leptospires from clinical specimens takes several days to several weeks.
+The technique is laborious, time consuming and is not possible in small laboratories Contamination of culture media by other micro-organisms or by saprophytic leptospires is common in routine practice The successful isolation rate is less due to prior use of antibiotic, imperfectly cleaned glass ware or wrong incubation temperature and pH.
+2 . Demonstration of Leptospires A. Dark Field Microscopy Demonstration of leptospires by using Dark Field Microscopy appears to be a simple and rapid procedure. Though the organism is present in the blood during acute stage of the disease, the concentration is too low to allow detection by direct microscopy. The leptospiral shedding in urine is intermittent. Moreover serum proteins or cell fragments may mimic leptospires. Even experienced personnel may be confused with these artifacts as in majority of the clinical samples leptospires may not exhibit typical motility due to reactive antibodies or due to mechanical injury during the process of specimen for examination. Critical evaluation of this technique as a diagnostic tool has shown that the test has low sensitivity (40.2%) and specicity (61.5%). Therefore DFM is not recommended as a sole diagnostic tool for the diagnosis of leptospirosis.
+Specimens : The specimens should be taken aseptically and sent to laboratory without delay, they must not be frozen. Oxalate, citrate or heparin may be used as anticoagulant for blood or pleural uid.
+Procedure (Blood) Centrifuge 5 ml of blood (treated with an anticoagulant) at 1000 g for 15 min.
+Add approximately 10 µl of plasma on a thin microscopic slide and apply cover slip.
+Examine under dark eld microscope with low power and high power (x 200 and x 400).
+If no leptospires are seen, centrifuge plasma at 3000-4000 g for 20 min.
+Carefully remove the supernatant and examine a drop of sediment microscopically as above.
+Procedure (Urine) Centrifuge a portion of freshly voided urine at 3000 g for 10 min.
+Examine a drop of deposit by DFM (x 200 and x 400).
+Serum proteins and brin strands in blood resembles leptospires.
+The concentration of organism is frequently too low in the specimens.
+B. Silver Impregnation techniques Various silver impregnation techniques are used for the staining of leptospires in body uids and tissues.
+Fontana Staining Requirements Fixative- Acetic acid 1ml+Formalin (40% HCHO) 2 ml+ Distilled water 100 ml Mordant- Phenol 1 gm+ tannic acid 5 gm+ Distilled water 100ml Ammoniated silver nitrate (to make fresh): Add 10 % ammonia to 0.5% solution of silver nitrate in distilled water until the precipitate formed just dissolves. Now add more silver nitrate solution drop by drop until the precipitate returns and does not re-dissolve.

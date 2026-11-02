@@ -1,0 +1,44 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 9
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+It should be ensured that the AEFI management kit has all the required drugs, etc. (refer to AEFI kit contents).
+7.3.2 AEFI SURVEILLANCE DURING PCV
+VACCINATION
+Standard operating procedures have been laid out by the Government of India for responding to AEFI (AEFI Surveillance and Response Operational Guidelines 2015).
+All ANMs/ASHAs/AWWs and MOs (in addition to MO in-charges) in PHCs/CHCs/SDHs/District hospitals, medical colleges and private practitioners must be sensitized to recognize, manage and report AEFIs promptly. They must know what to do in the event of an AEFI and the location of the nearest AEFI management center.
+All serious and severe AEFIs are to be reported using the Case Reporting Form (CRF) immediately (within 24 hours) to the District Immunization Officer. The form will be provided in the kits for AEFI management.
+Minor, serious and severe AEFIs will also be notified by the ANM/Health worker in the AEFI register maintained at the PHC/CHC every week.
+Serious and severe AEFIs will be reported in the weekly nil reporting VPD H-002 and district D-001 Figure 31. Minor, serious and severe AEFIs should be appropriately reported in HMIS (abscesses, deaths and all others).
+The DIO will investigate all reported serious/severe AEFIs in Preliminary and Final Case Investigation Forms (PCIFs and FCIFs). The timelines for case investigations should be strictly adhered to (Figure 32).
+24 HOURS OF
+NOTIFICATION
+7.3.4 RUMORS AND CRISIS MANAGEMENT
+While PCV vaccines have an excellent safety profile, misconceptions about its risks can have serious consequences. There should be clear communication about the safety and common side effects of the vaccine, together with endorsement from trusted leaders. Communication helps build trust with the public. This includes providing information on possible side effects in the information, education and communications (IEC) materials and when communicating with parents and the community.
+Awareness among health workers and the public of possible adverse events will also reduce fear and misunderstanding and facilitate early recognition and management of AEFIs.
+It is very important to engage the media (through journalist briefings, information packages, etc. prior to PCV vaccination, because if they are not well informed about the facts media can often amplify any rumors, leading to a larger crisis (for details, refer to Chapter 9: Communication Strategy & Social Mobilization for PCV Introduction).
+Each state will prepare a crisis communications plan to allow for a rapid effective response to AEFIs, and any allegation that may have a negative effect on public acceptance of PCV or trust in the immunization program.
+7.3.3 CONTENTS OF AN AEFI KIT
+IMPORTANT AEFI MESSAGES
+Serious and severe AEFIs should be immediately reported to the appropriate authority.
+The MO and health worker at the vaccination site will provide primary management of AEFIs.
+If needed, they will refer serious and severe AEFI to the nearest higher AEFI management center.
+Transportation for referring patients, if needed, shall be provided by MO I/C.
+Benefit of immunization in preventing disease is well proven.
+It is very risky not to immunize vis-a-vis risk of disease and complications.
+Before the introduction of vaccines, vaccine-preventable diseases caused millions of deaths and/or disability. That situation would return without continued use of vaccines.
+Vaccines do cause some reactions, but these are rarely serious and hardly ever cause long-term problems.
+Well-established immunization safety surveillance is in place. Immunization safety is very important, and even the slightest suspicion of a problem is investigated.
+Reporting and Recording of PCV in Routine Immunization All recording and reporting formats should be revised well in time to include PCV before the introduction of vaccine. All the revised formats should be distributed before introduction and ensure that during health workers’ training, an exercise for filling the MCP card should be conducted.
+Inclusion of PCV will be required in vaccine stock and distribution registers, immunization cards, due lists, tally sheets, monthly progress reports at all levels, maternal and child health (MCH)/immunization register, coverage monitoring charts, supervisory checklists, computer databases, immunization coverage surveys and evaluation formats, as well as AEFI reporting formats.
+HMIS and MCTS/RCH portals are being modified to record the coverage of PCV. Till then, reporting of PCV coverage from state is to be done through manual reporting.
+As part of introduction, the main challenge will be at the level of the health worker to understand and implement the overlapping vaccine schedule and administer multiple injections in one visit. Program officers should ensure quality trainings up to the level of health workers to make them understand that three required PCV doses (2 primary doses and 1 booster dose) at 6 weeks, 14 weeks, and 9 months of age need to be administered along with other routine vaccines at the same age, and no eligible child should be devoid of any of the scheduled vaccines.
+They should also closely supervise to ensure that all scheduled vaccines are given concomitantly such that coverage of all vaccines scheduled together remains high.
+For example, at 6 weeks of age it should be ensured that high coverage rates of pentavalent1, OPV1, rotavirus1, fractional-dose IPV1, and PCV1 coverage rates are achieved and consistent across vaccines.
+Similarly, coverage rates should be tracked for all scheduled vaccines at PCV2 and PCV booster dose time points, respectively.
+In case the printing of revised MCP card and other reporting formats is delayed in the initial few days of PCV introduction, program managers should ensure that they provide clear instructions to health workers/vaccinators in such situations how they should record vaccination data in the MCP card or which reporting formats are to be used alternatively to record vaccine coverage (Figure 33).
+Reporting and recording practices for PCV (MCP card, vaccine registers, due lists, tally sheets, reporting coverage until HMIS and MCTS/RCH portals are updated) will also need attention at all levels. Strong monitoring and supervision are required to identify gaps and to ensure accountability and take necessary corrective actions where needed.
+Monthly reporting of PCV coverage should be collated at the state level and sent to the national level, so as to reach the national level by 7th of the next month. This manual reporting will continue until such time that the HMIS is updated to capture the same electronically. All blocks/planning units should send reports to the district and all districts should send reports to the state. The state report needs to be submitted to Immunization Division, MoHFW by 7th of every month for the preceding month.
+Communication approaches have proved effective in building the demand for the new vaccine and subsequently increasing the uptake of the vaccine among the communities with high burden of pneumonia.
+MOs should brief the ANMs and their supervisors, ASHA and their supervisors, IEC staff, about the introduction of PCV in the routine immunization program.

@@ -1,0 +1,48 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 37
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+6. How does the HPV infection spread?
+HPV infection passes easily between sexual partners and can be transmitted through any intimate skin-to-skin genital contact, including vaginal, anal, or oral contact. HPV is presumed to be communicable during both acute and persistent infections.
+GLOBAL STRATEGY FOR
+ELIMINATION OF CERVICAL CANCER
+7. Can HPV be passed from a mother to her child during pregnancy?
+Though rare, HPV infection can pass through mother-to-child transmission when the infant passes through an infected birth canal. This usually clears through innate immunity, but in some cases, it may result in recurrent respiratory papillomatosis in the larynx.
+8. What is the incubation period of HPV?
+The estimated incubation period from HPV infection to genital wart development is 2 weeks to 8 months, with the majority of genital warts appearing 2 to 3 months after an HPV infection. For cervical cancer specifically, it can take 5 to 20 years for HPV-infected cervical cells to develop into pre-cancers and then into cancer.
+9. Is there an immune response after natural HPV infection?
+HPV infections are restricted to the epithelial layer of the mucosa and do not usually induce a vigorous immune response. After natural infection, 70% to 80% of women seroconvert, but their antibody responses are typically slow to develop and of low titre and avidity.
+10. How to diagnose invasive cervical cancer?
+The initial workup and clinical staging of patients with invasive cervical cancer include history, physical examination, and chest radiography. Magnetic resonance imaging (MRI) is presently considered the radiologic modality of choice for evaluating tumor size, parametrial spread, and vaginal spread. Likewise, positron emission tomography (PET) scanning has been reported as the best method to detect pelvic and para-aortic nodal disease in locally advanced cervical carcinomas, with a sensitivity and positive predictive value of 75% and a specificity and negative predictive value of 92%. Computed tomography (CT) scans may be used where these are not available.
+11. What is the Global strategy for the elimination of cervical cancer?
+The strategy sets a threshold of 4 cases per 100,000 women-years for elimination as a public health problem, requiring that the 90-70-90 targets be met by 2030 for countries to be on the path to cervical cancer elimination.
+HPV VACCINE
+13. Can cervical cancer be prevented?
+The risk of cervical cancer can be reduced by timely HPV vaccination and cervical screening. The Human Papillomavirus (HPV) vaccine is being introduced to protect women from cervical cancer. The HPV vaccine primarily prevents cancers caused by high-risk types, especially types 16 and 18, which account for approximately 83% of cervical cancer cases in India.
+14. How does the HPV vaccine work?
+The HPV vaccine, which consists of virus-like particles (VLPs), triggers an immune response once introduced, creating antibodies that protect against future infection by specific cancer-causing HPV types.
+15. Does HPV vaccination provides Herd Effect/Herd Protection/Indirect Vaccine Effect?
+Yes, the HPV vaccine leads to a herd effect as per the evidence. When there is good coverage with the HPV vaccine, it leads to a herd effect, providing indirect protection to unvaccinated individuals by reducing the spread of specific HPV types. There is evidence of indirect protection of unvaccinated females through herd effects. In a number of countries, substantial decreases in cases of genital warts have occurred following the roll-out of a national HPV immunization programme using the quadrivalent vaccine, with reductions observed in unvaccinated young men in settings with female-only programmes, indicating herd protection. Achieving over 80% coverage in girls also reduces the risk of HPV infection for boys.
+16. Does HPV vaccine provide lifelong protection against cervical cancer?
+The HPV vaccine has been in the market since 2006, and data so far show that it offers long-lasting protection, with current studies showing its effectiveness for over 12 years and potentially much longer according to initial proof-of-concept studies. The antibody levels plateau after 7 months in all studies, and there is no evidence to suggest that a booster dose is needed several years after the primary HPV vaccination, although data continues to be evaluated. Analysis of a large multicentre, prospective, cohort study comparing 1-, 2-, and 3-dose regimens of quadrivalent (Gardasil) vaccine in females aged 10-18 years showed that vaccine effectiveness against HPV 16/18 infections was high (>90%) for a median follow-up of 12 years post-vaccination for all schedules.
+17. How long does it take for antibodies to develop after receiving HPV vaccine?
+In clinical trials, a peak serum antibody titre was observed 4 weeks after the last dose.
+12. Why does the Global Strategy recommend HPV vaccines to be included in national immunization initiatives?
+The primary goal of HPV immunization is to prevent cervical cancer, which represents 83% of all HPV-related cancers. Prevention of cervical cancer is best achieved through the immunization of girls before they become sexually active. It is estimated that the implementation of this strategy could prevent 6 crore cervical cancer cases and 4.5 crore deaths over the next 100 years.
+18. What are the HPV vaccines available in India?
+In India, four HPV vaccines—Cervarix, Gardasil, Gardasil-9, and Cervavac—are licensed by the DCGI for use.
+08 July 2009
+20 May 2009
+09 February 2018
+The Quadrivalent HPV vaccine protects against infection from four HPV types, including two high-risk types that cause most HPV-related cancers (types 16 and 18) and two low-risk types that cause most genital warts (types 6 and 11).
+20. Does the HPV vaccine prevent all types of cancer?
+No, it primarily prevents cancers caused by high-risk HPV types, especially types 16 and 18, which account for approximately 83% of cervical cancer cases in India.
+21. Can the quadrivalent vaccine treat HPV infections or HPV-related cancers?
+No, the HPV vaccine is preventive; it does not treat HPV infection or HPV-related cancers and diseases.
+22. Is the HPV vaccine a live vaccine?
+No, the HPV vaccine is not a live virus vaccine. It is a non-live, recombinant vaccine which contains Virus-like particles (VLPs) but not the actual virus, lacks viral genetic material, and cannot cause HPV infection.
+23. What preservative is used in the quadrivalent HPV vaccine?
+There is no preservative in the quadrivalent HPV vaccine.
+24. Which age group is eligible for HPV vaccination?
+Under the current GOI guidelines, girls aged 14 years (those who have celebrated their 14th birthday but have not yet celebrated their 15th birthday) are eligible for the HPV vaccine. Due to the limited global supply of the HPV vaccine, India is initially focusing on vaccinating a single age group of 14-year-old girls to ensure that those who are about to cross the upper age limit of 15 years have the opportunity to get protected.

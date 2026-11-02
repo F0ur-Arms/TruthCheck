@@ -1,0 +1,59 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 11
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Identify 24x7 hospitals and sensitize them on HPV vaccination campaign if needed as per local requirements.
+Ensure mapping of human resources; identification of waiting, vaccination, and observation rooms/areas; availability of adequate vaccine supplies and syringes; logistics and proper cold-chain management; availability of AEFI and anaphylaxis kits; biomedical waste management; and receipt of IEC materials.
+Review and monitor the planning unit communication plan and submit to DIO.
+Advocate with key stakeholders, including local media, to gain support for the campaign.
+Identify and engage local influencers for community engagement and social mobilization.
+Conduct demand generation activities to raise awareness about cervical cancer and HPV vaccination and to address myths and disbelief.
+Implementation phase: The Block Task Force may consider inauguration of vaccination drive by eminent personalities, elected representatives or senior officials, to provide visibility and stimulus to the campaign.
+Address issues related to vaccine and logistics management, human resources, waste management, AEFI, IEC, and any other emerging challenges.
+Monitor vaccine coverage on daily basis and implement mid-course corrective actions as needed.
+Ensure registration, recording and reporting is done on the U-WIN portal.
+Ensure immediate response to any reported AEFI and mapping of 24x7 AEFI management centers to every HPV vaccination session site.
+Review and monitor plans to vaccinate the missed beneficiaries.
+Maintain close interaction with key stakeholders, including media personnel for improving campaign visibility.
+Supervisors/monitors should conduct monitoring of session sites during the campaign and community- level monitoring one month after campaign initiation.
+Leverage RBSK for Human resource and mobility support.
+Involvement of Community Health Officers (CHOs) in the vaccination team and for monitoring and supervising the vaccination campaign.
+BLOCK CONTROL ROOM-HPV VACCINATION
+Apart from the Block Task Force, a Block Control Room should be set up at the block level, led by the Block Medical Officer (BMO) or designated nodal officer, to oversee and monitor the implementation of the HPV vaccination initiative at the block and Health Facility level. Other members of the Block Control Room may include the Block Programme Officer, PHC in-charges, nodal persons for cold chain, and representatives of partner agencies working in the block. It will collate, compile, and report daily coverage to the District Control Room.
+5B. OPERATIONAL PLANNING (MACROPLANNING AND MICROPLANNING) Macroplanning: The Operational plan will provide a broad strategic framework for the Roll Out of HPV Vaccination Campaign. It follows a top-down approach, from the national level to the state level and then to the district level. This includes development of guidelines including communication strategy, estimation of targets, prioritization of States/UTs, vaccine and syringes requirement, indent placement, tender process, cold chain assessment and augmentation, preparation of training and monitoring tools, system readiness, establishment of monitoring mechanisms, and overall oversight, and review of progress.
+Microplanning: The process of microplan preparation starts using a bottom-up approach and should take into account the ground realities in different blocks/planning units and urban areas. The microplanning should include Head Count Survey, Due-listing, estimating target population, mapping of Human Resources, vaccine/logistic calculations and cold chain plan; demand generation and communication activities; training and supervision; monitoring and evaluation and AEFI surveillance.
+MACROPLANNING
+NATIONAL LEVEL
+Develop the Operational Guidelines and Communication Strategy Guidelines for the HPV vaccine introduction.
+Estimate targets for each state/UT for HPV vaccination campaign.
+Prioritize States/UTs for the Roll Out of HPV Vaccination campaign based on the incidence of cervical cancer, governance, availability of HPV vaccine, logistics and resources, estimated targets and state/UTs preparedness.
+Develop training plan and advocacy material, standard communication materials prototypes, microplanning formats, reporting formats, monitoring formats, preparedness assessment checklist and data collection tools.
+Provision the HPV module on U-WIN portal for registering, recording and reporting of HPV vaccination events.
+Provision the HPV module on eVIN for recording and reporting of HPV vaccine stocks.
+Establishing National Control Room for monitoring the daily activities.
+Provide guidelines for management of AEFIs and reporting of minor, severe and serious AEFIs through the SAFEVAC module in U-WIN.
+Share operational guidelines, campaign dates, and budgetary provisions for operational costs; share training plans and materials; ensure readiness assessment prior to the campaign; and outline the technical assistance plan, including resource deployment at the State and District levels.
+Conducting training for each state and district level officials on HPV vaccination campaign.
+Monitor and review progress of the implementation activities and coverage during the campaign phase.
+Develop the Supervision Plan, outlining the role of the supervisors.
+Macroplanning at National and State level should include oversight on supply and distribution of vaccine and logistics.
+STATE LEVEL
+Develop a strategy for the roll out of HPV vaccination program.
+Develop a plan on resource requirements based on vaccine doses, other logistics, district-wise targets, past experiences of campaign activity and communicate the same to the national level.
+Develop a plan for state-level coordination meetings and training workshops, including Training of Trainers.
+Set targets for each district for HPV vaccination campaign.
+Establish appropriate intersectoral sub-committees for operations and social mobilization.
+Establishing State Control Room for monitoring the daily activities.
+Develop a strategy and plan for advocacy and communication, in line with the national communication strategy guidelines.
+Translate IPC / IEC materials including key messages and FAQs, Information booklets, Posters, Banners, based on the prototypes received from the national level and develop a distribution plan.
+Communicate with districts regarding training plan, introduction strategy, financial norms for operational cost, vaccine and logistics distribution plan, campaign dates and technical assistance plan including district- level resource deployment.
+Identify and deploy state-level supervisors and external monitors, and develop a plan to supervise district preparedness, monitoring of the session and for Rapid Convenience Monitoring (RCM) and ensure mid- course corrections, and document lessons learned from the campaign.
+Define the roles and responsibilities of other departments and development partners.
+Develop a plan involving State AEFI Committee to expedite causality assessment of reported and investigated serious and severe AEFIs cases at the state level, assist districts in case investigations (when needed), monitoring district AEFI committee meetings, and ensure inclusion of medical colleges and public and private hospitals in the AEFI surveillance reporting network in each district.
+Identify a helpline number to provide information regarding 24x7 AEFI management centres, and first and second referral hospitals in all districts.
+DISTRICT LEVEL
+Plan/organize a DTFI meeting chaired by the District Magistrate (DM) for the Roll Out of HPV Vaccination Develop a plan on resource requirements based on vaccine doses, logistics, funds, HR, session sites, days of the campaign, past experience of campaigns and communicate the same to the state.
+Develop a strategy for the roll out of HPV vaccination program.
+Compile block wise, estimated availability and requirements of the human resources, vaccines logistics, IEC materials etc.
+Develop a plan for capacity building, coordination meetings with other departments, and planning workshops.

@@ -1,0 +1,39 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 21
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+INFORM COMMUNITY
+of date and time of next session? Y/N Advantages of multiple injections Giving a child several vaccinations during the same visit offers three major advantages: Protecting children: Immunizing children as soon as possible provides protection during the vulnerable early months of their lives. Often, diseases are more severe in babies.
+Fewer vaccination visits: Giving several vaccinations at the same time means parents and caregivers do not need to make as many vaccination visits.
+Increasing efficiency: It means that you will be able to more efficiently provide and deliver other health services by reducing the time they need to spend providing vaccinations.
+Common health care provider and parent/caregiver questions about multiple injections Will my child experience more pain or discomfort during vaccination when there are multiple injections?
+Children will experience slightly more pain or discomfort when there are multiple injections.
+However, you should remind parents the pain or discomfort from vaccination is very brief – and that even one injection can cause pain or discomfort, with children often not noticing the pain or discomfort caused by subsequent injections.
+If more immunization visits are used to provide children with need vaccinations that means there will be more times when children will experience pain or discomfort from vaccinations. Confidence in vaccine effectiveness, such as “Will the vaccines be as effective as if given alone?” Concern about adverse events, such as “Is there a greater likelihood of a child experiencing an adverse event?” It is important to remember that giving all the eligible vaccines during the visit is essential. It is safe to give multiple injections and you should inform the parents of the safety and importance to vaccinate fully. Parents and caregivers will be willing to have their children receive multiple injections during the same visit if you answer their questions and concerns about the safety and effectiveness of multiple vaccinations.
+How can you decrease or minimize the pain from multiple vaccine injections?
+There are things that you can do when providing multiple injections to minimize pain. Pain during immunization can be decreased by: Having the child sit up to receive injections or by having a caregiver or provider hold an infant during the vaccinations; Stroking the skin or applying pressure close to the injection site before and during injection; Injecting the least painful vaccine first when two vaccines are being administered sequentially during a single office visit; and Performing a rapid intramuscular injection without aspiration.
+Is it safe for children to receive two or three injections of vaccines at one time?
+Yes. Children are given vaccines at a young age because this is when they are most vulnerable to polio, diphtheria, whooping cough (pertussis), Hib and pneumococcal disease. Vaccination schedules that involve multiple vaccine injections during the same visit are based on many years of safety and effectiveness information. An infant’s immune system is more than ready to respond to the very small number of weakened and killed antigens (bacteria and viruses) in vaccines.
+However, these same children , if exposed to a disease without having been vaccinated, an infant’s immune system may not be strong enough to fight the disease.
+Is it safe for children to receive three vaccine injections at one time?
+Yes. An infant’s immune system is more than ready to respond to the very small number of weakened and killed antigens (bacteria and viruses) in vaccines. From the time they are born, babies are exposed to thousands of germs and other antigens in the environment and their immune systems are readily able to respond to these large numbers of antigenic stimuli.
+Is there any evidence that some multiple injections of vaccines may increase the risk for adverse events?
+In most cases, multiple injections carry no greater risk for adverse events. However, these risks must be balanced against the risk of disease if one of the vaccinations is not given.
+8.1	 Adverse events following immunization
+Adverse event following immunization (AEFI) is defined as any untoward medical occurrence which follows immunization and which does not necessarily have a causal relationship with the usage of the vaccine.
+The adverse event may be any unfavorable or unintended sign, abnormal laboratory finding, symptom or disease.
+Majority of the adverse event are coincidental i.e unrelated to vaccine or vaccination process but have to be reported as the symptoms or signs have occurred after vaccination.
+8.2	 Types of AEFIs
+In 2015, revised classification relevant to cause-specific categorization of AEFIs has been introduced (Table 8.1).
+Common minor vaccine reactions A vaccine induces immunity by causing the recipient’s immune system to react to the vaccine.
+Therefore, local reaction, fever and systemic symptoms can result as part of the immune response. In addition, some of the vaccine’s components (e.g. aluminium adjuvant, stabilizers or preservatives) can lead to reactions.
+Local reactions (pain, swelling and/or redness at the injection site) and fever can be expected in about 10% of vaccinees, except for those injected with DPT, or tetanus boosters, where up to 50% can be affected. BCG causes a specific local reaction that starts as a papule (lump) two or more weeks after immunization, which becomes ulcerated and heals after several months, leaving a scar.
+Measles/MR vaccine causes fever, rash and/or conjunctivitis, and affects 5–15% of vaccinees. It is very mild compared to “wild” measles.
+Serious and severe vaccine reactions An AEFI will be considered serious if it results in death, requires hospitalization, results in persistent or significant disability/incapacity or a cluster (two or more cases) of AEFIs occur in a geographical area.
+AEFIs that are not minor but do not result in death, hospitalization or disability are categorized as severe. Examples include non-hospitalized cases of seizures, hypotonic hyporesponsive episodes (HHEs), persistent screaming, anaphylaxis, severe local reaction, injection site abscesses, intussusception, etc. Anaphylaxis, while potentially fatal, is treatable without leaving any long-term effects.
+Recognition of anaphylaxis Anaphylaxis is a very rare but severe and potentially fatal allergic reaction. You should be able to distinguish anaphylaxis from fainting (vasovagal syncope), anxiety and breath-holding spells, which are common benign reactions (Table 8.2).
+That is why it is advised that the beneficiary be kept under observation for at least 30 mins after the injection.
+Painless swellings in parts of the body e.g. face or mouth. Flushed, itching skin, nasal congestion, sneezing, tears.
+Hoarseness, nausea, vomiting Swelling in the throat, difficult breathing, abdominal pain.
+Wheezing, noisy and difficult breathing, collapse, low blood pressure, irregular weak pulse. b) Immunization error-related reactions An adverse event can occur as a result of inappropriate handling, prescribing or administration of a vaccine. It is very important to identify and correct these errors, as they are preventable (Table 8.4).

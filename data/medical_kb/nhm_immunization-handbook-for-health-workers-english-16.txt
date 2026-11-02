@@ -1,0 +1,35 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 16
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Temperature monitoring Temperature recording is done in order to ensure that the vaccines are kept at recommended temperatures and the cold chain equipment is working properly. A break in the cold chain is indicated if temperature rises above +8°C or falls below +2°C in the ILR; and above -15°C in the Deep Freezer. Different type of thermometers and instruments are used to measure the temperature during storage and transport of vaccines e.g. a. Alcohol Stem Thermometer Alcohol thermometers are very sensitive and more accurate than dial thermometers. They can record temperatures from -50°C to +50°C and can be used for ILRs and deep freezers.
+ILR (safe zone) +2 0C to +8 DF (safe zone) 0C to -25 Note: The personnel involved in preparing the vaccine carriers and “conditioned” icepacks may include other staff of the health center. It is essential to train these staff also, on the importance and method of conditioning icepacks.
+Conditioning of frozen icepacks Table 5.7 Dos and Dont’s in temperature monitoring of vaccines Keep one thermometer in each ILR and each DF. Record the temperature twice daily for ILR/ Freezer used for storage of vaccines. Keep the booklet of 12 monthly temperature- recording forms on the top of each unit. Write the serial number of ILR/deep freezer on the top of the temperature record book. Keep the thermometer in between the freeze sensitive vaccines inside the basket of the ILR. Sign on the temperature record book after recording temperature reading. Preserve the temperature logbook of cold chain equipment for minimum period of three years. Adjust the thermostat switch in different seasons to maintain the inside temperature of the equipment well within the prescribed range. Do not take the alcohol stem thermometer out of ILR while taking reading, as it is very sensitive.
+6.1	 Importance of safe injection practices
+A safe injection is one that - Does not harm the recipient Does not expose the health workers to any avoidable risks Does not result in waste, which is dangerous for the community The most common, serious infections transmitted by unsafe injections are Hepatitis B, Hepatitis C, and HIV (the virus that causes AIDS). Poorly administered injections can also cause injuries or drug toxicity when the wrong injection site, vaccine, diluent, or dose is used. It is important to prevent the risks of accidental needle-stick injury, and necessary to dispose of used syringes and needles safely to prevent risks to the community at large.
+The provision of auto disable syringes by the Government of India and the implementation of Central Pollution Control Board (CPCB) outlined waste management procedures are attempts to improve injection safety in the immunization program.
+6.2	 Simple ways to improve injection safety
+Keep hands clean before giving injections Wash or disinfect hands prior to preparing injection material. Avoid giving injections if the skin at the site of injection of the recipient is infected or compromised by local infection (such as a skin lesion, cut, or weeping dermatitis). Cover any small cuts on your skin. Use sterile injection equipment, every time Always use ADS for each injection and a new disposable syringe to reconstitute each vial of BCG, Measles/MR and JE. Prevent the contamination of vaccine and injection equipment Prepare each injection in a designated clean area where contamination from blood or body fluid is unlikely. If the injection site is dirty, clean it with clean swab. Always pierce the rubber cap of the vial with a sterile needle. Ensure opened vial septum is covered to prevent contamination. Follow product-specific recommendations for use, storage, and handling of a vaccine. Do not touch the needle or rubber cap of vial with your finger. Discard any needle that has touched any non-sterile surface. Assume all used equipment is contaminated Cut the used syringe at the hub immediately after use. Practice safe disposal of all medical sharps waste Used sharps (needles) must be collected in a hub cutter and then carried to the PHC for safe disposal. Prevent needle-stick injuries Do not recap or bend needles. Collect sharps in a puncture proof container (Hub cutter). Anticipate sudden movement of the child.
+6.3	 Using Auto-Disable (AD) syringes
+AD syringes have a fixed needle and are pre-sterilized in a sealed pack. They can only be used once.
+They are available in two sizes with vaccine drawing capacity of 0.1 ml and 0.5 ml.
+1. Select the correct syringe for the vaccine to be administered –
+0.1ml for BCG, fIPV and 0.5ml for all others.
+Check the packaging. Don’t use if the package is damaged, opened, or expired.
+3. Peel open or tear the package from the plunger side and remove the syringe by holding the barrel. Discard the packaging into a black plastic bag.
+Remove needle cover/ cap and discard it into the black plastic bag.
+Do not move the plunger until you are ready to fill the syringe with the vaccine and do not inject air into the vial as this will lock the syringe.
+Take the appropriate vaccine vial, invert the vial, and insert the needle into the vial through the rubber cap. Insert the needle such that the tip is within the level of the vaccine. If inserted beyond you may draw air bubble which is very difficult to expel.
+Do not touch the needle or the rubber cap (septum) of the vial.
+Pull the plunger back slowly to fill the syringe. The plunger will automatically stop when the necessary dose of the vaccine has been drawn (0.1 or 0.5 ml).
+Do not draw air into the syringe. In case air accidentally enters the syringe, remove the needle from the vial. Holding the syringe upright, tap the barrel to bring the bubbles towards the tip of syringe. Then carefully push the plunger to the dose mark (0.5 or 0.1 ml) thus expelling the air bubble.
+10.	 Clean the injection site (if dirty) with a clean water swab.
+11.	 Administer the vaccine.
+BCG: upper arm LEFT DPT and Hep B: Anterolateral aspect (outer side) of midthigh LEFT Pentavalent: Anterolateral aspect of mid-thigh LEFT fractional IPV: Upper arm RIGHT PCV: Anterolateral aspect of mid-thigh RIGHT MR: Upper arm RIGHT TT: Upper arm RIGHT JE: upper arm LEFT.
+12.	 Push the plunger completely to deliver the dose. Do not rub
+13.	 Do not recap the needle. Cut the hub of the syringe
+immediately after use with a hub-cutter that collects the sharps in its puncture proof container.
+14. Then collect the plastic portion of the cut syringes in a red plastic bag.
+6.4	 Steps to ensure safe disposal of immunization waste
+Follow the steps as given below for disposal of the immunization waste.

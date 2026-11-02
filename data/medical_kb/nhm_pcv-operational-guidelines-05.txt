@@ -1,0 +1,49 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 5
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+3.9 CHALLENGES
+The introduction of a new vaccine into any routine immunization schedule poses challenges at various levels. In India, the health system provides a strong infrastructure for delivering these services to all parts of the country. Recent introduction of Hib-containing pentavalent, rotavirus and IPV vaccines have provided valuable experience and lessons to steer introduction of other vaccines.
+As part of introduction, the main challenge will be at the level of the health worker to administer the three required PCV doses (2 primary doses and 1 booster dose) at 6 weeks, 14 weeks and 9 months of age along with other routine vaccines at the same age.
+Efforts to ensure high coverage of PCV or any routine immunization should translate to improve coverage of the vaccines given concomitantly at the same visits.
+Program officers must supervise closely to ensure that all scheduled vaccines are given concomitantly such that coverage of all vaccines scheduled together remains high. For example, at 6 weeks of age it should be assured that high coverage rates of pentavalent1, OPV1, rotavirus1, fractional-dose IPV1, and PCV1 coverage rates are achieved and consistent across vaccines. Similarly, coverage rates should be tracked for all scheduled vaccines at PCV2 and PCV booster dose time points, respectively.
+Reporting and recording practices for PCV (mother- child protection [MCP] card, vaccine registers, due lists, tally sheets, reporting coverage portals such as health management information system [HMIS] and mother- child tracking system [MCTS] /Reproductive & Child Health [RCH] need to be updated) will require attention at all levels. Strong monitoring and supervision are required to identify gaps and to ensure accountability and take necessary corrective actions where needed.
+Trainings for frontline health workers will be crucial for smooth introduction of PCV, particularly in terms of community mobilization and vaccine acceptance.
+These interventions will contribute to strengthening the routine immunization system overall and for increased PCV coverage.
+Preparedness for PCV Introduction The introduction of PCV vaccine should be viewed as an opportunity to strengthen the overall routine immunization service delivery in the states and districts. Introduction of any new vaccine in the program requires meticulous planning at all levels.
+This initially involves top-down microplanning at the national and state levels, followed by bottom- up microplanning and detailing precise logistic and financial needs for each district and sub-district, starting from the more peripheral levels and moving towards the higher levels, adjusting macro-plans on state and national levels (Figure 22). requirements. The PCV introduction operational guidelines have been standardized for uniform understanding at all levels.
+4.1 STATE AND DISTRICT  PREPAREDNESS
+ASSESSMENT
+The MoHFW, Government of India, has developed and disseminated state- and district-level preparedness assessment checklists to support the state and district program managers in assessing critical information prior to introduction of any new vaccine (Figure 23).
+These checklists helped in assessing and identifying strengths and weaknesses at state, district and block levels to take corrective actions for effective and successful introduction of new vaccines such as Hib- containing pentavalent vaccine, IPV and rotavirus vaccine in the UIP.
+WHO, UNICEF, JSI and other immunization partners will continue to support MoHFW in reviewing the preparedness based on information provided by states in the checklist. The district checklists duly completed and signed by district authorities should be forwarded to the state. All districts are to submit their filled checklists to states within 15 days of receipt of the checklist.
+The states then review checklists received from districts and complete the state checklist within 2 weeks of receipt. These checklists are first State District Taluk / CHC Primary Health Centre / Primary Urban Health Centre Sub Centre / Urban health post Timely trainings/orientation/media briefing and information sharing with community helps in smooth launch at the level of health care service providers, mobilizers and community settings.
+The PCV introduction plan encompasses all components, including a program assessment at all levels to determine what is required for the introduction. The introduction plan takes into account the timelines for successful completion including vaccine supply and estimated procurement Figure 22. Bottom up approach for RI microplanning Figure 23. State and district preparedness checklist for PCV introduction analyzed by state immunization officers (SIOs) with support from partners to identify gaps and level of preparedness through state- and district-level scoring systems before sharing it with the ministry. The state checklists duly completed and signed by state authorities should be forwarded to the national level (MoHFW). These checklists can also be filled in an online tool.
+National observers will review the preparedness, vaccine requirements and cold chain capacities at state and district levels during their field visits.
+The key issues identified in checklists are discussed and sorted through task force mechanisms. PCV introduction should happen only when district preparedness is found satisfactory along with completion of trainings and other important activities.
+PCV vaccine will only be introduced in districts/blocks that have completed trainings.
+These checklists will also help the districts to assess availability of resources, especially cold chain space.
+The table 5 lists the components incorporated in the checklists.
+ESSENTIAL COMPONENTS
+16. General impressions
+17. Additional remarks/comments
+ADDITIONAL COMPONENTS
+1. Human resources vitals
+3. Microplanning status
+5. Training status
+7. Vaccine coverage and wastage
+9. Waste management & injection safety
+11. Adverse Events Following Immunization (AEFI)
+13. Advocacy & Communications
+15. Cold chain maintenance
+2. Background information
+4. Mission Indradhanush-specific information
+6. Reporting and recording practices
+8. Vaccine management, transport and logistics
+10. Monitoring & supervision
+12. Mobilization
+14. Surveillance
+Strengthening capacity of health workers on interpersonal communication skills (IPC) is important to ensure effective delivery of PCV in routine immunization, particularly in terms of community mobilization and vaccine acceptance.
+Trainings shall particularly focus on building capacity of vaccinators to alleviate any anxiety of vaccinators and community occurring due to multiple injections at the same visit. A systematic review found that parental acceptance of multiple injections during single visit was associated with a positive provider recommendation to the caregiver (Source: SAGE April 2015). A good training gives confidence to health workers to introduce new vaccines (Figure 24).
+Health-care personnel who require training on introduction of PCV include district immunization officers (DIOs), urban nodal officers (NHM-Urban), medical officers (MOs), cold chain handlers, data managers, supervisors, ANMs and frontline health workers. The officials and staff of the Department of Women and Child Development such as child development project officers (CDPOs), integrated child development services (ICDS) supervisors and anganwadi workers also need to be trained at the same time. In addition, plans should be drawn up to orient the faculty of pediatrics and preventive and social medicine departments in medical colleges as well as professional bodies (IAP, IMA) involved in immunization service delivery.

@@ -1,0 +1,45 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 22
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+I have read the consent notice provided above.
+Agree After clicking “Agree” in the final step, the vaccinator then click “Vaccinate Member” in U-WIN as shown the image below.
+After successful vaccination, the vaccinator can download the e-vaccination certificate as shown in the image below and provide a hard copy to the beneficiary.
+The vaccination certificate can be downloaded via the Vaccinator module. The prototype of the vaccination certificate is shown below.
+TAGGING OF IMMUNOCOMPROMISED PEOPLE
+Girls with the known status of immunocompromised or HIV-infected should be tagged in U-WIN at the time of onsite registration or beneficiary allocation at the session. The certification from medical officer for immunocompromised status or HIV-infection will be required to be uploaded in U-WIN. If the beneficiary is immunocompromised or HIV-infected, three HPV Vaccine dose (0, 2nd and 6th month) will be administered to the beneficiary in U-WIN.
+FREQUENCY OF REPORTING
+HPV vaccination data should be entered in real-time on the U-WIN portal after the vaccine is administered to each beneficiary during the session. The coverage report will be available in U-WIN, with details available up to the session-site level as shown in the image below.
+FINAL REPORT AT STATE AND NATIONAL LEVEL
+The final HPV vaccination campaign report will be prepared at the state and national levels, covering operational aspects, key observations, overcoming the challenges, lessons learnt, and recommendations.
+POST HPV VACCINATION CAMPAIGN
+Recording at Session Sites The vaccinator at the session site must record the administered HPV dose in U-WIN immediately (not beforehand or at the end of the day) before closing the session.
+The vaccinator must tally the HPV vaccine doses administered and ensure they match the figures recorded in U-WIN.
+The vaccinator must report the received, used, and returned vaccine doses and other supplies, including any wastage.
+The Medical Officer must ensure that all reported data is complete and accurate.
+Reporting HPV vaccine Coverage Session-wise and planning unit-wise HPV vaccination campaign coverage report will be made available through U-WIN. These will be used to compile the daily coverage reports at the district, state and national level.
+U-WIN will generate a list of eligible girls who missed HPV vaccination using the due list. Additionally, Medical Officers will prepare daily qualitative reports on reasons for non-vaccination, any other challenges, suggest corrective actions, and share them with the Block Medical Officer.
+ADVERSE EVENTS FOLLOWING IMMUNIZATION (AEFI) REPORTING IN U-WIN All vaccinators or District Immunization officers can report the AEFI’s through Vaccinator module or the District Administrator module using their U-WIN credentials.
+Vaccinator can report HPV vaccination–related AEFI for any beneficiary, irrespective of whether the vaccination was administered by him/her or by another vaccinator.
+Workflow for the reporting of HPV vaccine related AEFI Step 1: Vaccinator must log in to U-WIN using their valid user credentials. After successful login, the menu tab will appear on the left side of the screen. The Vaccinator can select the “Report AEFI” option from the menu option.
+Step 2: After selecting the “Report AEFI”, vaccinator can click on the drop-down menu under the “Search by” option. Vaccinator can search for the beneficiary for whom AEFI is to be reported by selecting the appropriate option from the “Search by” drop-down menu.
+Step 3: Vaccinator can view all beneficiaries registered with the selected option will be displayed. Click on the “Report AEFI” button corresponding to the beneficiary for whom the adverse event needs to be reported.
+Name, Mobile number, Date of Birth, Gender, UWIN reference number of beneficiary.
+State, District, Sub district, Health facility name where vaccination took place.
+Vaccinator name and mobile number Step 5: Vaccinator also needs to enter the details of notifier such as name of the person notifying the case, contact phone number, place of present posting and designation as per the drop down menu.
+Step 6: The “Details of the Session Site” section is pre-filled in the system and cannot be edited by the Vaccinator. Additionally, vaccinator should enter the “Time of Vaccination” in hh:mm format.
+Step 7: Vaccinator can select the “Campaign (MI, Pulse Polio, MR, JE, COVID-19, HPV)” option from the dop down menu of “Vaccination done in” list.
+Step 8: Vaccinator also needs to enter the complete address of the beneficiary/patient, including nearby landmarks, in the designated field.
+Step 9: The Vaccinator should select the “Adverse Event(s)” as reported by the beneficiary or the father/ mother/guardian from the available list. If “Any other” is selected, the Vaccinator must specify the details of the adverse event in the provided field.
+Step 10: Vaccinator should enter the date of onset of the first symptom in DD/MM/YYYY format, the time of onset of the first symptom in hh:mm format and indicate whether the beneficiary was hospitalized (Yes/ No).
+If the beneficiary is hospitalized, enter the date of hospitalization in DD/MM/YYYY format.
+Select “Death” – Yes or No from the drop-down menu as applicable.
+If “No” is selected under “Whether Death?”, choose the appropriate option under “Current Status of Patient” from the drop-down list: Recovered completely / Recovered with sequelae / Still under treatment / Unknown.
+If “Yes” is selected under “Death”, enter the date of death in DD/MM/YYYY format Step 11: Vaccinator can select “Is this case part of a cluster”- Yes if the case is part of a cluster; otherwise, or else select “No”.
+Once all required fields in the form are completely filled, vaccinator can click the “Submit” button to save and report the AEFI case.
+Step 12: A confirmation prompt will appear after clicking “Submit.” Select “Yes” to finalize and submit the AEFI report.
+After the AEFI case is successfully submitted, an AEFI ID will be displayed next to the date of vaccination for which the AEFI was reported. The “Report AEFI” button will no longer be visible for that particular date, indicating that the report has been recorded.
+5D. COLD CHAIN AND VACCINE LOGISTICS MANAGEMENT (CCVLM) An effective cold chain and vaccine logistics management system is an essential prerequisite for the successful new vaccine introduction. The smooth functioning of the immunization supply chain is critical for the delivery of immunization services.
+Vaccine stores at all levels (state, regional, district and sub-district level) need to forecast their vaccine and logistics requirements to ensure that the right number of vaccine doses, logistics and cold chain equipment are available to vaccinate all eligible beneficiaries at a given time and place. Each level should assess its cold chain space and dry storage capacity, monitor the stock of vaccines and syringes in order to assess the lead-time and re-ordering levels.
+The major steps in logistics management during HPV vaccination campaign are as follows: Order vaccines in advance; Make a written distribution plan for all levels of immunization supply chain. The plan should include; A specified responsible person at each post; Specify when and how supplies will be distributed; Disposal of injection waste as per CPCB norms.

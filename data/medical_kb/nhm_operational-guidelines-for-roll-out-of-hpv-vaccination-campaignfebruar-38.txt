@@ -1,0 +1,54 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 38
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+25. Why are only girls being vaccinated against HPV and not boys?
+The NTAGI and WHO position paper has recommended HPV vaccination as the tool for the prevention of cervical cancer and recommended girls as the primary target population for HPV vaccination. Achieving over 80% coverage in girls will reduce the risk of HPV infection for boys.
+26. Can adolescent girls who have celebrated their 15th Birthday receive the HPV vaccine?
+Under the current GOI guidelines, only girls aged 14 years but less than 15 years should be vaccinated. Girls who will turn 15 years within 90 days of the Campaign launch date are also eligible for vaccination, but only during the three-month campaign period. After the three-month campaign period, the HPV vaccine will be available at the same health facilities on Routine Immunization Days for girls aged 14 years.
+27. Why isn’t the HPV vaccine recommended for older adults?
+The vaccine is most effective and durable when given at a younger age, ideally before exposure to the virus. As people get older, the chances of prior HPV exposure increase, making the vaccine less effective.
+28. Why is the HPV vaccine being introduced in a special Campaign?
+The HPV vaccine is currently being introduced through a special Campaign to ensure availability of trained health workers, proper vaccine storage, and close safety monitoring. This careful rollout helps build a strong foundation before it becomes part of the routine immunization schedule.
+ELIGIBILITY AND VACCINE TIMING
+29. What is the dose, route, site of administration and dose schedule for the HPV vaccine?
+The quadrivalent HPV vaccine (Gardasil) is a liquid vaccine administered as a single 0.5 ml intramuscular dose in the left upper arm at 14 years of age. The Government of India has chosen a single-dose schedule HPV vaccine over a two- or three-dose schedule, as it offers comparable efficacy and duration of protection to a two-dose schedule.
+DOSE, SCHEDULE, EFFICACY
+AND PROTECTION
+35. Are HPV vaccines safe?
+Yes. As with all vaccines, the safety and effectiveness of HPV vaccines are monitored very carefully. Studies have demonstrated the safety and effectiveness of HPV vaccines, and since licensure in 2006, over 50 crore doses have been distributed as of December 2022. Post-licensure surveillance has detected no serious safety issues to date except rare reports of anaphylaxis.
+36. Is it safe to vaccinate a girl during menstruation?
+The HPV vaccine does not affect periods or puberty. So, it is safe to administer the HPV vaccine if the girl is menstruating.
+37. Will HPV vaccination affect a girl’s fertility? Will it affect her chances of getting pregnant later?
+No. As per the available evidence and literature, there is no impact on fertility or future pregnancies.
+VACCINE SAFETY
+30. Why is Government of India (GoI) using Gardasil vaccine instead of Gardasil 9 vaccine in its HPV vaccination Campaign?
+The primary objective of HPV vaccination is to prevent cervical cancer, which accounts for 82% of all HPV- related cancers. Gardasil provides protection against four HPV types (6, 11, 16, and 18), while Gardasil 9 extends protection to nine types. Despite the broader protection of Gardasil 9, HPV 16 and 18 alone contribute to approximately 83% of cervical cancer cases in India. Thus, by focusing on the high-risk strains, the government's strategy is a highly effective approach to reducing the overall disease burden.
+31. Does Gardasil (qHPV) vaccine provides cross-protection for types in nonavalent
+Yes, the qHPV vaccine provides partial cross-protection against these HPV types not included in the vaccine.
+32. How effective are HPV vaccines?
+HPV vaccines are 93-100% effective in preventing cervical cancer and are highly immunogenic. The serological response to vaccination is much stronger than the response after natural infection.
+33. Is single-dose HPV vaccine effective?
+Currently, one dose of HPV vaccine (Gardasil, Gardasil-9, Cervarix, and Cecolin) in young girls is effective and provides sufficient protection against persistent HPV infection as per the WHO.
+34. What is the duration of protection after quadrivalent HPV vaccine single dose?
+For a single-dose schedule, antibody titres have been shown to be stable for over 12 years, and follow-up studies are ongoing. There is no evidence to suggest that a booster dose is needed after primary HPV vaccination.
+38. Can HPV vaccine be given during pregnancy?
+No. HPV vaccines are not recommended for use in pregnant women. However, in 16 Randomized Control Trials (RCTs) including more than 25,000 participants, no specific safety concerns were identified for the outcome of pregnancy, spontaneous abortion, miscarriage, stillbirths, or fetal development.
+39. Can HPV vaccine be given while breastfeeding?
+Yes. The HPV Vaccine is safe while breastfeeding, and vaccines given to lactating women do not affect the safety of breastfeeding for mothers or infants.
+40. Can the HPV vaccine be co-administered with other vaccines?
+Yes. The HPV vaccine can be safely co-administered with other routine vaccines such as Td, MR, and JE.
+41. Can individuals known to be immunocompromised or with HIV infection be
+Yes. Individuals known to be immunocompromised or HIV-infected can be administered two doses (at 0 and 6 months) or three doses (at 0, 2, and 6 months), after consultation with a specialist.
+42. Does family history of cervical cancer affect a girl’s eligibility for the HPV vaccine?
+No. Family history of cervical cancer does not affect a girl's eligibility for the HPV vaccine.
+43. What are the exclusion criteria for HPV vaccination?
+Following are the exclusion criteria for HPV vaccination: A girl with moderate or severe illness should wait until she has recovered.
+Those who had an allergic reaction to previous vaccination or are known to be allergic to yeast should avoid getting vaccinated.
+Pregnancy Girls out of the target age group range under the current HPV vaccination Campaign.
+Girls who have been previously vaccinated should not receive HPV vaccine again. Additionally, her vaccination status needs to be updated in U-WIN.
+44. Which finger is to be marked after HPV vaccination?
+The left index finger should be marked after HPV vaccination.
+45. Can it be given to TB patients, cardiac disease patients, patients on epilepsy treatment, sickle cell/thalassaemia cases?
+Yes, the HPV vaccine can generally be given to patients with these conditions because the HPV vaccine is a non-infectious recombinant vaccine prepared from purified virus-like particles (VLPs) that does not contain a live virus and cannot cause the disease itself. However, a medical specialist's advice is to be taken before HPV vaccination in the following patients: 1. Tuberculosis (TB) Patients: Patients with TB can receive the HPV vaccine. There is no evidence that the vaccine interferes with TB medication or worsens the infection. However, it is often preferred to wait until a patient has completed the initial intensive phase of TB treatment or is clinically stable before administering vaccines to ensure the body can mount a strong immune response. While the HPV vaccine is generally safe and recommended for people with chronic conditions, a consultation with a medical specialist is a necessary step.

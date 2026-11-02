@@ -1,0 +1,38 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 10
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Column G: Determine the expected date of delivery (EDD) of the child. This can be sourced from the RI/MCP card if available or from the mother herself. If she is unaware, then determine the EDD as best as possible by assessing her date of last menstrual period (LMP). (Surveyor can consult ANM who can refer to the EDD ready reckoner from RCH register/training manual).
+The administration of TT vaccine to PW as per the UIP schedule prevents maternal and neonatal tetanus; details of the same are to be entered in the three H Columns.
+Antenatal check-ups help to identify a high-risk pregnancy and reduce chances of any complications.
+Details of these check-ups should be entered in the four I Columns.
+Column J: this is for the ANM to enter if the woman is due for any ANC or TT vaccination. These two columns make it easier for the ANM to extract the information and develop the beneficiary due list for each RI session.
+The dates of administration of TT injections and ANC check-ups should be obtained from the RI/ MCP card.
+When filled correctly, this form provides information needed to develop the beneficiary list of infants/children of the area. Accurate information on the number of children and the vaccines that they are due for will help to identify which vaccines a child is to receive, and when.
+Column A: The number in Column A must be the same as that used to identify the household in Form 3. If there is more than one child in a house, the same house number will have to be entered for each of these children.
+Columns B, C, D and E: These columns are used to collect identification information of each child.
+Attempt to collect the latest mobile number from the parent/household.
+Column F: Enquire if the infant/child has been issued an RI/MCP card. If not, information should be shared with the ANM of the area to ensure that a card is issued at the earliest.
+Column G: This records detail of vaccines administered at birth. Dates are to be entered of when BCG, OPV zero dose and Hepatitis B (within 24 h) were administered.
+Column H: Dates of administration of Penta 1, Rotavirus 1(where applicable), fIPV1, PCV1(where applicable) and OPV 1 Column I: Dates of administration of Penta 2, Rotavirus 2(where applicable) and OPV 2 Column J: Dates of administration of Penta 3, Rotavirus 3(where applicable), fIPV2, PCV2(where applicable) and OPV 3 Column K: Enter the dates of administration of vaccines due between the age of 9 months and 1 year – measles/MR first dose, Vitamin A, PCV booster (where applicable) and Japanese Encephalitis (where applicable) vaccines.
+encircle “Yes” or “No”. A child is to be considered as fully immunized if s/he has received all the due vaccines up to 1 year of age.
+Column M: Dates of administration of vaccines due for a child between the ages of 1 and 2 years are to be entered in column M. This includes DTP booster, measles/MR second dose, OPV booster dose and JE2 vaccine, where applicable.
+encircle “Yes” or “No”. A child is to be considered as completely immunized if s/he has received all the due vaccines up to 2 years of age.
+You will get forms 3, 4 and 5 from each ASHA/AWW after completing the area survey.
+Step 4 should be done at the SC and is to review the formats and compile the data and information.
+This meeting may be in batches if needed.
+As the SC ANM you should organize this meeting. Inform participants about the venue, date and time 2–3 days in advance so that they attend the meeting with completed survey forms.
+Facilitator: Sector MO/LHV/health supervisor Participants: ANM, ASHA, ASHA facilitator, AWW Key activities to be conducted: Finalize area demarcation on the map. Review and refine RI plans as per actual head count and identification of any missed (migratory/ settled) pocket in sub centre area. Ensure functional tagging – areas tagged to existing RI sites should be practical. Consolidate the RI Microplan at sub centre – Forms 6, 7, 8 and 9. Develop mobilization plans. Update the map of sub-centre/urban health centre if needed Prepare for the meeting Review and finalize the information in forms 3, 4 and 5 collected during the house-to-house survey with the ASHA/AWW/link workers. Prepare a simple map of the SC from the information and experiences of the workers who have completed the survey. This map need not be to scale, but should include area demarcation for ASHA/AWW/mobilizers and other information as mentioned above.
+Number of new areas identified Number of beneficiaries Consensus on listing of areas and HRAs Consensus on demarcation of areas Formats collected after cross check and attestation Availability of maps.
+SC ANM/LS
+An overview of RI Forms 6 to 11 used in the SC RI microplan is given in Fig. 4.10.
+Signature of ANM Signature of ASHA Signature of AWW Total Number of Pregnant women as per the due list Total women vaccinated Total number of children as per due list Total children vaccinated RI Session Due List This form is the session due list. It identifies the number of beneficiaries per session and the vaccines for which they are eligible during the RI session. This is also the record of payment of ASHA incentives.
+This format is to be prepared by the ANM with support of the ASHA/AWW/LW after the proposed microplan is approved by the medical officer during step 5 of the microplanning process.
+This session due list will help the ASHA in mobilizing beneficiaries to the session/s. Use a calendar and share the dates of upcoming sessions with ASHA/AWW/LW in advance to allow for mobilization.
+Form 6 – Note This is a session due list and incentive recording sheet To be filled after finalization of microplan with medical officer ANM to compile the session beneficiary due list from the information submitted in Forms 4 and 5 Where possible, the MCTS number of PW is to be entered Column A: The serial number for each beneficiary is to be entered here.
+Column B: MCTS registration number is to be entered where available. ANM can provide this information from her RCH register. This unique number will help track the beneficiaries for complete immunization.
+Column C: Name of the child/pregnant woman identified for services during this session is entered here.
+Column D: For children enter the date of birth and for PW the expected date of delivery, if known.
+Column E: Enter the age of the child in months or age of pregnant woman in years and months.
+Column F: Enter the sex of the child.

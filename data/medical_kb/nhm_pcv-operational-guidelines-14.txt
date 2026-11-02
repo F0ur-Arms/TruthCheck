@@ -1,0 +1,67 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 14
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+11.3.5 Tracking beneficiaries  (left-outs and
+Undertake headcount for estimation of beneficiaries by ANMs/ASHAs/AWWs for improved micro-planning, due listing and tracking.
+Use standardized tools for microplanning and estimation of beneficiaries. Ensure that it is a time- bound activity and gets completed in 1–2 weeks.
+Undertake headcount for estimation of beneficiaries by ANMs/ ASHAs/AWWs for improved micro-planning and tracking.
+State and district observers and partners should intensively monitor head count activity and share findings at all relevant platforms.
+Implementation of immunization tracking bag (one per session site). ANM will keep one immunization tracking bag for each session site.
+She will make the ASHA/AWW of that area responsible for safe keeping of tracking bags containing counterfoils. The ANM will provide oversight and cross check counterfoils to ascertain reasons for dropouts.
+Ensure that vaccinators update due lists before every session. Following PCV introduction, ensure that PCV1 should be included as part of due lists for beneficiaries coming at 6 weeks for pentavalent1, OPV1, Rota1, fractional-dose IPV1; and subsequently for PCV2 at 14 weeks and PCV booster dose at 9 months.
+Share the due list formats and revised immunization component in the MCP card.
+11.3.6 Intensify monitoring and supervision
+Strengthen monitoring and supervision through LHVs and health supervisors. Explain preparation of supervision plan based on priority and use of standardized formats.
+MO in-charge and other nodal officers identified should supervise PCV implementation in the routine immunization sessions.
+Blocks/planning units should be receptive to feedback from independent agencies for corrective action.
+Use reporting formats developed for monitoring of PCV vaccination drive.
+Use standardized routine immunization monitoring formats recently revised and shared with states by MoHFW. (Refer to the revised routine immunization session and house-to- house monitoring formats)
+Rapid monitoring will be initiated at block & session level for at least 3 months of PCV introduction to assess the implementation status, identify gaps/bottlenecks and provide feedback for immediate corrections. This activity will be undertaken by all immunization partners.
+Separate formats for rapid monitoring have to be filled in addition to the routine immunization monitoring formats.
+11.3.7 Communications planning
+Block MOICs should plan IEC and mobilization activities for greater community participation.
+Facilitate and coordinate all available human resources such as mobilizers and NGO volunteers to create awareness and enabling environment.
+List high-risk pockets and plan mobilization activities with mobilizers/volunteers.
+The communication plan must include strategic use of communications channels such as announcements from mosque/temples and meetings with local influencers, for example community leaders, panchayat members, local practitioners, teachers to mobilize families to bring their children for immunization.
+Ensure including the names of mobilizers/ volunteers/influencers in the micro-plans.
+Distribute IEC materials well in advance as per guidelines.
+Role of Partners The technical and monitoring support of partner agencies such as WHO, UNICEF, UNDP, ITSU, JSI and others is critical for the introduction of PCV in the UIP.
+Shall provide technical expertise in the development of plans for PCV introduction at state and district levels.
+Provide recommendations on customization of the preparedness checklists and support the district and state governments in completion of these checklists.
+Assist in the review of information derived at the state and district level.
+Capacity building through state and district level ToTs.
+Monitor implementation at the block/district levels with feedback to DTFI and STFI.
+Conduct rapid monitoring of PCV preparedness and introduction.
+Track the progress in implementation of actions in strengthening routine immunization and sharing of the findings at district, state and national levels.
+Share feedback and recommendations to guide future strategies in PCV introduction.
+Support in developing communication strategy and its timeline for PCV introduction, and organizing media sensitization workshop.
+Provide assistance in information dissemination through its network.
+Capacity building through state and district level ToTs.
+Assist blocks in training of frontline health workers (through SMNet where present).
+Monitor communication and IEC activities related to PCV introduction.
+Assist in the development of behavior change communication (BCC) for PCV introduction.
+Develop a Vaccine Management plan including estimation, forecasting and establishing minimum/maximum stock for PCV through eVIN.
+Track stock movement of PCV from state to cold chain points through eVIN.
+Support districts in physical validation of cold chain points as part of cold chain assessment.
+Provide regular feedback and recommendations for stock availability and adequacy during DTFI and STFI.
+Track the progress on implementation of PCV introduction, prepare progress reports, dashboards, bulletins and share with MoHFW and other stakeholders for necessary corrective measures.
+Support ITSU in development of communication strategy and its timeline for PCV introduction.
+Support ITSU by providing data/facts and evidence-based messages for development of communication material.
+Participate in and facilitate speakers/experts in state level technical workshops.
+Organize state-level CSO workshops involving technical experts and other key officials.
+In coordination with ITSU/UNICEF, participate in and support/facilitate state level media sensitization workshops.
+Develop communication strategy for PCV introduction as well as communication material prototype, including relevant training materials for frontline health workers and mobilizers.
+Assist MoHFW in collating and analyzing PCV coverage data.
+Other organizations such as IMA, IAP and civil society bodies to extend support at national, state and district levels. These organizations can play an important role in information dissemination and advocacy at various levels.
+Their involvement at district and state task force meetings can be encouraged based on decisions by state and district health department needs.
+State and district workshops should be organized to sensitize stakeholders on the technical and operational aspects of vaccine introduction at least 2–3 months prior to the vaccine launch.
+Each state should use standard assessment checklists to review district-level preparedness before allowing introduction of new vaccines.
+Each state should have a functioning STFI and DTFI to regularly review and guide the new vaccine introduction and immunization program.
+Sensitizing leading pediatricians, including IAP, IMA and IRC local chapters is an absolute requirement before launching PCV vaccination drive at both the state and district level.
+The immunization management structure should particularly be strengthened at state and district levels.
+Additional special sites need to be planned for targeting the high risk groups scattered within urban areas identified in advance through field validation.
+Vaccinators, identified from medical colleges, nursing colleges, ANM training schools, pharmacy colleges and private nurses, need to be trained in advance on new vaccine before the introduction.
+The plan should be made to include them in the respective urban area micro plans.
+Micro-planning should be initiated 1-2 months prior to new vaccine introduction using bottom-up approach to ensure inclusion of all components. Availability of micro-plans for outreach sessions (who will get vaccinated, Annexure 1: Key lessons learned from new vaccine introduction in India (Measles vaccine, Hib-containing pentavalent vaccine, Inactivated Poliovirus Vaccine (IPV), Rotavirus vaccine, etc.)20 where, who vaccinates, when vaccination will be done, team information, number of beneficiaries, nearest health facility etc.,) is the most crucial component of the program.

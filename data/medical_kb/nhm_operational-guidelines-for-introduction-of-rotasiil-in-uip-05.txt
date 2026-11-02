@@ -1,0 +1,60 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Introduction of Rotasiil in UIP, part 5
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Operational_Guidelines_for_Introduction_of_Rotasiil_in_UIP.pdf
+────────────────────────────────────────────────────────────
+
+On reconstitution, date and time must be written on the vaccine vial. Rotavirus vaccine should not be used beyond 4 hours after reconstitution. Return the partially used vials to the Cold Chain Point after the session along with the other used vaccine vials. The partially used vaccine vials returned from the session sites are to be kept separately in the ILR for at least 48 hours or till the next session, whichever is earlier.
+However, the introduction of Rotavirus vaccine (like any other new vaccine) may coincide with the increased reporting of AEFIs in the states and districts and increased cases of intussusception. All these AEFI cases, including that following Rotavirus vaccine administration should be reported as per the Government of India AEFI surveillance and response operational guidelines, 2015. AEFI causality assessment will inform about the potential association with Rotavirus vaccine.
+OPERATIONALIZATION
+OF ROTAVIRUS VACCINE
+INTRODUCTION IN UIP
+5.1 Preparedness assessment for Rotavirus
+vaccine introduction in India The introduction of the vaccine should be considered as another opportunity to strengthen the overall RI service delivery in the states and districts. Introduction of any new vaccine in the programme requires meticulous operational planning at all levels, with detailed activities and timelines. This initially involves top-down macroplanning at the state level, followed by bottom-up microplanning and detailing precise logistic and financial needs for each district and sub-district, starting from the more peripheral levels and moving towards the higher levels. Timely trainings, orientation, media briefing and information sharing with community helps in smooth launch at the level of health care service providers, mobilizers and community settings.
+Rotavirus vaccine introduction plan encompasses all components, including a programme assessment at all levels to determine what is required for the introduction. The introduction plan takes into account the timelines for successful completion including vaccine supply and estimated procurement requirements. The vaccine introduction operational guidelines have been standardized for uniform understanding at all levels.
+5.1.1 New vaccine preparedness assessment
+The MoHFW, Government of India, has very recently developed and disseminated state and district-level preparedness assessment checklists prior to new vaccine introduction. These checklists have been developed to support the state and district programme managers in assessing critical information prior to introduction of the new vaccine.
+The checklists have been suitably modified for Rotavirus vaccine and the state should review their preparedness before introducing the vaccine.
+1. Human resources vitals
+9.  Waste management and injection safety
+2. Background information
+10.  Monitoring and supervision
+3. RI Microplanning status
+11.  Adverse Events Following Immunization
+4. Intensified Mission Indradhanush- Specific
+12.  Mobilization
+5.  RI Training status
+13.  Advocacy and communication
+6. RI Recording & reporting practices
+14.  Surveillance
+7.  Vaccine coverage and wastage
+15.  Cold chain maintenance
+8.  Vaccine & logistics management
+16.  General impressions
+17.  Additional remarks/comments
+5.2 Estimation of vaccine requirements
+5.2.1 Estimation of vaccines needed
+The annual number of Rotavirus vaccine doses needed is to be calculated based on the target population, three doses per child and wastage factor. Every beneficiary will require three doses at 6, 10 and 14 weeks.
+Considering vaccine wastage rate of 10% (for 2-dose vial) and buffer stock of 25%, the annual vaccine requirement can be calculated as follows: Annual vaccine requirement (in doses) = (Number of beneficiaries X Number of doses per infant X 1.11* X 1.25) (*Wastage Multiplication Factor is 1.11) The number of vaccine vials needed for each level of store can be estimated by dividing the doses in each vaccine vial.
+2.0. Open vial policy is not applicable.
+1.33. Open vial policy is not applicable.
+IPV, OPV, Pentavalent Hepatitis B, DPT, TT, PCV and Rotavirus 10% and the wastage multiplication factor is 1.11. Open vial policy is applicable for vaccines under this category except Rotavirus vaccine for which open vial policy is not applicable.
+5.2.2 Estimation of diluents needed
+The estimated number of diluent vials will be same as number of vaccine vials.
+5.2.3  Wastage rate and buffer stock
+Rotavirus vaccine vial should not be used after 4 hours of reconstitution of the vial. As the vaccine is a 2-dose vial, it is estimated that there will be minimal wastage. Thus, wastage of 10% (wastage multiplication factor 1.11) is recommended.
+The buffer stock recommended is 25% for the vaccine in the initial year. All efforts should be made to minimize vaccine wastage at all levels. The buffer stock is meant for managing sudden and unexpected shortages. The amount of buffer stock recommended is generally 25% of the annual requirement.
+5.2.4 Assessing the cold chain space and inventory
+The cold chain infrastructure in India is a wide network of cold chain stores consisting of government medical supply depots (GMSD), state vaccine store, regional/divisional vaccine stores, district vaccine store and the last cold chain point at the PHC/CHC. As the Rotavirus vaccine is supplied in a two dose vial so substantial cold chain space is required. The Districts and States must review the cold chain space requirement at different levels to ensure that adequate space is available to accommodate the Rotavirus vaccine. The cold chain inventory should be regularly reviewed and status of the same should be updated in the National Cold Chain Management Information System (NCCMIS).
+Each dose of Rotavirus vaccine, occupies 10.5 cm3 of cold chain space and each dose of diluent occupies 10.6 cm3. Therefore, 35 cm3 cold chain space for the vaccine and 35.3 cm3 for the diluent , with a total of 70.3 cm3 of additional cold chain space would be required per infant at a cold chain point. (Note – Net Storage Volume = 1.11 X volume of each dose, Storage volume required per beneficiary = Net Storage Volume X no. of doses per beneficiary)
+5.2.5 Cold chain monitoring
+All Rotavirus vaccine vials have a vaccine vial monitor (VVM). The VVM registers cumulative heat exposure.
+Before use, check the VVM on each vaccine vial. If inside square is the same colour, or darker than the outer circle, do not use the vaccine.
+5.2.6 Vaccine storage
+To ensure efficacy of the vaccines, proper storage and packing are essential. In top-opening ice lined refrigerators (ILRs), Rotavirus vaccine vials are to be stored along with or above the BCG vials as shown in the figure 11.
+These vials should be discarded after 48 hours or before the next session, whichever is earlier as per the CPCB guidelines.
+1.  Opened vials of BCG, Measles/MR, JE and RVV
+2.   All empty vaccine vials
+3.   VVM is not in usable stage
+4.   Date and time of opening is not mentioned
+5.2.7 Conditioning of ice packs for sessions
+200C. They need to be kept at room temperature for a certain period of time to allow the temperature at the core of the ice pack to rise to 00C. This process is called “conditioning” (Figure 12): At start of session day, take all the frozen ice-packs you need from the Deep freezer. Lay these out on a table leaving a 5-cm space all round each icepack. Lay out icepacks, preferably in single rows but never in more than two rows. Check to see if ice inside the icepacks has begun to melt and some condensation, or droplets of water appears on the surface of ice packs. Shake the icepacks and listen for the sound of water. An ice pack is adequately “conditioned” as soon as beads of water cover its surface and the crackling sound of water is heard on shaking it. Conditioning is done to prevent freezing of the freeze sensitive vaccines.

@@ -1,0 +1,51 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 8
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+Place the vaccines inside and ensure that the container is properly closed.
+Allowing ice packs to thaw means that the initial freezing temperature is lost, so the temperature in the insulated carrier does not drop below 0°C.
+Properly conditioned ice packs constitute the best method to maintain the temperature of the insulated carriers and cold boxes.
+There should be sufficient ice packs to ensure that the vaccines are totally surrounded during transportation.
+6.8 PCV VACCINE HANDLING
+PCV is stored at +2°C to +8°C in ILR along with other UIP vaccines at all levels.
+6.7 CONDITIONING OF ICE PACKS
+Ensure that the insulated vaccine carriers are clean before use and at end of the day.
+Place the ice packs first and then the vaccine To see if ice packs are conditioned observe for sweating (water drops) on ice packs shake the ice packs to hear the water move inside by MoHFW. Each vial contains a VVM to indicate cumulative exposure to heat. Any vaccine vial beyond the discard point of VVM should not be used and to be discarded. The vaccine should be stored between +2°C and +8°C. Remember PCV is a freeze sensitive vaccine and shake test is applicable.
+6.9 PCV STOCK MANAGEMENT
+(INVENTORY CONTROL) The inventory system should ensure that units with the nearest expiry date are used first in a system known as EEFO (Early Expiry, First-Out). Expiry date should always be checked whenever a vial is opened.
+Never use vaccines after the expiry date (Figure 29).
+If you find frozen vaccine vial, do not use it and record it in the vaccine stock and distribution register.
+PCV 13 being used under UIP is supplied as 4 dose vial presentation Figure 29. Key operational aspects of PCV Safe Injection Practices and Management Of Adverse Events Following Immunization (AEFI)
+7.1 QUALITY OF VACCINATION - SAFE
+INJECTION PRACTICES
+As in routine service, all vaccinators will use only AD syringes for PCV vaccination. These syringes prevent person-to-person transmission of blood- borne pathogens (Figure 30).
+Use a new sterile packed AD syringe for each injection for each child.
+Use the same syringe to draw and administer the vaccine.
+Do not touch the needle at any stage.
+Do not touch or contaminate the septum of the vial.
+Do not attempt to recap the needle. This practice can lead to needle stick injuries.
+Immediately after injecting the child, the AD syringe must be cut from the hub (plastic part at base of needle) using the hub cutter, and put the cut part of the syringe in the red bag. DO NOT PUT the syringes on the table or in a tray after the injection.
+Do not use AD syringes that have damaged packaging, or have passed the manufacturer expiry date.
+Wash your hands with soap before and after the vaccination session.
+7.2 SAFE DISPOSAL OF WASTE
+The immunization waste generated during vaccination must be disposed of as per current CPCB guidelines of biomedical waste disposal.
+Cut the hub of the AD syringe immediately after administering the injection using the hub cutter.
+The cut needles will get collected in the puncture proof translucent container of the hub cutter.
+Segregate and store the plastic portion of the cut syringes, plastic ampoules, used gloves in the red bag.
+Expired or discarded vaccines, broken vials, empty unbroken vials, glass ampoules will go into Blue bag.
+All other non-infectious wastes will go into black bag.
+7.3 MANAGEMENT OF AEFIs DURING
+PCV VACCINATION
+An AEFI is any untoward medical occurrence which follows immunization and which does not necessarily has a causal relationship with the usage of the vaccine. The adverse event may be any unfavorable or unintended sign, abnormal laboratory finding, symptom or disease.
+The experience of earlier vaccine introductions such as pentavalent vaccine have shown an increase in reporting of serious AEFI cases (deaths and hospitalizations) immediately after vaccine introduction due to increased sensitivity to safety as a result of training of health workers and awareness in the community and media as well as improved surveillance. Occurrence of an adverse event after immunization and its reporting does not necessarily imply that the vaccine is the cause of the adverse event. Ensure that before introduction of a new vaccine such as PCV, the AEFI surveillance system in the district/state has been strengthened and AEFIs are being reported for all vaccines.
+It is important that all AEFIs thought by parents/ community to be due to a vaccine/vaccination are reported and investigated completely. Parents/ community must be kept informed about the results of the investigations. This will help maintain confidence in vaccines and the immunization program.
+7.3.1 AEFI DURING PCV VACCINATION
+PCV vaccines have an excellent track record for safety and efficacy, whether used alone or when co-administered with other vaccines. But a small percentage of children may experience some adverse effects from PCV. The vaccine may be associated with injection site reactions (redness, swelling, tenderness) in 10% of vaccine recipients.
+Generalized reactions such as fever occur in <1% of vaccine recipients.
+Rarely, as with other drugs and vaccines, allergic reactions and anaphylaxis may occur with PCV. In such cases, the vaccine recipient should be rushed to nearest health facility (AEFI management centre) and subsequent doses should not be given.
+During PCV vaccination, AEFIs must be quickly detected and promptly responded to. Lack of response can undermine confidence in the vaccine and immunization program. This will ultimately have a negative impact on immunization program and the program objectives will not be achieved.
+Safe Injection Practices and Management Of Adverse Events Following Immunization (AEFI) Frontline health workers/link workers (AWW/ ASHA/community volunteer)/ANM should immediately inform the MO of the AEFI and arrange for transportation to the nearest AEFI Management Center or health facility. After an AEFI takes place, arrange to provide immediate and appropriate treatment to the child experiencing the event, and report and investigate the case. All efforts should be made to manage the adverse event (if any) followed by investigation of AEFIs as per guidelines. Reporting of AEFIs related to PCV should be conducted as per the Government of India’s revised AEFI Surveillance and Response Operational Guidelines, 2015.
+Medical officers in charge of immunization at PHCs/CHCs/SDHs/District hospitals will be responsible for managing and reporting AEFIs.
+Ensure that all other MOs in the PHCs/CHCs/ SDHs /District Hospitals are trained and sensitized on immediate reporting of serious/severe AEFIs.
+The AEFI management centers at select PHCs/ CHCs /SDHs should be monitored, steps taken to ensure the staff are trained, and infrastructure and medical supplies must be in adequate supply (refer to Immunization Handbook for Medical Officers, MoHFW, GOI, Reprint edition 2017). If the case cannot be managed locally, arrange to refer the case to a higher treatment center.

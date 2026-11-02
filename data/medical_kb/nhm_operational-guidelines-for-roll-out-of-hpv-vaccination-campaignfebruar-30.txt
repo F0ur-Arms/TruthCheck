@@ -1,0 +1,46 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 30
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Key Communication Challenges and Strategies: Community engagement strategies.
+Crisis Communication and Media Plan: Challenges and Strategies around crisis communication and media handling.
+It is also important that all stakeholders work collectively, in coordination and synergy, for the successful planning and implementation of HPV vaccine introduction. Therefore, in addition to training on operational aspects, orientation of key stakeholders on HPV vaccination is critical for the success of the campaign. Table 9 gives an overview of cascading training from the national to the district level for identified key stakeholders, while Table 10 outlines the orientation plan for media sensitization at different levels.
+NCERT, CBSE, ICSE, Kendriya Vidyalaya Sanghathan (KVS), Navodaya Vidyalaya Samiti (NVS) Rural Development (Aajeevika- NRLM), Defense (Schools), Railways (Schools), Tribal Welfare (Schools), Social Welfare (Schools), Labor (Schools), PRI, ULB, Media, Waqf-Minority affairs, School Management Committees/Associations, professional bodies (FOGSI, IAP and IMA), Lions Club, Rotary Clubs, CSOs/NGOs, cancer societies.
+MONITORING OF TRAINING
+Each training session held at block level must be reported to the district level and recorded in iTMIS.
+At least 10% of all block level training should be monitored by district programme officers and their feedback must be documented at the district level by CMO / DIO.
+5H. ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS Collaboration among Ministries/Departments, professional bodies, partner organizations, and health authorities at State, District, and Block level is essential for effective implementation of the HPV vaccination campaign in reaching the target population. Strong intersectoral convergence is required in planning and execution across States and Union Territories (UTs).
+The one-time single-age cohort introduction of the HPV vaccine requires coordinated, multi-sectoral engagement, including local governments, school authorities, community and religious leaders, civil society organizations, media, and communities, to ensure high coverage, acceptance, and programme sustainability.
+The following outlines the roles and responsibilities of key Ministries/Departments, and stakeholders involved in the Roll Out of HPV Vaccination campaign.
+1. NATIONAL AND STATE LEVEL FUNCTIONARIES
+For successful Roll Out of HPV Vaccination campaign, inter-ministerial/departmental coordination is essential.
+1a. Ministries A. Ministry of Education (MoE): The Ministry of Education will undertake the following key roles to support the HPV vaccination campaign: Attend the meetings/workshops/training related to HPV vaccination led by the Health Department.
+Issue directions to NCERT, CBSE, ICSE, Kendriya Vidyalaya Sangathan (KVS) and Navodaya Vidyalaya Samiti (NVS) to promote HPV vaccine awareness across government and private schools and support the mobilization of the session site.
+Coordinate with Government and Private School Management Associations/Committees at National, State and district level.
+Disseminate all IEC materials shared by the MoHFW across all levels - from national to school level to aid in communication with the parents/guardian.
+Leverage the digital platforms such as UDISE+, DIKSHA and NISHTHA for displaying the IEC material on HPV Ensure sharing of line-listing of schools having no. of eligible girls aged 14 years using the UDISE+ portal and planned Parents Teachers Meeting (PTM) date with the local health department.
+Encourage schools to appoint a nodal teacher for leading sensitization efforts and act as liaisons with local health officials and organise special Parent–Teacher Meetings (PTMs) focused on HPV vaccination, where parents are informed about cervical cancer prevention, vaccine safety and benefits, nearby vaccination sites, vaccination dates and timings, and guide self-registration on the U-WIN portal.
+Support in circulating the importance of HPV vaccine through the official social media handles of the Education Department of State/UT with all the stakeholders at district/block and school levels for creating awareness about the vaccine.
+Ensure information reaches parents through information cards (Refer to Annexure 6), WhatsApp groups, circulars, emails, PTMs, diaries, and other channels from the schools.
+Participating in periodic review meetings with health department to share feedback, challenges, and successes for continuous improvement B. Ministry of Women and Child Development (MoWCD): The Ministry of Women and Child Development plays a vital role in promoting HPV vaccination by supporting awareness generation, community mobilization, and coordinated efforts to reach eligible adolescent girls. Its role includes: Participate in the meetings/workshops/trainings led by the Health Department.
+Disseminate all IEC materials shared by the MoHFW across all levels to aid in communication with the parents/guardian.
+Utilize the POSHAN Tracker to display IEC materials on HPV vaccination.
+Leveraging MoWCD platforms such as Poshan Abhiyaan sessions, Mission Shakti, Kishori Shakti Yojana, and Beti Bachao Beti Padhao for service delivery and IEC activities related to HPV vaccination.
+Promote HPV vaccination through official social media channels.
+Ensure Anganwadi centres display posters and other IEC materials on HPV vaccination.
+Ensure AWWs support ANMs and ASHAs in conducting headcount surveys to prepare line lists of all eligible girls in their areas and support the mobilization efforts and informing parents/guardian about the nearest health facility offering HPV vaccination.
+Involve AWWs as mobilizers in the HPV vaccination team at session sites, in accordance with the micro- plan, responsible for pre-registration of girls on U-WIN, mobilization of beneficiaries, and support in session site management.
+Encouraging peer-to-peer learning among adolescents to spread positive experiences with the HPV vaccine through platforms like Kishori Shakti meetings etc.
+Leveraging Anganwadi workers’ trusted presence to integrate HPV vaccine messaging into routine interactions.
+Participate in periodic review meetings with Health Department to share feedback and strengthen implementation.
+C. Adolescent Health Division, Ministry of Health and Family Welfare: The Adolescent Health Programme is an existing platform through which adolescent health is addressed in the country. The strength of the adolescent health programmes can be effectively leveraged for the following: School Health and Wellness Programme Health and Wellness Ambassadors to be identified as nodal for HPV vaccination in addition to the overall role of school Principal/ Headmaster.
+Health and Wellness Ambassadors to be trained and oriented on their role for HPV vaccination campaign.
+Facilitate special Parent–Teacher Meetings (PTMs) to sensitize parents of girls aged 14 years, inform parents about cervical cancer and HPV vaccination.
+Make a list of number of all girls aged 14 years class-wise with the support of class teacher.
+Build capacity of Health and Wellness Messengers (2 students/class) for spreading awareness in school, family and community.
+Orient all students and teachers during quarterly Adolescent Health and Wellness Days and weekly Health and Wellness Days at schools.
+Peer Education Programme: During monthly Adolescent Friendly Club meetings, ANMs will orient ASHAs and Saathiyas on awareness cervical cancer and importance of HPV vaccination.
+Peer Educators (PE) called as Saathiyas, will be engaged from the village level to generate awareness about cervical cancer and mobilize eligible girls for HPV vaccination at the health facility.
+ASHA workers will coordinate with Saathiyas to ensure smooth implementation of peer education activities on HPV vaccination at health facilities.
+Block Adolescent Health Coordinator will ensure ASHAs and Saathiyas to raise awareness and generate demand for the vaccine during Quarterly Adolescent Health and Wellness Days (AHWD) at AWCs.

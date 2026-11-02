@@ -1,0 +1,50 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 15
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Row 5: Name & Mobile no. of Vaccinator deputed for HPV vaccination (Week 1 to Week 12) Write the names and mobile numbers of the vaccinators that are deputed for the week wise vaccination from 1-12 weeks Row 6: Name & Mobile no. of Verifier (Facility health staff; responsible for checking registration status & verification in the waiting room on the vaccination day) (Week 1 to Week 12) Mention the name with mobile number of the verifier who will be checking registration status and verification in the waiting room on the session day week 1-12.
+Row 7: Name & Mobile no. of Mobilizer (ASHA / ASHA coordinator/AWW/MAS/JAS/Link Worker to support in session site management) (Week 1 to Week 12) Mention the name and mobile number of the mobilizer (ASHA / ASHA coordinator/AWW/MAS/JAS/Link Worker to support in session site management) (Week 1 to Week 12) Row 8: Name & mobile no. of Volunteer (Field Monitor/MAS/JAS/health staff for session site crowd management) (Week 1 to Week 12) Mention the Name & mobile no. of Volunteer (Field Monitor/MAS/JAS/health staff for session site crowd management) (Week 1 to Week 12).
+Row 9: All the 4 members of the Vaccination team received dedicated training at block on HPV vaccination Please describe if all the 4 members of the team received the HPV training.
+Row 10: Number of Hub Cutter required? (1 per vaccinator) Mention the total number of hub cutter required assuming 1 per vaccinator.
+Row 11: Number of indelible marker pen required for finger marking? (1 per session) Mention the total number of indelible marker pen required assuming one per session Row 12: Number of Red plastic bags required? (1 per session) Mention the total number red plastic bags required assuming one per session.
+Row 13: Number of black plastic bags required? (1 per session) Mention the total number black plastic bags required assuming one per session.
+Row 14: Number of yellow plastic bags required? (1 per session) Mention the total number yellow plastic bags required assuming one per session.
+Row 15: Number of Anaphylaxis kits required? (1 per vaccinator) Mention the total number of anaphylaxis kits required assuming one per vaccinator.
+Row 16: Contents of Anaphylaxis kit are verified & Inj. Adrenaline is within expiry? (verify for each deputed vaccinator) Please verify and mention (Y/N) if the contents of anaphylaxis kits are being verified and adrenaline injection is not expired; this should be verified for each deputed vaccinator.
+Row 17: Vaccinators deputed for HPV vaccination is trained on administration of Inj. Adrenaline & AEFI reporting?
+Please confirm if the deputed HPV Vaccinator is trained on how to administer adrenaline injection and AEFI reporting.
+Row 18: Number of AEFI Kits required (1 kit per Health Facility) Please mention the number of AEFI kits required assuming that 1 kit per health facility is needed.
+Row 19: Contents of AEFI kit are verified & Inj. Adrenaline is within expiry Please mention the AEFI kits are being verified, and inj. Adrenaline is within the expiry date.
+Row 20: Medical officer(s) are available at the health facility to manage AEFIs Please mention if there is a medical officer available for AEFI management at this facility.
+Row 21: Medical officer(s) are trained on AEFI management and reporting Please mention if MOs are trained on AEFI management and reporting.
+Row 22: Medical Officer received dedicated training on HPV vaccination and Crisis Communication Please mention if the dedicated medical officer received the HPV vaccination and crisis communication.
+Row 23: Number of Squeeze balls required? (5-10 per Health Facility) Please mention the number of squeeze balls required assuming 5-10 per health facility.
+Row 24: Number of posters required? (4 per Health Facility) Please mention the number of posters required assuming 4 per health facility.
+Row 25: Number of banners required? (2 per Health Facility) Please mention the number of banners required assuming 2 per health facility (area of high footfall).
+Row 26: Functional desktops/laptops for U-WIN registration Please mention the number of functional desktops/laptops for U-WIN registration that are available.
+Please mention if there is functional for U-WIN registration.
+Row 28: Functional Printer for U-WIN Certificate, consent form and age undertaking form?
+Please mention if there is functional printer for U-WIN certificate, consent form and age undertaking form.
+Please mention if there is a dedicated waiting room or area for HPV vaccination.
+Row 30: Dedicated Vaccination Room or Area with privacy?
+Please mention if there is a dedicated vaccination room or area with privacy.
+Please mention if there is a dedicated observation room or area.
+Row 32: Provision of running water & soap for hand washing before vaccination?
+Please mention if there is provision for hand washing like running water and soap, before vaccination.
+Row 33: Availability of adequate cotton swabs for cleaning skin before vaccination?
+Please mention if there are adequate cotton swabs available for cleaning skin before vaccination.
+Row 34: Functional ILR with working eVIN temperature logger?
+Please mention if there is functional ILR with working eVIN temperature logger.
+Please mention if there are sufficient ice packs available as per the due list.
+Row 37: Availability of adequate stock of Paracetamol tablet Please mention if there is adequate stock of paracetamol tablets based on the total number of girls.
+Please mention if there is a functional ambulance.
+Row 39: Name of dedicated Cold Chain Handlers (CCH) with mobile number: CCH1 & CCH2?
+Please mention the names of the cold chain handlers and also write their mobile numbers (CCH1 and CCH2 Row 40: Name & Mobile no. of linked Cold Chain Technician for this HF?
+Please mention the name and mobile number of the linked cold chain technician for this health facility.
+Row 41: Name and Mobile Number of linked VCCM for this HF Please mention the name and mobile number of the linked Vaccine and Cold Chain Manager (VCCM) for this health facility.
+Row 42: Name of 24x7 AEFI management centre/first referral hospital.
+Mention the name of the 24x7 AEFI management centre and if this is a 24x7 HF then name of the first referral hospital for AEFI management.
+HPV Vaccination Initiative Year/Month: Health Facility (PHC/U-PHC/CHC/SDH/RH/DH/GMCH) *: MO Name: Mobile no: Target population (girls aged 14 years) based on FORM 4 (Column d total) Number of HPV vaccine doses required as per the target?
+Number of AD syringes required as per the target?
+Number of sessions planned in 3 months (Week 1 to Week 12) Name & Mobile no. of Vaccinator deputed for HPV vaccination (Week 1 to Week 12) Name & Mobile no. of Verifier (Facility health staff; responsible for checking registration status & verification in the waiting room on the vaccination day) (Week 1 to Week 12) Name & Mobile no. of Mobilizer (ASHA / ASHA coordinator/ AWW/MAS/JAS/Link Worker to support in session site management) (Week 1 to Week 12) Name & mobile no. of Volunteer (FM/MAS/JAS/health staff for session site crowd management) (Week 1 to Week 12) All the 4 members of the Vaccination team received dedicated training at block on HPV vaccination Number of Hub Cutter required? (1 per vaccinator) Number of indelible marker pen required for finger marking? (1 per session) Health Facility (HF) Session Site-Checklist-Planning Form (HPV Vaccination Campaign for 3 months) Number of Red plastic bags required? (1 per session) Number of black plastic bags required? (1 per session) Number of yellow plastic bags required? (1 per session) Number of Anaphylaxis kits required? (1 per vaccinator) Contents of Anaphylaxis kit are verified & Inj. Adrenaline is within expiry? (verify for each deputed vaccinator) Vaccinators deputed for HPV vaccination is trained on administration of Inj. Adrenaline & AEFI reporting?

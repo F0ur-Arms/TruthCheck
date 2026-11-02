@@ -1,0 +1,74 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: MCP Guide Book, part 17
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Guide_Book.pdf
+────────────────────────────────────────────────────────────
+
+Space has also been provided for inclusion of future new vaccines.
+Adds a table on missed dose tracking to ensure that children receive the scheduled vaccines in the next session, understand the reason behind not vaccinating on time and to prevent such instances in future.
+6	 Lancet Volume 17, November 2017
+SIA / OTHER
+VACCINE
+DATE OF VACCINATION
+VITAMIN A
+CHILD AGE
+10 YEARS
+16 YEARS
+MISSED DOSE TRACKING
+DOSE OF
+VACCINE
+DATE OF
+VACCINE
+REASON WHY
+VACCINE
+SESSION
+DATE FOR
+SIGN OF
+DATE OF VACCINATION
+DATE OF VACCINATION
+DATE OF VACCINATION
+DATE OF VACCINATION
+(mm/dd/yyyy): Hints for AWW If after the immunisation, the child develops high fever, seek the help of ANM/AWW for referral to a health centre.
+After vaccination reactions like mild rash, fever or redness and swelling at the local site may develop. It should not be an immediate cause for worry but should be observed closely. If it does not subside in 24-48 hours and keeps increasing, see a health worker.
+Other signs like excessive crying, seizures, severe rash and swelling may also be referred to a health centre.
+Provide immunization as per the age of the child.
+Record the date in the colored boxes when the child is vaccinated for a particular vaccine.
+The date to be written in the white box is for when the child is expected to come next for her/his vaccination. The date of next immunization given to the child should correspond to the date of the village health nutrition days or predetermined Immunization day.
+Counsel on 4 key messages related to routine immunization.
+Fill missed dose tracking section to ensure compliance in the next session.
+Use section on immunization essentials to educate parents on the benefits of each vaccine and reduce drop out due to adverse events following immunization (AEFI).
+Fill ASHA incentive tracking section to ensure timely payment to ASHA.
+Verify family details and Sign RI counterfoil. Retain RI Counterfoil.
+Some individuals may be allergic to vaccines, which may manifest into skin rash, etc. However, very rarely Anaphylaxis may occur after immunization. To handle the same, health workers are empowered to administer single age appropriate dose of intramuscular injection of adrenaline at the session site before transporting the patient to the nearest health facility. The event is to be also recorded on the MCP card to avoid such recurrence in future. It may be recorded under the space provided for the additional information on pg 38.
+Includes space for ANM to record any additional information.
+RI counterfoil has been modified to include ASHA incentives to motivate ASHA to ensure that immunization services reach even the most excluded and vulnerable communities.
+VACCINATION NAME
+2018 Version
+FAMILY IDENTIFICATION
+Use Immunization Essentials Section during home-visits to motivate family members for next due vaccination.
+Explain to family members that if for any reason, a date for any vaccination is missed, the child should be brought for vaccination as soon as possible.
+Mobilize family members for RI session and ask them to bring there MCP Card for every session.
+IMPORTANCE OF RETAINING
+AND USING THE MCP CARD
+As front-line workers you use the MCP card in your routine work which involves providing health and nutrition services and counselling to pregnant women, mothers and families.
+However, while more than 90% of women receive the MCP card, many don’t retain this card. The retention and use of the MCP card depend on your ability to convince the parents of the need and utility of the card. When you explain to a parent how this card will benefit their child or tell a family what are the GOI schemes that will aid them during pregnancy or ill health-they will see the importance of the card. The effort you make during interpersonal communication to create an emotional appeal for the card will ensure that parents connect to this card! In this section, you will find answers to some of the questions you may have in mind regarding the use and retention of this vital card.
+What is the added value of the MCP card?
+1. The MCP Card is a comprehensive source of information for
+2. 	It creates a sense of ownership in families and communities as
+3. 	It motivates families and communities to promote health
+4. 	Encourages positive parenting and responsive care by father’s,
+grandfathers and other men in the family, so that the onus of care does not fall exclusively on the mother, who in many cases is not the decision maker.
+Why should the MCP Card be retained by families?
+1. The MCP card has an emotional appeal for families- especially
+first-time parents as it answers most of their doubts related to pregnancy and the growth of their child.
+2. The MCP card is not just a card in the hands of a parent, it is a tool which increases the knowledge of parents and families to understand, internalize and adopt healthy practices and behaviours, encourages them to seek services and educates them about their entitlements. In simple words it is health and protection ‘passport’ in a parent’s hands.
+3. The MCP when explained properly to families through IPC and
+community mobilization activities, enables ownership - once the community understands what is in the card - they will be able to demand services based on their learning.
+4. The MCP card enables each parent to realize their dreams for the best for their child to receive health services and the card helps them to choose the best for their children.
+5. The current MCP card has been developed basis the learnings of the previous MCP cards. As such the card is a much more comprehensive one and incorporates almost all aspects from the first 1,000 days till the child is 16 years of age.
+6. 	The card can be equated to a child’s ‘passport’ for his/her
+healthy and protected life which starts with availing various vital and free services such as immunization, nutrition etc.
+What are the platforms where FLWs can use the MCP card for demand generation and creating awareness about the utility of the card?
+The following occasions provides IPC opportunities to health workers and allied functionaries to mobilize caregivers to recognize the importance of the card: 1. During house to house visits whether under HBYC or by AWWs for providing nutrition related counselling under POSHAN or for ECCE, by MMUs and RBSK teams, swachhagrahis etc particularly focusing on the most vulnerable communities.
+2. At RI/other session sites, to reinforce behaviours related to health and nutrition.
+3. While interacting with people visiting primary health centers, sub-centres, Health and Wellness Centers, RBSK centres etc.
+4. At PRI meetings, community meetings, mothers meeting, SHG meetings, VHSNC’s meetings and influencers meeting etc.

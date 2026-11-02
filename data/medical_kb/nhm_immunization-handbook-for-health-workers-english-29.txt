@@ -1,0 +1,36 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 29
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Greet Smile.Speak in a pleasant voice and tone. Maintain eye contact. Introduce yourself and your organization.
+Ask Ask open-ended questions—What? When? Where? Why? How? Who? How many children do you have? Why did you not vaccinate your child? How did you know about the immunization session?
+Tell What diseases are prevented by vaccination. Where and when will the session be held. What minor side-effects can occur after vaccination and how these can be managed.
+Help: Encourage the parents to come for vaccination by telling them about how to manage AEFIs.
+Explain: Use info-kits to explain the importance of immunization and the immunization schedule.
+Repeat: Use your visit to find out reasons for leftouts and dropouts.
+10.5	Holding an effective community meeting
+10.	 Help mobilize resources for immunization.
+11.1	The role of surveillance in the Immunization Program
+Surveillance means data collection for action. Disease surveillance is a regular system of collecting, analyzing and interpreting data and then using it to guide disease-control and immunization strategies. It helps in the following ways: To find out What disease is occurring To find out Who gets the disease – e.g. In a particular population or group of people To find out Where the disease is occurring - this helps to identify areas requiring special attention and where system performance is poor To understand When the disease is occurring and how many get the disease To understand Why the disease is occurring – eg due to less vaccination or due to To decide How the disease can be prevented, controlled or eliminated.
+11.2	Conducting disease surveillance
+Prerequisites for effective surveillance Standard case definitions (to ensure uniformity in reporting) Recording and reporting system (to ensure regularity in reporting) List of all the reporting units (to ensure completeness in reporting) The quality of surveillance data depends upon correct diagnostic criteria, timeliness and completeness of reports.
+Step 1: Learn to recognize the disease As a health worker, it is important that you understand the definition of a disease and be able to match it up with what your village informant has told you.
+Surveillance of vaccine preventable diseases Describe importance of surveillance in the Immunization Programme. Describe how to conduct surveillance for the VPDs.
+The role of surveillance in the immunization program. Conducting disease surveillance. The surveillance report Table 11.1 VPD case definitions Disease Lay Definition (suspect) Polio (Acute Flaccid Paralysis) Acute flaccid paralysis is defined as sudden onset of weakness and floppiness in any part of the body in a child < 15 years of age, or paralysis in a person of any age in whom polio is suspected.
+Any person with fever and maculopapular rash, i.e. non-vesicular AND cough, coryza (runny nose), or conjunctivitis (red eyes).
+Diphtheria An illness of the upper respiratory tract characterized by the following: Fever with pain and redness of the throat and /or tonsils, often with hoarseness of voice and cough, and adherent greyish-white membranes of tonsils, pharynx and/or nose.
+Pertussis A person with a cough lasting for at least 2 weeks, with at least one of the following: a) paroxysms (fits of coughing); b) inspiratory whooping; c) post- tussive vomiting (vomiting immediately after coughing); d) apnoea; e) without other apparent causes.
+Neonatal Tetanus Any neonate with a normal ability to suck and cry during the first 2 days of life, and who thereafter cannot suck normally between 3 and 28 days of age and becomes stiff or has convulsions/spasms (jerking of the muscles), or both.
+Tuberculosis A child with fever and/or cough for more than 2 weeks, with loss of weight/no weight gain AND history of contact with a suspected or diagnosed case of active TB disease within the last 2 years.
+Bacterial meningitis Any person with sudden onset of fever (> 38.5°C rectal or 38.0°C axillary) and one of the following signs: neck stiffness, altered consciousness or other meningeal sign.
+Hepatitis B An acute illness typically including acute jaundice, dark urine, anorexia, malaise, extreme fatigue and right upper quadrant tenderness.
+Japanese Encephalitis (AES) A person of any age, at any time of the year with acute onset of fever and change in mental status (including symptoms such as confusion, disorientation, coma or inability to talk) AND/OR new onset of seizures (excluding simple febrile seizures).
+Step 2: Ensure all cases are reported When you visit villages, ask about cases of measles, neonatal tetanus and polio, especially since they are often not reported to health centre staff. If you hear about cases, you should visit the patients (neonatal tetanus and polio) or encourage their parents to come to a health facility (measles and AES). If you recognize a case, then report it to the Medical Officer in charge at the PHC. The types of cases that should be included in your monthly report are: Cases that come to the health centre for treatment. All cases seen and diagnosed by you at outreach sessions. Cases that you hear about in the community and verify in person. Cases that are treated at non-government health facilities (for example, mission hospitals or private physicians).
+Step 3: Avoid double counting In order to use data effectively, it must be as reliable and accurate as possible. It is important that each case is counted once, and only once. Avoid “double-counting” through the following data collection standards: If a child makes two health-centre visits for the same disease episode, count it as one case only. Only count those cases that have been diagnosed/seen by you as a health worker. Do not count cases that have been reported to the health centre by community members without verification.
+11.3	 The Surveillance report
+Monthly report of disease incidence and mortality should be prepared in the monthly reporting format. To find out the number of cases and deaths (if any) as a result of the diseases, you will: Count the number of VPD cases from your daily diary. Ensure that same case or same episode is not recorded more than once (which may happen if you have visited many times or because different informants told you about the same case). Fill up the number of cases in appropriate boxes of the report. If there are no VPD cases reported, write ZERO in the report.
+11.4 Active case search (ACS) in community:
+Searching for additional cases of similar VPDs in the community helps in identifying clustering of cases. This can prevent an impending outbreak by early identification and public health interventions.
+Attempts should be made to conduct active case search soon after identification of a suspected case preferably within seven days of case investigation.
+Besides conducting the active case search in household and neighbourhood, the workplace or school contacts should also be actively assessed for the illness.

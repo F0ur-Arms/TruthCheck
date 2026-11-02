@@ -1,0 +1,50 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 7
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+Monitoring data ideal to discuss PCV introduction topics. The state, district and sub-district program managers should remember that trainings should exclusively be held as per the recommended timelines.
+Training materials have been developed based on the past experiences of new vaccine introduction, post introduction evaluations as well as preparedness assessments conducted before the introduction of PCV. These include standardized power-point presentations from operational guidelines for ToTs and handouts/information kits that include FAQs on PCV for health workers and mobilizers. These materials (FAQs) will be translated by state in the local language for appropriate use at health worker level. The FAQs on PCV vaccination should be widely used for dissemination of information, especially to medical officers, frontline health workers and mobilizers.
+An effective vaccine, logistics and cold chain system is an essential prerequisite for successful implementation of the immunization program.
+It is critical for immunization services to ensure the availability of appropriate equipment and an adequate supply of high-quality vaccines and immunization-related materials to all levels of the program. The key areas of logistics support include vaccine management and monitoring, cold chain management and immunization safety.
+Target population X Number of doses X Wastage factor = Total doses required Vaccine stores at all levels (state, regional, district, primary health centers (PHCs), community health centers, other cold chain storage points) need to forecast their vaccine needs for the stipulated time period to ensure that the right amount of vaccines, logistics and cold chain equipment are available to vaccinate all eligible infants at a given time in a given area. Each of these levels should monitor the stock of vaccine and syringes in order to assess the lead-time and re-ordering levels.
+If vaccine, logistics and cold chain programs are well managed, it not only ensures that none of the eligible children are missed due to vaccine shortage, but also helps in saving on program costs in ensuring program implementation efficiently without sacrificing the quality of service delivery.
+Poorly managed logistics systems can lead to high and/or unnecessary vaccine wastage rates, stock- outs, or improper management of waste, resulting in significant operational program costs, as well as a negative impact on public health.
+6.1 VACCINE MANAGEMENT
+In general, PCV vaccine introduction should follow the standard procedures for calculating vaccine supply of other vaccines and be integrated into existing mechanisms for procurement. PCV vaccine should also be integrated into the stock-management system and vaccine orders must be timed such that the supply is not disrupted.
+The number of doses required is based on the size of the target population and vaccine wastage. The Simple formula at Table 10 can assist.
+PCV, IPV, OPV,
+10% for all vaccines eligible for reuse under the open vial policy. The wastage multiplication factor for calculation is 1.11.
+6.2 WASTAGE RATE AND
+BUFFER STOCK
+PCV introduction recommends indicative wastage values of less than 10%. The buffer stock recommended is 25% for the first year of vaccine introduction.
+All efforts should be made to minimize vaccine wastage at all levels.
+The open vial policy is applicable to PCV. The buffer stock is meant for managing sudden and unexpected shortages.
+The amount of buffer stock recommended is generally 25% of the annual requirement.
+Buffer stock is supplied only in the first year of vaccine introduction.
+6.3 ESTIMATING VACCINE AND
+SYRINGES NEEDED
+The AD syringes (0.5 ml) available under the UIP are to be used to administer PCV. Number of AD syringes supplied is equal to the number of vaccine doses supplied. This means wastage rate calculated for vaccines by default gets calculated for the AD syringes. A child requires 3 doses and vial contains 4/ more doses per vial; hence wastage rate is negligible.
+PCV is a liquid vaccine, hence, no requirement of reconstitution syringe.
+6.4 COLD CHAIN SPACE AND
+INVENTORY
+The cold chain infrastructure in India is a wide network of cold chain stores consisting of government medical store depots, state, regional/ divisional vaccine stores, and district and PHC/CHC.
+The cold chain network in the country has been the backbone to ensure that correct quantity and quality of vaccine reaches the target population. The figure 25 depicts the cold chain system in India.
+Vaccine and cold chain officials posted at all levels are expected to undertake field visits regarding cold chain preparedness. intelligence network (eVIN), an online system for assessing cold chain equipment functionality and vaccine storage status (Annexure 3).
+6.5 COLD CHAIN MONITORING
+PCV is a heat and freeze sensitive vaccine and loses its potency when exposed to temperatures outside the range recommended by the manufacturer.
+Its capacity to produce neutralizing antibodies is destroyed by both heat and freezing. The heat impact on vaccines is cumulative. Proper storage of vaccines and maintenance of the cold chain during storage and distribution are essential to prevent the loss of potency. Once a vaccine loses its potency, this cannot be regained. Damaged vaccines should be discarded according to the guidelines.
+All PCV vaccine vials have a vaccine vial monitor (VVM-30). The VVM registers cumulative heat exposure, and changes from light to dark. Before use, check the VVM on each vaccine vial. If inside square is the same color, or darker than the outer circle, do not use the vaccine (Figure 26).
+6.6 STORAGE AND HANDLING  OF PCV
+VACCINE
+PCV vaccine management should follow the same procedures as for other vaccines in the cold chain.
+Upon receipt and confirmation of quantity and quality delivered, the vaccines should be placed in the designated ILR. All PCV vaccines should be stored between +2°C and +8°C.
+The inner square is lighter than the outer circle.
+HOW TO READ A VVM
+If there is suspicion that a vaccine has been frozen, a shake test should be done.
+PCV vaccines cannot be placed directly on or near the freezer portion of refrigerators, and should not be stored near the liners or walls of cold boxes and or ice-packs in vaccine carriers.
+Refer to section 6.7 for proper procedures on conditioning ice-packs and use of ice packs in vaccine carrier.
+In ILR, store PCV and other freeze- sensitive vaccines near the top of the basket. PCV should be placed adjacent to pentavalent vaccine.
+PCV could be damaged if placed in direct contact with frozen ice packs that were inadequately conditioned; therefore, water ice packs should be conditioned before use.
+Use a packing table, and remove ice packs from freezer and place on table to defrost. Packs are ready to use when there are physical signs of thawing; no ice and drops of water on surface, and liquid is observed inside.
+Dry the packs and line the walls of the insulated vaccine carrier with them.

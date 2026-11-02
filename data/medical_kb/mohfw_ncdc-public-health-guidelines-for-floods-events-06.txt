@@ -1,0 +1,47 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Public Health Guidelines for Floods Events, part 6
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769333008_95276575411596609841.pdf
+────────────────────────────────────────────────────────────
+
+Snake antivenoms are the only effective treatment to prevent or reverse most of the venomous effects of snake bites.
+8.2 Leptospirosis
+Leptospirosis is a bacterial disease that can cause serious illnesses such as kidney or liver failure, meningitis, difficulty breathing, and bleeding. Cases of leptospirosis can increase after floods when people may have to wade through contaminated water or use it for drinking or bathing.
+Leptospirosis is essentially animal infection by several serotypes of Leptospira (spirochaetes) and transmitted to man under certain environmental conditions. It can cause a wide range of symptoms and can be mistaken for some other diseases. Leptospirosis is an infection in rodents and other wild and domesticated animals, it can be transmitted directly or indirectly from animals to humans, and in a very rare case it can be transmitted from human to human.
+8.2.1 Mode of Transmission
+1) Direct contact 2) Indirect contact Direct contact- Leptospira can enter body through skin abrasions or through intact mucosa (eyes, nose, mouth), by direct contact with urine or tissue of infected animal.
+Indirect contact- infection can enter through the contact of the broken skin with soil, water or vegetation contaminated with urine of infected animals or through ingestion of food or water contaminated with Leptospira.
+It can also spread through droplet infection which may occur through inhalation as while milking infected cows or goats.
+8.2.2 People at Risk
+Risk of infection depends on exposure such as on the basis of occupation, living environment and lifestyle. The main occupational group at risk are farm and agricultural workers, pet shop workers, veterinarians, sewer workers, slaughterhouse workers and military personnel. Other groups at high risk of contracting leptospirosis include survivors of natural disasters (e.g. flooding) and people wading in contaminated water sources.
+8.2.3 Prevention
+Creating awareness among people who are at risk of exposure.
+Wearing protective clothing (boots, gloves, spectacles, aprons, masks).
+Preventing access to, or giving adequate warning about water bodies known or suspected to be contaminated (pools, ponds, rivers). Try to avoid wading or swimming in potentially contaminated water.
+Washing or showering after exposure to urine splashes or contaminated soil or water.
+8.2.4 Prophylaxis
+Antibiotic prophylaxis of exposed persons is used to prevent the transmission and spread of the disease as per programme guidelines.
+Antibiotic prophylaxis with Doxycycline weekly has been used in high risk areas during Kerala floods (2018) and Maharashtra floods (2018).
+9. Vaccination during Flooding
+In an acute emergency such as a flood event, the objective of vaccination is reduction of risk from a disease in order to protect a population during a relatively short period of extreme vulnerability. In no circumstances should an acute emergency be seen as an opportunity for rapid achievement of the goals of a routine vaccination programme. On the contrary, those goals should be set aside in order to use vaccines for one clear and present objective: to limit the number of excess preventable deaths for which the emergency might be responsible for or these reasons, certain strategies (e.g. mass vaccination campaigns, expanded target age groups, reduced courses for certain vaccines) warrant greater consideration in acute emergencies than they might in other circumstances, whether or not routine vaccination services remain functional.
+The SAGE framework covers only that period of time between the onset of emergency and re- establishment of routine vaccination programmes. Any additions to routine vaccination should only be considered for vulnerable population groups under certain specific circumstances.
+9.1 Tetanus
+Tetanus is not transmitted from person to person, but is caused by a toxin released by the anaerobic tetanus bacillus Clostridium tetani. Contaminated wounds, particularly in populations where routine vaccination coverage levels are low, are associated with morbidity and mortality from tetanus.
+9.2 Measles
+Measles and the risk of transmission in the disaster-affected population is dependent on the baseline vaccination coverage rates among the affected population, and in particular among children aged <15 years. Crowded living conditions, as is common among people displaced by natural disasters, facilitate transmission and higher immunization coverage is required to prevent outbreaks.
+9.3 Vaccination for Rescuers and Relief Workers
+Hepatitis A vaccination is recommended for selected high-risk individuals such as public utility workers (e.g. those involved in cleaning operations, sewage, waste or drinking-water management). Tetanus toxoid with or without tetanus immunoglobulin, as appropriate, is recommended for those whose vaccinations are not up to date, and should accompany wound treatment.
+10. Safe Disposal of Dead Bodies
+General Principles: The dead and the bereaved should be respected at all times.
+The priority for affected families is to know the fate of their missing loved ones.
+Honest and accurate information should be provided at all times and at every stage of the recovery and identification process.
+A sympathetic and caring approach is owed to the families throughout the process.
+Psychosocial support for families and relatives should be considered.
+A family liaison focal point should be established to support relatives.
+Identification should be conducted as speedily as possible. Mistaken identification should be avoided.
+Bodies should be released as swiftly as possible to the relatives.
+Advice and assistance from religious and community leaders should be sought to improve understanding and acceptance of the recovery, management, and identification of the dead bodies.
+Undignified handling and disposal of dead bodies may further traumatize relatives and should be avoided at all times. Careful and ethical management of dead bodies, ncluding disposal, should be ensured, including respect for religious and cultural sensitivities.
+For Workers that Routinely Handle Corpses Teams handling dead bodies should wear protective equipment (heavy-duty gloves and boots) and wash their hands with soap and water after handling dead bodies.
+Graveyards should be at least 30m from groundwater sources used for drinking water The bottom of any grave must be at least 1.5m above the water table with a 0.7m unsaturated zone. Surface water from graveyards must not enter inhabited areas.
+1. Body Recovery
+Body recovery is the first step in managing dead bodies and is usually chaotic and disorganized. Body recovery is often done spontaneously by a large number of individuals, including: Surviving community members, Volunteers, Search and rescue teams, Military, police or civil defence personnel: a) Bodies should be placed in body bags. If these are unavailable, use plastic sheets, bed sheets, or other locally available material. b) Body parts (e.g., limbs) should be treated as individual bodies. Recovery teams should not attempt to match the body parts at the disaster scene. c) Body recovery teams work most effectively in two groups: one to take bodies to a nearby collection point and a second to take them to identification or storage areas. d) Noting the place and date where the body was found helps identification. e) Personal belongings, jewellery, and documents should not be separated from the corresponding remains during recovery, but only during the identification phase. f) Stretchers, body bags, and flatbed trucks or tractor-trailers can be used to transport bodies. Ambulances should not be used for this purpose as they are best used to help the living.

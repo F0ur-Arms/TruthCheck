@@ -1,0 +1,43 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 34
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Encourage students to share vaccine-related information with their families.
+Provide emotional encouragement and guidance to hesitant students.
+Post-activity Empower vaccinated girls to act as peer health ambassadors.
+Keep HPV vaccination/cervical cancer awareness messaging alive through events like Health Day or National Girl Child Day.
+Share feedback from parents or students with health authorities.
+Organize talks or events with health professionals, including sessions to encourage missed beneficiaries to get vaccinated.
+5I. HOW TO ORGANIZE HPV VACCINATION SESSION HPV vaccination session will be conducted at designated government health facilities only – Ayushman Arogya Mandir (AAM)-Primary Health Centres (PHCs), Community Health Centres (CHCs), Sub-District Hospitals (SDHs), District Hospitals (DHs), and Government Medical Colleges and Hospitals (GMCHs) – that have a Cold Chain Point (CCP) as per eVIN, dedicated medical officer for AEFI management, and internet connectivity, printer, and desktop/laptop.
+The campaign will run for three months (90 days), with vaccines available daily. The sessions will be conducted as per the micro-plan, with flexible timings, generally from 9:00 A.M. to 2:00 P.M. However, State/UT may decide the session time and may conduct the vaccination on public holidays and weekends as per the local need. The digital U-WIN platform will be used for registration, recording and reporting. During the three- month activities, HPV vaccination will be conducted separately from routine immunization (RI) sessions, and only the HPV vaccine will be administered by a dedicated vaccination team. After the three-month activities, the HPV vaccine will be available at the same health facilities on Routine Immunization Days for girls aged 14 years. A vaccination team at the session site should consist of four members—namely, a vaccinator, a verifier, a mobilizer, and a volunteer—and must be present as per the micro-plan.
+Vaccination Team Responsible Person(s) and their Role(s) Vaccinator (1) ANM/male HW/LHV/ Nurse/CHO and anyone authorized to administer an injection; responsible for recording the vaccination data on U-WIN.
+Verifier (1) Health-Facility staff; responsible for checking registration status and verification in the waiting room on the vaccination day.
+Mobilizer (1) ASHA/ASHA coordinator/AWW/Link Worker; responsible for head count survey, pre-registration of girls on U-WIN, mobilization of beneficiaries and support in session site management.
+Volunteer (1) Field Monitor/Mahila Arogya Samiti member/Jan Arogya Samiti member/health staff, responsible for session site crowd management.
+IDEAL HPV VACCINATION SESSION SITE SETUP
+1. Waiting Room/Area
+2. Vaccination Room/Area
+3. Observation Room/Area
+The HPV vaccination session site should have the following general requirements to ensure smooth functioning, comfort, and safety of beneficiaries: The rooms should preferably have two doors: one for entry and one for exit.
+Rooms/areas should be well-ventilated. A well-ventilated area is one that can be achieved through open windows and natural ventilation.
+Adequate queue management and crowd control system outside the waiting area.
+The vaccination site should be accessible to the differently abled individuals.
+Adequate seating arrangements should be available at the site.
+1. Waiting Room/Area (Figure 119): The waiting room/area should preferably be a separate room or a clearly demarcated and covered area. The following to be ensured: Designate a separate entry and exit, if possible.
+Waiting area may be partially indoor and partially outdoor, with adequate arrangements for chairs, benches, and drinking water.
+Covered waiting area to protect beneficiaries from adverse weather conditions such as cold or rain etc.
+Avoid criss-cross movement of beneficiaries at session site.
+IEC materials on HPV vaccination to be displayed.
+Beneficiary marked on the left-hand index finger after vaccination, only for the 3 month duration of the activities.
+Minor AEFIs are very common, mild in severity, self-limiting and resolve on their own within 2-3 days.
+Tablet paracetamol in age-appropriate doses will provide relief.
+Visit the nearest government health facility if any adverse effects occur, or call the State/UT helpline number.
+Vaccination certificate can be downloaded from U-WIN portal.
+5J. PREPAREDNESS, SUPERVISION, MONITORING AND EVALUATION The HPV Vaccine Campaign provides an opportunity to strengthen the overall monitoring of the Routine Immunization (RI) program. Effective monitoring ensures smooth implementation, identifies gaps in real-time, and supports corrective actions to maintain high coverage and public confidence.
+Monitoring and supervision will be undertaken at national, state, and district levels by the team of monitors/ observers during both the preparatory and implementation phases. Monitors will oversee the quality of training sessions, assess preparedness at the state, district, and health facility levels, monitor vaccination session sites during the activities, and conduct community monitoring to provide guidance, track progress, and share observations with the state, district, and block task forces for timely follow-up and corrective actions. It is recommended that monitoring activities begin 2–3 months before the scheduled activities of the vaccine.
+Effective oversight of implementation activities is essential at all levels.
+Standardized formats and operating procedures have been developed at the National level to review the preparedness, microplanning, monitor the trainings, HPV vaccination session sites and community level coverage of HPV vaccination.
+1. Before the Campaign – Preparedness Assessment
+Preparedness assessment can be started once State/UT has completed microplanning activity and submitted Form 7 to MoHFW. Before the rollout of the HPV vaccine, States/UTs must assess the readiness of their health systems for the Roll Out of HPV Vaccination Campaign. India has successfully introduced several new vaccines in recent years—including COVID-19, Measles-Rubella (MR), Rotavirus (RVV), and Pneumococcal Conjugate Vaccine (PCV)—by using preparedness assessment tools prior to rollout. A similar preparedness assessment for the HPV Vaccine Campaign will be conducted at the state, district, and health facility levels using a standardized checklist on the NVI Info application in the following areas: Planning and coordination Resource identification Beneficiary prioritization Microplanning Training and supervision Monitoring and evaluation Vaccine and logistics management, including cold chain plan Safety surveillance (AEFI surveillance) Biomedical waste management Demand generation and communication activities The Digital Tool for Preparedness Assessment is a user-friendly platform designed to facilitate seamless data entry and provide a customized experience for users at every level. It centralizes essential functions—including data collection, storage, and real-time monitoring—within a single, integrated digital environment. By transforming raw data into actionable insights, the tool offers thematic visualizations and tracks Key Performance Indicators (KPIs) through an interactive interface. Furthermore, a dynamic dashboard and embedded digital library ensure that investigators have constant access to vital resources and information. Highly versatile in its application, the assessment can be efficiently administered either in person or remotely to suit diverse operational needs.
+Preparedness Assessment Checklist To access the web application of Preparedness Assessment https://www.nviinfo.org Login Page This is the main login screen for the Preparedness Assessment for HPV Vaccine Campaign application (NVI Info). Users must enter their Username, Password, and Security Code (Captcha) to access the system. After filling in the credentials, click the Login button to proceed to the checklist and dashboard.

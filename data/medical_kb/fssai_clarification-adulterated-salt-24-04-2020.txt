@@ -1,0 +1,10 @@
+SOURCE: FSSAI — Myth Buster
+TITLE: FSSAI clarification on salt adulterated with detergent
+URL: https://www.fssai.gov.in/docs/myth-buster/Clarification_Adulterated_Salt_24_04_2020.pdf
+────────────────────────────────────────────────────────────
+
+Clarification on packaged salt being adulterated with detergent A video surfaced on social media channels, claiming adulteration of salt with detergent.
+When we completely dissolve any solid substance (solute) in a liquid substance (solvent) it is known as a solution. In this case, salt (solute) dissolves in water (solvent) to form a solution. There is a maximum limit for every solute to dissolve in a fixed amount of solvent, also known as saturation point.
+Generally, maximum 35 gram of pure salt can be dissolved in 100 ml of water (known as saturated solution)[1][2]. If more salt is added to this water, it will not get dissolved.
+Similarly, to dissolve larger amount of salts, more volume of water is required. Eg: 500 gram salt will dissolve in approximately 1.5 liters of water.
+In the video, a large amount of salt is being mixed in small quantity of water, leading to formation of lumps and foam and being wrongly perceived as adulteration with the detergent. Also, a small amount of insoluble particles, silica, phosphates, sulphates, permitted food additives, and in case of Double Fortified Salt (DFS), additionally Encapsulated Ferrous Fumarate (EFF) particles may be visible. These are permissible as per FSS (Food Product Standards and Food Additives) Regulation, 2011 and are not considered adulterants. [1]https://www.ck12.org/book/ck-12-chemistry-concepts intermediate/r25/section/16.4/ [2] Burgess, J (1978). Metal Ions in Solution. New York: Ellis Horwood. ISBN 978-0-85312-027-8.

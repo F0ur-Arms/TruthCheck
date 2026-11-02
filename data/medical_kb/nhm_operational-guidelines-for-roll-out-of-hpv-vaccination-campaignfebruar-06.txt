@@ -1,0 +1,49 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 6
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Involving teachers in spreading awareness resulted into optimum coverage (Sikkim and Punjab HPV vaccination campaign).
+District Communication Core Group was constituted, comprising of DIO, Director (HRDD), District Program Manager (NHM), and Health Educator, to increase demand (Sikkim HPV vaccination campaign).
+Mothers’ meetings were conducted during the VHND sessions, media sensitization workshop, awareness generation speeches during gram sabha meetings, distribution of IEC material (leaflet) at newspaper shops, milk-shop and taxi stand counter, as well as miking at major places, markets and villages (Sikkim HPV vaccination campaign).
+Limited knowledge of HPV and its Vaccine and concerns about Stigma and Safety The primary reason for vaccine acceptability was its effectiveness and protection against cervical cancer.
+Approaching wide range of target audience (girls, parents, teachers and key influencers) through appropriate sensitization and advocacy efforts.
+Addressing misinformation about vaccine’s preventive health benefits through interactive communication with parents; social mobilization and the community.
+Cost barrier Interventions based solely on financial incentives improved HPV vaccination coverage but did not contribute to sustained vaccine uptake.
+Advocacy visits to private schools which refused to participate in the campaign for discussing the benefits of HPV vaccine (Sikkim HPV vaccination campaign).
+Parent-Teachers’ Association meetings were conducted to generate awareness regarding HPV vaccination (Sikkim and Punjab HPV vaccination campaign).
+Official launch ceremonies conducted at state, district, and several block levels which was covered by the media (Sikkim HPV vaccination campaign).
+Follow-up visits were conducted to houses of girls left unvaccinated due to absenteeism, sickness, or refusals (Sikkim and Punjab HPV vaccination campaign).
+Media briefings were conducted to highlight achievements and outline the way forward.
+Pre-recorded messages about HPV vaccination from medical professionals were delivered to parents of target beneficiaries through Edusat Society during parent– teacher meetings to create awareness among parents and teachers. (Punjab HPV vaccination campaign).
+Strong emphasis was given on effective communication and public engagement with parents and schools, health professionals, community leaders and the media, to build trust, address vaccine concerns, and support vaccine acceptance (Sikkim HPV vaccination campaign).
+Need-based IEC materials were developed at the national level, which were customized for local settings. (Sikkim and Punjab HPV vaccination campaign, MR campaign and COVID-19 vaccination programme).
+Engagement with adolescents and youth volunteers was carried out for demand generation (Sikkim HPV vaccination campaign).
+Service delivery Bottom-up microplanning was conducted at sub-district level, which entailed information about schools (government, government-aided, and private), list of beneficiaries (school and class wise), estimation of session wise logistics, composition of vaccination and supervisory teams, and monitoring plan for officials (Sikkim and Punjab HPV vaccination campaign, MR campaign, JE Campaign).
+School based approach adopted for reaching children in the target age group (HPV vaccination campaign in Sikkim, MR campaign, COVID-19 Vaccination campaign).
+The activity was started in schools for initial weeks (week 1st/2nd) followed by outreach sessions in week 3 and sweeping activity during the week 4 (MR Campaign, JE Campaign).
+Health facility staff were mobilized to schools to administer the vaccine during the school campaigns. (Sikkim HPV vaccination campaign, MR campaign). In Punjab, eligible girls were mobilized to health facilities from the schools.
+Facility-based and outreach sessions were conducted following the school-based campaign to reach the missed and out-of-school beneficiaries through mobile sessions for hard-to-reach population (Sikkim HPV vaccination campaign, MR campaign).
+School vehicles and ambulances were kept on standby in most communities during the campaign for transporting any serious or severe AEFI cases.
+Sufficient funds were allocated for training of health workers and teachers.
+Mid-day meal was offered to all beneficiaries in the government schools before vaccination and officials from the Departments of Health and HRD monitored session sites to ensure that all target girls received the vaccine (Sikkim HPV vaccination campaign).
+A special counterfoil card was used to track beneficiaries for the second dose of the vaccine. (Sikkim HPV vaccination campaign).
+Standard reporting forms were developed for enumerating target population, monitoring the progress and reporting. (Sikkim HPV vaccination campaign) Targeted training was organized for officials, school management committees, principals and teachers, District Immunization Officers, Medical Officers, Cold Chain Handlers, Auxiliary Nurse Midwives, and Accredited Social Health Activist workers.
+Detailed training was provided to vaccinators and medical officers on recognition, management, and reporting of Adverse Events Following Immunization (Sikkim and Punjab HPV vaccination campaign).
+Key learnings from CoWIN were leveraged in the programme implementation, including session planning, beneficiary registration, bulk uploading, slot booking, digital certification, reminders, dropout tracking, and coverage reporting (COVID-19 vaccination programme).
+Inventory management and real-time stock visibility of doses and syringes, along with temperature monitoring, were ensured through eVIN.
+Preparedness assessment were conducted at all levels (State, District, Planning units and Schools) using a standard checklist (Sikkim HPV vaccination campaign).
+AEFI management protocols were followed (Sikkim and Punjab HPV vaccination campaign).
+Head count survey, due listing of unvaccinated and under-vaccinated were carried out (IMI).
+Resource mobilization (hired vaccinators), additional sessions, Mobile teams and special teams for vaccination in hard-to-reach areas (IMI, Polio campaign).
+Booth activities followed by house to house (mop up rounds) in Polio campaign.
+Monitoring and supervision High level of political and administrative ownership was ensured (Sikkim and Punjab HPV vaccination campaign, COVID-19 vaccination campaign and MR campaign).
+Establishment of multi-level governance mechanisms to oversee and guide the campaign strategy (COVID-19 Vaccination campaign).
+A robust mechanism for program oversight was implemented through State Technical Advisory Group, State Steering committee, STFI, DTFI and BTFI before each round. (Sikkim and Punjab HPV vaccination campaign, MR campaign).
+Strong supervision and monitoring were conducted from the government officials at all levels (Sikkim and Punjab HPV vaccination campaign, MR campaign and COVID-19 vaccination programme).
+School records were reviewed to ensure that all target beneficiaries were vaccinated (Sikkim HPV vaccination campaign).
+Random checks were carried out for finger marking in the schools (Sikkim HPV vaccination campaign).
+The above-listed strategies have been considered into the current operational guidelines for the HPV vaccine introduction in India.
+IMPLEMENTATION STRATEGY FOR THE CAMPAIGN ROLL-OUT
+The Human Papillomavirus (HPV) vaccine is being introduced through a campaign-mode strategy implemented over a three-month period, targeting a single-age cohort of 14-year-old girls. A 14-year-old girl is defined as one who has celebrated her 14th birthday but has not yet celebrated her 15th birthday. The campaign follows an off-label single-dose schedule recommended by WHO and NTAGI.
+As per the Registrar General of India (RGI) estimates 2021, the annual target population for girls aged 14 years across the country is approximately 1.2 crore. The HPV vaccination is voluntary and obtaining consent from the parent/ guardian is mandatory before vaccination of girls. Vaccination will be done using parental/ guardian consent on U-WIN, if there is no internet or mobile network access, consent may be obtained on a hard copy as per the prescribed format.

@@ -1,0 +1,47 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 12
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+District-level monitoring provides information on vaccine availability, engagement of ICDS and education department, microplanning, trainings, vaccine coverage, vaccine stocks, wastage rates, social mobilization and communications, etc.
+10.2.1 District-Level Monitors’ Briefing
+To build capacity of district- and block-level officials, government and partners are responsible for monitoring the preparedness and implementation of PCV introduction in the districts. Monitors are expected to use standardized monitoring formats.
+These monitors will share monitoring feedback at respective levels as per timelines.
+10.2.2 Monitoring vaccine, logistics and cold
+chain at PHC PCV is a freeze sensitive vaccine. This vaccine should be stored between +2°C and +8°C. Available records must be examined for supply, utilization and balance of vaccines with AD syringes. Records should be cross- verified physically to see whether there is a logical association between vaccines and AD syringes supplied and used. eVIN is an important tool to monitor vaccine stock and cold chain status at all levels. Program officers are encouraged to physically validate the data recorded in eVIN and also in the NCCMIS.
+10.2.3 Session site monitoring
+This captures information on vaccine supply and the availability of logistics, functioning of alternate vaccine delivery (AVD) system, injection practices of ANMs, injection safety and waste disposal, record keeping and inter-personal communication of service providers.
+10.2.4 District and block level monitoring
+This provides information on coverage, vaccine stocks, wastage rates, etc.
+10.2.5 House-to-house monitoring
+This involves interacting with the caregivers of eligible children in the community both during the session as well as after immunization sessions through a standard format. This is done to assess the reach of utilization of services by the community and completeness of vaccination coverage. The monitoring will reveal the reasons as to why any child has missed the due PCV and/or any of the UIP vaccines appropriate for the age. The evidence generated through the community level monitoring in the form of percentage eligible children found not to have received the due vaccine and full immunization status are the two key indicators that would be used to apprise the task forces and guide the mid-course corrective measures.
+10.2.6 Rapid monitoring
+Following PCV introduction, simultaneous rapid monitoring will also be initiated for at least 3 months to assess implementation status of PCV, identify gaps/bottlenecks and provide feedback for immediate corrections. The findings will be very useful in introduction/expansion of PCV in the country. All immunization partners will assist the MoHFW in undertaking rapid monitoring through standardized rapid monitoring formats along with standard operating procedures. Rapid monitoring will be done at block and session level, for which separate formats will be developed. This monitoring will be undertaken in addition to routine immunization monitoring.
+10.3 LESSONS LEARNT FROM THE
+INTRODUCTION OF PCV VACCINE – POST INTRODUCTION EVALUATION (PIE) The introduction of any new vaccine is an opportunity to strengthen health systems and improve the reach of immunization services to disadvantaged populations.
+WHO recommends that a post introduction evaluation (PIE) of new vaccines be conducted within 6–12 months of introduction of a new vaccine. The aim of such evaluation is to assess community acceptance, impact on the existing immunization system and derive lessons for necessary corrective measures.
+Although a PIE is done in the context of new vaccine introduction, the exercise provides a broad overview of the performance of the immunization program, and thus boosts the confidence to further scale up and introduce new and underutilized vaccines in the program.
+Findings from PIE of nationwide pentavalent vaccine and measles-containing vaccine second dose, as well as lessons learnt from introduction of IPV, rotavirus vaccine are being used to inform the introduction of PCV in the country.
+Introduction Activities at State, District and Sub-district Levels The inclusion of PCV into the UIP schedule requires careful preparation and implementation at all levels.
+This initially involves top-down macro-planning at the state level, followed by bottom-up micro-planning, detailing precise cold chain space at different levels, logistics and financial needs for each district and sub-district, starting from the more peripheral levels and moving towards the higher levels.
+11.1 STATE-LEVEL ACTIVITIES
+The following activities need to be undertaken at state level for successful introduction of PCV vaccine: State task force for immunization (STFI)
+STFI should be convened periodically to steer key messages for all activities for PCV introduction in state, including commitment and support from various departments and stakeholders.
+Issues identified for smooth introduction of the vaccine should be addressed during STFI.
+The state needs to assess preparedness of districts using standardized checklists. The data should be reviewed, compiled and reflected in the state preparedness checklist.
+Assign state observers to track planning, preparation, launch and implementation of PCV in the districts.
+Assign state observers to track planning, preparation, launch and implementation of PCV vaccine in priority districts.
+They should visit these districts and provide oversight to activities for introduction of PCV vaccine, including participation in DTFI and assessment of district preparedness using checklists.
+Ensure that all vulnerable sections are provided an equal opportunity to avail services.
+Ensure availability of required doses of PCV vaccine and other logistics.
+PCV is a freeze sensitive vaccine. To avoid freezing of vaccine ensure cold chain points are visited and evaluated once before the start of vaccination drive.
+This is a critical activity and needs timely planning and implementation. Conducting this ToT will create a pool of master trainers who, in turn, will ensure that officials concerned at all levels are sensitized well in time prior to introduction.
+Key developmental partners such as WHO, UNICEF, UNDP, JSI and others should proactively support the states and districts in planning, implementation and monitoring.
+The training at different levels including target trainees, trainers and duration is summarized in the Chapter 5 above.
+Undertake headcount for estimation of beneficiaries by ANMs/ ASHAs/AWWs for improved micro planning and tracking.
+Use standardized tools for microplanning and estimation of beneficiaries. Ensure it is a time- bound activity and gets completed in 1–2 weeks.
+Ensure that vaccinators update due lists before every session. Following PCV introduction, ensure that PCV1 should be included as part of due lists for beneficiaries coming at 6 weeks for pentavalent1, OPV1, Rota1 , fractional-dose IPV1 and subsequently for PCV2 at 14 weeks and PCV booster dose at 9 months.
+State health authorities and partners should intensively monitor this activity and share findings at all relevant platforms.
+Implementation of immunization tracking bag (one per session site). ANM will keep one immunization tracking bag for each session site.
+She will make the ASHA/AWW of that area responsible for safe keeping of tracking bags containing counterfoils. The ANM will provide oversight and cross check counterfoils to ascertain reasons for dropouts.
+Disseminate relevant guidelines and training materials to each category of staff during trainings for PCV introduction.

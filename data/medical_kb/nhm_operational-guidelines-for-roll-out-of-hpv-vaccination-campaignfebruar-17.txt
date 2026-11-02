@@ -1,0 +1,75 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 17
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Does the Health Facility has a functional CCP as per eVIN?
+Does the Health facility has a medical officer available 24x7 for AEFI management?
+Does the Health facility has functional internet connection, desktop/laptop and a printer for U-WIN?
+Area, Manpower, U-WIN Are adequate vaccinators assigned to this session as per no. of sessions planned in Form 5?
+Are vaccinators available as per micro plan in Form 5?
+Are all mobilizers (ASHA/AWW/Linkworker) available as per the micro plan in Form 5?
+Are all verifier available as per the micro plan in Form 5?
+Are all volunteer available as per the micro plan in Form 5?
+Are all the 4 members of the vaccination team trained for HPV vaccination at block level?
+Is there a separate room or area for waiting?
+Is there a separate room or area for HPV vaccination with privacy?
+Is there a separate room or area for observation?
+Does the session site use a Desktop/laptop for walk-in beneficiary registration & recording HPV vaccination on U-WIN?
+Are U-WIN vaccination certificates being printed and handed over to each beneficiary?
+Are adequate printed consent forms available at session site?
+Are consent forms being offered to parents/guardians for signature before vaccination (in case of no internet of mobile network access)?
+Health Facility (HF)_Session Site Monitoring Form Session Site: Vaccine and other logistics Is running water and soap available for hand washing before vaccination?
+Are adequate HPV vaccine doses available at the session site?
+Are adequate 0.5 ml AD syringes available at session site?
+Are adequate cotton swabs available at the session site?
+Are adequate Paracetamol tablets available at the session site?
+Are adequate squeeze balls available at the session site?
+Are HPV vaccine vials stored in vaccine carrier (with 4 conditioned ice packs)?
+Is there any vial with VVM in unusable stage inside the vaccine carrier?
+Is there any frozen vial inside the vaccine carrier?
+Is functional hub cutter available at session site?
+Is indelible marker pen for finger marking available at the session site?
+Number of vials used, and girls vaccinated are matching reasonably?
+Is ANM touching the needle of the syringes anytime during drawing and administering vaccine to the beneficiaries? (Not following aseptic technique) Is vaccinator administering the vaccine through intramuscular route correctly?
+Is vaccinator administering the vaccine to the left upper arm?
+Are used syringes being cut using hub cutter immediately after use?
+Is the team marking left index finger after vaccinating the beneficiaries?
+Is the vaccinator giving 5 key messages to eligible girl/caregiver after vaccination?
+Are beneficiaries waiting for 30 minutes after HPV vaccination?
+Biomedical Waste Management Is vaccinator disposing cut hubs of syringes into hub cutter/white puncture proof container?
+Is vaccinator disposing expired or discarded vaccine vials, broken vials, empty unbroken vials into blue container?
+Is vaccinator disposing Plastic part of syringe or gloves into red bag?
+Is vaccinator disposing wrapper/ needle cap into black bag?
+Is vaccinator disposing cotton, expired tablet into yellow bag?
+AEFI Management at Session Site Does the vaccinator have Anaphylaxis kit? (If No - Immediately ALERT Senior Official) If yes, does the kit have un-expired Inj. adrenaline, 24–25-gauge needles and insulin/ tuberculin syringes? If No - Immediately ALERT Senior Official) " Does the vaccinator know what to do in case of a serious and severe AEFI (primary care, referral and reporting)?
+Does the vaccinator know the correct dosage of Adrenaline to be administered in case of anaphylaxis for girls aged 14 years (0.3 ml in tuberculin or 12 units in insulin syringe)?
+AEFI Management Centre Is Medical Officer (MO) designated for AEFI Management Centre trained on AEFI Management and Reporting?
+Does the AEFI management centre have AEFI kit? (If No - Immediately ALERT Senior Official) If yes, does the AEFI kit have all the contents as per the guidelines including un-expired Inj. adrenaline, 24–25-gauge needles and insulin/ tuberculin syringes? If No - Immediately ALERT Senior Official) Does the MO know what to do in case of a serious and severe AEFI (primary care, referral and reporting)?
+Does the MO know the correct dosage of Adrenaline to be administered in case of anaphylaxis for girls aged 14 years (0.3 ml in tuberculin or 12 units in insulin syringe)?
+Cold Chain Point Are adequate HPV vaccine doses available in the ILR at CCP?
+Are adequate 0.5 ml AD syringes available at CCP?
+Are HPV vaccines stored at the right place in ILR?
+Does the ILR has a functional eVIN temperature logger?
+Does the temperature logbook is filled twice a day by CCH?
+Does the CCP has adequate number of ice packs?
+Does the CCP has functional cold boxes for emergency use?
+Does the vaccine stocks in eVIN, physical register and ILR are matching?
+Mobilization & Supervision Has the Health Facility displayed 2 Banners of HPV vaccination?
+Has the Health Facility displayed 4 posters of HPV vaccination?
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+Form 9: Reporting Form The Reporting Form collects following data via the U-WIN, eVIN, and SAFE-VAC portals: U-WIN: number of sessions planned and held, no. of girls vaccinated, eVIN: vaccine and syringe consumption, wastage rate Safe-vac: This reporting form will have information on daily basis and also have cumulative data.
+SAFE-VAC
+To be developed using U-WIN, eVIN, SAFE-VAC Reporting Form (Daily & Cumulative)* Form 10: Community level monitoring Community level monitoring form: Once the HPV vaccination campaign starts, monitors will conduct House to House monitoring from the 5th week onwards i.e., after the completion of one month of the campaign.
+The objective of RCM is to assess community-level uptake of the HPV vaccine, identify gaps or bottlenecks in coverage, and provide timely feedback for immediate corrective actions. RCM is conducted at the community level within the catchment area of the health facility using the standard checklist on the U-Mentor application.
+One monitoring format should be used for only one area. National or independent observers/external monitors are encouraged to conduct as many RCMs as possible.
+Rapid Convenience Monitoring (RCM) Methodology Area Selection: Try to identify missed areas such as farthest from the central point of community settlement/ area. Prioritize hard-to-reach populations, including isolated areas, socially segregated groups, street children, and working children in small enterprises or markets.
+Monitors should go to the centre of the selected area, choose a direction by tossing a coin and begin with the first house closest to the identified direction. Parents or caregivers should be interviewed of the identified eligible girls aged 14 years, and vaccination status should be verified using left index finger marking/ vaccination certificate/U-WIN records, and/or caregiver recall.
+Beneficiary Identification: Visit 10 households having eligible girls aged 14 years in the area. If more than one eligible girl is present in a household, include only one randomly selected beneficiary. Exclude girls who became eligible after the start of the campaign.

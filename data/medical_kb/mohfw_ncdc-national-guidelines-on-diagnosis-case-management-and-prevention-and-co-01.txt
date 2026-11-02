@@ -1,0 +1,50 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: National Guidelines on Diagnosis Case Management and Prevention and Control of Leptospiros, part 1
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769332981_File558.pdf
+────────────────────────────────────────────────────────────
+
+NATIONAL CENTRE FOR DISEASE CONTROL
+NATIONAL CENTRE FOR DISEASE CONTROL
+6.2  Health education
+6.3  Chemoprophylaxis
+6.4  Rodent control
+6.5  Mapping of water bodies for establishing a proper drainage
+6.6  Health impact assessment of developmental projects
+6.7  Vaccination of animal
+Annexures List of Contributors Introduction India with an 8,129 km long coastline and with endowment of plenty of natural resources has one of the major important coastal, agro-ecosystem that supports livelihood of several million people and contributes substantially to the national economy. Due to the rapid ecological changes in the region during the past decade many new zoonotic diseases have emerged and resulted in epidemics leading to signicant morbidity and mortality in humans. Leptospirosis is one among them.
+The change in the distribution and incidence rate of leptospirosis has occurred proportionately to the alterations in the eco-system. Reclamation of wastelands, aforestations, irrigation, changes in crops and agricultural technology have been important factors. The areas which would have remained free of this infection have converted into potentially endemic zones either by the changes brought out by man or the nature. The outbreaks of leptospirosis have been reported from coastal districts of Gujarat, Maharashtra, Kerala, Tamil Nadu, Andhra Pradesh, Karnataka, Andamans & Nicobar, Dadar & Nagar Havelli, Daman & Diu & Puducherry from time to time. In addition, the cases have been reported from Goa and Odisha The high burden of disease has been reported from Andaman & Nicobar, Gujarat (4 districts affected) Kerala (14 districts affected), Maharashtra (4 districts and Mumbai city affected ), Karnataka (9 districts affected) and Tamil Nadu (2 districts and Chennai city affected).
+2.1  Causative Agent
+Leptospirosis is primarily a disease of animals, occasionally infect humans. It is caused by pathogenic spirochete of the genus leptospira that traditionally consist of two species, Leptospira interrogans and Leptospira biexa. The former includes all pathogenic serovars and the later includes the saprophytic strains. Leptospira strains have been divided into 26 serogroups, of which 2 belong to saprophytic leptospires.
+Each serogroup consists of several strains designated as seorovars. Nearly 300 host adopted leptospiral serovars are naturally carried by more than a dozen species of rodents, wild and domestic animals. The moderate to highly conducive abundantly available variety of hosts, results in successful perpetuation of this organism. The leptospira serovars predominantly present in India are L.andamana, L.pomona, L.grippotyphosa, L.hebdomadis, L.semoranga, L.javanica, L.autumnalis, L.canicola.
+2.2  Risk Factors & Determinants
+2.2.1 Reservoir and carrier hosts
+Leptospirosis has a very wide range of natural rodent and non-rodent reservoir hosts which include rabbits etc. The domestic animals such as cattle, buffalo, goat, sheep and pigs carry the microorganisms and therefore act as carriers of the leptospires.
+Together the rodents and the cattle excrete large number of organisms in their urine and thus are responsible for the contamination of soil as well as large and small water bodies.
+2.2.2 Drainage, congestion and water logging
+Heavy concentrated rainfall leaves a lot of surplus water. Developmental activities like canal network, roads and railway lines obstruct natural drainage of rain water causing its accumulation for longer periods. The water logged areas force the rodent population to abandon their burrows and contaminate the stagnant water by their urine. The farmers and agricultural labourers working in the water logged contaminated elds acquire the infection.
+2.2.3 Soil salinization
+Soil salinity and water logging are inter-linked problems. The salinity of the soil and alkaline pH provides favorable environment for survival of leptospires for months.
+2.2.4  Soil temperature
+The soil of endemic areas in general has lower base saturation and the mean annual soil temperature at the depth of 50 cm is 22˚C or more and the difference between mean summer (June-August) and mean winter (December-February) temperature is less than 5˚C. This favors the survival of leptospires for long durations.
+2.3  Mode of transmission
+Infection is acquired through contact of abraded skin and/or mucus membrane with the environment contaminated with urine of rodents, carrier or diseased animals.
+2.4  Age and sex distribution
+Gender difference in susceptibility is not apparent under conditions where both men and women are at equal risk. Males suffer more frequently from leptospirosis than females because of greater occupational exposure to infected animals and contaminated environment. Leptospiral infections occur more frequently in persons 20-45 years of age group. Leptospirosis rarely occurs in young children and infants, possibly, because of minimal exposure.
+2.5  Seasonal variation
+2.6  High risk groups
+Agricultural workers such as rice eld planters, sugar cane and pineapple eld harvesters, labourers engaged in canal cleaning operations and livestock handlers are subjected to exposure with leptospires.
+Other occupational high risk groups are – Fishermen, sewer workers and all those persons who are liable to work in rodent infested environment. Lorry drivers as they may use contaminated water to wash their vehicles and masons, who may come in contact with the organisms while preparing the cement and sand mixture for construction work with contaminated water.
+Anicteric leptospirosis It is the milder form of the disease.
+Patients have fever, myalgia but do not have jaundice.
+Almost 90% of patients have this type of illness.
+Icteric leptospirosis It is the severe form of the disease.
+It is characterized by jaundice and is usually associated with involvement of other organs.
+Multiorgan failure Incubation Period:Average 5-14 days with a range 2-30 days.
+3.1  Clinical types :
+3.1.1  Anicteric leptospirosis
+It is the milder form of the disease. Patients present with- Fever - Patients have remittent fever with chills. It may be moderate to severe.
+Myalgia - It is characteristic nding in leptospirosis. Calf, abdominal & lumbosacral muscles are very painful & severely tender. This symptom is very useful in differentiating leptospirosis from other diseases causing fever. This is associated with increase in serum Creatinine Phosphokinase (C.P.K.) which helps in differentiating leptospirosis from other illnesses.
+Conjunctival suffusion - There is reddish coloration of conjunctiva which is a very predominant sign in leptospirosis. It is usually bilateral and is most marked on palpebral conjunctiva. It may be associated with unilateral or bilateral conjunctival hemorrhage.
+Headache - Usually intense, sometimes throbbing, commonly in frontal region.
+It is often not relieved by analgesics Renal manifestations - Some form of renal involvement is invariable in leptospirosis. It usually occurs as asymptomatic urinary abnormality in the form of mild proteinuria with few casts and cells in the urine. Severe renal involvement in the form of acute renal failure, (which occurs in icteric leptospirosis) is rare Pulmonary manifestations –Cough and chest pain are primary manifestations and in few cases haemoptysis may occur. Severe involvement leading to respiratory failure does not occur in anicteric leptospirosis.
+Hemorrhage - Hemorrhagic tendencies are also present in some cases Note: All the clinical features either decrease or disappear within two to three days and then they reappear and may progress to severe disease In endemic area all cases of fever with myalgia and conjunctival suffusion should be considered as suspected cases of leptospirosis.

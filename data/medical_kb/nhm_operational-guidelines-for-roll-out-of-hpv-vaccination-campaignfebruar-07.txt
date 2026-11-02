@@ -1,0 +1,52 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 7
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+All eligible girls will be vaccinated at designated government health facilities only – Ayushman Arogya Mandir (AAM)-Primary Health Centres (PHCs), Community Health Centres (CHCs), Sub-District Hospitals (SDHs), District Hospitals (DHs), and Government Medical Colleges and Hospitals (GMCHs) – that have a Cold Chain Point (CCP) as per eVIN, dedicated medical officer for AEFI management, internet connectivity, printer, and desktop/laptop. The campaign will run for three months, with vaccines available daily. The sessions may be conducted as per the micro-plan, with flexible timings, generally from 9:00 A.M. to 2:00 P.M., or as decided by State/Union Territory (UT) based on local need. However, State/UT may decide the session time and may conduct the vaccination on public holidays and weekends as per the local need. The digital U-WIN platform will be used for registration, recording and reporting.
+During the three-month campaign, HPV vaccination will be conducted separately from routine immunization (RI) sessions, and only the HPV vaccine will be administered by a dedicated vaccination team. After the three- month campaign, the HPV vaccine will be available at the same health facilities on Routine Immunization Days for girls aged 14 years.
+1. Vaccine name and characteristics:
+Gardasil (quadrivalent: 6,11,16,18), +2° to +8°C, freeze sensitive, VVM 30, non- live (recombinant) vaccine, single dose vial.
+2. Target Population:
+Girls who have celebrated their 14th birthday but have not yet celebrated their 15th birthday.
+Girls aged 14 years = Approximately 1% of the total population Girls who will turn 15 years within 90 days of the campaign launch date are also eligible for vaccination, but only during the three-month campaign period. After the three-month campaign, the HPV vaccine will be available at the same health facilities on Routine Immunization Days for girls aged 14 years.
+4. Delivery platforms:
+Vaccination of all eligible girls will be carried out at designated government health facilities only - Ayushman Arogya Mandir (AAM)-Primary Health Centres (PHCs), Community Health Centres (CHCs), Sub-District Hospitals (SDHs), District Hospitals (DHs), and Government Medical Colleges and Hospitals (GMCHs).
+These facilities should have a Cold Chain Point (CCP) as per eVIN, a dedicated medical officer for AEFI management, internet connectivity, printer, and desktop or laptop.
+All HPV vaccine session sites to be linked to the nearest 24x7 Health Facility for AEFI management.
+3. Exclusion criteria:
+Girls with moderate or severe illness should not be administered HPV vaccine until they have recovered.
+Girls who have had an allergic reaction to a previous vaccination or are known to be allergic to yeast to avoid getting vaccinated.
+Girls previously vaccinated: For those who have already received any HPV vaccine (Gardasil/Gardasil-9/Cervarix/Cervavac - one or more doses), their vaccination status to be updated in the U-WIN portal.
+6. Dose Schedule, route and site of administration:
+5. Campaign Duration:
+A one-time single-age cohort campaign will be conducted for a period of three months at designated government health facilities only, with the vaccine available daily during the cohort campaign period. This session will be conducted exclusively for HPV vaccination as per the micro-plan, with flexible timings, generally from 9:00 am to 2:00 pm. However, State/UT may decide the session time and may conduct the vaccination on public holidays and weekends as per the local need.
+During the three-month campaign, HPV vaccination will be conducted separately from routine immunization (RI) sessions, and only the HPV vaccine will be administered. After the three-month campaign, the HPV vaccine will be available at the same health facilities on Routine Immunization Days for girls aged 14 years.
+8. U-WIN:
+HPV vaccination related events will be recorded on U-WIN which is a digital vaccination portal of MoHFW. One can pre-register and schedule an appointment for HPV vaccination on U-WIN or directly walk-in to the Government Health Facility. Vaccination will be done using parental/guardian consent on U-WIN, if there is no internet or mobile network access, consent may be obtained on a hard copy as per the prescribed format.
+10. Preparedness assessment tool - NVI Info:
+Readiness of the State, District, and Health Facility for the introduction of the HPV vaccine will be carried out using the standard form on the Preparedness assessment tool (NVI Info).
+7. Vaccination Team:
+Vaccinator (ANM/Male HW/LHV/Nurse/CHOs), Mobilizer (ASHA/AWW/Link worker/ASHA Coordinator), Verifier (Health Facility Staff), Volunteer (Field Monitor/Mahila Arogya Samiti member/Jan Arogya Samiti member/health staff)
+9. U-Mentor:
+Monitoring at both the session site and in the community will be carried out using the standard form on the U-Mentor application.
+11. eVIN: All vaccine stocks and syringes to be managed and monitored through eVIN.
+12. General precautions to be followed to prevent AEFIs
+Before Vaccination Ensure vaccine recipients are not on an empty stomach at the time of vaccination. Parents should be advised to ensure vaccine recipients have had breakfast or something to eat before their vaccination.
+Arrange for refreshments at the session site for any child who has missed breakfast at home.
+During Vaccination: To reduce anxiety or syncope during HPV vaccination, provide a squeeze ball in the recipient's right hand and instruct her to squeeze it during vaccination.
+After Vaccination Ensure recipients wait for 30 minutes after vaccination.
+Arrange for some engaging activities in the observation room to distract girls from post-vaccination pain and anxiety.
+Minimize overcrowding to reduce the chances of stress-related response.
+13. Consent:
+The HPV vaccination is voluntary and obtaining consent from the parent/ guardian is mandatory before vaccination of girls. Vaccination will be done using parental/guardian consent on U-WIN, if there is no internet or mobile network access, consent may be obtained on a hard copy as per the prescribed format 14. 5 key messages The vaccinator should provide the following information to the caregivers, before vaccinating the girl: A single dose is sufficient to provide protection against HPV infection.
+Minor AEFIs are very common, mild in severity, self-limiting and resolve on their own within 2-3 days.
+Tab. Paracetamol in age-appropriate doses will provide relief.
+Visit the nearest 24x7 government health facility if any adverse events occur, or call the State/UT helpline number.
+Vaccination certificate can be downloaded from U-WIN portal.
+Core Operational Components Core Operational Components 5A. COORDINATION AND HIGH-LEVEL OVERSIGHT (ROLES AND RESPONSIBILITIES) The highest level of political and administrative ownership, commitment and support needs to be sustained for the successful implementation of the HPV vaccine Introduction. The National, State, and local Governments need to work together, complementing and supplementing each other’s strengths.
+ESTABLISHING IMPLEMENTATION GROUPS FOR ROLL OUT OF HPV VACCINATION
+CAMPAIGN
+NATIONAL LEVEL
+CAMPAIGN
+National Advisory Group (NAG) is chaired by the Additional Secretary and Mission Director (NHM), Ministry of Health and Family Welfare (MoHFW). The role of the NAG is to: Provide oversight and guidance on all aspects of vaccine roll out in India, including operational planning and strategy development, introduction and implementation, cold chain management, vaccine logistics and distribution, preparedness assessment, capacity building, AEFI monitoring and management, communication and media response, and monitoring of program.
