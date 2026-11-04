@@ -1,0 +1,35 @@
+120 sampled from 1474 INSUFFICIENT_EVIDENCE of 1898 claims
+--- Loading Embedding Model: BAAI/bge-m3 ---
+
+🔍 Knowledge Base folder : /storage/home/bagler/FoodFactCheck/TruthCheck_eval/data/medical_kb
+✅ Loaded existing FAISS index (36316 vectors)
+✅ Loaded 36316 cached passages
+
+📂 Total .txt files  : 484
+   ⏭️  Already cached  : 484
+   🆕 New to process  : 0
+
+✅ Nothing new to process — KB is up to date.
+
+[Reranker] Loaded CrossEncoder model: BAAI/bge-reranker-v2-m3
+processed 10/120
+processed 20/120
+processed 30/120
+processed 40/120
+processed 50/120
+processed 60/120
+processed 70/120
+processed 80/120
+processed 90/120
+processed 100/120
+processed 110/120
+processed 120/120
+
+local-model fallback judgments: 0
+cause of INSUFFICIENT_EVIDENCE (n=120)
+  scored_undecided      1 (0.8%)  clear label matches gold 1/1
+  gate_blocked         23 (19.2%)  clear label matches gold 19/23
+  retrieval_missed     17 (14.2%)  clear label matches gold 11/17
+  no_answer_found      79 (65.8%)
+best rerank score per claim: {'0.0-0.2': 42, '0.2-0.4': 23, '0.4-0.6': 16, '0.6-0.8': 14, '0.8-1.0': 25}
+by origin: {'ai4bharat_dataset': {'gate_blocked': 18, 'retrieval_missed': 12, 'no_answer_found': 58, 'scored_undecided': 1}, 'healthver_dataset': {'no_answer_found': 6, 'retrieval_missed': 2, 'gate_blocked': 3}, 'pubhealth_dataset': {'retrieval_missed': 3, 'no_answer_found': 5, 'gate_blocked': 1}, 'scifact_dataset': {'no_answer_found': 10, 'gate_blocked': 1}}

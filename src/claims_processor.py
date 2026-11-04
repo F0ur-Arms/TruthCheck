@@ -29,6 +29,7 @@ class SubClaim(BaseModel):
     outcome: Optional[str] = None
     relationship: str = Field(default="causal")  # causal, correlational, therapeutic
     direction: str = Field(default="harm")       # harm, benefit, neutral
+    high_harm: Optional[bool] = None             # LLM's judgement; None means it was not asked
     certainty_in_source_text: str = Field(default="assertive")
     scope: str = Field(default="general")
 
@@ -71,6 +72,7 @@ Analyze the given input sentence and perform structured claim decomposition:
    - population (stated target population, or null if unstated/general)
    - outcome (e.g. "kidney damage", "digestion")
    - direction ("harm", "benefit", "neutral")
+   - high_harm (true or false): true only if someone who believed this claim and acted on it could suffer serious injury or death, for example by replacing or refusing proven treatment or vaccines, taking a dangerous substance, or changing a dose. False for statements that describe a study, a disease or a statistic without suggesting such an action, and for low-risk advice, even when the topic is serious such as cancer.
 
 Return valid JSON with the schema:
 {
@@ -86,7 +88,8 @@ Return valid JSON with the schema:
       "intervention": "...",
       "population": null,
       "outcome": "...",
-      "direction": "..."
+      "direction": "...",
+      "high_harm": false
     }
   ]
 }
@@ -138,7 +141,8 @@ class ClaimsProcessor:
                             intervention=c_dict.get("intervention"),
                             population=c_dict.get("population"),
                             outcome=c_dict.get("outcome"),
-                            direction=c_dict.get("direction", "harm")
+                            direction=c_dict.get("direction", "harm"),
+                            high_harm=c_dict["high_harm"] if isinstance(c_dict.get("high_harm"), bool) else None
                         )
                     )
 

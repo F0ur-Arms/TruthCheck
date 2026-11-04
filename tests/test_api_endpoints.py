@@ -1,4 +1,6 @@
+import os
 import unittest
+from unittest.mock import patch
 from fastapi.testclient import TestClient
 
 import graph.nodes as nodes
@@ -46,6 +48,17 @@ class ApiEndpointTests(unittest.TestCase):
         self.assertEqual(data["verdict"], "NOT_A_FACT_CHECK")
         self.assertIn("Medical Safety Advice Notice", data["explanation"])
 
+    def test_high_harm_claim_is_answered_without_endorsing_it(self):
+        data = self.client.post(
+            "/api/v1/fact-check",
+            json={"text": "Stop taking insulin, bitter gourd cures diabetes."}
+        ).json()
+        self.assertEqual(data["status"], "completed")
+        self.assertEqual(data["verdict"], "WITHHELD")
+        self.assertEqual(data["evidence"], [])
+        self.assertIn("talk to a doctor", data["safety_notice"])
+
+    @patch.dict(os.environ, {"TRUTHCHECK_HUMAN_REVIEW": "on"})
     def test_high_harm_claim_is_held_until_reviewed(self):
         res = self.client.post(
             "/api/v1/fact-check",
@@ -54,6 +67,7 @@ class ApiEndpointTests(unittest.TestCase):
         data = res.json()
         self.assertEqual(data["status"], "pending_review")
         self.assertIsNone(data["verdict"])
+        self.assertNotIn("proposed_verdict", data)
         rid = data["request_id"]
         self.assertIn(rid, [i["request_id"] for i in self.client.get("/api/v1/review/pending").json()])
 

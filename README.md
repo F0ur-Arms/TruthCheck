@@ -16,7 +16,8 @@ raw input
   -> evidence quality scoring + NLI                 (src/evidence_quality.py, src/RAGpipeline/nli_verifier.py)
   -> confidence calibration                         (src/calibration.py)
   -> two-axis risk (confidence vs. harm)            (src/risk_engine_v2.py)
-  -> human review (low confidence / high harm)
+  -> harmful claims: safety notice; any endorsing verdict withheld (no human reviewer for now;
+     TRUTHCHECK_HUMAN_REVIEW=on restores the pause-for-review flow)
   -> response with citations
 ```
 

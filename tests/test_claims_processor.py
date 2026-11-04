@@ -1,4 +1,6 @@
 import unittest
+from unittest.mock import MagicMock, patch
+
 from src.claims_processor import ClaimsProcessor
 
 
@@ -27,6 +29,19 @@ class ClaimsProcessorTests(unittest.TestCase):
         self.assertEqual(len(result.claims), 2)
         self.assertIn("turmeric cures cancer", result.claims[0].canonical_claim)
         self.assertIn("warm water improves digestion", result.claims[1].canonical_claim)
+
+    def test_llm_harm_judgement_is_kept_only_when_boolean(self):
+        llm = MagicMock(configured=True)
+        processor = ClaimsProcessor(llm_verifier=llm)
+        replies = [{"route": "fact_check"}, {"claims": [
+            {"canonical_claim": "a", "high_harm": True},
+            {"canonical_claim": "b", "high_harm": False},
+            {"canonical_claim": "c", "high_harm": "yes"},
+            {"canonical_claim": "d"},
+        ]}]
+        with patch.object(processor, "_call_llm_json", side_effect=replies):
+            claims = processor.process_query("text").claims
+        self.assertEqual([c.high_harm for c in claims], [True, False, None, None])
 
 
 if __name__ == "__main__":

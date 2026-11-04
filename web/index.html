@@ -153,9 +153,9 @@
         <div class="pipe-step">
           <div class="pipe-num">08</div>
           <div class="pipe-body">
-            <h3>Route to human review when it matters</h3>
-            <p>Low confidence, high harm, conflicting top-tier sources, or medication-cessation language — any of these pause the run for a human reviewer rather than guessing.</p>
-            <span class="pipe-tag">LangGraph interrupt + checkpoint</span>
+            <h3>Never endorse a harmful claim</h3>
+            <p>If acting on a claim could cause serious harm, the answer carries a safety notice, and a verdict that would endorse it is withheld. Answers are automated: no person checks them before you see them.</p>
+            <span class="pipe-tag">verdict withheld + safety notice</span>
           </div>
         </div>
         <div class="pipe-step">
@@ -305,8 +305,8 @@
       </div>
 
       <div class="faq-item">
-        <button class="faq-q" aria-expanded="false">Is a human ever in the loop?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-        <div class="faq-a"><div class="faq-a-inner">Yes — routed automatically whenever confidence is low, harm is high, top-tier sources disagree in direction, the claim is novel, or medication/treatment-cessation language is detected (a hard override regardless of computed confidence). This is a native LangGraph interrupt: the full state is persisted and a reviewer resumes the exact point in the graph rather than the whole pipeline re-running.</div></div>
+        <button class="faq-q" aria-expanded="false">Does a person check the answers?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+        <div class="faq-a"><div class="faq-a-inner">Not at the moment. Answers are automated and can be wrong, so TruthCheck does not replace a doctor. When a claim could cause serious harm if acted on, including any suggestion to stop medicine or treatment, the answer carries a safety notice, and TruthCheck withholds any verdict that would endorse the claim.</div></div>
       </div>
 
       <div class="faq-item">

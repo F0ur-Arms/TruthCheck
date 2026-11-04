@@ -78,6 +78,7 @@ const VERDICT_LABEL = {
   MOSTLY_FALSE: 'Mostly false',
   FALSE: 'False',
   INSUFFICIENT_EVIDENCE: 'Insufficient evidence',
+  WITHHELD: 'Verdict withheld',
   NOT_VERIFIABLE: 'Not verifiable',
   NOT_A_FACT_CHECK: 'Not a fact-check',
 };
@@ -91,6 +92,7 @@ const VERDICT_BADGE_CLASS = {
   MOSTLY_FALSE: 'v-false',
   FALSE: 'v-false',
   INSUFFICIENT_EVIDENCE: 'v-insufficient',
+  WITHHELD: 'v-misleading',
   NOT_VERIFIABLE: 'v-notverifiable',
   NOT_A_FACT_CHECK: 'v-notfactcheck',
 };
@@ -187,9 +189,26 @@ function renderVerdictCard(data) {
     return;
   }
 
-  const evidence = Array.isArray(data.evidence) ? data.evidence.filter(Boolean) : [];
-  const evidenceHtml = evidence.length
-    ? evidence.map(e => `<div class="evidence-item"><span class="src">${escapeHtml(typeof e === 'string' ? e : e.src || JSON.stringify(e))}</span></div>`).join('')
+  const safetyHtml = data.safety_notice ? `<div class="vr-safety" role="alert">${escapeHtml(data.safety_notice)}</div>` : '';
+
+  if (verdict === 'WITHHELD') {
+    row.innerHTML = `
+      <div class="msg-avatar">${BOT_AVATAR_SVG}</div>
+      <div class="verdict-result">
+        <div class="vr-head">
+          <span class="vr-badge ${badgeClass}">${escapeHtml(label)}</span>
+        </div>
+        <div class="vr-body">${safetyHtml}</div>
+      </div>
+    `;
+    chatLog.appendChild(row);
+    scrollLogToBottom();
+    return;
+  }
+
+  const details = Array.isArray(data.evidence_details) ? data.evidence_details.filter(d => d && d.passage) : [];
+  const evidenceHtml = details.length
+    ? details.map(d => `<div class="evidence-item"><span class="src">${escapeHtml(d.passage)}</span>${d.source_file ? `<div class="evidence-source">Source: ${escapeHtml(d.source_file)}${d.source_tier ? ` · ${escapeHtml(d.source_tier)}` : ''}</div>` : ''}</div>`).join('')
     : `<div class="evidence-item"><span class="src" style="color:var(--text-faint);">No passages were retrieved for this claim.</span></div>`;
 
   row.innerHTML = `
@@ -200,9 +219,10 @@ function renderVerdictCard(data) {
         <button type="button" class="vr-explain">what does this mean?</button>
       </div>
       <div class="vr-body">
+        ${safetyHtml}
         <p class="short">${explanation}</p>
         <p class="why">confidence ${badgeLabelForConfidence(data.confidence)} · mode ${escapeHtml(currentMode)}</p>
-        ${data.needs_human_review ? `<div class="vr-note">Flagged for human review — confidence is low or the evidence set is mixed. This verdict is provisional until reviewed.</div>` : ''}
+        ${data.needs_human_review && verdict !== 'INSUFFICIENT_EVIDENCE' ? `<div class="vr-note">Treat this with caution: confidence is low or the evidence is mixed. No person has checked this answer.</div>` : ''}
         <div class="vr-section-label">Evidence retrieved</div>
         <div class="evidence-list">${evidenceHtml}</div>
       </div>

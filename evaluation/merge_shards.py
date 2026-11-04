@@ -16,6 +16,9 @@ if held:
     print(f"held for human review: {len(held)} ({len(held) / len(recs):.1%}); scores excluding them:")
     print(json.dumps(score_with_abstain([r["true"] for r in rest], [r["pred"] for r in rest]), indent=2))
 
+decomp = sum(1 for r in recs if r.get("decomposition_fallbacks"))
+if decomp:
+    print(f"WARNING: {decomp} claims used the decomposition heuristic after an LLM failure")
 fb = [r for r in recs if r.get("nli_fallback_calls")]
 if fb:
     print(f"WARNING: {len(fb)} claims used the local NLI fallback ({sum(r['nli_fallback_calls'] for r in fb)} judgments)")

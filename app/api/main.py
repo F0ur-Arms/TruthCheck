@@ -79,7 +79,6 @@ def fact_check(req: FactCheckRequest):
             "request_id": request_id,
             "status": "pending_review",
             "verdict": None,
-            "proposed_verdict": proposed.get("verdict"),
             "confidence": proposed.get("calibrated_confidence", 0.0),
             "explanation": "High-harm claim held for human review before a verdict is released.",
             "evidence": [],
@@ -109,6 +108,8 @@ def _response_from_state(request_id: str, trace_id: str, graph_result: Dict[str,
         "explanation": final_resp.get("explanation", ""),
         "evidence": final_resp.get("evidence", []),
         "evidence_details": final_resp.get("evidence_details", []),
+        "claims": final_resp.get("claims", []),
+        "safety_notice": final_resp.get("safety_notice"),
         "needs_human_review": flagged,
         "trace_id": trace_id
     }

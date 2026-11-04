@@ -1,0 +1,25 @@
+{
+  "n": 1898,
+  "abstained": 1751,
+  "coverage": 0.07744994731296101,
+  "strict_accuracy": 0.06217070600632244,
+  "strict_f1_weighted": 0.06550335498814452,
+  "answered_accuracy": 0.8027210884353742,
+  "answered_precision_weighted": 0.8157767008698685,
+  "answered_recall_weighted": 0.8027210884353742,
+  "answered_f1_weighted": 0.8047674536833451
+}
+held for human review: 262 (13.8%); scores excluding them:
+{
+  "n": 1636,
+  "abstained": 1489,
+  "coverage": 0.08985330073349633,
+  "strict_accuracy": 0.07212713936430318,
+  "strict_f1_weighted": 0.07523380699928182,
+  "answered_accuracy": 0.8027210884353742,
+  "answered_precision_weighted": 0.8157767008698685,
+  "answered_recall_weighted": 0.8027210884353742,
+  "answered_f1_weighted": 0.8047674536833451
+}
+WARNING: 11 claims used the decomposition heuristic after an LLM failure
+verdicts: [('INSUFFICIENT_EVIDENCE', 1474), (None, 262), ('FALSE', 78), ('SUPPORTED', 53), ('SUPPORTED_WITH_CAVEATS', 16), ('NOT_A_FACT_CHECK', 12), ('MIXED_EVIDENCE', 3)]

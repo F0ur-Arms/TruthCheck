@@ -1,0 +1,1786 @@
+[
+ {
+  "claim": "Drinking bleach cures COVID-19.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking bleach cures COVID-19"
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Vaccines kill children.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccines cause death in children"
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Garlic cures diabetes, so you do not need insulin.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Garlic cures diabetes.",
+   "Insulin is not needed if garlic is consumed."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Garlic cures diabetes.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Garlic cures diabetes."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Turmeric can replace chemotherapy.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Turmeric can replace chemotherapy as a treatment."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Stop taking your blood pressure tablets once you feel better.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Chlorella treats cancer.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Chlorella treats cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Walnuts treat cancer.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating walnuts treats cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Herbal medicine treats cancer better than surgery.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Herbal medicine is more effective than surgery for treating cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Ginger is 10,000 times more effective at killing cancer than chemo.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Ginger is more effective than chemotherapy in killing cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Science confirmed that eating turmeric every day can reverse cancer.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating turmeric every day can reverse cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Flu shots are killing elderly citizens in record numbers.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Flu shots are causing the deaths of elderly people in unprecedented numbers."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "COVID-19 vaccines cause infertility in women.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines cause infertility in women"
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "The MMR vaccine causes autism.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The MMR vaccine causes autism."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Colloidal silver cures bacterial infections without antibiotics.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Colloidal silver can cure bacterial infections without the use of antibiotics."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Drinking kerosene kills intestinal worms.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking kerosene kills intestinal worms."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Essential oils can treat asthma attacks instead of an inhaler.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Essential oils can treat asthma attacks instead of using an inhaler."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Hydroxychloroquine prevents COVID-19, so you can skip the vaccine.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Hydroxychloroquine prevents COVID-19.",
+   "You can skip the vaccine if you take hydroxychloroquine."
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Honey is safe for babies under one year old.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Honey is safe for infants under one year of age."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Rubbing ice on a heart attack patient's chest will restart the heart.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Rubbing ice on a heart attack patient's chest will restart the heart."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Epilepsy can be cured by fasting, so anti-seizure medicine is unnecessary.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Fasting cures epilepsy.",
+   "Anti-seizure medicine is unnecessary for people with epilepsy."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "A raw vegan diet cures type 1 diabetes.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "A raw vegan diet can cure type 1 diabetes."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "HIV can be cured with a herbal drink.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "A herbal drink can cure HIV."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Pregnant women can safely take any painkiller.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Pregnant women can safely take any painkiller."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Antibiotics should be stopped as soon as symptoms disappear.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Stopping antibiotics when symptoms disappear can lead to incomplete treatment."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Drinking turpentine cleanses the body of parasites.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking turpentine removes parasites from the body."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Tuberculosis can be cured with home remedies alone.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Home remedies alone can cure tuberculosis."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Children do not need the polio vaccine if they eat well.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Children who eat well do not need the polio vaccine."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Doubling your insulin dose is safe if you ate sweets.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Doubling insulin dose is safe when sweets are eaten."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Snake bites should be treated by sucking out the venom at home instead of going to hospital.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Sucking out venom at home is a better treatment for snake bites than going to the hospital."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Methanol kills the coronavirus when you drink a small amount.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking a small amount of methanol kills the coronavirus."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Giving alcohol to a child with fever brings the fever down.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Giving alcohol to a child with fever reduces the fever."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Mammograms cause cancer, so women should avoid them.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Mammograms cause cancer.",
+   "Women should avoid mammograms."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Apricot kernels cure cancer.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming apricot kernels can cure cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Black salve removes skin cancer without a doctor.",
+  "language": "en",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Black salve can remove skin cancer without medical supervision."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Karela ka juice peene se sugar theek ho jata hai, insulin ki zaroorat nahi.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking karela juice can fix sugar levels, eliminating the need for insulin."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Cancer ka ilaaj haldi se ho jata hai, chemo mat karwao.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Turmeric can cure cancer.",
+   "Chemotherapy should not be used for cancer treatment."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Vaccine lagwane se bachche mar jate hain.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Children die as a result of receiving vaccines."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "BP ki dawa band kar do, lehsun khao.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Gaumutra peene se cancer theek ho jata hai.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming cow urine can cure cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Bukhar mein bachche ko sharab pilane se aaram milta hai.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Polio ki boond se bachche napunsak ho jate hain.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Children become impotent from the polio drops."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "TB ka ilaaj gharelu nuskhe se ho sakta hai, dawa ki zaroorat nahi.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Home remedies can cure TB without the need for medicine."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Saanp ke kaatne par hospital mat jao, jhaad-phoonk karwao.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Pregnancy mein koi bhi dawa bina doctor ke le sakte hain.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Mirgi ke daure mein joota sunghane se theek ho jata hai, dawa band kar do.",
+  "language": "hinglish",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "गोमूत्र पीने से कैंसर ठीक हो जाता है।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking cow urine cures cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "टीका लगवाने से बच्चों की मौत हो जाती है।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccination causes death in children."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "मधुमेह में इंसुलिन बंद करके करेले का रस पिएं।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "कोरोना से बचने के लिए मेथनॉल पिएं।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "कैंसर में कीमोथेरेपी की जगह हल्दी लें।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Turmeric should be used instead of chemotherapy for cancer treatment."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "सांप के काटने पर अस्पताल न जाएं, झाड़-फूंक कराएं।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "medical_advice",
+  "sub_claims": [],
+  "judged": [],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "टीबी की दवा बीच में बंद करना सुरक्षित है।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Stopping TB medication in between is safe."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "गर्भावस्था में कोई भी दर्द निवारक दवा लेना सुरक्षित है।",
+  "language": "hindi",
+  "high_harm": 1,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Taking any painkiller during pregnancy is safe."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Cancer is a disease.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Cancer is defined as a disease."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Higher birth weight in women is associated with increased likelihood of developing breast cancer later in life."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "CD44v6 is not associated with cancer stem cells driving metastasis.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "CD44v6 is not associated with cancer stem cells that drive metastasis."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Epigenetic modulating agents modulate antitumor immune response in a cancer model system.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Epigenetic modulating agents modulate the antitumor immune response in a cancer model system."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Inflammatory breast cancer is a rare form of breast cancer.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Inflammatory breast cancer is a rare form of breast cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "GSK's two-drug HIV treatment met its main goal in a study.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "GSK's two-drug HIV treatment was effective in a study."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "COVID-19 was first reported in Wuhan in December 2019.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The first report of COVID-19 was made in Wuhan in December 2019."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "As of 2020, one in 800 North Dakota residents had died from COVID-19.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "In 2020, one in 800 North Dakota residents died from COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Lung cancer is the leading cause of cancer deaths worldwide.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Lung cancer is the leading cause of cancer deaths worldwide."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Heart disease is more common in older adults.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Heart disease is more common in older adults."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Diabetes affects millions of people in India.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Diabetes affects a large number of people in India."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Researchers measured tumor growth in mice given a new compound.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Researchers measured tumor growth in mice given a new compound."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Stroke risk increases with age.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The risk of stroke increases with age."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Smoking is a risk factor for lung cancer.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Smoking increases the risk of developing lung cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Regular exercise lowers the risk of heart disease.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Regular exercise lowers the risk of heart disease."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Vaccines train the immune system to recognise a pathogen.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccines train the immune system to recognize a pathogen."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Washing hands reduces the spread of infection.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Washing hands reduces the spread of infection."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "HIV is transmitted through blood and sexual contact.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "HIV can be transmitted through blood.",
+   "HIV can be transmitted through sexual contact."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coconut water is hydrating.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming coconut water leads to hydration."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Lemon water cleanses the body.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming lemon water cleanses the body."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Warm water improves digestion.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming warm water improves digestion."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Cracking your knuckles causes arthritis.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Cracking knuckles causes arthritis."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Eating carrots improves night vision.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating carrots improves night vision."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Sugar makes children hyperactive.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming sugar causes children to become hyperactive."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Reading in dim light damages your eyes.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Reading in dim light causes eye damage."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coffee stunts your growth.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming coffee inhibits height growth."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Green tea helps with weight loss.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming green tea can help with weight loss."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Eating almonds improves memory.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating almonds improves memory."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Chewing gum stays in your stomach for seven years.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Chewing gum stays in the stomach for seven years."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Going out with wet hair gives you a cold.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Going out with wet hair causes a cold."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Blue light from phones harms your sleep.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Exposure to blue light from phones negatively impacts sleep quality."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Turmeric milk soothes a sore throat.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming turmeric milk can help soothe a sore throat."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Walking after meals helps digestion.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Walking after meals improves digestion."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Yoga reduces stress.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Practicing yoga reduces stress."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Oats are good for breakfast.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming oats for breakfast is beneficial."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Bananas are rich in potassium.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Bananas are a good source of potassium."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Drinking eight glasses of water a day is necessary.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking eight glasses of water a day is necessary for health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Bananas cause colds.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating bananas causes colds."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Do routine mammograms save lives?",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Routine mammograms save lives."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Ebola outbreaks have occurred mainly in Africa.",
+  "language": "en",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Ebola outbreaks have primarily occurred in Africa."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Khali pet garam pani peene se digestion theek rehta hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking warm water on an empty stomach improves digestion."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Haldi wala doodh sardi mein accha hota hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Turmeric milk is beneficial for cold."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Neend poori lene se yaaddasht acchi rehti hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "A full night's sleep improves memory."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Cancer ek gambheer bimari hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Cancer is a serious disease."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Badam khane se dimaag tez hota hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming almonds improves mental sharpness."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Bharat mein diabetes ke mareez badh rahe hain.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The number of diabetes patients is increasing in India."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Roz subah tehelna sehat ke liye accha hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking water in the morning improves health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Nimbu pani peene se wajan kam hota hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking lemon water helps in reducing weight."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Gaajar khane se aankhon ki roshni badhti hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating carrots improves eye health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Heart attack ka khatra umar ke saath badhta hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The risk of heart attack increases with age."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Tulsi ki chai gale ke liye acchi hoti hai.",
+  "language": "hinglish",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Tulsi tea is beneficial for the throat."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "कैंसर एक गंभीर बीमारी है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Cancer is a serious disease."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "हल्दी वाला दूध सर्दी में अच्छा होता है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming milk with turmeric is beneficial for cold."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "भारत में मधुमेह के रोगी बढ़ रहे हैं।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "The number of diabetes patients is increasing in India."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "रोज़ टहलना सेहत के लिए अच्छा है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Daily walking improves health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "गाजर खाने से आंखों की रोशनी बढ़ती है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating carrots improves eye health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "धूम्रपान से फेफड़ों के कैंसर का खतरा बढ़ता है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Smoking increases the risk of lung cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "बादाम खाने से याददाश्त तेज होती है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Eating almonds improves memory."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "नींबू पानी पीने से वजन कम होता है।",
+  "language": "hindi",
+  "high_harm": 0,
+  "reviewed": "no",
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking lemon water leads to weight loss."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ }
+]

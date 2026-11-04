@@ -1,4 +1,6 @@
+import os
 import unittest
+from unittest.mock import patch
 
 from langgraph.types import Command
 
@@ -8,6 +10,9 @@ from graph.state import TruthCheckState
 from graph.workflow import create_truthcheck_graph
 from langgraph.checkpoint.memory import MemorySaver
 from tests.fakes import FakeEngine
+
+
+REVIEW_ON = {"TRUTHCHECK_HUMAN_REVIEW": "on"}
 
 
 class LangGraphWorkflowTests(unittest.TestCase):
@@ -50,6 +55,7 @@ class LangGraphWorkflowTests(unittest.TestCase):
         self._run("Garlic lowers blood pressure and turmeric cures cancer.", engine)
         self.assertGreaterEqual(len(engine.scored_claims), 1)
 
+    @patch.dict(os.environ, REVIEW_ON)
     def test_high_harm_pauses_then_resumes_with_reviewer_verdict(self):
         app, cfg, out = self._run("Stop taking insulin, bitter gourd cures diabetes.", FakeEngine())
         self.assertIn("__interrupt__", out)
@@ -62,6 +68,7 @@ class LangGraphWorkflowTests(unittest.TestCase):
         self.assertEqual(resumed["final_response"]["verdict"], "FALSE")
         self.assertTrue(resumed["final_response"]["human_reviewed"])
 
+    @patch.dict(os.environ, REVIEW_ON)
     def test_rejection_without_override_withholds_verdict(self):
         app, cfg, _ = self._run("Stop taking insulin, bitter gourd cures diabetes.", FakeEngine(), "t2")
         resumed = app.invoke(Command(resume={"action": "rejected"}), config=cfg)
@@ -79,6 +86,85 @@ class LangGraphWorkflowTests(unittest.TestCase):
         res = assess_risk_node(TruthCheckState(**base))
         self.assertFalse(res["needs_human_review"])
         self.assertIn("inconclusive_verdict", res["risk_assessment"]["review_reasons"])
+
+    def _assess(self, text, verdict, llm_harm, raw="x"):
+        return assess_risk_node(TruthCheckState(
+            raw_input=raw,
+            claim_results=[{
+                "canonical_claim": text, "population": None, "high_harm": llm_harm,
+                "calibrated_verdict": {"verdict": verdict, "calibrated_confidence": 0.9},
+            }],
+            calibrated_verdict={"verdict": verdict, "calibrated_confidence": 0.9},
+        ))
+
+    def test_nothing_waits_on_a_reviewer_by_default(self):
+        _, _, out = self._run("Stop taking insulin, bitter gourd cures diabetes.", FakeEngine())
+        self.assertNotIn("__interrupt__", out)
+        self.assertEqual(out["final_response"]["verdict"], "WITHHELD")
+        self.assertEqual(out["final_response"]["evidence"], [])
+        self.assertEqual(out["final_response"]["claims"], [])
+        self.assertIn("cannot confirm", out["final_response"]["safety_notice"])
+
+    def test_harmful_claim_the_system_supports_is_withheld(self):
+        for verdict in ("SUPPORTED", "SUPPORTED_WITH_CAVEATS", "MIXED_EVIDENCE"):
+            res = self._assess("Drinking bleach cures COVID-19.", verdict, True)
+            self.assertTrue(res["risk_assessment"]["withhold"])
+            self.assertFalse(res["needs_human_review"])
+
+    @patch.dict(os.environ, REVIEW_ON)
+    def test_reviewer_mode_holds_instead_of_withholding(self):
+        res = self._assess("Drinking bleach cures COVID-19.", "SUPPORTED", True)
+        self.assertTrue(res["needs_human_review"])
+        self.assertFalse(res["risk_assessment"]["withhold"])
+
+    def test_harmful_claim_not_endorsed_is_answered_and_flagged(self):
+        for verdict in ("FALSE", "INSUFFICIENT_EVIDENCE"):
+            res = self._assess("Drinking bleach cures COVID-19.", verdict, True)
+            self.assertFalse(res["risk_assessment"]["withhold"])
+            self.assertTrue(res["risk_assessment"]["flag_for_review"])
+            self.assertIn("high_harm", res["risk_assessment"]["review_reasons"])
+
+    def test_llm_clears_a_descriptive_claim_the_keywords_would_hold(self):
+        res = self._assess("Cancer is a disease.", "SUPPORTED", False)
+        self.assertFalse(res["risk_assessment"]["withhold"])
+        self.assertNotIn("high_harm", res["risk_assessment"]["review_reasons"])
+
+    def test_keyword_flag_stops_any_verdict_when_llm_gave_no_judgement(self):
+        self.assertTrue(self._assess("Cancer is a disease.", "FALSE", None)["risk_assessment"]["withhold"])
+        self.assertFalse(self._assess("Cancer is a disease.", "INSUFFICIENT_EVIDENCE", None)["risk_assessment"]["withhold"])
+
+    def test_cessation_language_is_never_endorsed_and_always_gets_a_notice(self):
+        refuted = self._assess("Stop taking insulin.", "FALSE", False)["risk_assessment"]
+        self.assertFalse(refuted["withhold"])
+        self.assertTrue(refuted["high_harm"])
+        self.assertTrue(self._assess("Stop taking insulin.", "SUPPORTED", False)["risk_assessment"]["withhold"])
+        # The English sub-claim loses Hinglish wording, so the original text is checked too.
+        res = self._assess("Bitter gourd helps diabetes.", "SUPPORTED", False, raw="sugar ki dawa band kar do")
+        self.assertTrue(res["risk_assessment"]["withhold"])
+        self.assertIn("treatment_cessation_override", res["risk_assessment"]["review_reasons"])
+
+    def test_withheld_answer_never_carries_the_endorsement(self):
+        res = nodes.generate_response_node(TruthCheckState(
+            raw_input="x",
+            claim_results=[{"canonical_claim": "x", "scored_passages": [{"passage": "p", "rerank_score": 1.0}],
+                            "calibrated_verdict": {"verdict": "SUPPORTED", "calibrated_confidence": 0.9}}],
+            calibrated_verdict={"verdict": "SUPPORTED", "calibrated_confidence": 0.9},
+            risk_assessment={"high_harm": True, "withhold": True},
+        ))["final_response"]
+        self.assertEqual((res["verdict"], res["evidence"], res["claims"]), ("WITHHELD", [], []))
+        self.assertNotIn("SUPPORTED", res["explanation"])
+
+    def test_safety_notice_only_on_unendorsed_harmful_claims(self):
+        def respond(verdict, high_harm):
+            return nodes.generate_response_node(TruthCheckState(
+                raw_input="x", claim_results=[],
+                calibrated_verdict={"verdict": verdict, "calibrated_confidence": 0.9},
+                risk_assessment={"high_harm": high_harm},
+            ))["final_response"]["safety_notice"]
+        self.assertIn("goes against", respond("FALSE", True))
+        self.assertIn("could not verify", respond("INSUFFICIENT_EVIDENCE", True))
+        self.assertIsNone(respond("SUPPORTED", True))
+        self.assertIsNone(respond("FALSE", False))
 
     def test_aggregated_verdict_survives_into_the_final_response(self):
         nodes.set_engine(FakeEngine())

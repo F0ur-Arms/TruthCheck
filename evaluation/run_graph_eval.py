@@ -78,6 +78,7 @@ def main():
         cfg = {"configurable": {"thread_id": f"eval-{idx}"}}
         out = {}
         fallback_before = getattr(nodes.get_engine().nli_judge, "fallback_calls", 0)
+        decomp_before = nodes.claims_processor.fallback_count
         try:
             out = app.invoke({"raw_input": str(row["claim"])}, config=cfg)
             if out.get("__interrupt__"):
@@ -89,7 +90,8 @@ def main():
             verdict, held = f"ERROR:{type(exc).__name__}", False
         pred = get_binary_prediction([{"verdict": verdict}]) if verdict and not verdict.startswith("ERROR") else None
         rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held,
-               "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before}
+               "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before,
+               "decomposition_fallbacks": nodes.claims_processor.fallback_count - decomp_before}
         if "origin" in row:
             rec["origin"] = row["origin"]
         if args.details:

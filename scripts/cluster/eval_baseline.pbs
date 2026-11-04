@@ -21,9 +21,9 @@ export HF_HOME=$HOME/FoodFactCheck/hf_cache
 export HF_HUB_OFFLINE=1
 export TOKENIZERS_PARALLELISM=false
 export PYTHONUNBUFFERED=1
-export TRUTHCHECK_LLM_BASE_URL=http://cb-gpu-server:8000/v1
+export TRUTHCHECK_LLM_BASE_URL=${TRUTHCHECK_LLM_BASE_URL:-http://cb-gpu-server:8000/v1}
 export TRUTHCHECK_LLM_API_KEY=none
-export TRUTHCHECK_LLM_MODEL=qwen2.5-7b-awq
+export TRUTHCHECK_LLM_MODEL=${TRUTHCHECK_LLM_MODEL:-qwen2.5-7b-awq}
 export TRUTHCHECK_LLM_TIMEOUT_SECONDS=60
 N=${N:-4}
 
@@ -50,6 +50,14 @@ if [ "$MODE" = "llmnli" ]; then
   OUT=${OUT_DIR:-evaluation/baselines/step4_llm_judge}
   mkdir -p $OUT
   python evaluation/eval_llm_nli.py $EXTRA_ARGS --out $OUT/rows.json 2>&1 | tee $OUT/summary.txt
+  echo "EVAL done $(date)"
+  exit 0
+fi
+if [ "$MODE" = "coverage" ]; then
+  # Sorts unanswered claims by cause. EXTRA: path to merged_predictions.json, then any options.
+  OUT=${OUT_DIR:-evaluation/baselines/coverage_diagnosis}
+  mkdir -p $OUT
+  python evaluation/diagnose_coverage.py $EXTRA_ARGS --out $OUT 2>&1 | tee $OUT/summary.txt
   echo "EVAL done $(date)"
   exit 0
 fi

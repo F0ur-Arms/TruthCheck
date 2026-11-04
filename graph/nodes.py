@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from typing import Any, Dict, List, Optional
 
 from langgraph.types import interrupt
@@ -10,7 +11,7 @@ from graph.state import TruthCheckState
 from src.preprocessor import HinglishMapper
 from src.claims_processor import ClaimsProcessor, SubClaim
 from src.calibration import ConfidenceCalibrator
-from src.risk_engine_v2 import TwoAxisRiskEngine
+from src.risk_engine_v2 import TwoAxisRiskEngine, has_cessation_language
 
 
 mapper = HinglishMapper()
@@ -23,6 +24,14 @@ _engine = None
 SUPPORT_CLASS = {"SUPPORTED", "MOSTLY_SUPPORTED", "SUPPORTED_WITH_CAVEATS"}
 REFUTE_CLASS_BY_SEVERITY = ["FALSE", "MOSTLY_FALSE", "MISLEADING"]
 UNCERTAIN_CLASS = {"INSUFFICIENT_EVIDENCE", "MIXED_EVIDENCE"}
+# Verdicts that would tell a user a harmful claim may be right: these wait for a reviewer.
+ENDORSING_VERDICTS = SUPPORT_CLASS | {"MIXED_EVIDENCE"}
+
+
+def human_review_enabled() -> bool:
+    """Nobody reviews claims for now, so nothing may wait on a person. TRUTHCHECK_HUMAN_REVIEW=on
+    restores the pause-and-resume flow for when a reviewer exists."""
+    return os.environ.get("TRUTHCHECK_HUMAN_REVIEW", "off").lower() == "on"
 
 
 def get_engine():
@@ -135,6 +144,7 @@ def evidence_and_calibration_node(state: TruthCheckState) -> Dict[str, Any]:
             "claim_id": sc.get("claim_id"),
             "canonical_claim": sc["canonical_claim"],
             "population": sc.get("population"),
+            "high_harm": sc.get("high_harm"),
             "scored_passages": scored,
             "evidence_summary": summary.model_dump(),
             "calibrated_verdict": calibrated.model_dump(),
@@ -181,16 +191,33 @@ def assess_risk_node(state: TruthCheckState) -> Dict[str, Any]:
 
     worst = max(per_claim, key=lambda x: x["harm_axis"])
     verdict = (state.calibrated_verdict or {}).get("verdict", "INSUFFICIENT_EVIDENCE")
-    # Only high harm or a medication-cessation override blocks the response on a reviewer.
+    override = has_cessation_language(state.raw_input) or any(c["has_hard_override"] for c in per_claim)
+
+    # The LLM's harm judgement decides when it exists. The keyword score only stands in when the
+    # LLM was unavailable, and then its flag stops any verdict, since nothing else can be trusted.
+    high_harm, keyword_harm = override, False
+    endorsed = verdict in ENDORSING_VERDICTS
+    for assessed, result in zip(per_claim, state.claim_results):
+        llm_harm = result.get("high_harm")
+        if llm_harm is None:
+            keyword_harm = keyword_harm or assessed["harm_axis"] >= risk_engine.harm_threshold
+        elif llm_harm:
+            high_harm = True
+            endorsed = endorsed or result["calibrated_verdict"]["verdict"] in ENDORSING_VERDICTS
+    high_harm = high_harm or keyword_harm
+
+    # The system never tells a user a harmful claim may be right. A verdict that does not endorse
+    # it goes out at once with a safety notice; "not enough evidence" already endorses nothing.
+    unsafe = keyword_harm or (high_harm and endorsed)
+    blocking = human_review_enabled() and (override or unsafe)
+    withhold = not human_review_enabled() and unsafe and verdict != "INSUFFICIENT_EVIDENCE"
+
     # Low confidence alone is answered as INSUFFICIENT_EVIDENCE and flagged, not blocked.
-    blocking = any(
-        c["has_hard_override"] or c["harm_axis"] >= risk_engine.harm_threshold for c in per_claim
-    )
     low_confidence = any(c["confidence_axis"] < risk_engine.confidence_threshold for c in per_claim)
     reasons = []
-    if any(c["has_hard_override"] for c in per_claim):
+    if override:
         reasons.append("treatment_cessation_override")
-    if worst["harm_axis"] >= risk_engine.harm_threshold:
+    if high_harm:
         reasons.append("high_harm")
     if low_confidence:
         reasons.append("low_confidence")
@@ -199,7 +226,8 @@ def assess_risk_node(state: TruthCheckState) -> Dict[str, Any]:
         reasons.append("inconclusive_verdict")
 
     return {
-        "risk_assessment": {**worst, "verdict": verdict, "review_reasons": reasons,
+        "risk_assessment": {**worst, "verdict": verdict, "high_harm": high_harm, "withhold": withhold,
+                            "review_reasons": reasons,
                             "flag_for_review": bool(reasons), "per_claim": per_claim},
         "needs_human_review": blocking,
     }
@@ -219,6 +247,19 @@ def human_review_node(state: TruthCheckState) -> Dict[str, Any]:
     return {"human_reviewer_decision": decision, "needs_human_review": False}
 
 
+def _safety_notice(verdict: str) -> Optional[str]:
+    if verdict in ENDORSING_VERDICTS:
+        return None
+    if verdict == "WITHHELD":
+        return ("We cannot confirm this claim, and acting on it could cause serious harm. Do not change "
+                "any treatment or medicine because of it. Please talk to a doctor.")
+    if verdict == "INSUFFICIENT_EVIDENCE":
+        return ("We could not verify this claim, and acting on it could cause serious harm. Do not change "
+                "any treatment or medicine because of it. Please talk to a doctor.")
+    return ("The evidence goes against this claim, and acting on it could cause serious harm. Do not change "
+            "any treatment or medicine because of it. Please talk to a doctor.")
+
+
 def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
     if state.final_response:
         return {}
@@ -232,6 +273,16 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
             verdict = decision["adjusted_verdict"]
         elif decision.get("action") == "rejected":
             verdict = "INSUFFICIENT_EVIDENCE"
+
+    risk = state.risk_assessment or {}
+    if risk.get("withhold") and not state.human_reviewer_decision:
+        notice = _safety_notice("WITHHELD")
+        return {"final_response": {
+            "input": state.raw_input, "verdict": "WITHHELD", "confidence": 0.0, "explanation": notice,
+            # Passages and sub-claim verdicts would show the endorsement this verdict keeps back.
+            "evidence": [], "evidence_details": [], "claims": [], "risk": risk, "safety_notice": notice,
+            "human_reviewed": False, "needs_human_review": True, "source": "TruthCheck v2 LangGraph Engine",
+        }}
 
     evidence_details = sorted(
         (sp for r in state.claim_results for sp in r["scored_passages"]),
@@ -270,6 +321,7 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
             for r in state.claim_results
         ],
         "risk": state.risk_assessment,
+        "safety_notice": _safety_notice(verdict) if (state.risk_assessment or {}).get("high_harm") else None,
         "human_reviewed": bool(state.human_reviewer_decision),
         "needs_human_review": bool((state.risk_assessment or {}).get("flag_for_review"))
         and not state.human_reviewer_decision,

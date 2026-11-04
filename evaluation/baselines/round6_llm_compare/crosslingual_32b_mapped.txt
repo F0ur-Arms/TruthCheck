@@ -1,0 +1,10 @@
+pairs: 413 {'hinglish': 278, 'hindi': 135}  prompt: v1
+  en                       accuracy 0.632  agrees with English (en) 1.000  errors 0
+  translated               accuracy 0.622  agrees with English (en) 0.874  errors 0
+  mapped                   accuracy 0.598  agrees with English (en) 0.850  errors 0
+  en_pipeline              accuracy 0.596  agrees with English (en) 0.898  errors 0  decomposition fallbacks 1
+  translated_pipeline      accuracy 0.542  agrees with English (en_pipeline) 0.862  errors 0  decomposition fallbacks 0
+  translated_pipeline_raw  accuracy 0.581  agrees with English (en_pipeline) 0.920  errors 0  decomposition fallbacks 1
+  hindi      n=135: EN acc 0.689, translated acc 0.659, agreement 0.896
+  hinglish   n=278: EN acc 0.604, translated acc 0.604, agreement 0.863
+  label changes EN -> translated: [(('REFUTES', 'NEI'), 21), (('NEI', 'SUPPORTS'), 12), (('NEI', 'REFUTES'), 11), (('SUPPORTS', 'NEI'), 6), (('SUPPORTS', 'REFUTES'), 2)]

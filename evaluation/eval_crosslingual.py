@@ -112,7 +112,8 @@ def main():
         from src.claims_processor import ClaimsProcessor
         settings = {
             "en_pipeline": lambda p: (p["en"], mapper.clean_text(p["en"])),
-            "translated_pipeline": lambda p: (p["translated"], p["mapped"]),
+            # The decomposer reads its first argument, so this is what it would see if fed the normaliser output.
+            "translated_pipeline": lambda p: (p["mapped"], p["mapped"]),
             "translated_pipeline_raw": lambda p: (p["translated"], p["translated"]),
         }
         for name, make_input in settings.items():

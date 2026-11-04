@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 from typing import Any, Callable, Dict
 
 import requests
@@ -14,6 +15,10 @@ LABELS = ("SUPPORTS", "REFUTES", "NEI")
 # claim/evidence pairs (evaluation/baselines/step4_llm_judge). Interim confidences
 # until the calibrator is fitted on the golden set.
 LABEL_PRECISION = {"SUPPORTS": 0.58, "REFUTES": 0.79, "NEI": 0.55}
+# Each model has its own precision: TRUTHCHECK_NLI_LABEL_PRECISION=supports:refutes:nei overrides these.
+if os.environ.get("TRUTHCHECK_NLI_LABEL_PRECISION"):
+    LABEL_PRECISION = dict(zip(("SUPPORTS", "REFUTES", "NEI"),
+                               map(float, os.environ["TRUTHCHECK_NLI_LABEL_PRECISION"].split(":"))))
 # Prompt used until round 2 (evaluation/baselines/round2); kept so the two can be compared.
 SYSTEM_V1 = (
     "You judge whether an evidence passage supports or refutes a health claim. "

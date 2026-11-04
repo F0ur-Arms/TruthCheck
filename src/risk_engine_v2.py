@@ -32,6 +32,11 @@ VULNERABLE_POPULATIONS = [
 ]
 
 
+def has_cessation_language(text: str) -> bool:
+    """Treatment-cessation wording, in English or Hinglish."""
+    return any(re.search(pat, text.lower()) for pat in CESSATION_PATTERNS)
+
+
 class RiskAssessment(BaseModel):
     confidence_axis: float
     harm_axis: float
@@ -61,7 +66,7 @@ class TwoAxisRiskEngine:
         text_lower = claim_text.lower()
 
         # 1. Hard Override Check (Medication / Treatment Cessation)
-        has_override = any(re.search(pat, text_lower) for pat in CESSATION_PATTERNS)
+        has_override = has_cessation_language(text_lower)
 
         # 2. Compute Harm Axis components
         actionability = self._compute_actionability(text_lower)
