@@ -15,6 +15,9 @@ case "${PBS_QUEUE:-Gpu4-40g}" in
   Gpu4-40g) export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef ;;
   Gpu5-40g) export CUDA_VISIBLE_DEVICES=MIG-4889f421-8c3c-57fc-9adf-707c476a0d63 ;;
   Gpu6-40g) export CUDA_VISIBLE_DEVICES=MIG-eaefa1a1-5eab-5722-8962-e24791557a79 ;;
+  # Not in IT's mapping: the node's only GPU outside the MIG slices above is an L40S (46 GB),
+  # found with nvidia-smi -L on 4 Nov 2026 and idle then; Gpu7 is assumed to be that card.
+  Gpu7-80g) export CUDA_VISIBLE_DEVICES=GPU-bfacee82-0a55-9ccf-245d-7ff819619515 ;;
   *) echo "no MIG slice known for queue $PBS_QUEUE"; exit 1 ;;
 esac
 export HF_HOME=$HOME/FoodFactCheck/hf_cache

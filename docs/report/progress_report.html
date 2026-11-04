@@ -57,7 +57,7 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
   <li><b>A relevance gate and a stricter judge prompt remove the bias</b> (section 9): balanced accuracy 0.598 &rarr; 0.706. The gate alone does this, so the more accurate prompt v1 is kept. The price is coverage: verdicts on 15% of claims, because for about 70% the knowledge base holds nothing relevant. Knowledge-base coverage is now the main limit.</li>
   <li><b>Multilingual evaluation has started</b> (section 10): on 413 English/Hinglish pairs judged against the same evidence, the judge changes its answer for about one claim in four when the claim is not in English (accuracy 62.0% English, 58.4% translated), and the pipeline's word-by-word normaliser makes it slightly worse (56.9%). The LLM decomposer now receives the original text instead; the re-run test through the LLM confirms it (section 11).</li>
   <li><b>Clean end-to-end baseline</b> (round 5, section 10): with all fixes together, balanced accuracy 0.726, verdicts on 16.6% of claims, 76.5% correct when answered.</li>
-  <li><b>A larger judge is more reliable but more cautious</b> (section 11). Qwen2.5-32B confuses "supports" and "refutes" five times less often than 7B, almost never calls an off-topic passage a refutation, and narrows the Hinglish gap (agreement with English 77.5% &rarr; 87.4%). Through the full pipeline, balanced accuracy rises from 0.726 to 0.810, but it answers only 7.7% of claims.</li>
+  <li><b>A larger judge is more reliable but more cautious</b> (section 11). Qwen2.5-32B confuses "supports" and "refutes" five times less often than 7B, almost never calls an off-topic passage a refutation, and narrows the Hinglish gap (agreement with English 77.5% &rarr; 87.4%). Through the full pipeline at gate 0.6, balanced accuracy rises from 0.726 to 0.810, but it answers only 7.7% of claims. With the gate off it answers 23.7% (84.4% correct), but leans toward "false" again (balanced 0.765).</li>
   <li><b>Why claims go unanswered</b> (section 11): in a sample of 120, two thirds have no answer in the knowledge base even when searching ten times deeper; about one in five is blocked by the relevance gate; one in seven is outside the top 5 passages. Adding sources is the main fix, and the gate is probably too strict for the 32B judge.</li>
   <li><b>Harm check rebuilt, and no human reviewer</b> (sections 11 and 13). The keyword harm detector missed dangerous claims and held harmless ones; an LLM judgement replaces it. No reviewer exists for now, so the system never waits on one: it withholds any verdict that would endorse a harmful claim and adds a safety notice.</li>
 </ul>
@@ -330,6 +330,16 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
 <p>Treat this as a sanity check, not a safety result. The claims and labels were written by the assistant that built the check, are mostly clear-cut, and are unreviewed (<code>evaluation/golden_set/harm_labels_draft.csv</code>); 9 of the harmful claims were caught by routing them as personal medical-advice questions. The set needs review and harder claims written by the team.</p>
 <p><b>Policy without a reviewer.</b> A harmful claim that the system would call supported or mixed gets "Verdict withheld" with a safety notice, and no evidence or sub-claim verdicts are shown. A harmful claim called false, or with insufficient evidence, is answered at once with the notice. Stop-medication wording, now checked on the original text as well as the English sub-claims, always counts as harmful. When the LLM is down, a keyword flag withholds any verdict. The web page shows the notice and passage sources, and no longer promises human review.</p>
 
+<h3>Round 7: 32B with the gate off and the new harm policy (1,898 claims)</h3>
+<table>
+  <tr><th>Run</th><th class="n">Answered</th><th class="n">Accuracy (answered)</th><th class="n">True called true</th><th class="n">False called false</th><th class="n">Balanced acc.</th></tr>
+  <tr><td>Round 5: 7B, gate 0.6</td><td class="n">16.6%</td><td class="n">76.5%</td><td class="n">62%</td><td class="n">83%</td><td class="n">0.726</td></tr>
+  <tr><td>Round 6: 32B, gate 0.6</td><td class="n">7.7%</td><td class="n">80.3%</td><td class="n">85%</td><td class="n">78%</td><td class="n">0.810</td></tr>
+  <tr><td>Round 7: 32B, gate off</td><td class="n">23.7%</td><td class="n">84.4%</td><td class="n">59%</td><td class="n">94%</td><td class="n">0.765</td></tr>
+</table>
+<p>Removing the gate triples coverage (449 answered vs 147), and raw accuracy rises, but part of that is the lean toward "false" returning: 357 of the 449 answers are "false", and always answering "false" would score 72.8% on this set. Accuracy varies by source: ai4bharat 88.8% (n=349), HealthVer 80.3% (61), SciFact 66.7% (12), PUBHEALTH 44.4% (27). A simulation from the saved passage scores suggests a low gate near 0.1 could keep 15% coverage with most of the balance; the same simulation overestimates quality at 0.6 (0.863 vs the real 0.810), so round 8 tests 0.1 for real.</p>
+<p><b>Harm policy in this run.</b> Nothing waits on a reviewer (262 holds before, 0 now). No false claim flagged as harmful was called true. 17 verdicts (0.9%) were withheld. But the check flags 630 claims (33%), far more than the 113-claim test suggested: 578 are false claims, and 52 are true. Some withheld claims are harmless or even protective, such as "Can you take too much Vitamin D?" and advice against using alcohol to cope with stress, so the prompt needs tightening. Harm flags are not checked against harm labels on this set.</p>
+
 <h2>12. Infrastructure and how to reproduce</h2>
 <ul>
   <li><b>LLM server:</b> Qwen2.5-7B-Instruct-AWQ on vLLM 0.7.2, PBS queue <code>Gpu1-10g</code> (job limit one per queue, 48-hour walltime). Runbook: <code>docs/LOCAL_LLM_DEPLOYMENT.md</code>.</li>
@@ -385,10 +395,10 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td>Step 7: scale and multimodal</td><td>Not started</td><td>OCR, audio, Postgres/pgvector</td></tr>
 </table>
 <ol>
-  <li><b>Round 7 (running)</b>: 32B with the relevance gate off and the new harm policy, 1,898 claims. Decide the judge and the gate from it.</li>
+  <li><b>Round 8 (running)</b>: 32B with the gate at 0.1. Then the source-trust fix alone, then knowledge-base batch 3 with a rebuilt index.</li>
   <li><b>Hinglish retrieval</b>: run the cross-lingual pairs end to end with retrieval; check the medical-advice router on Hinglish.</li>
   <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
-  <li><b>Harm check</b>: team review of the harm labels, plus harder claims written by the team; Hinglish and Hindi safety notices.</li>
+  <li><b>Harm check</b>: reduce over-flagging (33% of benchmark claims); team review of the harm labels, plus harder claims written by the team; Hinglish and Hindi safety notices.</li>
   <li><b>Web page</b>: progress display, answers in the user's language, lock the trace endpoint before any outside use.</li>
   <li><b>Golden set v1</b> with the teammate: real Hinglish and Devanagari Hindi claims, 8 verdicts, evidence, review; then calibration and risk-coverage curves.</li>
 </ol>
@@ -407,6 +417,8 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td><code>947b626</code></td><td>Original Hinglish text to the LLM decomposer</td></tr>
   <tr><td><code>501c6af</code></td><td>Round 5: clean end-to-end baseline</td></tr>
   <tr><td><code>7bf92bc</code></td><td>Fix the cross-lingual decomposition test; 32B vLLM job</td></tr>
+  <tr><td><code>66bcf32</code></td><td>Round 6: 32B judge, coverage diagnosis, LLM harm check without a reviewer</td></tr>
+  <tr><td><code>dbbf051</code></td><td>Score source trust from the passage's file, not words in its text</td></tr>
 </table>
 <p class="small">Generated from the repository state at the commit above. Numbers are taken from <code>evaluation/baselines/*/merged_summary.txt</code> and the NLI summary files.</p>
 
