@@ -101,6 +101,7 @@ class EvidenceEngine:
                 claim_subject=subject,
                 claim_outcome=outcome,
                 target_population=population,
+                source_tier=source_tier,
             )
             scored_passages.append({
                 "passage": passage,

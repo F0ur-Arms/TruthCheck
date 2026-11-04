@@ -14,6 +14,10 @@ _FILENAME_TIER_RULES = (
     (re.compile(r"^nin", re.I), "nin"),
     (re.compile(r"^nih", re.I), "nih"),
     (re.compile(r"^fssai", re.I), "fssai"),
+    (re.compile(r"^cdc", re.I), "cdc"),
+    (re.compile(r"^mohfw", re.I), "mohfw"),
+    (re.compile(r"^nhm", re.I), "nhm"),
+    (re.compile(r"^medline", re.I), "medline"),
     (re.compile(r"^pubmed", re.I), "pubmed"),
     (re.compile(r"^vishvas", re.I), "vishvas"),
     (re.compile(r"^thip", re.I), "thip"),
@@ -41,8 +45,9 @@ def tier_from_filename(filename: Optional[str]) -> str:
 
 def tier_from_passage_text(text: str) -> str:
     """Fallback tier label inferred from passage body when filename is unknown."""
-    text_lower = text.lower()
     for source in SOURCE_TIERS:
-        if source in text_lower:
+        # Whole words only; WHO must be capitalised so the pronoun does not match.
+        pattern = r"\bWHO\b" if source == "who" else rf"\b{source}\b"
+        if re.search(pattern, text, 0 if source == "who" else re.I):
             return source
     return "journalism"

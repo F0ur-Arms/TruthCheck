@@ -18,6 +18,24 @@ class EvidenceCalibrationTests(unittest.TestCase):
         self.assertGreater(score_who.source_tier_score, score_toi.source_tier_score)
         self.assertGreater(score_who.overall_quality_score, score_toi.overall_quality_score)
 
+    def test_file_tier_decides_over_words_in_the_text(self):
+        text = "People who smoke have a higher risk of heart disease."
+        self.assertEqual(self.scorer.score_passage(text, source_tier="journalism").source_tier_score, 0.35)
+        self.assertEqual(self.scorer.score_passage(text, source_tier="cdc").source_tier_score, 1.0)
+        # Without a file, the pronoun "who" is not the WHO.
+        self.assertEqual(self.scorer.score_passage(text).source_tier_score, 0.50)
+
+    def test_new_source_prefixes_have_tiers(self):
+        from src.source_tier import tier_from_filename
+        for name, tier in (("cdc_covid-about.txt", "cdc"), ("mohfw_tb.txt", "mohfw"),
+                           ("nhm_immunisation.txt", "nhm"), ("medline_aspirin.txt", "medline")):
+            self.assertEqual(tier_from_filename(name), tier)
+
+    def test_text_tier_needs_the_source_named(self):
+        from src.source_tier import tier_from_passage_text
+        self.assertEqual(tier_from_passage_text("People who smoke are at risk."), "journalism")
+        self.assertEqual(tier_from_passage_text("The WHO recommends two doses."), "who")
+
     def test_calibrator_population_split_produces_supported_with_caveats(self):
         summary = ClaimEvidenceSummary(
             best_tier="guideline",

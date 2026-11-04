@@ -20,6 +20,11 @@ SOURCE_TIERS = {
     "icmr": 1.0,
     "nih": 1.0,
     "fssai": 1.0,
+    "cdc": 1.0,
+    "mohfw": 1.0,
+    "nin": 1.0,
+    "nhm": 0.95,
+    "medline": 0.85,
     "pubmed": 0.85,
     "guideline": 0.95,
     "cleveland": 0.80,
@@ -65,10 +70,15 @@ class EvidenceQualityScorer:
         claim_subject: Optional[str] = None,
         claim_outcome: Optional[str] = None,
         target_population: Optional[str] = None,
-        publication_year: Optional[int] = None
+        publication_year: Optional[int] = None,
+        source_tier: Optional[str] = None
     ) -> PassageQualityScore:
-        # 1. Source Tier
-        source_score = self._compute_source_tier(passage_text)
+        # 1. Source Tier: the passage's file decides when known. Guessing from the text only
+        # stands in without one ("people who smoke" once scored as a WHO source).
+        if source_tier:
+            source_score = SOURCE_TIERS.get(source_tier, SOURCE_TIERS["journalism"])
+        else:
+            source_score = self._compute_source_tier(passage_text)
 
         # 2. Recency Score
         recency_score = self._compute_recency(passage_text, publication_year)
@@ -129,9 +139,10 @@ class EvidenceQualityScorer:
         )
 
     def _compute_source_tier(self, text: str) -> float:
-        text_lower = text.lower()
         for source, weight in SOURCE_TIERS.items():
-            if source in text_lower:
+            # Whole words only; WHO must be capitalised so the pronoun does not match.
+            pattern = r"\bWHO\b" if source == "who" else rf"\b{source}\b"
+            if re.search(pattern, text, 0 if source == "who" else re.I):
                 return weight
         return 0.50
 
