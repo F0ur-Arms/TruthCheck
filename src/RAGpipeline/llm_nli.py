@@ -35,6 +35,19 @@ SYSTEM = (
     "Return JSON: {\"label\": \"SUPPORTS|REFUTES|NEI\"}."
 )
 
+# Under test: 32B answers NEI on many rows where the evidence decides (evaluation/baselines/round6_llm_compare).
+SYSTEM_V3 = (
+    "You judge whether an evidence passage supports or refutes a health claim. Use only the passage.\n"
+    "Read the claim as a reasonable person would and decide from what the passage says about its main point.\n"
+    "SUPPORTS: the passage says the same as the claim's main point, even in different words, or it clearly follows "
+    "from the passage.\n"
+    "REFUTES: the passage says the opposite of the claim's main point, or what it says cannot be true at the same "
+    "time as the claim.\n"
+    "NEI: only if the passage is about something else or says nothing on the claim's main point. Do not answer NEI "
+    "merely because the passage lacks the exact wording, a specific detail or a caveat.\n"
+    "Return JSON: {\"label\": \"SUPPORTS|REFUTES|NEI\"}."
+)
+
 
 def _result(label: str, claim: str, evidence_text: str) -> Dict[str, Any]:
     conf = LABEL_PRECISION[label]

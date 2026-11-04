@@ -52,9 +52,10 @@ class EvidenceEngine:
         # the labelled evidence rows against 40-45% for the dedicated NLI models.
         backend = os.environ.get("TRUTHCHECK_NLI_BACKEND", "auto").lower()
         # TRUTHCHECK_NLI_PROMPT: v1 (default; with the relevance gate it matches v2 on balance and
-        # answers more claims, round 4) or v2 (off-topic text is NEI, for use without the gate).
-        from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1
-        prompt = SYSTEM_V1 if os.environ.get("TRUTHCHECK_NLI_PROMPT", "v1").lower() == "v1" else SYSTEM
+        # answers more claims, round 4), v2 (off-topic text is NEI, for use without the gate) or v3
+        # (less ready to answer NEI; judge tests only so far, evaluation/baselines/round9_judge_prompt).
+        from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1, SYSTEM_V3
+        prompt = {"v1": SYSTEM_V1, "v2": SYSTEM, "v3": SYSTEM_V3}[os.environ.get("TRUTHCHECK_NLI_PROMPT", "v1").lower()]
         judge = LLMNLIJudge(system_prompt=prompt)
         if backend == "local" or (backend == "auto" and not judge.configured):
             nli = NLIVerifier()

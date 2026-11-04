@@ -14,7 +14,7 @@ GOLD = {"TRUE": "SUPPORTS", "FALSE": "REFUTES", "UNCERTAIN": "NEI"}
 BASE = os.environ.get("TRUTHCHECK_LLM_BASE_URL", "http://cb-gpu-server:8000/v1")
 MODEL = os.environ.get("TRUTHCHECK_LLM_MODEL", "qwen2.5-7b-awq")
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1, LLMNLIJudge
+from src.RAGpipeline.llm_nli import SYSTEM, SYSTEM_V1, SYSTEM_V3, LLMNLIJudge
 
 JUDGE = None
 
@@ -31,7 +31,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--csv", default="evaluation/golden_set/golden_v1.csv")
     ap.add_argument("--out", required=True)
-    ap.add_argument("--prompt", choices=["v1", "v2"], default="v2", help="v1 = prompt used until round 2")
+    ap.add_argument("--prompt", choices=["v1", "v2", "v3"], default="v2",
+                    help="v1 = prompt used until round 2; v3 = less ready to answer NEI")
     ap.add_argument("--shuffle-evidence", action="store_true",
                     help="pair each claim with another row's evidence; the gold label becomes NEI")
     ap.add_argument("--select-sentences", type=int, default=0, help="keep the top-k evidence sentences (0 = off)")
@@ -56,7 +57,7 @@ def main():
         ]
     global JUDGE
     JUDGE = LLMNLIJudge(base_url=BASE, api_key="none", model=MODEL,
-                        system_prompt=SYSTEM_V1 if args.prompt == "v1" else SYSTEM)
+                        system_prompt={"v1": SYSTEM_V1, "v2": SYSTEM, "v3": SYSTEM_V3}[args.prompt])
     if args.shuffle_evidence:
         ev = df["gold_evidence_quote"].tolist()
         shift = len(ev) // 2
