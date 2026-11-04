@@ -3,7 +3,11 @@
 from __future__ import annotations
 
 import re
+from functools import lru_cache
+from pathlib import Path
 from typing import Optional
+
+from config import KB_PATH
 
 from src.evidence_quality import SOURCE_TIERS
 
@@ -29,6 +33,22 @@ _FILENAME_TIER_RULES = (
     (re.compile(r"^indianexpress", re.I), "indianexpress"),
     (re.compile(r"^foodfacts", re.I), "guideline"),
 )
+
+
+@lru_cache(maxsize=4096)
+def source_url(filename: Optional[str]) -> Optional[str]:
+    """The URL in a knowledge-base file's header, when it has one."""
+    if not filename:
+        return None
+    try:
+        with open(Path(KB_PATH) / Path(filename).name, encoding="utf-8", errors="ignore") as f:
+            for line in (next(f, "") for _ in range(5)):
+                if line.startswith("URL:"):
+                    url = line[4:].strip()
+                    return url if url.startswith(("http://", "https://")) else None
+    except OSError:
+        pass
+    return None
 
 
 def tier_from_filename(filename: Optional[str]) -> str:

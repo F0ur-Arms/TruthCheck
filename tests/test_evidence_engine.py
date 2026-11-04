@@ -1,6 +1,10 @@
+import tempfile
 import unittest
+from pathlib import Path
+from unittest.mock import MagicMock, patch
 
 from src.evidence_engine import EvidenceEngine
+from src.source_tier import source_url
 
 
 class _Retriever:
@@ -30,6 +34,25 @@ class EvidenceEngineGateTests(unittest.TestCase):
 
     def test_nothing_relevant_means_no_passages(self):
         self.assertEqual(_engine(0.95).retrieve("claim", {"support": "claim"}), [])
+
+    def test_excluded_sources_are_never_used_as_evidence(self):
+        kb = MagicMock()
+        kb.source_for_index.side_effect = lambda i: {0: "testing.txt"}.get(i, "who__x.txt")
+        engine = EvidenceEngine(kb, _Retriever(), _Reranker(), None, excluded_sources=["testing.txt"])
+        self.assertEqual([p["passage"] for p in engine.retrieve("c", {"support": "c"})], ["p1", "p2"])
+
+    def test_source_url_comes_from_the_file_header(self):
+        with tempfile.TemporaryDirectory() as kb:
+            Path(kb, "who__x.txt").write_text("SOURCE: WHO\nTITLE: X\nURL: https://www.who.int/x\n---\nbody")
+            Path(kb, "bad.txt").write_text("URL: javascript:alert(1)\nbody")
+            Path(kb, "plain.txt").write_text("no header here")
+            source_url.cache_clear()
+            with patch("src.source_tier.KB_PATH", kb):
+                self.assertEqual(source_url("who__x.txt"), "https://www.who.int/x")
+                self.assertIsNone(source_url("bad.txt"))
+                self.assertIsNone(source_url("plain.txt"))
+                self.assertIsNone(source_url("missing.txt"))
+            source_url.cache_clear()
 
 
 if __name__ == "__main__":

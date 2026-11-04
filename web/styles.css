@@ -889,6 +889,10 @@ footer .foot-links { display: flex; gap: 18px; font-size: 13px; color: var(--tex
   font-weight: 500;
   line-height: 1.5;
 }
+.evidence-item:has(.evidence-source) {
+  flex-direction: column;
+  align-items: flex-start;
+}
 .evidence-source {
   margin-top: 6px;
   font-size: 12px;

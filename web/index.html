@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>TruthCheck — Multilingual Health Misinformation Verification</title>
-<meta name="description" content="A medical evidence verification engine for Hinglish, Hindi and English health claims — hybrid retrieval, multilingual NLI, calibrated verdicts." />
+<meta name="description" content="A medical evidence verification engine for Hinglish, Hindi and English health claims — hybrid retrieval, an LLM evidence judge, verdicts with citations." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css" />
@@ -36,7 +36,7 @@
   <section class="hero">
     <div class="container">
       <h1>Health claims travel in Hinglish. <em>Verification</em> shouldn't lose them in translation.</h1>
-      <p class="lede">TruthCheck reads a claim the way it actually arrives — "protein kharab hai kidneys ke lie" — decomposes it, retrieves evidence from WHO, ICMR, PubMed and Indian fact-checkers, and returns a calibrated verdict with citations. Never a bare true/false. Never a fabricated source.</p>
+      <p class="lede">TruthCheck reads a claim the way it actually arrives — "protein kharab hai kidneys ke lie" — decomposes it, retrieves evidence from WHO, ICMR, PubMed and Indian fact-checkers, and returns a verdict with citations. Never a bare true/false. Never a fabricated source.</p>
       <div class="hero-actions">
         <button class="btn btn-primary" data-nav="chat">
           Check a claim
@@ -49,7 +49,7 @@
       <div class="container principles-bar-inner">
         <span class="principle"><span class="principle-dot"></span>Original text stays the source of truth</span>
         <span class="principle"><span class="principle-dot"></span>Hybrid BM25 + dense retrieval</span>
-        <span class="principle"><span class="principle-dot"></span>Calibrated confidence</span>
+        <span class="principle"><span class="principle-dot"></span>Confidence from measurable signals</span>
         <span class="principle"><span class="principle-dot"></span>Harm scored on a separate axis</span>
         <span class="principle"><span class="principle-dot"></span>"Insufficient evidence" is a valid answer</span>
       </div>
@@ -77,7 +77,7 @@
           <h3><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>What we do instead</h3>
           <ul>
             <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Keep the original Hinglish/Hindi/English as ground truth</li>
-            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Compute confidence from measurable signals, calibrated</li>
+            <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Compute confidence from measurable signals, not the LLM's own number</li>
             <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Retrieve support, contradiction, guideline & population evidence</li>
             <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Flag missing population/dosage qualifiers explicitly</li>
             <li><span class="badge-check"><svg viewBox="0 0 24 24" fill="none"><path d="M5 13L9.5 17.5L19 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Score evidence by tier × recency × specificity × population fit</li>
@@ -91,7 +91,7 @@
     <div class="container">
       <div class="block-head">
         <h2>Nine stages from utterance to cited verdict.</h2>
-        <p>Deterministic code stays deterministic — retrieval, reranking, NLI and calibration are classifiers and formulas, not "ask the LLM." Only claim understanding, query planning and explanation get LLM reasoning.</p>
+        <p>Retrieval, reranking, source trust and confidence are classifiers and formulas. The LLM understands the claim, judges each passage against it, assesses harm and writes the explanation, and it only sees evidence retrieved from the knowledge base.</p>
       </div>
       <div class="pipeline">
         <div class="pipe-step">
@@ -138,15 +138,15 @@
           <div class="pipe-num">06</div>
           <div class="pipe-body">
             <h3>Multilingual entailment</h3>
-            <p>Each top passage is checked against the claim for support or contradiction — in the claim's own language, not an English-only model applied after lossy translation.</p>
-            <span class="pipe-tag">mDeBERTa-v3 multilingual NLI</span>
+            <p>Each top passage is checked against the claim for support or contradiction — on the claim's English sub-claims, decomposed from the original wording rather than a word-by-word translation.</p>
+            <span class="pipe-tag">Qwen2.5-32B evidence judge</span>
           </div>
         </div>
         <div class="pipe-step">
           <div class="pipe-num">07</div>
           <div class="pipe-body">
             <h3>Calibrate confidence, separately assess harm</h3>
-            <p>Confidence comes from a trained calibration model over retrieval quality, entailment agreement and population match. Harm is scored independently — a low-stakes claim and a "stop taking insulin" claim never share a priority just because both are uncertain.</p>
+            <p>Confidence comes from a formula over retrieval quality, evidence agreement and population match. Its weights are hand-set for now; calibrating them needs a reviewed test set. Harm is scored independently — a low-stakes claim and a "stop taking insulin" claim never share a priority just because both are uncertain.</p>
             <span class="pipe-tag">two axes, never one blended score</span>
           </div>
         </div>
@@ -192,18 +192,18 @@
   <section class="block" style="border-bottom:none;">
     <div class="container">
       <div class="block-head">
-        <h2>Specialist models do the arbitration. The LLM does language.</h2>
-        <p>Fine-tuned compact models stay competitive with general LLMs on entailment and reranking, at a fraction of the cost and with far better calibration — so that's where they work.</p>
+        <h2>Evidence decides. The LLM only reads it.</h2>
+        <p>We tested dedicated NLI models against an LLM judge on labelled evidence. The LLM judge was clearly more accurate, so it reads the passages; a cross-encoder still ranks them. All of it runs on our own GPU.</p>
       </div>
       <div class="stack-grid">
         <div class="stack-item"><div class="k">Orchestration</div><div class="v">LangGraph</div></div>
-        <div class="stack-item"><div class="k">Reasoning</div><div class="v">Claude Sonnet 5 / Opus 4.8</div></div>
+        <div class="stack-item"><div class="k">LLM</div><div class="v">Qwen2.5-32B on vLLM</div></div>
         <div class="stack-item"><div class="k">Embeddings</div><div class="v">BGE-M3</div></div>
         <div class="stack-item"><div class="k">Reranker</div><div class="v">BGE-Reranker-v2-M3</div></div>
-        <div class="stack-item"><div class="k">NLI</div><div class="v">mDeBERTa-v3 multilingual</div></div>
-        <div class="stack-item"><div class="k">Translation gloss</div><div class="v">IndicTrans2 / Sarvam Mayura</div></div>
+        <div class="stack-item"><div class="k">Evidence judge</div><div class="v">Qwen2.5-32B</div></div>
+        <div class="stack-item"><div class="k">Hinglish and Hindi</div><div class="v">LLM decomposition to English</div></div>
         <div class="stack-item"><div class="k">Retrieval</div><div class="v">Hybrid BM25 + dense</div></div>
-        <div class="stack-item"><div class="k">Vector store</div><div class="v">pgvector → Qdrant</div></div>
+        <div class="stack-item"><div class="k">Vector store</div><div class="v">FAISS</div></div>
       </div>
     </div>
   </section>
@@ -215,17 +215,12 @@
   <div class="chat-shell">
     <div class="chat-header">
       <h2>Check a claim</h2>
-      <div class="mode-select">
-        <button class="mode-btn" data-mode="fast">fast</button>
-        <button class="mode-btn active" data-mode="standard">standard</button>
-        <button class="mode-btn" data-mode="deep">deep</button>
-      </div>
     </div>
-    <p class="chat-sub">Connected to the live TruthCheck engine · mode reflects retrieval depth, not response length</p>
+    <p class="chat-sub">Connected to the live TruthCheck engine · a check can take up to a minute</p>
 
     <div class="disclaimer-strip">
       <svg viewBox="0 0 24 24" fill="none"><path d="M12 9V13M12 17H12.01M10.29 3.86L1.82 18A2 2 0 003.54 21H20.46A2 2 0 0022.18 18L13.71 3.86A2 2 0 0010.29 3.86Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
-      <span><b style="color:var(--amber)">Early build.</b> The retrieval knowledge base is still a small development set, so expect INSUFFICIENT_EVIDENCE outside a few seeded claims. Never use this for real medical decisions; talk to a clinician.</span>
+      <span><b style="color:var(--amber)">Early build.</b> The knowledge base does not cover every topic yet, so "insufficient evidence" is a common answer. Answers are automated and no person checks them. Never use this for real medical decisions; talk to a clinician.</span>
     </div>
 
     <div class="chat-log" id="chatLog" role="log" aria-live="polite" aria-relevant="additions"></div>
@@ -261,12 +256,12 @@
 
       <div class="faq-item">
         <button class="faq-q" aria-expanded="false">What is TruthCheck, in one sentence?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-        <div class="faq-a"><div class="faq-a-inner">A medical evidence verification engine for health claims in Hinglish, Hindi and English — not a chatbot with search bolted on. It decomposes a claim, retrieves evidence from tiered medical sources, checks entailment with a multilingual model, and returns a calibrated verdict with citations and a separate harm assessment.</div></div>
+        <div class="faq-a"><div class="faq-a-inner">A medical evidence verification engine for health claims in Hinglish, Hindi and English — not a chatbot with search bolted on. It decomposes a claim, retrieves evidence from tiered medical sources, checks each passage with an LLM evidence judge, and returns a verdict with citations and a separate harm assessment.</div></div>
       </div>
 
       <div class="faq-item">
         <button class="faq-q" aria-expanded="false">Why not just ask an LLM directly?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-        <div class="faq-a"><div class="faq-a-inner">Because a confidence number an LLM reports about itself isn't calibrated — a stated 90% doesn't mean 90% empirical accuracy. TruthCheck computes confidence from measurable signals (retrieval quality, entailment agreement, population match) through a trained calibration model, and uses specialist NLI/reranking models for the actual entailment judgment. The LLM's job is language understanding, claim decomposition and explanation — not final truth arbitration.</div></div>
+        <div class="faq-a"><div class="faq-a-inner">Because a confidence number an LLM reports about itself isn't calibrated — a stated 90% doesn't mean 90% empirical accuracy. TruthCheck computes confidence from measurable signals (retrieval quality, entailment agreement, population match) using a formula whose weights are hand-set for now. The LLM judges each retrieved passage against the claim, which tested clearly more accurate than dedicated NLI models, but it does not answer from its own knowledge: without evidence the answer is "insufficient evidence".</div></div>
       </div>
 
       <div class="faq-item">
@@ -276,7 +271,7 @@
 
       <div class="faq-item">
         <button class="faq-q" aria-expanded="false">What counts as evidence it trusts?<svg class="chev" viewBox="0 0 24 24" fill="none"><path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-        <div class="faq-a"><div class="faq-a-inner">Passages from WHO, ICMR-NIN, PubMed, government guidelines, and India-specific fact-check corpora (Vishvas News-style), each carrying a computed evidence-quality score — source tier × recency × specificity × population match — rather than a fixed whitelist or a popularity signal. Retrieval is hybrid (BM25 + dense) and adversarial: every claim gets a support query, a contradiction query, a guideline query, and a population-specific query.</div></div>
+        <div class="faq-a"><div class="faq-a-inner">Passages from WHO, NIH, NHS, PubMed, ICMR-NIN and India-specific fact-checkers such as Vishvas News, with more government sources being added, each carrying a computed evidence-quality score — source tier × recency × specificity × population match — rather than a fixed whitelist or a popularity signal. Retrieval is hybrid (BM25 + dense) and adversarial: every claim gets a support query, a contradiction query, a guideline query, and a population-specific query.</div></div>
       </div>
 
       <div class="faq-item">

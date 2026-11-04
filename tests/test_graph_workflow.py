@@ -1,6 +1,6 @@
 import os
 import unittest
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 from langgraph.types import Command
 
@@ -142,6 +142,25 @@ class LangGraphWorkflowTests(unittest.TestCase):
         res = self._assess("Bitter gourd helps diabetes.", "SUPPORTED", False, raw="sugar ki dawa band kar do")
         self.assertTrue(res["risk_assessment"]["withhold"])
         self.assertIn("treatment_cessation_override", res["risk_assessment"]["review_reasons"])
+
+    def test_explanation_uses_only_the_passages_and_hides_internal_text(self):
+        from src.llm_fallback import ConfiguredLLMVerifier
+        llm = ConfiguredLLMVerifier()
+        llm.base_url, llm.api_key, llm.model_name = "http://x/v1", "k", "m"
+        reply = MagicMock()
+        reply.json.return_value = {"choices": [{"message": {"content": '{"explanation": "The passage says no."}'}}]}
+        with patch("src.llm_fallback.requests.post", return_value=reply) as post:
+            self.assertEqual(llm.explain("claim", "FALSE", ["passage text"]), "The passage says no.")
+        sent = post.call_args.kwargs["json"]["messages"]
+        self.assertIn("add no facts of your own", sent[0]["content"])
+        self.assertIn("passage text", sent[1]["content"])
+
+        res = nodes.generate_response_node(TruthCheckState(
+            raw_input="x", claim_results=[],
+            calibrated_verdict={"verdict": "INSUFFICIENT_EVIDENCE", "calibrated_confidence": 0.2,
+                                "explanation_summary": "Verdict: INSUFFICIENT_EVIDENCE across 1 sub-claim(s)"},
+        ))["final_response"]
+        self.assertEqual(res["explanation"], "We did not find passages relevant enough to judge this claim.")
 
     def test_withheld_answer_never_carries_the_endorsement(self):
         res = nodes.generate_response_node(TruthCheckState(

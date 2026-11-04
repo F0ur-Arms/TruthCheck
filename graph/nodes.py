@@ -290,18 +290,18 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
         reverse=True,
     )[:3]
     evidence_passages = [sp["passage"] for sp in evidence_details if sp.get("passage")]
-    explanation = state.calibrated_verdict.get("explanation_summary") if state.calibrated_verdict else "Evidence inconclusive."
+    if verdict == "INSUFFICIENT_EVIDENCE":
+        explanation = ("The passages we found do not settle this claim." if evidence_passages else
+                       "We did not find passages relevant enough to judge this claim.")
+    else:
+        explanation = "See the evidence below."
 
     # If local LLM API is configured, synthesize evidence-grounded summary
     from src.llm_fallback import ConfiguredLLMVerifier
     llm_verifier = ConfiguredLLMVerifier()
     if llm_verifier.configured and evidence_passages:
         try:
-            llm_res = llm_verifier.verify(
-                f"Claim: {state.raw_input}\nVerdict: {verdict}\nEvidence: {' | '.join(evidence_passages)}"
-            )
-            if llm_res and llm_res.get("explanation"):
-                explanation = llm_res["explanation"]
+            explanation = llm_verifier.explain(state.raw_input, verdict, evidence_passages) or explanation
         except Exception:
             pass
 
@@ -312,7 +312,7 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
         "explanation": explanation,
         "evidence": evidence_passages,
         "evidence_details": [
-            {k: sp.get(k) for k in ("passage", "source_file", "source_tier", "nli_verdict", "rerank_score")}
+            {k: sp.get(k) for k in ("passage", "source_file", "source_url", "source_tier", "nli_verdict", "rerank_score")}
             for sp in evidence_details
         ],
         "claims": [

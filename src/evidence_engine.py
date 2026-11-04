@@ -7,7 +7,7 @@ from typing import Any, Dict, List, Optional
 
 from src.evidence_quality import ClaimEvidenceSummary, EvidenceQualityScorer
 from src.hybrid_retriever import HybridRetriever, MultiLaneQueryGenerator, Reranker
-from src.source_tier import tier_from_filename, tier_from_passage_text
+from src.source_tier import source_url, tier_from_filename, tier_from_passage_text
 
 
 @dataclass
@@ -20,11 +20,12 @@ class EvidenceResult:
 
 class EvidenceEngine:
     def __init__(self, kb_manager, hybrid_retriever, reranker, nli_judge, evidence_scorer=None,
-                 query_generator=None, min_relevance: Optional[float] = None):
+                 query_generator=None, min_relevance: Optional[float] = None, excluded_sources=()):
         self.kb_manager = kb_manager
         # Passages the reranker scores below this are dropped before NLI, so "nothing relevant
         # retrieved" ends as INSUFFICIENT_EVIDENCE instead of being judged against off-topic text.
         self.min_relevance = min_relevance
+        self.excluded_sources = set(excluded_sources)
         self.hybrid_retriever = hybrid_retriever
         self.reranker = reranker
         self.nli_judge = nli_judge
@@ -62,7 +63,10 @@ class EvidenceEngine:
             nli = FallbackNLI(judge, lambda: NLIVerifier(NLI_FALLBACK_MODEL))
         from config import MIN_RELEVANCE
         min_relevance = float(os.environ.get("TRUTHCHECK_MIN_RELEVANCE", MIN_RELEVANCE))
-        return cls(kb_manager, retriever, Reranker(), nli, min_relevance=min_relevance or None)
+        # TRUTHCHECK_EXCLUDE_SOURCES: comma-separated knowledge-base files never to use as evidence.
+        excluded = [f for f in os.environ.get("TRUTHCHECK_EXCLUDE_SOURCES", "").split(",") if f]
+        return cls(kb_manager, retriever, Reranker(), nli, min_relevance=min_relevance or None,
+                   excluded_sources=excluded)
 
     def make_lanes(self, canonical_claim: str, subject: Optional[str] = None,
                    outcome: Optional[str] = None) -> Dict[str, str]:
@@ -70,6 +74,9 @@ class EvidenceEngine:
 
     def retrieve(self, canonical_claim: str, lanes: Dict[str, str], top_per_lane: int = 5) -> List[Dict[str, Any]]:
         candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
+        if self.excluded_sources:
+            candidates = [c for c in candidates if c.get("passage_index") is None
+                          or self.kb_manager.source_for_index(c["passage_index"]) not in self.excluded_sources]
         reranked = self.reranker.rerank(
             canonical_claim,
             candidates,
@@ -108,6 +115,7 @@ class EvidenceEngine:
                 "passage_index": passage_index,
                 "source_tier": source_tier,
                 "source_file": source_file,
+                "source_url": source_url(source_file),
                 "nli_verdict": nli_result["verdict"],
                 "quality_score": pq.overall_quality_score,
                 "supports_probability": nli_result["supports_probability"],

@@ -56,16 +56,6 @@ document.querySelectorAll('.faq-item').forEach(item => {
   });
 });
 
-// ---------- Chat mode ----------
-let currentMode = 'standard';
-document.querySelectorAll('.mode-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    currentMode = btn.dataset.mode;
-  });
-});
-
 // ---------- Live backend ----------
 const API_ENDPOINT = '/api/v1/fact-check';
 
@@ -97,13 +87,13 @@ const VERDICT_BADGE_CLASS = {
   NOT_A_FACT_CHECK: 'v-notfactcheck',
 };
 
-async function fetchVerdict(text, mode) {
+async function fetchVerdict(text) {
   let res;
   try {
     res = await fetch(API_ENDPOINT, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text, input_type: 'text', language: 'auto', mode }),
+      body: JSON.stringify({ text, input_type: 'text', language: 'auto' }),
     });
   } catch (networkErr) {
     throw new Error('Could not reach the verification engine. Is the TruthCheck server running?');
@@ -208,7 +198,7 @@ function renderVerdictCard(data) {
 
   const details = Array.isArray(data.evidence_details) ? data.evidence_details.filter(d => d && d.passage) : [];
   const evidenceHtml = details.length
-    ? details.map(d => `<div class="evidence-item"><span class="src">${escapeHtml(d.passage)}</span>${d.source_file ? `<div class="evidence-source">Source: ${escapeHtml(d.source_file)}${d.source_tier ? ` · ${escapeHtml(d.source_tier)}` : ''}</div>` : ''}</div>`).join('')
+    ? details.map(d => `<div class="evidence-item"><span class="src">${escapeHtml(d.passage)}</span>${d.source_file ? `<div class="evidence-source">Source: ${/^https?:\/\//.test(d.source_url || '') ? `<a href="${escapeHtml(d.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(new URL(d.source_url).hostname)}</a>` : escapeHtml(d.source_file)}${d.source_tier ? ` · ${escapeHtml(d.source_tier)}` : ''}</div>` : ''}</div>`).join('')
     : `<div class="evidence-item"><span class="src" style="color:var(--text-faint);">No passages were retrieved for this claim.</span></div>`;
 
   row.innerHTML = `
@@ -221,8 +211,8 @@ function renderVerdictCard(data) {
       <div class="vr-body">
         ${safetyHtml}
         <p class="short">${explanation}</p>
-        <p class="why">confidence ${badgeLabelForConfidence(data.confidence)} · mode ${escapeHtml(currentMode)}</p>
-        ${data.needs_human_review && verdict !== 'INSUFFICIENT_EVIDENCE' ? `<div class="vr-note">Treat this with caution: confidence is low or the evidence is mixed. No person has checked this answer.</div>` : ''}
+        ${verdict === 'INSUFFICIENT_EVIDENCE' || verdict === 'MIXED_EVIDENCE' ? '' : `<p class="why">confidence ${badgeLabelForConfidence(data.confidence)}</p>`}
+        ${verdict === 'MIXED_EVIDENCE' || (verdict !== 'INSUFFICIENT_EVIDENCE' && data.confidence < 0.6) ? `<div class="vr-note">Treat this with caution: confidence is low or the evidence is mixed.</div>` : ''}
         <div class="vr-section-label">Evidence retrieved</div>
         <div class="evidence-list">${evidenceHtml}</div>
       </div>
@@ -261,7 +251,7 @@ async function handleSubmit(text) {
   const indicator = addThinkingIndicator();
 
   try {
-    const data = await fetchVerdict(text, currentMode);
+    const data = await fetchVerdict(text);
     indicator.remove();
     renderVerdictCard(data);
   } catch (err) {
@@ -290,7 +280,7 @@ document.querySelectorAll('.suggestion-chip').forEach(chip => {
     <div class="msg-avatar">
       <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><path d="M12 2L4 5.5V11C4 16.2 7.4 20.9 12 22C16.6 20.9 20 16.2 20 11V5.5L12 2Z" stroke="white" stroke-width="1.8" stroke-linejoin="round"/></svg>
     </div>
-    <div class="msg-bubble">Bhej dijiye koi health claim — Hinglish, Hindi ya English, jaise bhi aaya ho. Main ise decompose karke, evidence retrieve karke, ek calibrated verdict citations ke saath dunga.</div>
+    <div class="msg-bubble">Bhej dijiye koi health claim — Hinglish, Hindi ya English, jaise bhi aaya ho. Main ise decompose karke, evidence retrieve karke, ek verdict citations ke saath dunga.</div>
   `;
   chatLog.appendChild(row);
 })();
