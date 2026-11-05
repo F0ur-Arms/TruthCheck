@@ -340,6 +340,16 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
 <p>Removing the gate triples coverage (449 answered vs 147), and raw accuracy rises, but part of that is the lean toward "false" returning: 357 of the 449 answers are "false", and always answering "false" would score 72.8% on this set. Accuracy varies by source: ai4bharat 88.8% (n=349), HealthVer 80.3% (61), SciFact 66.7% (12), PUBHEALTH 44.4% (27). A simulation from the saved passage scores suggests a low gate near 0.1 could keep 15% coverage with most of the balance; the same simulation overestimates quality at 0.6 (0.863 vs the real 0.810), so round 8 tests 0.1 for real.</p>
 <p><b>Harm policy in this run.</b> Nothing waits on a reviewer (262 holds before, 0 now). No false claim flagged as harmful was called true. 17 verdicts (0.9%) were withheld. But the check flags 630 claims (33%), far more than the 113-claim test suggested: 578 are false claims, and 52 are true. Some withheld claims are harmless or even protective, such as "Can you take too much Vitamin D?" and advice against using alcohol to cope with stress, so the prompt needs tightening. Harm flags are not checked against harm labels on this set.</p>
 
+<h3>Round 8: 32B with the gate at 0.1 (1,898 claims)</h3>
+<table>
+  <tr><th>Run</th><th class="n">Answered</th><th class="n">Accuracy (answered)</th><th class="n">True called true</th><th class="n">False called false</th><th class="n">Balanced acc.</th></tr>
+  <tr><td>Round 6: 32B, gate 0.6</td><td class="n">7.7%</td><td class="n">80.3%</td><td class="n">85%</td><td class="n">78%</td><td class="n">0.810</td></tr>
+  <tr><td>Round 7: 32B, gate off</td><td class="n">23.7%</td><td class="n">84.4%</td><td class="n">59%</td><td class="n">94%</td><td class="n">0.765</td></tr>
+  <tr><td><b>Round 8: 32B, gate 0.1</b></td><td class="n"><b>15.1%</b></td><td class="n"><b>84.6%</b></td><td class="n"><b>75%</b></td><td class="n"><b>89%</b></td><td class="n"><b>0.821</b></td></tr>
+</table>
+<p>The gate at 0.1 answers about twice as many claims as round 6 with slightly higher balanced accuracy. The simulation from round 7's scores predicted this closely (15.0% and 0.823). Compared with round 7, "false" verdicts fall from 357 (307 correct, 50 wrong) to 196 (173 correct, 23 wrong), so the gate removes 27 wrong ones at the cost of 134 correct ones; "true" verdicts barely change, 92 (72 correct) to 90 (69 correct). Overall accuracy therefore stays the same, and balanced accuracy rises because fewer true claims are called false.</p>
+<p>Limits: "true" verdicts are right only 77% of the time (21 false claims called true), the most dangerous error for health claims. 213 of the 286 answers come from ai4bharat (88.7%); HealthVer is 77.6% (49), PUBHEALTH 55.6% (18), SciFact 83.3% (6). The value 0.1 was picked on this same benchmark, so 0.821 is somewhat optimistic. One claim used the decomposition heuristic after an LLM failure. This run does not include the source-trust fix.</p>
+
 <h2>12. Infrastructure and how to reproduce</h2>
 <ul>
   <li><b>LLM server:</b> Qwen2.5-7B-Instruct-AWQ on vLLM 0.7.2, PBS queue <code>Gpu1-10g</code> (job limit one per queue, 48-hour walltime). Runbook: <code>docs/LOCAL_LLM_DEPLOYMENT.md</code>.</li>
@@ -395,7 +405,7 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td>Step 7: scale and multimodal</td><td>Not started</td><td>OCR, audio, Postgres/pgvector</td></tr>
 </table>
 <ol>
-  <li><b>Round 8 (running)</b>: 32B with the gate at 0.1. Then the source-trust fix alone, then knowledge-base batch 3 with a rebuilt index.</li>
+  <li><b>Next runs</b>: gate 0.1 is now the default. Source-trust fix alone, then knowledge-base batch 3 with a rebuilt index, then judge prompt v3 in full.</li>
   <li><b>Hinglish retrieval</b>: run the cross-lingual pairs end to end with retrieval; check the medical-advice router on Hinglish.</li>
   <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
   <li><b>Harm check</b>: reduce over-flagging (33% of benchmark claims); team review of the harm labels, plus harder claims written by the team; Hinglish and Hindi safety notices.</li>
@@ -419,6 +429,9 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td><code>7bf92bc</code></td><td>Fix the cross-lingual decomposition test; 32B vLLM job</td></tr>
   <tr><td><code>66bcf32</code></td><td>Round 6: 32B judge, coverage diagnosis, LLM harm check without a reviewer</td></tr>
   <tr><td><code>dbbf051</code></td><td>Score source trust from the passage's file, not words in its text</td></tr>
+  <tr><td><code>0573f6b</code></td><td>Round 7: 32B with the relevance gate off and the new harm policy</td></tr>
+  <tr><td><code>15ba34c</code></td><td>Demo: grounded explanations, source links, honest web page</td></tr>
+  <tr><td><code>6375a68</code></td><td>Judge prompt v3, tested on 32B</td></tr>
 </table>
 <p class="small">Generated from the repository state at the commit above. Numbers are taken from <code>evaluation/baselines/*/merged_summary.txt</code> and the NLI summary files.</p>
 

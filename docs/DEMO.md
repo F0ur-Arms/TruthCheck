@@ -47,8 +47,8 @@ Answers can change as the knowledge base and models change, so re-run these befo
 
 ## Known limits to say up front
 
-- Results on the public benchmark: balanced accuracy 0.810 at 7.7% coverage (gate 0.6), or 0.765 at
-  23.7% (gate off). The demo uses gate 0.1, whose full evaluation is still pending.
+- Results on the public benchmark: balanced accuracy 0.821 at 15.1% coverage with the demo's gate of
+  0.1 (0.810 at 7.7% with gate 0.6, 0.765 at 23.7% with the gate off).
 - "Drinking bleach cures COVID-19" gets "insufficient evidence" with a safety notice: the knowledge base
   has no relevant passage. A notice is shown, but the claim is not called false.
 - The harm check flags too many claims (33% of the benchmark) and is not validated on reviewed labels.

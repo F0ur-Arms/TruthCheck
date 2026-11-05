@@ -23,9 +23,10 @@ EMBEDDING_MODEL = "BAAI/bge-m3"
 NLI_MODEL = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
 NLI_FALLBACK_MODEL = "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
 RERANKER_MODEL = "BAAI/bge-reranker-v2-m3"
-# Reranker score (0-1) below which a passage counts as off-topic and is not judged. 0.6 was chosen
-# on a dev half of the public claims (evaluation/baselines/round2); 0 disables the gate.
-MIN_RELEVANCE = 0.6
+# Reranker score (0-1) below which a passage counts as off-topic and is not judged. 0.1 with the
+# 32B judge: answers twice the claims of 0.6 at the same balanced accuracy (evaluation/baselines/round8);
+# picked on the public benchmark itself, not a held-out split. 0 disables the gate.
+MIN_RELEVANCE = 0.1
 
 # The fallback uses an explicit OpenAI-compatible endpoint.  It is disabled
 # unless both values are supplied by the deployment environment.
