@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import re
 from typing import Any, Dict, List, Optional
 
 from langgraph.types import interrupt
@@ -247,17 +248,35 @@ def human_review_node(state: TruthCheckState) -> Dict[str, Any]:
     return {"human_reviewer_decision": decision, "needs_human_review": False}
 
 
-def _safety_notice(verdict: str) -> Optional[str]:
+_NOTICE_OPENING = {
+    "en": {"WITHHELD": "We cannot confirm this claim, and acting on it could cause serious harm.",
+           "INSUFFICIENT_EVIDENCE": "We could not verify this claim, and acting on it could cause serious harm.",
+           "AGAINST": "The evidence goes against this claim, and acting on it could cause serious harm."},
+    "hinglish": {"WITHHELD": "Hum is daave ki pushti nahi kar sakte, aur is par amal karne se gambhir nuksan ho sakta hai.",
+                 "INSUFFICIENT_EVIDENCE": "Hum is daave ko verify nahi kar paaye, aur is par amal karne se gambhir nuksan ho sakta hai.",
+                 "AGAINST": "Evidence is daave ke khilaf hai, aur is par amal karne se gambhir nuksan ho sakta hai."},
+    "hi": {"WITHHELD": "हम इस दावे की पुष्टि नहीं कर सकते, और इस पर अमल करने से गंभीर नुकसान हो सकता है।",
+           "INSUFFICIENT_EVIDENCE": "हम इस दावे की जाँच नहीं कर पाए, और इस पर अमल करने से गंभीर नुकसान हो सकता है।",
+           "AGAINST": "प्रमाण इस दावे के खिलाफ हैं, और इस पर अमल करने से गंभीर नुकसान हो सकता है।"},
+}
+_NOTICE_ADVICE = {
+    "en": "Do not change any treatment or medicine because of it. Please talk to a doctor.",
+    "hinglish": "Iski wajah se apna ilaj ya dawa na badlein. Kripya doctor se baat karein.",
+    "hi": "इसकी वजह से अपना इलाज या दवा न बदलें। कृपया डॉक्टर से बात करें।",
+}
+
+
+def _notice_language(raw_input: str, canonical_claim: Optional[Dict[str, Any]]) -> str:
+    if re.search(r"[\u0900-\u097F]", raw_input):
+        return "hi"
+    return "hinglish" if "hinglish" in str((canonical_claim or {}).get("language", "")).lower() else "en"
+
+
+def _safety_notice(verdict: str, language: str = "en") -> Optional[str]:
     if verdict in ENDORSING_VERDICTS:
         return None
-    if verdict == "WITHHELD":
-        return ("We cannot confirm this claim, and acting on it could cause serious harm. Do not change "
-                "any treatment or medicine because of it. Please talk to a doctor.")
-    if verdict == "INSUFFICIENT_EVIDENCE":
-        return ("We could not verify this claim, and acting on it could cause serious harm. Do not change "
-                "any treatment or medicine because of it. Please talk to a doctor.")
-    return ("The evidence goes against this claim, and acting on it could cause serious harm. Do not change "
-            "any treatment or medicine because of it. Please talk to a doctor.")
+    key = verdict if verdict in ("WITHHELD", "INSUFFICIENT_EVIDENCE") else "AGAINST"
+    return f"{_NOTICE_OPENING[language][key]} {_NOTICE_ADVICE[language]}"
 
 
 def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
@@ -276,7 +295,7 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
 
     risk = state.risk_assessment or {}
     if risk.get("withhold") and not state.human_reviewer_decision:
-        notice = _safety_notice("WITHHELD")
+        notice = _safety_notice("WITHHELD", _notice_language(state.raw_input, state.canonical_claim))
         return {"final_response": {
             "input": state.raw_input, "verdict": "WITHHELD", "confidence": 0.0, "explanation": notice,
             # Passages and sub-claim verdicts would show the endorsement this verdict keeps back.
@@ -321,7 +340,8 @@ def generate_response_node(state: TruthCheckState) -> Dict[str, Any]:
             for r in state.claim_results
         ],
         "risk": state.risk_assessment,
-        "safety_notice": _safety_notice(verdict) if (state.risk_assessment or {}).get("high_harm") else None,
+        "safety_notice": _safety_notice(verdict, _notice_language(state.raw_input, state.canonical_claim))
+        if (state.risk_assessment or {}).get("high_harm") else None,
         "human_reviewed": bool(state.human_reviewer_decision),
         "needs_human_review": bool((state.risk_assessment or {}).get("flag_for_review"))
         and not state.human_reviewer_decision,

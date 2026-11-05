@@ -1,3 +1,4 @@
+import os
 import tempfile
 import unittest
 from pathlib import Path
@@ -34,6 +35,14 @@ class EvidenceEngineGateTests(unittest.TestCase):
 
     def test_nothing_relevant_means_no_passages(self):
         self.assertEqual(_engine(0.95).retrieve("claim", {"support": "claim"}), [])
+
+    def test_wider_pool_is_opt_in(self):
+        with patch.dict(os.environ, {"TRUTHCHECK_RETRIEVAL_POOL": "50", "TRUTHCHECK_RERANK_KEEP": "2"}):
+            retriever = MagicMock()
+            retriever.retrieve_hybrid.return_value = [{"passage": f"p{i}"} for i in range(3)]
+            engine = EvidenceEngine(None, retriever, _Reranker(), None)
+            self.assertEqual(len(engine.retrieve("c", {"support": "c"})), 2)
+            self.assertEqual(retriever.retrieve_hybrid.call_args.kwargs["top_per_lane"], 50)
 
     def test_excluded_sources_are_never_used_as_evidence(self):
         kb = MagicMock()

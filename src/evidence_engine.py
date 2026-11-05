@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional
 
@@ -34,7 +35,6 @@ class EvidenceEngine:
 
     @classmethod
     def from_defaults(cls) -> "EvidenceEngine":
-        import os
         from config import KB_PATH
         from src.RAGpipeline.knowledge_manager import KnowledgeManager
         from src.RAGpipeline.llm_nli import FallbackNLI, LLMNLIJudge
@@ -74,6 +74,9 @@ class EvidenceEngine:
         return self.query_generator.generate_query_lanes(canonical_claim, subject=subject, outcome=outcome)
 
     def retrieve(self, canonical_claim: str, lanes: Dict[str, str], top_per_lane: int = 5) -> List[Dict[str, Any]]:
+        # Wider retrieval is opt-in: TRUTHCHECK_RETRIEVAL_POOL candidates per lane, TRUTHCHECK_RERANK_KEEP judged.
+        keep = int(os.environ.get("TRUTHCHECK_RERANK_KEEP", top_per_lane))
+        top_per_lane = int(os.environ.get("TRUTHCHECK_RETRIEVAL_POOL", top_per_lane))
         candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
         if self.excluded_sources:
             candidates = [c for c in candidates if c.get("passage_index") is None
@@ -81,7 +84,7 @@ class EvidenceEngine:
         reranked = self.reranker.rerank(
             canonical_claim,
             candidates,
-            top_k=min(top_per_lane, len(candidates) or top_per_lane),
+            top_k=min(keep, len(candidates) or keep),
         )
         if self.min_relevance is None:
             return reranked

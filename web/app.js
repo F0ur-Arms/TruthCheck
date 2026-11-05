@@ -57,7 +57,16 @@ document.querySelectorAll('.faq-item').forEach(item => {
 });
 
 // ---------- Live backend ----------
-const API_ENDPOINT = '/api/v1/fact-check';
+const API_ENDPOINT = '/api/v1/fact-check/stream';
+
+// What runs next once the named pipeline step has finished.
+const NEXT_STAGE = {
+  ingest: 'Breaking the claim into checkable parts',
+  route_and_decompose: 'Searching the medical library',
+  hybrid_retrieve_and_rerank: 'Weighing the evidence',
+  evidence_and_calibration: 'Checking for safety risks',
+  assess_risk: 'Writing the answer',
+};
 
 const VERDICT_LABEL = {
   SUPPORTED: 'Supported by evidence',
@@ -87,7 +96,7 @@ const VERDICT_BADGE_CLASS = {
   NOT_A_FACT_CHECK: 'v-notfactcheck',
 };
 
-async function fetchVerdict(text) {
+async function fetchVerdict(text, onStage) {
   let res;
   try {
     res = await fetch(API_ENDPOINT, {
@@ -103,7 +112,24 @@ async function fetchVerdict(text) {
     try { detail = (await res.json()).detail || ''; } catch (e) { /* body not JSON */ }
     throw new Error(detail || `The server returned an error (HTTP ${res.status}).`);
   }
-  return res.json();
+  // One JSON object per line: {stage} as each step ends, then {result} or {error}.
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = '';
+  for (;;) {
+    const { value, done } = await reader.read();
+    buffer += decoder.decode(value || new Uint8Array(), { stream: !done });
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    for (const line of lines) {
+      if (!line.trim()) continue;
+      const event = JSON.parse(line);
+      if (event.error) throw new Error(event.error);
+      if (event.result) return event.result;
+      if (event.stage && NEXT_STAGE[event.stage]) onStage(NEXT_STAGE[event.stage]);
+    }
+    if (done) throw new Error('The server stopped before finishing this check. Please try again.');
+  }
 }
 
 // ---------- Chat rendering ----------
@@ -141,7 +167,7 @@ function addThinkingIndicator() {
   row.className = 'msg-row bot';
   row.innerHTML = `
     <div class="msg-avatar">${BOT_AVATAR_SVG}</div>
-    <div class="msg-bubble"><span class="typing-dots"><span></span><span></span><span></span></span></div>
+    <div class="msg-bubble"><span class="typing-dots"><span></span><span></span><span></span></span><span class="stage-label" role="status">Reading the claim</span></div>
   `;
   chatLog.appendChild(row);
   scrollLogToBottom();
@@ -251,7 +277,10 @@ async function handleSubmit(text) {
   const indicator = addThinkingIndicator();
 
   try {
-    const data = await fetchVerdict(text);
+    const data = await fetchVerdict(text, label => {
+      indicator.querySelector('.stage-label').textContent = label;
+      scrollLogToBottom();
+    });
     indicator.remove();
     renderVerdictCard(data);
   } catch (err) {

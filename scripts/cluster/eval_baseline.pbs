@@ -32,7 +32,12 @@ N=${N:-4}
 
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-eval
-cd ~/FoodFactCheck/TruthCheck_eval
+# REPO: run from another copy, so a knowledge-base rebuild leaves the other copy's index alone.
+cd ${REPO:-$HOME/FoodFactCheck/TruthCheck_eval}
+# REBUILD_KB=1: embed knowledge-base files not yet in the index before any shard starts.
+if [ -n "${REBUILD_KB:-}" ]; then
+  python -c "from src.RAGpipeline.knowledge_manager import KnowledgeManager as K; k = K(); k.load_and_index(); assert k.kb_loaded; print('passages', len(k.passages), 'vectors', k.index.ntotal)" || { echo "knowledge-base rebuild failed"; exit 1; }
+fi
 # MODE=main (default): legacy pipeline.  MODE=graph: LangGraph pipeline.
 # MODE=nli: local NLI models on gold evidence.  MODE=llmnli: LLM judge on gold evidence.
 # EXTRA: extra script arguments with + instead of spaces, e.g. EXTRA=--public+--details

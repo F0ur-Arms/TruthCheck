@@ -779,6 +779,7 @@ section.block {
 .vr-stat b { color: var(--text-muted); font-weight: 600; }
 
 .typing-dots { display: flex; gap: 4px; padding: 4px 0; }
+.stage-label { display: block; margin-top: 4px; font-size: 0.85em; color: var(--text-faint); }
 .typing-dots span {
   width: 6px; height: 6px; border-radius: 50%;
   background: var(--text-faint);

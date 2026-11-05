@@ -2,10 +2,14 @@
 
 from __future__ import annotations
 
+import hmac
+import json
+import os
 import uuid
 from pathlib import Path
-from typing import Dict, Any, Optional, List
-from fastapi import FastAPI, HTTPException
+from typing import Dict, Any, Iterator, Optional, List
+from fastapi import Depends, FastAPI, Header, HTTPException
+from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
@@ -40,6 +44,13 @@ class ReviewDecisionRequest(BaseModel):
     note: Optional[str] = None
 
 
+def require_admin(x_admin_token: Optional[str] = Header(default=None)) -> None:
+    """Traces and the review queue hold what users typed: closed unless TRUTHCHECK_ADMIN_TOKEN is set and sent."""
+    expected = os.environ.get("TRUTHCHECK_ADMIN_TOKEN")
+    if not expected or not x_admin_token or not hmac.compare_digest(x_admin_token, expected):
+        raise HTTPException(status_code=403, detail="Admin token required.")
+
+
 @app.get("/health")
 def health_check():
     return {"status": "healthy", "service": "TruthCheck v2 Engine"}
@@ -51,12 +62,38 @@ def fact_check(req: FactCheckRequest):
         raise HTTPException(status_code=400, detail="Text field cannot be empty.")
 
     request_id = str(uuid.uuid4())
-    trace_id = f"trace-{request_id}"
     config = {"configurable": {"thread_id": request_id}}
+    graph_result = graph_app.invoke({"raw_input": req.text}, config=config)
+    return _finish(req, request_id, config, graph_result)
 
-    initial_state = {"raw_input": req.text}
-    graph_result = graph_app.invoke(initial_state, config=config)
 
+@app.post("/api/v1/fact-check/stream")
+def fact_check_stream(req: FactCheckRequest):
+    """Same check as /fact-check, as JSON lines: {"stage": node} as each step ends, then {"result": response}."""
+    if not req.text.strip():
+        raise HTTPException(status_code=400, detail="Text field cannot be empty.")
+
+    def events() -> Iterator[str]:
+        request_id = str(uuid.uuid4())
+        config = {"configurable": {"thread_id": request_id}}
+        try:
+            for update in graph_app.stream({"raw_input": req.text}, config=config, stream_mode="updates"):
+                for node in update:
+                    if node != "__interrupt__":
+                        yield json.dumps({"stage": node}) + "\n"
+            snapshot = graph_app.get_state(config)
+            graph_result = dict(snapshot.values)
+            if snapshot.next:
+                graph_result["__interrupt__"] = True
+            yield json.dumps({"result": _finish(req, request_id, config, graph_result)}) + "\n"
+        except Exception:
+            yield json.dumps({"error": "The check failed on the server. Please try again."}) + "\n"
+
+    return StreamingResponse(events(), media_type="application/x-ndjson")
+
+
+def _finish(req: FactCheckRequest, request_id: str, config: Dict[str, Any], graph_result: Dict[str, Any]) -> Dict[str, Any]:
+    trace_id = f"trace-{request_id}"
     trace_repository.put(trace_id, {
         "request_id": request_id,
         "trace_id": trace_id,
@@ -115,7 +152,7 @@ def _response_from_state(request_id: str, trace_id: str, graph_result: Dict[str,
     }
 
 
-@app.get("/api/v1/trace/{trace_id}")
+@app.get("/api/v1/trace/{trace_id}", dependencies=[Depends(require_admin)])
 def get_trace(trace_id: str):
     trace = trace_repository.get(trace_id)
     if not trace:
@@ -123,12 +160,12 @@ def get_trace(trace_id: str):
     return trace
 
 
-@app.get("/api/v1/review/pending")
+@app.get("/api/v1/review/pending", dependencies=[Depends(require_admin)])
 def list_pending_reviews():
     return global_review_queue.get_pending_reviews()
 
 
-@app.post("/api/v1/review/{request_id}")
+@app.post("/api/v1/review/{request_id}", dependencies=[Depends(require_admin)])
 def submit_review_decision(request_id: str, decision: ReviewDecisionRequest):
     config = {"configurable": {"thread_id": request_id}}
     snapshot = graph_app.get_state(config)
