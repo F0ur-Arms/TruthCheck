@@ -1,0 +1,26 @@
+SOURCE: CDC
+TITLE: Flu Season
+URL: https://www.cdc.gov/flu/about/season.html
+────────────────────────────────────────────────────────────
+
+What to know
+- While seasonal influenza (flu) viruses are detected year-round in the United States, influenza viruses typically circulate during the fall and winter during what's known as the flu season.
+Flu season in the United States
+In the United States, flu season usually occurs in the fall and winter. While influenza viruses spread year-round, most of the time flu activity peaks between December and February. The overall health impact (e.g., infections, hospitalizations, and deaths) of flu varies from season to season. CDC collects, compiles, and analyzes information on influenza activity year-round in the United States and produces FluView , a weekly surveillance report, and FluView Interactive , which allows for more in-depth exploration of influenza surveillance data. The Weekly U.S. Influenza Summary Update is updated weekly year-round.
+Peak activity
+The figure below shows peak flu activity in the United States by month for the 1982-1983 through 2023-2024 flu seasons. The "peak month of flu activity" is the month with the highest percentage of respiratory specimens testing positive for influenza virus infection during that flu season. During this 40-year period, flu activity most often peaked in February (17 seasons), followed by December (7 seasons), January (6 seasons) and March (6 seasons).
+Flu activity peak months in the U.S. from the 1982-1983 through 2023-2024 flu seasons
+CDC monitors the progress of flu season
+The overall health impact (e.g., infections, hospitalizations, and deaths) from flu varies from season to season. CDC collects, compiles, and analyzes information on influenza activity year-round in the United States and produces FluView, a weekly surveillance report, and FluView Interactive, which allows for more in-depth exploration of influenza surveillance data. Both are updated each week.
+The U.S. influenza surveillance system is a collaborative effort between CDC and its many partners in state and local health departments, public health and clinical laboratories, vital statistics offices, health care providers, long term care facilities, hospitals, and clinics and emergency departments. Information in five categories is collected from 10 different data sources that allow CDC to:
+- Find out when and where influenza activity is occurring;
+- Track influenza-related illness;
+- Determine what influenza viruses are circulating;
+- Detect changes in influenza viruses; and
+- Measure the impact influenza is having on hospitalizations and deaths in the United States.
+These surveillance components allow CDC to determine when and where flu activity is occurring, determine what types of influenza viruses are circulating, detect changes in the influenza viruses collected and analyzed, track patterns of influenza-related illness, and measure the impact of influenza in the United States.
+Understanding why a week-long delay exists between flu surveillance data collection and reporting
+Flu surveillance data collection is based on a reporting week that starts on Sunday and ends on the following Saturday of each week. Each surveillance participant is requested to summarize the weekly data and submit it to CDC by the following Tuesday afternoon. The data are then downloaded, compiled, and analyzed at CDC. The data are used to update FluView and FluView Interactive on the following Friday.
+Other respiratory viruses
+In addition to influenza viruses, several other respiratory viruses also spread during flu season and can cause symptoms similar to those seen with flu infection. These respiratory viruses include rhinovirus (one cause of the "common cold"), the virus that causes COVID-19, and respiratory syncytial virus (RSV) , which is the most common cause of severe respiratory illness in young children as well as a leading cause of death from respiratory illness in those aged 65 years and older. Other commonly circulating respiratory viruses include human parainfluenza viruses (HPIV), human metapneumovirus (HMPV), respiratory adenoviruses, and human coronaviruses other than those that cause COVID-19. More information about non-influenza respiratory viruses is available.
+- There was no discernible peak in flu activity during the 2020-2021 season due to the uncharacteristically low level of influenza virus circulation that season.

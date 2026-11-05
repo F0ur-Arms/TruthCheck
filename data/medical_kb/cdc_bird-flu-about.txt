@@ -1,0 +1,81 @@
+SOURCE: CDC
+TITLE: About Bird Flu
+URL: https://www.cdc.gov/bird-flu/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+- Bird flu is a disease caused by avian influenza A viruses that usually spread between birds, not people.
+- One subtype of bird flu, caused by avian influenza A(H5) virus, is spreading worldwide in wild birds and causing sporadic outbreaks in U.S. poultry and dairy cows. In addition to spreading to an increasing number of mammals, H5 bird flu has caused some rare human infections.
+- The current public health risk is low for H5 bird flu, and CDC is watching the situation carefully and working with states to monitor people with exposures to animals that are infected or potentially infected with avian influenza A viruses.
+Overview
+Wild water birds are the hosts of avian influenza A viruses. Infected birds and other animals can spread the virus through their mucous, saliva or feces (poop).
+People rarely get bird flu, but when they do, it's most often through direct unprotected contact (not wearing recommended personal protective equipment, PPE) with infected birds or other infected animals.
+Human illness from bird flu has ranged from mild symptoms to severe illness, resulting in death. However, most human cases of H5 bird flu in the United States have been mild, to date. No person-to-person spread has been identified in the United States, but limited person-to-person spread has been reported in the past in other countries. Limited person-to-person spread means the virus might spread to one or two people but does not continue to spread.
+Types
+Influenza type A viruses can be further classified into subtypes . Subtypes of avian influenza A viruses known to have caused human infections include H5, H6, H7, H9, and H10 viruses.
+Signs and symptoms
+The reported signs and symptoms of avian influenza A virus infections in humans have ranged from no symptoms or mild symptoms to moderate to severe disease and complications, including resulting in death.
+Mild signs and symptoms may include :
+- eye redness and irritation (conjunctivitis)
+- mild fever (temperature of 100ºF [37.8ºC] or greater) or feeling feverish*,
+- cough
+- sore throat
+- runny or stuff nose
+- muscle or body aches
+- headaches
+- fatigue
+Eye redness has been the predominant symptom among recent U.S. cases of avian influenza A(H5) virus infection.
+Less common symptoms include diarrhea, nausea, or vomiting.
+*Fever may not always be present
+Signs and symptoms of moderate to severe disease
+- high fever
+- shortness of breath or difficulty breathing
+- altered consciousness.
+- seizures
+More information about symptoms of avian influenza A(H5) virus infections in people, including timing of symptoms, and complications, is available at Signs and Symptoms of Bird Flu in People .
+Exposure risks
+Exposure to infected sick or dead animals is the main risk factor for getting bird flu. Exposure to surfaces contaminated with animal secretions/excretions also is another risk. Eating undercooked or uncooked poultry, eggs, or consuming unpasteurized milk from infected dairy cows, could also be an exposure risk for infection with avian influenza A viruses. Consuming properly prepared and cooked (or pasteurized) products is safe.
+People at risk
+People with close or prolonged contact with infected birds or other infected animals or contaminated environments, including people with job- or recreational-related exposures, are at greater risk of getting sick with avian influenza A viruses. Other things can impact whether you get very sick from bird flu, including older age, delayed medical care, and/or underlying medical conditions.
+How it spreads
+Avian influenza A viruses may spread in a few ways:
+- Direct contact between infected birds and other animals
+- From contact with virus-contaminated environments or animal by-products
+- Avian influenza A virus through the air (droplets or dust)
+Very rare, limited person to person spread has occurred in other countries.
+Prevention
+The best way to prevent bird flu is to avoid sources of exposure whenever possible. People should avoid direct contact with sick or dead wild birds, poultry, and other animals and observe them only from a distance. If you must have direct/close contact with sick or dead wild birds, poultry, or other animals, including dairy cows, wear recommended PPE.
+- Do not touch surfaces or materials (e.g., animal litter or bedding material) contaminated with saliva, mucous, or animal feces from birds or other animals with confirmed or suspected avian influenza A virus infection.
+- Do not touch or consume raw milk or raw milk products, especially from animals with confirmed or suspected avian influenza A virus infection. Choosing pasteurized milk and products made with pasteurized milk is the best way to keep you and your family safe. Pasteurization kills bacteria and viruses, like avian influenza A viruses, in milk.
+- Cook poultry, eggs, and beef to a safe internal temperature to kill bacteria and viruses. More information about safe handling and cooking of poultry is available at Chicken and Food Poisoning . Refer to CDC's safer foods table for a complete list of safe internal temperatures.
+Quick facts
+- Avian influenza A viruses are very different from human seasonal influenza viruses. They have the potential to cause a pandemic in people if they were to gain the ability to more easily infect and spread efficiently between people because people have little pre-existing immunity to these viruses. Currently, no avian influenza A viruses, including avian influenza A(H5N1), have gained the ability to spread easily and sustainably among people.
+- Human infections with avian influenza viruses have ranged in severity from mild to severe. The possibility of human infections with avian influenza A virus that result in severe illness remains and underscores the importance of ongoing prevention and surveillance efforts.
+- Most human cases of bird flu in the United States have been mild, so far, and most had known exposure to sick or infected animals.
+- Clinical specimens (samples) from people with suspected bird flu are first tested at a state public health laboratory. Specimens that test positive for bird flu at a state public health laboratory are considered "presumptive positive." They are then shipped to CDC for confirmatory testing.
+Testing and diagnosis
+There are tests that can detect avian influenza virus infections. People with recent exposure to infected (or suspected to be infected) birds, animals, or their byproducts and who have symptoms , can be tested. Reach out to your health care provider and your local public health department to be tested. People who do not have symptoms, but who had a higher risk exposure to infected animals or by-products may also be offered testing by their state or local health department as part of ongoing public health investigations.
+Treatment
+Flu antiviral drugs can treat avian influenza A virus infections. People who develop bird flu symptoms following exposure to infected animals should receive treatment with flu antivirals (oseltamivir) as soon as possible.
+Also, people who had exposure to infected animals who did not wear the recommended personal protective equipment (PPE) or who had a breach in their PPE, may be offered flu antivirals, regardless of whether they have symptoms or not.
+Antiviral treatment works best within 48 hours of developing symptoms. Antiviral treatment should not be delayed while waiting for testing results.
+Vaccines
+At this time, there is no recommendation for people to be vaccinated against bird flu and there is no commercially available vaccine against avian influenza viruses, including H5 virus. Seasonal flu vaccines are not designed or intended to protect against avian influenza A viruses.
+CDC has developed H5 candidate vaccine viruses (CVVs) that are nearly identical to or, in many cases, identical to the hemagglutinin (HA) protein of recently detected clade 2.3.4.4b avian influenza A(H5N1) viruses in humans, birds and other mammals. A CVV is what is used to make flu vaccines. These H5 CVVs could be used to produce a vaccine for people, if needed, and preliminary analysis indicates that they would provide good protection against avian influenza A(H5N1) viruses currently circulating in birds and other animals .
+More information on bird flu vaccines is available from the U.S. Department of Health and Human Services (HHS) Administration for Strategic Preparedness and Response (ASPR) at ASPR's Response to H5N1 Bird Flu and by the Biomedical Advanced Research and Development Authority (BARDA)'s Pandemic Vaccines and Adjuvants Program at Medical Countermeasures | Influenza & Emerging Infectious Diseases (IED) Pandemic Vaccines & Adjuvants Program .
+Animal impact
+H5 bird flu is widespread in wild birds worldwide and is being reported in an increasing number of animals worldwide in addition to outbreaks in poultry and U.S. dairy herds.
+Wild birds that can carry avian influenza viruses include waterbirds, like ducks, geese and swans, and shorebirds, like storks. While most wild birds can be infected with avian influenza A viruses without being sick, poultry, like chickens and turkeys, can get infected and get very sick and die from certain avian influenza viruses. Most common songbirds or other birds found in the yard, like cardinals, robins, sparrows, blue jays, crows or pigeons, do not get infected with avian influenza viruses.
+Other mammals also can be infected with avian influenza A viruses. In these animals , signs can range from mild to severe, including death. Recently H5N1 bird flu has been detected in mammals , including dairy cows. Information about recent detections of bird flu in animals is available at 2022–2024 Detections of Highly Pathogenic Avian Influenza .
+What CDC is doing
+CDC is working in collaboration with the U.S. Department of Agriculture (USDA), the Food and Drug Administration (FDA), Administration for Strategic Preparedness and Response (ASPR), state public health and animal health officials, and other partners using a One Health approach .
+CDC's role in any avian influenza cases or outbreak in people includes three areas of focus:
+- Surveillance and Diagnostics
+- Human monitoring and developing guidance for the public, public health, and clinicians
+- Virology and monitoring of genetic changes in the virus
+Research
+H5N1 Technical Report | Bird Flu | CDC
+Avian Influenza (Bird Flu) Resources | Bird Flu | CDC
+H5 Bird Flu: Current Situation | Bird Flu | CDC
+News & Spotlights | Bird Flu | CDC
+Highly Pathogenic Avian Influenza A(H5N1) Virus: Interim Recommendations for Prevention, Monitoring, and Public Health Investigations | Bird Flu | CDC

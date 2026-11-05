@@ -1,0 +1,37 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes: 36 Suppl 1:S11-66.
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+36 Suppl 1:S11-66.
+4. Ziegler R, Heidtmann B, Hilgard D, Hofer S, Rosenbauer J, Holl R et al. Frequency of SMBG correlates with HbA1c and acute complications in children and adolescents with type 1 diabetes.
+5. Miller KM, Beck RW, Bergenstal RM, Goland RS, Haller MJ, McGill JB et al. Evidence of a strong association between frequency of self-monitoring of blood glucose and hemoglobin A1c levels in T1D exchange clinic registry participants. Diabetes Care 2013; 36(7):2009-14.
+Haller MJ, Stalvey MS, Silverstein JH. Predictors of control of diabetes: monitoring may be the key. J Pediatr 2004; 144(5):660-1.
+7. Tsai CY, Lee SC, Hung CC, Lee JJ, Kuo MC, Hwang SJ, et al. False elevation of blood glucose levels measured by GDH-PQQ-based glucometers occurs during all daily dwells in peritoneal dialysis patients using icodextrin. Perit Dial Int 2010;30(3):329-335.
+8. Disse E, Thivolet C. Related hypoglycemic coma in a diabetic patient on peritoneal dialysis due to interference of icodextrin metabolites with capillary blood glucose measurements. Diabetes Care 2004; 27: 2279.
+Sacks DB, Arnold M, Bakris GL, Bruns DE, Horvath AR, Kirkman MS, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus.
+10. Ginsberg BH. An analysis: to code or not to code—that is the question. J Diabetes Sci Technol 2008; 819-821.
+11. Heinemann L. Control Solutions for Blood Glucose Meters A Neglected Opportunity for Reliable Measurements. J Diabetes Sci Technol 2015; 9(4): 723–724.
+12. Chaudhry T, Klonoff DC. SMBG out of control: the need for educating patients about control solution. Diabetes Educ 2013;39:689-695.
+13. Ginsberg BH. Factors affecting blood glucose monitoring: sources of errors in measurement. J Diabetes Sci Technol 2009; 3(4): 903-913.
+14. Fineberg SE, Bergenstal RM, Bernstein RM, Laffel LM, Schwartz SL. Use of an automated device for alternative site blood glucose monitoring. Diabetes Care 2001; 24(7):1217-20.
+15. Monnier L, Colette C. Contributions of fasting and postprandial glucose to hemoglobin A1c.
+16. Unnikrishanan R, Mohan V. Suggested protocols for self-monitoring of blood glucose in India. API textbook, 2013, Chapter 42. Available from http://www. apiindia.org/medicine_update_2013/ chap42.pdf. Accessed 21 June 2020.
+17. DiMeglio LA, Acerini CL, Codner E, Craig ME, Hofer SE, Pillay K, et al. ISPAD Clinical Practice Consensus Guidelines 2018: Glycemic control targets and glucose monitoring for children, adolescents, and young adults with diabetes. Pediatr Diabetes 2018;19(Suppl 27):105-114.
+18. Beckles ZL, Edge JA, Mugglestone MA, Murphy MS, Wales JK. Guidelines Development Group.
+Diagnosis and management of diabetes in children and young people: summary of updated NICE guidance. BMJ 2016;352:i139.
+19. American Diabetes Association. 12. Children and Adolescents: Standards of Medical Care in Diabetes-2018. Diabetes Care 2018; 41 (Suppl 1):S126-S136.
+20. Peragallo-Dittko V. Monitoring. In: Diabetes management therapies, a core curriculum for diabetes education. 5th ed. Franz MJ, editor. Chicago, IL: American Association of Diabetes Educators; 2003. p. 189–212.
+21. Indian Society for Pediatric and Adolescent Endocrinology Type 1 Diabetes Mellitus in Children and Adolescents in India: Clinical Practice Guidelines. Available from: https://www.ispae.org.in/ download_docs/Diabetes_guideline_for_Web. pdf. Accessed 21 June 2020.
+22. Kirk JK, Stegner J. Self-monitoring of blood glucose: practical aspects. J Diabetes Sci Technol 2010;4(2): 435-439.
+24. 	Krentz AJ, Nattrass M. Acute metabolic complications of diabetes: diabetic ketoacidosis,
+hyperosmolar non-ketotic hyperglycaemia and lactic acidosis. In: Pickup JC, Williams G, editors.
+25. Noyes KJ, Crofton P, Bath LE, Holmes A, Stark L, Oxley CD, et al. Hydroxybutyrate near- patient testing to evaluate a new end-point for intravenous insulin therapy in the treatment of diabetic ketoacidosis in children. Pediatr Diabetes 2007; 8: 150–156.
+26. Misra S, Oliver NS. Utility of ketone measurement in the prevention, diagnosis and management of diabetic ketoacidosis. Diabet Med 2014; 32: 14–23.
+27. Arora S, Probst MA, Agy C, Menchine M. Point-of-care β-hydroxybutyrate testing for assessing diabetic ketoacidosis severity prior to treatment in the emergency department. Diabetes Res Clin Pract 2011; 94(3):e86-8.
+28. Klocker AA, Phelan H, Twigg SM, Craig ME. Blood 3-OHB vs. urine acetoacetate testing for the prevention and management of ketoacidosis in Type 1 diabetes: A systematic review. Diabet Med 2013; 30: 818–824.
+29. Unnikrishnan R, Mohan V. Challenges in estimation of glycated hemoglobin in India. Diabetes Technol Ther 2013;15(10):897-899.
+30. Little RR, Roberts WL. A review of variant hemoglobins interfering with hemoglobin A1c measurement. J Diabetes Sci Technol 2009;3(3):446-451.
+31. Ghosh K, Colah RB, Mukherjee MB. Haemoglobinopathies in tribal populations of India. Indian J Med Res 2015;141(5):505-508.
+32. Verma IC, Saxena R, Kohli S. Hemoglobinopathies in India--clinical and laboratory aspects. Clin Lab Med 2012;32(2):249-262.
+33. Ajjan R, Slattery D, Wright E. Continuous glucose monitoring: a brief review for primary care practitioners. Adv Ther 2019;36(3):579-96.

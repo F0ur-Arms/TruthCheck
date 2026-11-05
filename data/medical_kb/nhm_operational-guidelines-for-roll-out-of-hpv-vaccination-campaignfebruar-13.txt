@@ -1,0 +1,49 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 13
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Write the Mobile no. of the school Principal/School Nodal.
+Column h: Parent Teacher Meeting (PTM) date Planned (Y/N) Mention (Y/N) if a Parent Teacher Meeting date has been planned.
+Column i: If Yes, Date Write the date if it is planned.
+Column j: Name & Mobile No of Block Education Officer Write the name and mobile number of the Block Education Officer for the concerned school.
+Part B, containing Column k, is to be filled by the District Immunization Officer (DIO).
+Column k: School falls under which planning unit/Health Facility Write the name of the planning unit/Health Facility under which this school falls.
+Once completed, the form should be shared with all planning units and health facilities by DIO so that concerned Medical Officer of the Health Facility can conduct the sensitization of eligible girls, parents and teachers on the date identified for PTM.
+District/ Corporation: Name of District Education Officer (DEO) & Mobile No.
+Name of District Immunization Officer (DIO) & Mobile No.
+PTM: Parents-Teacher Meeting District Education officer Signature with date District Immunization Officer Signature with date District wise School listing and planning Form Form 2: Head Count Survey Planning at Sub Centre/Urban Area This form is to be filled by the ANM at the sub-centre and submitted to the Planning unit /HFs after Head Count Survey is completed. It records village-wise baseline information, including estimated households, projected beneficiaries, and details of the person conducting the survey with contact information. The Medical Officer must ensure the form is completed for all sub-centres and Urban ANM areas, including vacant sub-centres. (see SOPs for details).
+Part A, containing columns a to i, to be filled by the ANM before the Head Count Survey.
+Column a: Write Names of ALL Villages / Hamlets/ Tolas/Ward/Mohalla/ HRA Sites/Industry set up/ Mining area/Brick kiln area/Migratory setup/Orphanage/Hostels/Brothels (Red Light areas)/Correction centre under the Sub centre/ANM area separately, one area in each row Identify and enlist all areas and use one row for each village/ward/area under the sub-centre, and complete the remaining details in that particular row, and move to the next village/ward/area in the next row.
+Column b: Estimated number of households (HH) Write the total number of households in that village or ward/area etc.
+Column c: Total Population Write the total population of that village/ward/area, etc.
+Column d: Estimated number of girls aged 14 years (~1% of the population) The total number of 14-year-old girls is estimated to be approximately 1% of the population.
+Column e: Name and contact number of ASHA / AWW /MAS/JAS/Link worker (mobilizers) designated for this area Write the name and contact number of ASHA / AWW /MAS/JAS/Link worker who is assigned for this area.
+Column f: Name and contact number of persons doing head count survey (Surveyor/s) Write the name and contact number of the person/s who will conduct the Head Count Survey (HCS). If more than one person is involved in the HCS, write details of both.
+Column g: Designation of Surveyor (encircle applicable) Encircle the designation of the surveyor who will do the survey, if more than one surveyor, encircle them all as applicable.
+Column h: Name and contact number of local influencers.
+There are identified influencers in each designated village/ward/area, etc, who help the immunization teams to smoothly run the programme. Write the names of such influencers along with their contact number. There may be more than one influencer; write down the details of all of them for each village/area/ward, etc.
+Column i: Dates Planned to conduct Headcount Survey from/ to Write the dates from which the survey is planned and until when it will be completed for each village/ward/area.
+Part B, containing column j and K, to be filled by ANM but after the Head Count Survey.
+Column j: Total number of girls aged 14 years due for vaccination as per Head Count Survey (HCS) (Form 3) Write the total no. of girls aged 14 years due for vaccination as per HCS (This column information to be collated from the Form 3 (column – b) Column k: Nearest 24x7 Health Facilities (PHC & above) for this area Write the name of the nearest 24x7 health facility (PHC or higher) for this area.
+ASHA / AWW /MAS/JAS/
+1. Name & contact number of ASHA:-
+2. Name & contact number of AWW:-
+3. Name & contact number of MAS/JAS member:
+4. Name & contact number of Link worker:-
+ASHA, AWW /
+1. Name & contact number of ASHA:-
+2. Name & contact number of AWW:-
+3. Name & contact number of MAS/JAS member:
+4. Name & contact number of Link worker:-
+ASHA, AWW /
+1. Name & contact number of ASHA:-
+2. Name & contact number of AWW:-
+3. Name & contact number of MAS/JAS member:
+4. Name & contact number of Link worker:-
+ASHA, AWW /
+MAS/JAS/Link Worker/ Others Signature of ANM with date Signature of Supervisor with date Signature of Medical Officer with date Head Count Survey (HCS) planning at Sub Centre/Urban ANM area (MO to ensure this format is filled for all sub-centres/Urban ANM areas including vacant sub-centres) HCS planning Form: to be filled by ANM and to be submitted to Planning unit after Head Count Survey Form 3: Head Count Survey (HCS) cum due list of the beneficiaries (Girls aged 14 Years) This form is to be filled by the surveyor. She will mention the date, first house visited, along with the house number, name, and address. Similarly, she will also mention the last house visited along with the house no, name, and address, and validated by the respective supervisor. This form provides the line-listing of all eligible girls aged 14 years.
+Part A, containing column a to l, to be filled by the surveyor -ASHA/AWW/MAS/JAS/LW before the campaign Column a: Household (HH) No. (as per Chullah).
+Write the Household No. as per Chullah. There should be separate house numbers for each Chullah.
+Column b: Name of Girls aged 14 years (should be a resident of this area) Write the full name of the girl as mentioned in the Photo ID (those who have celebrated their 14th birthday but have not yet celebrated their 15th birthday). (If in any HH No. there is more than one girl then write the name of girl in separate rows under the same HH No.) Column c: Father’s/Mother’s/Guardian’s Name Write the name of father’s/ mother's/ guardian’s (if any other than parents) Column d: Date of Birth of Girl aged 14 years Write the Date of Birth of the girl as mentioned in the ID or from any other record or recall.
+Column e: Photo ID Type Write the photo ID type of the eligible girl. It should be preferably Birth Certificate, Aadhar Card, Ration Card, School ID, APAAR ID, Permanent Education Number (PEN), Transfer/School leaving/Matriculation Certificate, Passport, Bank passbook, Immunization card, A declaration given by the Head of the Orphanage/Child Care Home, an age declaration form signed by parents/guardian Column f: Photo ID Number Write the photo ID number of the photo ID mentioned.

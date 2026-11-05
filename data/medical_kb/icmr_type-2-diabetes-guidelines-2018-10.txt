@@ -1,0 +1,22 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 8.4 Diabetic Nephropathy
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+8.4 Diabetic Nephropathy
+8.4.1 Investigations:
+8.4.2 Management of albuminuria /proteinuria:
+The algorithm given in the next page outlines the steps in investigation of albuminuria / proteinuria in a person with diabetes.
+8.4.3 Treatment of hypertension in nephropathy:
+Angiotensin converting enzyme (ACE) inhibitors or Angiotensin II receptor blockers (ARB) are the drugs of choice (never combine both) Others, if ACEIs or ARBs are not tolerated Calcium channel blockers Diuretics Selective beta blockers (should be given in case of known previous acute coronary syndrome)
+8.4.4 Refer the patient to nephrologist if:
+Patient has severe/resistant hypertension Patient has serum potassium > 5.5 meq/L Patient has nephrotic range proteinuria Proteinuria is present in absence of retinopathy Serum creatinine is > 1.5 mg% Any patient with pregestational diabetes or GDM with proteinuria eGFR as calculated by MDRD is < 60 ml/min Presence of fluid overload or oliguria Figure. 8.1 shows a suggested algorithm for the evaluation of proteinuria in a patient with diabetes. This will help differentiate proteinuria of diabetic and non-diabetic etiology.
+8.5 Diabetic Retinopathy
+Ninety percent of blindness from diabetic retinopathy (DR) is preventable by early diagnosis and treatment. All physicians dealing with diabetic retinopathy patients in large numbers must make an effort at recording visual acuity as an integral part of their work up and must strive to develop the skill of direct ophthalmoscopy. If visual acuity recording and retinal examination is not possible, all physicians must spend time educating their diabetic patients on the strong potential for diabetes to cause blindness, about how this can be prevented by regular visit to a retina specialist and about the need for an immediate baseline eye examination and blood glucose control. Recording of visual acuity and examination of the retina by ophthalmoscopy is mandatory in all diabetic patients. Whenever possible retinal photography must be obtained. If the services of a retina specialist are available, his / her opinion should be sought about the stage of retinopathy, any need for immediate / early treatment and about the next follow up visit. If services of a retina specialist are not available, then it is advised to compare retinal examination findings and/or findings on retinal photography with representative diabetic retinopathy images and corresponding management/ follow up guidelines or refer to the grades of diabetic retinopathy chart and advise patients accordingly.
+8.5.1 Risk factors:
+8.5.2 General considerations:
+8.5.3 Screening recommendation for retinal examination *:
+Based on the findings during the fundus examination, subsequent follow up advice is provided.
+8.6 Diabetic Neuropathy
+8.6.1 Diagnosis & clinical recognition:
+Sensory neuropathy is evidenced by symptoms of paresthesiae (such as tingling, numbness and pain) or loss of sensation of touch, pain, temperature and vibration Neuropathy can lead to foot deformities and dryness of plantar skin leading to neuropathic foot ulcers. These ulcers are susceptible for infection, cellulitis and osteomyelitis often requiring partial foot amputation Motor weakness of small muscles of foot is evidenced by inability to grip footwear and alteration of arch of foot, bringing pressure on the head of first metatarsal and heel Quadriceps wasting and absent knee jerk and bilateral hip muscle weakness suggest diabetic amyotrophy Cranial motor neuropathy involving 3rd, 6th and rarely 7th nerve must be considered in relevant cases Radiculopathy and cranial neuropathies are reversible while sensorimotor symmetrical polyneuropathy is progressive and irreversible Assess for autonomic neuropathy with symptoms such as orthostatic hypotension, gastroparesis, diarrhoea /constipation, impotence, cystopathy and gustatory sweating Always exclude other causes of neuropathy for example nutritional deficiency, hypothyroidism, spinal disorders, paraneoplastic syndrome, drug induced, alcohol abuse, uremic neuropathies, etc.

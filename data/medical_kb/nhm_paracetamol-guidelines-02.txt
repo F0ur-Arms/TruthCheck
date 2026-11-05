@@ -1,0 +1,35 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Paracetamol Guidelines, part 2
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Paracetamol_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+RECOMMENDATIONS
+AND GUIDELINES
+CHAPTER 2 Instructions for health workers regarding dispensation of syrup paracetamol  COUNT the number of bottles of syrup paracetamol (strength 125mg/5 ml) at the beginning of a session to ensure availability of 10% more bottles than the total number of doses of pentavalent and DPT expected to be administered in the session.  DISPENSE one bottle of syrup paracetamol only to children who have been administered pentavalent or DPT in the session.  READ bottle label to verify contents (syrup paracetamol, strength 125mg/5 ml) and expiry date before dispensing.  REFER dosage chart and choose volume required per dose as per age of the vaccine recipient.  INSTRUCT the care-giver to administer syrup paracetamol to the child only when fever (axillary temperature > 38 oC/100.4 oF or child feels hot to touch) occurs after vaccination. Do not give if there is no fever.  TELL the appropriate dose and SHOW the care giver the markings on the measuring cap of syrup bottle for the required dose.  USE only the measuring cap supplied with the paracetamol syrup bottle to measure and administer syrup paracetamol to the child.  INSTRUCT that not more than 4 doses should be given in 24 hours and a gap of at least 4 hours should be maintained between two doses.  DEMONSTRATE shaking of the bottle for 10 seconds before use in case paracetamol suspension is supplied in place of syrup.  ADVISE that a doctor should be consulted, if any danger sign(s) is present or fever persists for more than two days even with use of paracetamol (refer to Job Aid 3 of this document).  USE the referral protocol for post vaccination fever to determine the need for referral.
+Care givers should be informed and encouraged to practice non-pharmacological methods like breastfeeding before, during and after immunization for relieving pain and crying. Other methods like sponging, skin to skin contact and holding the infant are also helpful in reducing pain, fever and crying after immunization.
+1.	 Date and time of referral
+2.	 Referred to (name of hospital/doctor)
+3.	 Name, age and gender of child
+4.	 Indication for referral
+5.	 Treatment given
+6.	 Name and dose of antibiotic
+7.	 Vaccines administered
+8.	 Date and time of vaccine administered
+9.	 Instructions to caregiver/mother during
+10.	 Date and time of onset of fever
+11.	 Dose of Paracetamol administered
+12.	 Date and time of Paracetamol administration	:
+13.	 Referred by (name and contact number)
+Ampicillin 100 mg per kg body weight and Gentamycin 5 mg per kg body weight  Give one dose of paracetamol if the child has a fever of more than 38 degree Celsius (100.4 degree Fahrenheit)  Administer the first dose of injectable antibiotic as per national IMNCI guidelines*  Document on the referral note which vaccine(s) was administered, time of onset of fever, time of administration of paracetamol, dose of paracetamol and indication for referral.  Write contact details of the person referring the child to the hospital.
+Activities at state level  Ensure syrup paracetamol (125mg/5ml) is part of the Essential Drug List (EDL) of the state.  A notification will be issued by the state regarding operationalization of guidelines with instructions for estimation, procurement and supply of syrup paracetamol to the districts, municipal corporations and urban bodies.  Procurement of syrup paracetamol (60 ml, 125 mg/5 ml strength having measuring cap with markings for 2.5, 5.0, 7.5 and 10 ml) will be through regular drug procurement mode as part of the Essential Drug List of the state.  State/districts will ensure availability of syrup paracetamol with all ANMs at session sites during RI and campaign.  The state will arrange for the translation of job aids into the local language and share with the districts for use during trainings of ANMs.
+Activities at district level  District Immunization Officers/district training team members will ensure enough copies of the job aids for training of ANMs/vaccinators (one per ANM and facilitator) and monitor the trainings so that all ANMs are trained.  ANMs will be trained during monthly meetings at the PHC (or other opportune meetings) within one month of issue of notification using the job aids with special focus on instructions to be given to caregivers of vaccine recipients.  Monitor and document meetings to ensure all ANMs are trained on use of syrup paracetamol for fever after immunization.  District will print/photocopy the translated job aids for use during training of ANMs.  Estimate, procure and make available the required quantity of syrup paracetamol as per Essential Drug List.
+Estimation of syrup paracetamol The states and districts will calculate the number of paracetamol syrup bottles needed based on doses of pentavalent and DPT vaccine given as per HMIS annually with 10% buffer. The strength of syrup paracetamol is 125mg/5ml with measuring cap having markings of 2.5ml, 5 ml, 7.5 ml and 10 ml.
+Use the due list for session or immunization microplan/ roster to estimate the number of bottles of syrup paracetamol to be supplied to the session. Supply 10% extra bottles to the session as buffer. Districts may use the alternate vaccine delivery system to supply bottles of syrup paracetamol to the session sites.
+Summary  Dispense one bottle of 60 ml syrup paracetamol 125 mg/5 ml after every dose of pentavalent and DPT vaccine.  Use the dosage chart to choose volume of single dose required to be given as per age group.  Show the mark on the cap till which the syrup has to be filled to the caregiver and instruct to: »» Administer age appropriate dose of syrup paracetamol ONLY WHEN THERE IS FEVER (axillary temperature > 38 oC/100.4 oF or child feels hot to touch). »» Not administer more than four doses a day. »» Use only the cap supplied with the paracetamol syrup bottle to measure and administer syrup paracetamol to the child. »» Shake the bottle for 10 seconds before use in case suspension is supplied in place of syrup. »» Take the child to a doctor if the fever continues for more than two days of vaccination or he/ she develops other danger signs.
+OPERATIONALIZATION
+OF GUIDELINES
+INSTRUCTIONS FOR HEALTH WORKERS REGARDING
+DISPENSATION OF SYRUP PARACETAMOL
+COUNT the number of bottles of syrup paracetamol (strength 125mg/5 ml) at the beginning of a session to ensure availability of 10% more bottles than the total number of doses of pentavalent and DPT expected to be administered in the session.
+DISPENSE one bottle of syrup paracetamol only to children who have been administered pentavalent or DPT in the session.
+READ bottle label to verify contents (syrup paracetamol, strength 125mg/5 ml) and expiry date before dispensing.

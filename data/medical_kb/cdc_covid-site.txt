@@ -1,0 +1,60 @@
+SOURCE: CDC
+TITLE: Site Index
+URL: https://www.cdc.gov/covid/site.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+- COVID-19
+- What is COVID-19 Reinfection?
+- Symptoms
+- People with Certain Medical Conditions and COVID-19
+- Vaccine Basics
+- Benefits of Vaccination
+- Staying Up to Date
+- Vaccines for Moderately to Severely Immunocompromised People
+- Getting Your Vaccine
+- Vaccines for People Who Would Like to Have a Baby
+- Vaccines for Long-term Care Residents
+- Pregnancy and COVID-19 Vaccines
+- Testing
+- Treatment
+- How to Protect Yourself and Others
+- Get Your COVID-19 Vaccines
+- Get Medicine for COVID-19
+- People with Disabilities and COVID-19
+- COVID-19 Can Make You Feel Sick
+- COVID-19 Vaccination for Children
+- Improving the Air in Your Home
+Health Care Providers
+- Healthcare Workers
+- COVID-19 Vaccines and Vaccination
+- 2026-2027 COVID-19 Vaccination Guidance for People Who Are Not Immunocompromised
+- People Who Are Immunocompromised
+- Implementation Guidance
+- Contraindications and Precautions
+- Safety Considerations for COVID-19 Vaccines
+- Special Situations and Populations
+- Appendix: Vaccine Administration Errors and Deviations
+- Clinical Presentation
+- Overview of Testing for SARS-CoV-2
+- Clinical Course: Progression, Management, and Treatment
+- Clinical Considerations for Special Populations
+- Clinical Care for Outpatients
+- Underlying Conditions and the Higher Risk for Severe COVID-19
+- Systematic Review Process
+- Pediatric Healthcare Providers
+- Specimen Collection
+- Triaging Sick Patients
+- Outpatient Facilities
+- Additional Tools and Resources
+Public Health
+- Health Departments
+- Preliminary Estimates of COVID-19 Burden
+- How CDC Estimates the Burden of COVID-19 in the US
+- Vaccine Effectiveness
+- Point of Care & Rapid Testing
+- Reporting Lab Data
+- Antibody Seroprevalence
+- Variants and Genomic Surveillance
+- SARS-CoV-2 Interagency Group
+Didn't find the information you were looking for?

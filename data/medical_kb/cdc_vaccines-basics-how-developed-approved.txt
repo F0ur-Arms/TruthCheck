@@ -1,0 +1,55 @@
+SOURCE: CDC
+TITLE: How Vaccines are Developed and Approved for Use
+URL: https://www.cdc.gov/vaccines/basics/how-developed-approved.html
+────────────────────────────────────────────────────────────
+
+Key points
+How new vaccines are developed
+The U.S. Food and Drug Administration's (FDA's) Center for Biologics Evaluation and Research (CBER) is responsible for regulating vaccine use in the United States.
+The general stages of vaccine development are:
+Research and discovery
+In this early stage of vaccine development, researchers explore their idea for a potential vaccine. Vaccine development often takes 10-15 years of laboratory research, usually at a company in private industry, but often involves collaboration with researchers at a university.
+Proof of concept
+Before a vaccine can be tested in people, researchers study its ability to cause an immune response with small animals, like mice. At this stage, researchers may make adjustments to the vaccine to make it more effective. Vaccine effectiveness is important because it measures how well vaccination protects people against outcomes such as infection, symptomatic illness, hospitalization, and death.
+If the vaccine shows promising enough results, it moves forward to clinical trials for testing in people.
+Testing the vaccine
+Next, the vaccine enters a clinical development stage, which is also called a clinical trial. To do this, researchers submit an Investigational New Drug (IND) application to FDA, which includes data from animal studies, information on manufacturing technology, and the quality of the vaccine. Vaccine quality is important because it affects how well it will work to provide long- and short-term protection against disease.
+The clinical development stage is a three-phase process, which may include a fourth phase if the vaccine is approved by FDA.
+Phase 1
+Small groups of people (20 to 100) receive the trial vaccine. During this phase, researchers gather information on how safe the vaccine is in people. This includes learning about and identifying side effects, and studying how well the vaccine works to cause an immune response.
+Phase 2
+The clinical trial expands to hundreds (100-300) of trial participants who have characteristics (such as age and physical health) similar to the intended recipients for the vaccine. They can also include groups of people from diverse backgrounds to ensure representation across different populations.
+This phase provides additional safety information on side effects and risks, and more information on how well the vaccine works to cause an immune response.
+Phase 3
+The clinical trial expands to thousands (1,000–3,000) of people. In this phase, researchers confirm how well the vaccine works, monitor common and less common side effects, and collect information to support safe use in people.
+Phase 4 (after FDA approval)
+After FDA approves (also known as "licenses") a vaccine for use in the general population, it might advance to an additional clinical trial phase with thousands of participants. Phase 4 is a formal, ongoing study to evaluate the new vaccine's safety and effectiveness over a longer period of time.
+For more information on the clinical development stage, visit FDA's Vaccine Development 101 page.
+The vaccine manufacturing process
+During Phase 3 clinical trials, FDA looks at the company's proposed manufacturing process for the vaccine. FDA will also inspect the manufacturing facility where the vaccine will be made to ensure the facility has everything necessary for reliable and consistent large-scale manufacturing.
+The manufacturer makes batches of vaccine called "lots". These lots undergo a series of tests to ensure the vaccine is consistent from lot to lot. FDA requires manufacturers to submit data from these tests to support a successful manufacturing process, even after approval.
+Approving the vaccine
+Before a vaccine can be approved for use in the United States, a company submits a Biological License Application (BLA) to FDA. The BLA includes:
+While reviewing the BLA, FDA looks at the clinical trial data to see if the results show the vaccine is safe and effective. The BLA also contains prescribing information, which is information on vaccine usage, dosage, and administration–all based on scientific data. If needed, the prescribing information can be updated, which FDA will review. From here, FDA decides on whether to approve the vaccine for use.
+To learn more about FDA's role in the vaccine approval process, visit FDA's Biological License Application Approval Process web page.
+VRBPAC
+In some cases, FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) provides input on scientific data to look at safety, effectiveness, and use of the vaccine. VRBPAC is made up of independent scientific and public health experts who discuss the proposed vaccine in a public forum.
+Large-scale manufacturing
+After FDA approves the new vaccine, the company can make larger batches of vaccine to distribute to the public. FDA will continue to monitor vaccine production activities, which includes regular inspections of the manufacturing facility to make sure FDA regulations are being followed. This continues as long as the manufacturer holds a license for the vaccine product.
+Tracking vaccine quality
+FDA monitors a vaccine product's quality in real-time by requiring manufacturers to submit samples of each vaccine lot for testing. These tests usually report:
+When vaccines are consistent across lots, FDA can confirm the product remains reliable and safe for use in people.
+Recommending the vaccine for use
+The Advisory Committee on Immunization Practices (ACIP) is a group of medical and public health experts who develop recommendations for use of a vaccine in the United States.
+ACIP only makes recommendations for vaccines that are approved by FDA. Before recommending any vaccine, ACIP also considers:
+After ACIP recommends a vaccine, the CDC Director will decide whether to approve the recommendation. Once the CDC Director approves the recommendation, it becomes the official CDC public health guidance for safe use of the vaccine in the United States. The approved recommendation can also lead to a vaccine becoming a part of the official U.S. adult and childhood immunization schedules.
+For information about ACIP's role in making vaccine recommendations, visit the ACIP website .
+Monitoring safety after approval
+Safety is a priority throughout the vaccine development and approval process. Even after vaccines are approved and recommended for public use, CDC and FDA use different systems to monitor their safety , which helps ensure a vaccine's continued success in the United States.
+VAERS
+The Vaccine Adverse Event Reporting System (VAERS) is an early warning system that helps CDC and FDA monitor problems following vaccination. Anyone can report suspected vaccine reactions and issues to VAERS.
+Vaccine Safety Datalink
+The Vaccine Safety Datalink (VSD) is a collaboration between CDC and several health organizations that allows ongoing monitoring and proactive searches of vaccine-related data.
+When ACIP recommends new vaccines for use in the United States or makes changes to a vaccine's recommendation, VSD will monitor the safety of these vaccines.
+CISA
+CDC's Clinical Immunization Safety Assessment (CISA) Project is a partnership between CDC and several medical centers that conduct clinical research on vaccine-related health risks in certain groups of people.

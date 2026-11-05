@@ -1,0 +1,17 @@
+SOURCE: CDC
+TITLE: About Reinfection
+URL: https://www.cdc.gov/covid/about/reinfection.html
+────────────────────────────────────────────────────────────
+
+Key points
+- Reinfection with the virus that causes COVID-19 occurs when you are infected, recover, and then get infected again.
+- You can get reinfected multiple times.
+- Staying up to date on vaccines and seeking treatment for a COVID-19 infection can help decrease the risk of experiencing severe illness.
+Overview
+Reinfections with the virus that causes COVID-19 are most often mild, but severe illness can occur. If you are reinfected, you can also spread the virus to others. Staying up to date with COVID-19 vaccines and treating COVID-19 illness within a few days of when symptoms start decrease your risk of experiencing severe illness.
+Once you have had COVID-19, your immune system responds in several ways. This immune response can protect you against reinfection for several months, but this protection decreases over time. People with weakened immune systems who get an infection may have a limited immune response or none at all. Protection against severe COVID-19 illness generally lasts longer than protection against infection. This means even if you get infected again, your immune response should help protect you from severe illness and hospitalization.
+As the virus evolves, new variants with the ability to evade your existing immunity can appear. This can increase your risk of reinfection. Reinfection can occur as early as several weeks after a previous infection, although this is rare.
+How to protect yourself and others
+CDC recommends that all people use core prevention strategies to prevent COVID-19 and other respiratory viruses, including if you have previously had COVID-19.
+COVID-19 testing for people with a recent history of infection
+Interpreting new positive test results in the first 90 days after a previous infection (that is, to identify a possible reinfection) can be challenging. CDC has developed testing guidance explaining which type of test you should take under different circumstances.

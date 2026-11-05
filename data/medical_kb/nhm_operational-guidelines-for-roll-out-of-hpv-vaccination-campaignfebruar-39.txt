@@ -1,0 +1,45 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 39
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+2. Cardiac Disease Patients: The vaccine is safe for individuals with heart conditions. While the HPV vaccine is generally safe and recommended for people with chronic conditions, a consultation with a medical specialist is a necessary step.
+3. Patients on Epilepsy Treatment: Epilepsy is not a contraindication for the HPV vaccine. The medications used to treat seizures do not interact with the vaccine. Some adolescents experience a "vasovagal" reaction (fainting) after getting a shot. Because this could be mistaken for a seizure in an epilepsy patient, it is standard practice to have the patient sit or lie down for 15 minutes after the injection.
+While the HPV vaccine is generally safe and recommended for people with chronic conditions, a consultation with a medical specialist is a necessary step.
+4. Sickle Cell & Thalassemia Cases: Vaccination is strongly encouraged for these patients. Because sickle cell and thalassemia can affect the spleen's function (functional asplenia), these individuals are considered at higher risk for infections. While most healthy teens need only 1 dose, adolescent patients with significant immune suppression or certain blood disorders may be advised to follow a 2-dose (at 0 and 6 months) or 3-dose schedule (at 0, 1-2, and 6 months) to ensure full protection. While the HPV vaccine is generally safe and recommended for people with chronic conditions, a consultation with a medical specialist is a necessary step.
+SPECIAL SITUATIONS
+46. Where should the eligible girls residing in hostels be included during the headcount survey?
+During the head count survey, eligible girls aged 14 years are to be listed as per their residence. Since most of these girls may not be living in their homes but residing in hostels, hostels need to be listed in the ASHA areas and head count surveys must be done in such residential hostels to ensure eligible girls are reached for mobilization. The provision for head counting in residential schools/hostels has been made in the micro- planning formats.
+47. Should the HPV vaccine be given to an eligible girl visiting from other States/UTs?
+Yes, the HPV vaccine should be given to all eligible girls, irrespective of the States/UTs they are coming from, provided they haven't received any dose of HPV vaccine anywhere.
+48. Can HPV Vaccine be given to Transgender people?
+Yes, the HPV vaccine can be given to transgender people.
+49. Do women need to get screened for cervical cancer if they have been vaccinated?
+Yes, even if they have received the HPV vaccine, they still need regular screening for cervical cancer as recommended by the health care provider.
+50. Can someone with abnormal pap smear results take the HPV vaccine?
+Yes, but it won't treat abnormalities, although it can still offer protection from other HPV types.
+51. Can someone who is already exposed to HPV take the vaccine ?
+A girl may not know if she is already exposed to HPV unless it is established by medical diagnosis. If she is in the recommended age, she is encouraged to take the HPV vaccine, though it may not halt the progress of the disease due to already existing HPV exposure from sexual activity.
+52. Can someone who has already taken HPV vaccine still get HPV infection or suffer from cervical cancer ?
+Yes, even if a girl has received the HPV vaccine, she can still get HPV infection or cervical cancer, which are caused by non-vaccine types of viruses.
+53. Does the vaccine also protects against genital warts?
+Yes, the quadrivalent vaccine being provided under the government's Campaign protects against HPV types 6 and 11 that cause genital warts.
+54. If an eligible girl is already given a licensed HPV vaccine in private sector and the parents insists for the quadrivalent dose again under the GOI Campaign, do we vaccinate her?
+No, as per the GOI guidelines, any girl who has already received any licensed HPV vaccine shouldn't be given the quadrivalent vaccine in the Campaign if it is confirmed that she is vaccinated with one dose of any HPV vaccine.
+55. An eligible girl at the HPV vaccination session claims that she doubts she is already vaccinated against HPV in private sector, what to do?
+The medical officer will have to try to ascertain the fact if she is vaccinated by verifying her records through the parents. If there is no evidence of vaccination, you can vaccinate her with the quadrivalent vaccine.
+56. What if we vaccinated any eligible girl with the quadrivalent vaccine under the Campaign and later the parents disclose that she was already vaccinated against HPV in private?
+In such cases, we need to counsel and convince the parents that they need not worry. Even if the girl was previously vaccinated against HPV with any licensed vaccine, there is no harm and the girl will still be protected from HPV infection.
+57. What if a girl misses her dose of HPV vaccine during the HPV vaccination Campaign?
+The girls or the parents should contact the medical officer/ASHA/ANM of their area, or visit their nearest government health facility which is a HPV vaccination centre to get the girl vaccinated.
+58. What to do in case of Non-Availability of Eligible Identity Card for HPV Vaccination?
+In case of non-availability of any eligible ID card for age verification of girls aged 14 years, a parental undertaking should be taken and uploaded on U-WIN.
+UNDERTAKING FOR NON-AVAILABILITY OF ELIGIBILITY IDENTITY CARD FOR VACCINATION
+1.	 That my daughter, ________________________________________ [name] is desirous of receiving the __________________________
+[name of the vaccine] at your vaccination centre/session site. To the best of my knowledge, the age of [my daughter] is ______ years.
+2. That I am currently not in possession of any eligible identity cards such as Aadhaar Card, PAN Card, Ration Card, Birth Certificate, Passport, MCP card, School ID, Transfer Certificate, Bank Passbook or any other valid eligible identification document to establish ___________________________ [my daughter's] true and valid identity.
+3. That I undertake and affirm that the details provided by me for the purpose of vaccination are true and correct to the best of my knowledge and belief.
+4. That I understand the importance of accurate information for record-keeping and future reference and undertake to provide my child's identity proof at the earliest possible opportunity, as and when made available to me.
+5. That I shall not hold the vaccination centre or its staff responsible for any consequences arising due to the non-availability of my identity proof at the time of vaccination.
+I request you to kindly allow me to proceed with the vaccination based on this undertaking.
+Place: Yours sincerely, (Signature ______________________) (Full Name ______________________) (Address ______________________) (Mobile Number ______________________) 59. What should the vaccinator do if a girl is brought to the health facility for HPV vaccination, but there is no internet connectivity to register her on the U-WIN portal?

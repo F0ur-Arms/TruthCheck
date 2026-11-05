@@ -1,0 +1,47 @@
+SOURCE: CDC
+TITLE: Adjuvants and Vaccines
+URL: https://www.cdc.gov/vaccine-safety/about/adjuvants.html
+────────────────────────────────────────────────────────────
+
+Key points
+Overview
+Some vaccines that are made from weakened or killed germs contain naturally occurring adjuvants and help the body produce a strong protective immune response. However, most vaccines developed today include just small components of germs, such as their proteins, rather than the entire virus or bacteria. Adjuvants help the body to produce an immune response strong enough to protect the person from the disease he or she is being vaccinated against. Adjuvanted vaccines can cause more local reactions (such as redness, swelling, and pain at the injection site) and more systemic reactions (such as fever, chills and body aches) than non-adjuvanted vaccines.
+Adjuvant safety
+Fact
+Adjuvants have been used safely in vaccines for decades.
+Aluminum salts, such as aluminum hydroxide, aluminum phosphate, and aluminum potassium sulfate have been used safely in vaccines for more than 70 years. Aluminum salts were initially used in the 1930s, 1940s, and 1950s with diphtheria and tetanus vaccines after it was found they strengthened the body's immune response to these vaccines.
+Newer adjuvants have been developed to target specific components of the body's immune response, so that protection against disease is stronger and lasts longer.
+In all cases, vaccines containing adjuvants are tested for safety and effectiveness in clinical trials before they are licensed for use in the United States, and these vaccines are continuously monitored by CDC and FDA once they are approved.
+Adjuvants used in U.S. vaccines
+An observational study [PDF - 10 Pages] published in September 2022 identified a possible association between exposure to aluminum from vaccines and later development of persistent asthma in a cohort of children who received care at healthcare organizations participating in the Vaccine Safety Datalink . CDC is not changing vaccine recommendations based on this single study, but further investigation is needed into this potential safety signal.AS01 B is made of up of monophosphoryl lipid A (MPL), an immune-boosting substance isolated from the surface of bacteria, and QS-21, a natural compound extracted from the Chilean soapbark tree ( Quillaja saponaria Molina). In pre-licensure clinical trials, AS01 B was associated with local and systemic reactions, but the overall safety profile was reassuring.AS01 B is also a component of vaccines currently being tested in clinical trials, including malaria and HIV vaccines. To date, these trials have included over 15,000 people.In pre-licensure clinical trials, adverse events after Heplisav-B were comparable to those observed after another U.S.-licensed, non-adjuvanted hepatitis B vaccine.
+.
+One or more of the following: amorphous aluminum hydroxyphosphate sulfate (AAHS), aluminum hydroxide, aluminum phosphate, potassium aluminum sulfate (Alum)
+Anthrax, DT, DTaP (Daptacel), DTaP (Infanrix), DTaP-HepB-IPV (Pediarix), DTaP-IPV (Kinrix), DTaP-IPV (Quadracel), DTaP –IPV/Hib (Pentacel), DTaP-IPV-Hib-HepB (VAXELIS), HepA (Havrix), HepA (Vaqta), HepB (Engerix-B), HepB (Recombivax), HepA/HepB (Twinrix), HIB (PedvaxHIB), HPV (Gardasil 9), Japanese encephalitis (Ixiaro), MenB (Bexsero, Trumenba), Pneumococcal (Prevnar 13, Prevnar 20, VAXNEUVANCE), Td (Tenivac), Td (Mass Biologics), Td (no trade name), Tdap (Adacel), Tdap (Boostrix), Tick-Borne Encephalitis (TICOVAC)
+Aluminum-containing adjuvants are vaccine ingredients that have been used in vaccines since the 1930s. Small amounts of aluminum are added to some vaccines to help the body build stronger immunity against the germ in the vaccine. Aluminum is one of the most common metals found in nature and is present in air, food, and water. Previous scientific research has shown the amount of aluminum exposure in people who follow the recommended vaccine schedule is low and is not readily absorbed by the body. Read the research on aluminum exposure and vaccines. Also, see FDA’s web page on common ingredients in U.S. licensed vaccines for more information. . An observational study [PDF - 10 Pages] published in September 2022 identified a possible association between exposure to aluminum from vaccines and later development of persistent asthma in a cohort of children who received care at healthcare organizations participating in the Vaccine Safety Datalink . CDC is not changing vaccine recommendations based on this single study, but further investigation is needed into this potential safety signal.
+AS01 B
+Monophosphoryl lipid A (MPL) and QS-21, a natural compound extracted from the Chilean soapbark tree, combined in a liposomal formulation
+Zoster vaccine (Shingrix)
+AS01 B is an adjuvant suspension used with the antigen component of Shingrix vaccine. Shingrix is the recombinant zoster vaccine recommended for persons aged 50 years or older. . AS01 B is also a component of vaccines currently being tested in clinical trials, including malaria and HIV vaccines. To date, these trials have included over 15,000 people.
+AS04
+Monophosphoryl lipid A (MPL) + aluminum salt
+Human papillomavirus, or HPV (Cervarix)
+Beginning in 2009, monophosphoryl lipid A (MPL) was used in one U.S. vaccine (Cervarix ® ) for HPV infections; however, the vaccine is no longer available in the United States due to low market demand. This immune-boosting substance was isolated from the surface of bacteria.
+CpG 1018
+Cytosine phosphoguanine (CpG), a synthetic form of DNA that mimics bacterial and viral genetic material
+HepB (Heplisav-B)
+CpG 1018 is a recently developed adjuvant used in Heplisav-B vaccine. It is made up of cytosine phosphoguanine (CpG) motifs, which is a synthetic form of DNA that mimics bacterial and viral genetic material. When CpG 1018is included in a vaccine, it increases the body’s immune response. . In pre-licensure clinical trials, adverse events after Heplisav-B were comparable to those observed after another U.S.-licensed, non-adjuvanted hepatitis B vaccine.
+Matrix-M TM
+Saponins derived from the soapbark tree ( Quillaja saponaria Molina)
+COVID-19 vaccine (Novavax COVID-19 Vaccine, Adjuvanted)
+MatrixM adjuvant is made from saponins derived from the soapbark tree ( Quillaja saponaria Molina), along with cholesterol and phospholipids. It is currently used in the Novavax COVID-19 vaccine to stimulate the immune system. On July 19, 2022, the Advisory Committee on Immunization Practices made an interim recommendation for use of the Novavax vaccine in people 18 years and older as a primary 2-dose series vaccination for the prevention of COVID-19. Novavax is available under an FDA Emergency Use Authorization.
+MF59
+Oil in water emulsion composed of squalene
+Influenza (Fluad and Fluad Quadrivalent)
+MF59 is the adjuvant contained in Fluad quadrivalent (an influenza vaccine licensed and recommended for adults aged 65 or older). MF59 is an oil-in-water emulsion composed of squalene, which is a naturally occurring oil found in many plant and animal cells, as well as in humans. MF59, used in flu vaccines in Europe since 1997 and in the United States since 2016, has been given to millions of people and has an excellent safety record.
+No adjuvant
+n/a
+Chickenpox, cholera, COVID-19 (includes mRNA Pfizer-BioNTech, mRNA Moderna and adenoviral Johnson & Johnson/Janssen), dengue, Ebola, Hib (ActHIB, HIBERIX), measles, mumps & rubella (MMR), meningococcal (Menactra, Menveo, MenQuadfi), polio (IPOL), rabies, rotavirus, seasonal influenza (except Fluad and Fluad quadrivalent), smallpox and monkeypox (ACAM2000, JYNNEOS), Typhoid, yellow fever, zoster live (Zostavax)
+Vaccination providers should review FDA-approved prescribing information or for the most complete and updated information about vaccine components . Information about COVID-19 vaccines authorized for emergency use is also available online.
+What CDC is doing
+CDC and FDA closely monitor the safety of all vaccines.
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.

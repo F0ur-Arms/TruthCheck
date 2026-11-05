@@ -1,0 +1,25 @@
+SOURCE: CDC
+TITLE: 1880-1959 Highlights in the History of Avian Influenza (Bird Flu) Timeline
+URL: https://www.cdc.gov/bird-flu/avian-timeline/1880-1959.html
+────────────────────────────────────────────────────────────
+
+What to know
+- The below timeline gives a summary of significant HPAI and LPAI outbreaks in birds, infections in people, and events from 1880-1959.
+1880s - 1950s
+- In 1878, the term “fowl plague” was used to describe the poultry disease observed in Italy and other European countries. “Fowl plague” was then differentiated from fowl cholera in 1880. Though these are the oldest bird flu references date, it is believed that prior to these references the disease had already been in existence for a long time, perhaps for hundreds of years 1 .
+- There are reports of subsequent outbreaks in poultry of HPAI in 1894 and 1901 in Italy, which spread with the poultry stock of an itinerary poultry merchant to eastern Austria and Germany and later to Belgium and France 2 , 3 .
+- The cause (etiology) of HPAI in domestic poultry was identified as a virus, though Influenza viruses were not isolated until the 1930s.
+- The ‘Spanish’ influenza H1N1 pandemic of 1918-1919 killed an estimated 50-100 million people worldwide 4 . Although the virus was not isolated during 1918-1919, when the technology was available the genetic sequence was later determined to be an avian-like H1N1 virus.
+- Influenza A viruses cause seasonal epidemics of human flu worldwide and, much more rarely, flu pandemics. Flu pandemics are typically caused by the introduction and spread of an animal (avian, swine, or combination) influenza A virus with an HA subtype that is new (novel) to human populations 5 .
+- The first outbreak of HPAI in poultry in the United States occurred during the fall and winter of 1924–1925 6 . The disease first appeared to have caused severe losses in live bird markets in New York City.
+- By the mid-1900s, HPAI had been reported in poultry in most of Europe, Russia, North America, South America, Middle East, Africa and Asia 7 , 8 .
+- In February 1957, a new influenza A(H2N2) virus emerged in people in East Asia, triggering a pandemic (“Asian Flu”). This H2N2 virus was comprised of three different genes from an H2N2 virus that originated from an avian influenza A virus, including the H2 hemagglutinin and the N2 neuraminidase genes, and genes from the human seasonal H1N1 virus 9 . The estimated number of deaths was 1.1 million worldwide and 116,000 in the United States 6 .
+- The first HPAI A(H5N1) virus was isolated following an outbreak in chickens in Scotland.
+- Perroncito E. Epizoozia tifoide nei gallinacei. Annali Accad Agri Torino 1878;21:87–126
+- Stubbs EL. Fowl pest. J Am Vet Med Assoc 1926;21:561–569.
+- Wilksinson L, Waterson AP. The development of the virus concept as reflected in corpora of studies on individual pathogens. 2. The agent of fowl plague–a model virus. Med Hist . 1975;19(1):52-72. doi:10.1017/s0025727300019931
+- Swayne DE. Animal Influenza . 2nd ed. Hoboken, NJ: Wiley-Blackwell; 2016.
+- Neumann G, Noda T, Kawaoka Y. Emergence and pandemic potential of swine-origin H1N1 influenza virus. Nature . 2009;459(7249):931-939. doi:10.1038/nature08157
+- Mohler JR. Fowl pest in the United States. J Am Vet Med Assoc 1926;21:549–59.
+- Dinter Z. (1949) Eine Variante des Virus der Geflügelpest in Bayern. Tierärztl Umschau 4: 185–186.
+- Dinter Z. Avian myxoviruses. R.P. Hanson (Ed.), Newcastle disease virus: an evolving pathogen, University of Wisconsin Press, Madison (1964), pp. 299-311.

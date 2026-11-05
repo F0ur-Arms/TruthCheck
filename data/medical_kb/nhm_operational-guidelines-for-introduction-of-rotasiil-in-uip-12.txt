@@ -1,0 +1,40 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Introduction of Rotasiil in UIP, part 12
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Operational_Guidelines_for_Introduction_of_Rotasiil_in_UIP.pdf
+────────────────────────────────────────────────────────────
+
+8.8 When faced with a crisis
+Negative coverage in the media following an AEFI can be detrimental to the successful roll out and coverage of the new Rotavirus vaccine. It is imperative to be prepared for a crisis and keep a crisis communication plan handy to deal with crisis. It is essential to deal sensitively with the media in the case of AEFI following the administration of the Rotavirus vaccine. Timely and factual information to the media needs to be provided through the nominated and trained spokesperson of the district/state. Use of AEFI media communication protocol is recommended to respond systematically during a crisis.
+Teams should ensure that only designated spokesperson trained in media handling communicate with the media. Appeals by respected doctors, celebrities, and religious leaders, public leaders can help to downplay negative news and build confidence in the vaccine. The states should also plan an orientation of the state and district level spokespersons prior to the introduction of the vaccine on any probable adverse effects following immunization and responses in case of AEFI.
+Steps to be taken during crisis: A core crisis communication committee, if not already constituted, should be formed with all the key state and district officials and partners.
+To clearly draft a crisis communication plan. The plan should state in details the responsibility of the committee members during a crisis and their role.
+There should be constant media monitoring and tracking before, during and after the launch. This will help in crisis preparedness.
+An orientation of the state and district level spokesperson is very important prior to the vaccine introduction.
+An immediate checklist to be prepared for the same.
+A crisis should be dealt with both regional as well as national level.
+Crisis communication workshop for state health officials is mandatory before the vaccine launch.
+An elevator speech should be ready and circulated amongst the key members once there is a crisis. The plan should also identify the key spokesperson during the crisis.
+In case of AEFI, one should strictly follow the AEFI Media Communication Protocol.
+10. One can counter a crisis also through the social media platforms with the help of experts.
+ADVERSE EVENTS
+FOLLOWING
+IMMUNIZATION WITH
+ROTAVIRUS VACCINE
+Rotavirus Vaccines are safe and effective, and AEFIs are extremely rare.
+However, the health system has to be prepared for managing AEFIs.
+Any adverse events and other problems related to the vaccines, such as administering the vaccines to infants who should not be vaccinated, or errors in vaccine administration should be reported as per GoI’s national AEFI Surveillance and Response Operational Guidelines, 2015.
+Programme managers should also follow the local AEFI plan and Crisis Communications Guidelines when managing AEFIs.
+9.1 AEFIs linked to Rotavirus vaccine
+The following adverse events may be associated with Rotavirus Vaccines: Minor transient symptoms: Rotavirus vaccine may be associated with mild and transient symptoms such as vomiting, diarrhea, cough, running nose, fever, irritability and rash. These are to be treated symptomatically and recorded in the PHC AEFI register. These side effects are classified by the WHO as “safe and common side effects”. Gastroenteritis: About 1 in 600 infants receiving Rotavirus vaccine may have transient diarrhea and/or vomiting, mostly after the first dose. The diarrhea and/or vomiting are usually of mild in nature. These episodes may be managed with ORS and Zinc, following the standard management protocol for acute diarrhea. If notified, these cases are to be recorded in the PHC AEFI register. Allergic reaction: Rarely allergic reaction and anaphylaxis may occur with the Rotavirus vaccine. If it occurs child should be rushed to the nearest health facility and further doses should not be given.
+These should be managed as per standard treatment protocols and recorded in the PHC AEFI register and also reported and investigated as per AEFI guidelines. Intussusception: When one segment of the bowel becomes enfolded within another segment, it may cause acute bowel obstruction in infants and young children. Many times it is transient and resolves spontaneously.
+Majority of intussusception cases occur among infants; incidence peaks at the age of 5 to7 months and more among males. (2/3:1). In majority of the cases, it is idiopathic in nature. It can be reduced by enema or surgery and if not reduced early it can lead to ischemia, necrosis and perforation (1% ≥). Ileocolic is the most common anatomical site followed by ileoileal and colocolic.
+The exact incidence in India and developing countries is not known. There is limited information on the background rates of intussusception in settings of high mortality due to Rotavirus gastroenteritis and the risk of intussusception following Rotavirus vaccination. Global rate is estimated at 74 (range 9-328) per 100,000 infants.
+Intussusception has been reported as a rare adverse event following Rotavirus vaccine. As per the available literature, there is one additional case of intussusception in 20000-100000 vaccinated infants.
+Clinical presentation Typically, intussusception occurs in apparently healthy and well-nourished babies. The cases may present as: In early stages: colicky abdominal pain with vomiting. The child cries with pain, doubles over with up- rolling of legs.
+In later stages: pallor, abdominal distension, tenderness, bloody diarrhea (“currant jelly stool”) and dehydration.
+Although the above mentioned clinical features are expected to occur during the course of illness, these may vary from case to case. Usually abdominal pain is colicky and lasts for 1-3 minutes, with the infant appearing normal between the episodes. Vomiting may be non-bilious or bilious, lethargy or irritability may be the only presentation in some of the cases. Currant jelly stool indicates prolonged illness. In some cases if not treated on time symptom may proceed to hypovolemic shock (uncommon). Abdominal examination may reveal distension, sausage-shaped mass and tenderness with signs of peritonitis. Pallor (common), poor feeding (uncommon), diarrhea (uncommon) and abdominal distension (uncommon) may also be present.
+Differential diagnosis of intussusception includes appendicitis, Meckel diverticulum, malrotation with midgut volvulus, incarcerated hernia and gastroenteritis.
+It is important to note that intussusception occurs in infants without Rotavirus vaccination also.
+The World Health Organization, the US Centers for Disease Control and Prevention (CDC), the US Food and Drug Administration (FDA), the European Medicines Agency (EMEA), the Drug Controller General of India (DCGI) and National Technical Advisory Group on Immunization (NTAGI) of India have reviewed the intussusception data and determined that the benefits of Rotavirus vaccination far outweigh a potential low-level risk of intussusception.
+Diagnosis Diagnosis is usually done by ultrasound which has near 100% sensitivity and about 90% specificity. On ultrasound, the intussusception may be seen as a soft-tissue mass which is described as ‘target sign’/ doughnut sign/multiple concentric ring sign.
+On plain x-ray abdomen, air-fluid levels; dilated bowel loops may be seen. Presence of free intra-abdominal air may indicate intestinal perforation, a complication of intussusception.

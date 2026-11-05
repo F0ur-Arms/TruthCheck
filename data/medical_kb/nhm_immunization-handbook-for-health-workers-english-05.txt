@@ -1,0 +1,41 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 5
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+If a child who has never been vaccinated is brought in at 9 completed months but before 12 completed months of age, then, can all the due vaccines be given to a child on the same day?
+Yes, all the due vaccines can be given during the same session but at recommended injection sites, using separate AD syringes. It is safe and effective to give BCG, penta, OPV, IPV, MR, RVV (where applicable), PCV (where applicable) JE (where applicable) vaccines and Vitamin A at the same time to a 9-month-old child who has never been vaccinated. If more than one injection has to be given in one limb then ensure that the distance between the two injection sites is at least 1 inch apart.
+If a child who has never been vaccinated is brought in immediately after completing 12 months of age, (beyond one year) what vaccines would you give?
+As per the national immunization schedule this child need not be given – BCG, Hepatitis B, Rotavirus, Penta and IPV. This child should be administered DPT 1, OPV 1, Measles 1, JE 1(if applicable) and also Vitamin A solution. The subsequent doses of DPT and OPV should be given at an interval of 4 weeks.
+Administer Measles 2, JE 2 (If applicable), Vitamin A and a booster dose of DPT at recommended age as per national immunization schedule.
+Which vaccines can be given to a child between 1 and 5 years of age who has never been vaccinated?
+Such a child will not receive BCG, Hepatitis B, Rotavirus, Penta and IPV. Give DPT1, OPV1, measles 1, JE 1 (where applicable) and 2ml of Vitamin A solution. Then follow with the second and third doses of DPT and OPV at 1-month intervals.
+Give Measles 2 as per the schedule /1 month later*. Give booster dose of OPV/DPT at a minimum of 6 months after administering OPV 3/DPT 3. Also give Vit A at 6 months interval till 5 years of age.
+Note: In an unvaccinated child more than 16 months of age remember the interval between Measles 1 and Measles 2 is 4 weeks and for JE 1 and JE 2 (where applicable) the interval is 3 months.
+Which vaccines can be given to a child between 5 and 7 years of age who has never been vaccinated?
+Give of DPT 1, 2 and 3 at 1-month intervals. Give booster dose of DPT at a minimum of 6 months after administering DPT 3 up to the age of 7 years.
+Why are the DPT, HepB (birth dose), IPV and pentavalent vaccines given in the anterolateral mid-thigh and not the gluteal region (buttocks)?
+This is done to prevent damage to the sciatic nerve. Moreover, vaccine deposited in the fat of the gluteal region does not bring about the appropriate immune response to protect the child. c) BCG Why is BCG given only up to 1 year of age?
+Most children acquire natural clinical/sub-clinical tuberculosis infection by the age of 1 year. This protects against severe forms of childhood tuberculosis, e.g. TB meningitis and miliary disease.
+If no scar appears after administering BCG, should one re-vaccinate the child?
+There is no need to re-vaccinate the child even if there is no scar.
+Why do we give 0.05 ml dose of BCG to new borns (below 1 month of age)?
+This is because the skin of newborns is thin and an intra-dermal injection of 0.1 ml may break the skin or penetrate into the deeper tissue and cause local abscess and enlarged axillary lymph nodes.
+Dose of 0.05 ml is sufficient to elicit adequate protection. d) Hepatitis B What is the “birth dose” of hepatitis B?
+This refers to the dose given within 24 hours of birth. A child vaccinated with Hep B after more than 24 hours of birth is not considered to have received the birth dose.
+Why is the birth dose of hepatitis B vaccine given only within 24 hours of birth?
+The birth dose of hepatitis B vaccine is most effective in preventing peri-natal transmission of hepatitis B only if given within the first 24 hours.
+Why is hepatitis B vaccine given only till 1 year of age in the UIP schedule?
+Hepatitis B vaccine is given till 1 year of age because infections during first year of age have a 90% chance of becoming chronic as compared to 30% during 1–5 years and 6% after 5 years. Persons with chronic infection have 15–25% risk of dying prematurely due to HBV related liver cirrhosis and cancer.
+Adult Hep B vaccination is not part of the UIP. e) Pentavalent vaccine What is pentavalent vaccine?
+Pentavalent vaccine is a vaccine that contains five antigens (diphtheria + pertussis + tetanus+ hepatitis B + Haemophilus influenzae type b).
+How is pentavalent vaccine more advantageous? The addition of Hib vaccine provides protection against Haemophilus influenzae type b related diseases (bacterial meningitis, pneumonia and others) The number of injections administered under UIP during the first year of life reduces. It does not require reconstitution.
+What vaccine will be given to a child who has received at least one dose of pentavalent vaccine before his/her first birthday?
+If a child has received at least one dose of pentavalent vaccine before his/her first birthday, the child should be administered the due pentavalent doses at a minimum interval of 4 weeks, at the earliest available opportunity.
+After introduction of pentavalent vaccine, will DPT and Hep B be required?
+Yes, Hep B birth dose (within 24 hours) for institutional deliveries and DPT boosters at 16–24 months and 5–7 years will continue as before introduction. f) Rotavirus vaccine – Introduced in Feb 2016 – roll out in phases How effective is the Rotavirus vaccine?
+The available Rotavirus Vaccines are observed to be effective in preventing severe rotavirus diarrhea by 54-60%. The protective effect of Rotavirus vaccine lasts through 2nd year of life.
+Will vaccination with Rotavirus vaccine prevent all diarrheas?
+No it does not prevent all diarrheas. Diarrhea is caused by many organisms of which Rotavirus is one of the leading causes for diarrhea in children. Rotavirus vaccine is effective in preventing diarrhea due to Rotavirus only. So the child may still get diarrhea due to other germs and causes even after receiving Rotavirus vaccine.
+What is the maximum age limit for giving the first dose of Rotavirus vaccine?
+The upper age limit for the first dose of Rotavirus vaccine is one year of age. If a child has received only the first dose of Rotavirus vaccine by 12 months of age, two more doses of the vaccine should be given at an interval of 4 weeks between the two doses to complete the course.

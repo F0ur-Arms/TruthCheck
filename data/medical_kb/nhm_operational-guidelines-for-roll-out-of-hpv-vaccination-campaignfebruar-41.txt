@@ -1,0 +1,80 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 41
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Are all verifier available as per the micro plan in Form 5?
+Are all volunteer available as per the micro plan in Form 5?
+Are all the 4 members of the vaccination team trained for HPV vaccination at block level?
+Is there a separate room or area for waiting?
+Is there a separate room or area for HPV vaccination with privacy?
+Is there a separate room or area for observation?
+Does the session site use a Desktop/laptop for walk-in beneficiary registration & recording HPV vaccination on U-WIN?
+Are U-WIN vaccination certificates being printed and handed over to each beneficiary?
+Are adequate printed consent forms available at session site?
+Are consent forms being offered to parents/guardians for signature before vaccination (in case of no internet of mobile network access)?
+Health Facility (HF)_Session Site Monitoring Form Setting: Urban / Rural: Organization: Govt. /Partners (Please specify) Session Site: Vaccine and other logistics Is running water and soap available for hand washing before vaccination?
+Are adequate HPV vaccine doses available at the session site?
+Are adequate 0.5 ml AD syringes available at session site?
+Are adequate cotton swabs available at the session site?
+Are adequate Paracetamol tablets available at the session site?
+Are adequate squeeze balls available at the session site?
+Are HPV vaccine vials stored in vaccine carrier (with 4 conditioned ice packs)?
+Is there any vial with VVM in unusable stage inside the vaccine carrier?
+Is there any frozen vial inside the vaccine carrier?
+Is functional hub cutter available at session site?
+Is indelible marker pen for finger marking available at the session site?
+Number of vials used, and girls vaccinated are matching reasonably?
+Is ANM touching the needle of the syringes anytime during drawing and administering vaccine to the beneficiaries? (Not following aseptic technique) Is vaccinator administering the vaccine through intramuscular route correctly?
+Is vaccinator administering the vaccine to the left upper arm?
+Are used syringes being cut using hub cutter immediately after use?
+Is the team marking left index finger after vaccinating the beneficiaries?
+Is the vaccinator giving 5 key messages to eligible girl/caregiver after vaccination?
+Are beneficiaries waiting for 30 minutes after HPV vaccination?
+Biomedical Waste Management Is vaccinator disposing cut hubs of syringes into hub cutter/white puncture proof container?
+Is vaccinator disposing expired or discarded vaccine vials, broken vials, empty unbroken vials into blue container?
+Is vaccinator disposing Plastic part of syringe or gloves into red bag?
+Is vaccinator disposing wrapper/ needle cap into black bag?
+Is vaccinator disposing cotton, expired tablet into yellow bag?
+AEFI Management at Session Site Does the vaccinator have Anaphylaxis kit? (If No - Immediately ALERT Senior Official) If yes, does the kit have un-expired Inj. adrenaline, 24–25-gauge needles and insulin/ tuberculin syringes? If No - Immediately ALERT Senior Official) " Does the vaccinator know what to do in case of a serious and severe AEFI (primary care, referral and reporting)?
+Does the vaccinator know the correct dosage of Adrenaline to be administered in case of anaphylaxis for girls aged 14 years (0.3 ml in tuberculin or 12 units in insulin syringe)?
+AEFI Management Centre Is Medical Officer (MO) designated for AEFI Management Centre trained on AEFI Management and Reporting?
+Does the AEFI management centre have AEFI kit? (If No - Immediately ALERT Senior Official) If yes, does the AEFI kit have all the contents as per the guidelines including un-expired Inj. adrenaline, 24–25-gauge needles and insulin/ tuberculin syringes? If No - Immediately ALERT Senior Official) Does the MO know what to do in case of a serious and severe AEFI (primary care, referral and reporting)?
+Does the MO know the correct dosage of Adrenaline to be administered in case of anaphylaxis for girls aged 14 years (0.3 ml in tuberculin or 12 units in insulin syringe)?
+Cold Chain Point Are adequate HPV vaccine doses available in the ILR at CCP?
+Are adequate 0.5 ml AD syringes available at CCP?
+Are HPV vaccines stored at the right place in ILR?
+Does the ILR has a functional eVIN temperature logger?
+Does the temperature logbook is filled twice a day by CCH?
+Does the CCP has adequate number of ice packs?
+Does the CCP has functional cold boxes for emergency use?
+Does the vaccine stocks in eVIN, physical register and ILR are matching?
+Mobilization & Supervision Has the Health Facility displayed 2 Banners of HPV vaccination?
+Has the Health Facility displayed 4 posters of HPV vaccination?
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+9. Pls
+SAFE-VAC
+To be developed using U-WIN, eVIN, SAFE-VAC Reporting Form (Daily & Cumulative)* HPV Vaccination Campaign Start Date: Monitoring Date: Type of monitor: Govt. /Partners (Please specify) 1. Conduct RCM in the community after completion of 1 month of HPV vaccination Campaign. Use one format for only one area. Try to identify missed areas such as farthest from the central point of community settlement/area, segregated groups through house to house visits by assessing vaccination status of eligible girls of 14 years.
+2. Methodology: Go to the centre of the area and pick up a direction by tossing a coin. Choose the first house closest to you in the identified direction. Talk to the parents and identify the eligible girl available in the household, assess HPV vaccination status through left index finger marking, vaccination card, U-WIN and/or recall. Visit 10 households having eligible girls aged 14 years and assess the HPV vaccination status.
+3. If upto 3 eligible girls are found unvaccinated, counsel parents for HPV vaccination, inform them to get registered on U-WIN for vaccination at the nearest Health facility for HPV vaccination.
+4. If 4 or more eligible girls are found unvaccinated, immediately report to the Supervisor/ Medical Officer for conducting sensitization and community engagement interventions and then social mobilization of the beneficiaries to the nearest health facility where HPV vaccine is being administered.
+5. If any AEFI is noticed, advise parents to visit nearest health facility/AEFI management centre. Also report AEFI to concerned authority and note the details of AEFI on the back of this FORM.
+1. Not aware of HPV vaccination Campaign / session
+2. Parents didn't give importance / Not aware of
+3. Family refused HPV vaccination
+4. Scared of Injection
+5. Eligible girl was sick
+6. Inconvenient time / location / distance / waiting
+7. Vaccine/vaccinator not available
+8. Fear of AEFI based on experience (fever, pain,
+9. Negative media reports / social media / rumour
+10. Eligible girl had gone out of area
+11. Girl became eligible i.e., 14 years on the day of
+12. Others
+(max4) allowed " Note the details of AEFI on the backside of the form.

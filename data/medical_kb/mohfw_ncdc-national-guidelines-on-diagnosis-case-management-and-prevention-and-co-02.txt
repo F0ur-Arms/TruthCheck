@@ -1,0 +1,43 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: National Guidelines on Diagnosis Case Management and Prevention and Control of Leptospiros, part 2
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769332981_File558.pdf
+────────────────────────────────────────────────────────────
+
+3.1.2  Icteric leptospirosis
+This is the more severe form of leptospirosis. As the name suggests, patients present with jaundice. Others features are- Fever – Same as in anicteric leptospirosis but may be more severe and prolonged.
+Myalgia – Calf muscle tenderness becomes more evident. Severe myalgia may force the patient to stop walking and may even be mistaken as paraplegia.
+Muscle pain may occur due to myositits, myonecrosis or bleeding into the muscles.
+Clinical presentation Clinical types of leptospirosis Headache- 50 % of the patients present with diffuse headache which is seldom severe.
+Conjunctival suffusion – Many patients will have reddish yellow discoloration, caused by icterus and congested block vessels or sub conjunctival hemorrhage.
+Acute renal failure manifests as oliguria/anuria and/or proteinuria Nausea, vomiting, diarrhea, abdominal pain Hypotension and circulatory collapse.
+3.1.3 Severe leptospirosis
+The more severe form of disease with severe liver and kidney involvement is known as Weil's disease.Salient features of the organ involvements are described below.
+Hepatic: Jaundice is the most important clinical feature. It may be mild to severe. It starts after 4 to 7 days of illness. Hepatic encephalopathy or death due to hepatic failure is rare. Hepatomegaly & tenderness in right hypochondrium are usually detected.
+Renal:Renal involvement is almost invariably present in Leptospirosis. It presents as acute tubular necrosis (ATN) andinterstitial nephritis. Hematuria with complaints of Cola colored urine and RBC casts in urine microscopy is common. In severe cases patients have acute renal failure and present with: decreased urine output (oliguria or even anuria) edemaon face and feet.
+featuresof uremia like breathlessness, convulsion, delirium and altered level of consciousness in very severe cases.
+The renal dysfunction worsens during the rst week to the end of 2nd week, after which it starts improving and complete recovery occurs by the end of the 4th week if the patients is maintained on renal support. Severe acute failure cases will need dialysis to tide over the acute phase .There is usually no residual renal dysfunction.
+Pulmonary :In mild illness patient presents with only cough, chest pain and blood tinged sputum. In severe cases patients have cough, hemoptysis, rapidly increasing breathlessness which may lead to respiratory failure and death. On examination, these patients have increased respiratory rate with crepitation in the basal region, which rapidly spread upwards to middle and upper lobes.X-ray shows basal and mid zone opacity in severe cases. It may be normal in mild cases.
+Hemorrhagic pneumonitis with interstitial and intra alveolar hemorrhage surrounded by focal capillary injury are common pathologic changes. Death can occur within hours to two days due to pulmonary hemorrhage and severe respiratory distress. There are wide variations in pulmonary presentation. It is the commonest cause of death due to Leptospirosis.Case fatality rate in leptospirosis is 0-15% and more than ninety percent (90%) of deaths due to leptospirosis occur due to pulmonary alveolar hemorrhage and renal complications.
+Cardiovascular system involvement: Patients present with one or more of the following features: Shock: Patient develop severe hypotension, cold clammy extremities, and tachycardia. Echocardiography reveals normal systolic function of left ventricle hence hypotension is due to either dehydration or peripheral vasodilatation.
+Arrhythmias: Patient presents with palpitations, syncope and irregular pulse.
+Common arrhythmias seen are supraventricular tachyarrhythmia and various degrees of A.V. blocks. Ventricular tachy-arrhythmias are infrequent. Segment depression and T wave inversion may be present in some patients.
+Central nervous system: CNS involvement in leptospirosis commonly present as meningitis. Headache may be the only manifestation or irritability, restlessness, seizures and coma can occur. Encephalitis, focal decits, spasticity, paralysis, nystagmus, peripheral neuropathies, nerve palsies, radiculitis, myelitisall have been reported.
+Skin:Macular, maculopapular erythematous skin eruptions are seen in the face, trunks and / or extremities in many patients with occasional cases of purpura. It may be noted that bleeding manifestations in leptospirosis are not directly related to the level of thrombocytopenia. They resolve in two to three days without any specic intervention.
+Leptospirosis in Pregnancy: Leptospirosis during pregnancy has a bad prognosis and fetal loss had been reported to be high in the rst trimester and near term mothers.
+3.2  Differential diagnosis
+Falciparum malaria, Dengue fever, Dengue hemorrhagic fever, Scrub typhus, Typhoid and Viral hepatitis closely resemble leptospirosis and are prevalent in areas reporting leptospirosis. Other conditions to be differentiated include viral pneumonia, viral hepatitis, alcoholic hepatitis, acute encephalitis syndrome and pyelonephritis. Possibility of coinfections should be kept in mind. SGOT (AST) and SGPT (ALT) are either normal or mildly elevated usually in hundreds only (in IU/L) in leptospirosis. This helps to differentiate leptospirosis from viral hepatitis where SGPT is markedly elevated and also from alcoholic hepatitis where SGOT is markedly elevated. High level of Creatinine Phosphokinase (CPK) is suggestive of leptospirosis. It is normal in viral hepatitis and alcoholic hepatitis and hence helps to differentiate from leptospirosis.
+3.3  Recommended case denition
+The recommended case denition for the management of cases of leptospirosisis as follows- Suspected: Acute febrile illness with headache, myalgia and prostration associated with a history of exposure to infected animals or an environment contaminated with animal urine with one or more of the following Calf muscle tenderness Conjunctival suffusion Anuria or oliguria and/or proteinuria Hemorrhagic manifestations (intestines, lung) Meningeal irritation Nausea, Vomiting, Abdominal pain, Diarrhoea.
+Probable: Suspected case with positive presumptive laboratory diagnosis.
+4.1 Criteria for diagnosis
+Presumptive diagnosis A positive result in IgM based immune- assays, slide agglutination test or latex agglutination test or immunochromatographic test.
+A Microscopic Agglutination Test (MAT)titre of 100/200/400 or above in single sample based on endemicity.
+Demonstration of leptospires directly or by staining methods Confirmatory diagnosis Isolation of leptospires from clinical specimen Four fold or greater rise in the MAT titer between acute and convalescent phase serum specimens run in parallel.
+Positive by any two different type of rapid test.
+4.2 Collection and Transportation of samples
+4.2.1 Blood sample
+While collecting blood and separating serum proper procedures should be followed to avoid lysis or contamination. The important steps are- Use sterile syringe and needle Syringe, needle and vial must be dry Collect 5 ml blood Transfer from syringe to sterile vial after removing needle Allow the blood to clot at room temperature. Do not shake Separate serum by dislodging retracted clot with a sterile Pasteur pipette.
+If facilities for serum separation are not available then refrigerate at 4 to 8 C. Samples should not be frozen Transfer the liquid portion to sterile centrifuge tube. Centrifuge at 3000 rpm for 5 minutes.
+4.3  Protocol for laboratory investigations
+The diagnostic tests to be carried out at different health facilities areas follows- (a) At Primary Health Centers Immuno-chromatographic technique.
+Slide agglutination test. (b) At Selected CHCs andat District level laboratories TLC and DLC - Total WBC count slightly elevated with neutrophilia ESR : Increased erythrocyte sedimentation rate ( about 60mm) Platelet Count - Thrombocytopenia BUN and Serum Creatinine: Increased BUN and serum Creatinine Liver Function Tests: Alkaline phosphatase, SGOT and SGPT - moderately elevated Serum Electrolytes: Sodium potassium – normal or slightly reduced Urine routine and microscopic examination : proteinuria, hematuria and casts Serum bilirubin :Increase in serum bilirubin levels.

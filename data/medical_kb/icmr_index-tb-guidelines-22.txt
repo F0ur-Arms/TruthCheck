@@ -1,0 +1,39 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 14.1	 Patients who should be investigated for TB
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+Diagnosis of other forms of abdominal TB The principal differential diagnosis in biliary and pancreatic TB patients is usually malignancy, and some patients are diagnosed post-operatively after surgery to resect a suspected tumour. Specialist imaging and image-guided diagnostic sampling techniques are required in cases of suspected biliary and pancreatic TB, and patients should be referred to centres providing these services.
+Perianal TB is relatively uncommon, and the differential diagnosis includes a variety of conditions such as Crohn’s disease, foreign body reactions, malignancy and sexually transmitted diseases. Careful assessment by specialists is advised.
+Strong recommendation, very low quality evidence Total treatment duration: 6 months, extended at the discretion of the treating clinician Patients with presumptive GI, hepatobiliary, pancreatic or perianal TB will require referral to a gastroenterologist for clinical assessment and diagnosis.
+Patients with presumptive peritoneal TB where the diagnosis is uncertain also require referral.
+Consider possible treatment failure in patients who have worsened or deteriorated after initial improvement – this requires diagnostic investigation and possibly a change of treatment. Deterioration in the first 3 months may be due to paradoxical reaction – this does not require repeat diagnostic tests or change of treatment.
+Complications of GI TB include strictures that can cause acute and recurrent partial obstruction, and perforation in some cases.
+Strictures can be managed with endoscopic dilatation, but some cases require resection of the stricture or hemicolectomy.
+Oesophageal and gastroduodenal TB patients rarely require surgery; ATT alone is usually adequate. Duodenal strictures may be treated with balloon dilatation. Bypass surgery may be required if this is not successful.
+Hepatobiliary or pancreatic TB patients who develop biliary obstruction may require endoscopic or percutaneous biliary stenting. Liver abscess which fails to respond to treatment, or ruptured abscesses may require surgical intervention.
+Urogenital TB refers to TB of the female and male genital tract and the urinary tract. It is usually an insidious disease, and can lead to a variety of presentations depending on the affected site and stage of disease. Serious adverse outcomes include infertility in both women and men, chronic pelvic pain, dysmenorrhoea, bladder dysfunction, renal failure and death. Some (particularly female) patients may experience no symptoms at all other than infertility, meaning that a high index of suspicion and careful clinical evaluation are needed to make the diagnosis.
+Urogenital TB makes up approximately 4% of all EPTB cases annually in India.
+This may be an underestimate of the true number of cases, as the difficulty of diagnosing the condition and lack of clear case definitions may be hampering reporting of cases.
+16.1	 Urinary TB
+Patients who should be investigated for urinary TB Presumptive urinary TB A patient with lower urinary tract symptoms (frequency, urgency and nocturia) associated with dysuria and/or haematuria for at least 2 weeks, which has not responded to a 3–7 day course of antibiotics. Some patients have systemic symptoms of fever, weight loss and night sweats.
+Note: The use of fluoroquinolones in the treatment of UTI can reduce the sensitivity of subsequent tests for Mtb in the urinary tract, and should therefore be avoided, unless an organism is identified in urine cultures and antibiotic susceptibility test results support fluoroquinolone use.
+Urogenital TB All patients presenting with symptoms consistent with TB should have a chest X-ray to look for evidence of previous or active pulmonary TB.
+Renal impairment should prompt rapid assessment of the urinary tract using ultrasound to look for outflow tract obstruction as a cause. This requires urgent intervention with urinary catheterisation; or in the instance of hydronephrosis, percutaneous nephrostomy or double J stent insertion to decompress the affected kidney.
+The patient should be reassessed after appropriate antibiotic treatment for symptom resolution.
+Early morning urine sampling Three to five early morning urine samples collected for staining and microscopy for AFBs and culture for Mtb. While the sensitivity of these tests is low, culture remains the most reliable way to confirm a diagnosis of urinary TB and allows drug susceptibility testing to be carried out.
+Ultrasound of the kidneys, ureters and bladder (US KUB) This scan may be normal in early disease. It can help identify structural abnormalities such as hydronephrosis which can either suggest a diagnosis or guide further tests. It is non-invasive and well-tolerated.
+Intravenous urography (using plain X-ray) This test also helps identify lesions in the urinary tract and has the advantage of being widely available and cheap; however, it has low sensitivity for early lesions.
+Risks include contrast nephropathy (patients with renal impairment are at particular risk), and contrast reaction (asthmatic patients and patients with cardiac failure may be at higher risk).
+Risks include contrast nephropathy and contrast reaction. The relatively high dose of ionizing radiation involved must be taken into account when considering this test, particularly for children and women of childbearing age. It is contraindicated in pregnant women.
+It is more expensive and less accessible than plain X-ray and CT urography, but has the advantage of not requiring intravenous contrast and not necessitating a dose of radiation.
+Pregnant women, children and patients with pre- existing renal function may benefit from this test.
+FNAC Where accessible mass lesions or fluid collections are identified on imaging, radiologically guided aspiration with specimens subjected to staining and microscopy for AFBs, culture and cytology may confirm the diagnosis of TB.
+bladder malignancy is also suspected Although this is an invasive test, risk to the patient is low when carried out by an experienced practitioner.
+malignancy is also suspected Specimens should be subject to: a) staining and microscopy for AFBs; b) culture and drug susceptibility testing; c) histopathology Aims of treatment are: to achieve TB cure to prevent the long term sequelae to restore normal anatomy if it has been distorted.
+Urgent referral is required for patients presenting with renal failure secondary to bilateral hydronephrosis.
+Assess response to treatment at 8 weeks – resolution of systemic symptoms, improvement in urinary symptoms, check renal function.
+Repeat imaging may be indicated, especially if partial or impending ureteric stricture was identified at diagnosis. Obstruction can occur as a late complication as the healing of the lesion results in fibrotic stricture.
+If early morning urine culture is positive at diagnosis, this may be repeated at 8 weeks, and at the end of ATT.
+Urgent surgical intervention is required when ureteric obstruction prevents drainage of urine from the kidney, to prevent renal damage.
+Reconstructive procedures are required when there are ureteric strictures or small capacity bladder complicates urinary TB. Nephrectomy is rarely indicated, except where chronic pain, hypertension, nephrocutaneous fistula or stone formation complicates a poorly- or non-functioning kidney.

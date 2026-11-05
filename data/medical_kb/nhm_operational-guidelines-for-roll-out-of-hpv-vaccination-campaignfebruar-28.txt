@@ -1,0 +1,43 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 28
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+During HPV vaccination, AEFIs must be rapidly detected and promptly responded to or else it can undermine confidence in the vaccine and immunization program. This will ultimately have a negative impact on immunization program and the program objectives will not be achieved.
+REPORTING ANXIETY CLUSTERS
+Clusters of anxiety reactions are known to occur during immunization campaigns. Reporting and investigating these are important to determine the real cause of the clusters and to rule out immunization errors or vaccine product-related reactions. Reporting and investigating such clusters require extra human resources and time. The following process can be followed to enable the districts to complete the investigations within 21 days of notification of the cluster.
+Fill individual CRFs with separate EPID numbers for each individual case of the anxiety cluster.
+The district AEFI committee has to be involved in investigations. A psychiatrist, if available in the district, may be part of the investigating team.
+Fill separate Case Investigation Formats (CIFs) for each case of the cluster.
+Prepare and submit a detailed investigation report of the anxiety cluster consolidating the following details: Session details Vaccine recipients Sequence of events Clinical signs and symptoms Cold chain assessment Epidemiological investigation A list of affected individuals. Individual hospital records, treatment documents, OPD slips, etc.
+AEFI SURVEILLANCE DURING HPV VACCINATION CAMPAIGN
+The district AEFI committee should ensure widening of the reporting network of AEFIs by ensuring that the DIO contacts district hospitals, CHCs, taluka hospitals, ESI, railways, medical colleges and hospitals in the private sector or autonomous institutions and sensitize staff to identify and report hospitalized AEFIs to him/her.
+The DIO should utilize opportunities such as monthly meetings of the local chapters of IMA, IAP and FOGSI to sensitize members to report AEFIs.
+All ANMs/ASHAs/AWWs and MOs must be sensitized to recognize and report AEFI promptly. They must know what to do in the event of an AEFI and the location of the nearest AEFI treatment center.
+The membership of the district AEFI committee should be widened to have an obstetrician-gynaecologist & psychiatrist as a member, who must be informed and involved from the beginning of the vaccination drive.
+The district AEFI committee will investigate all reported serious/severe AEFIs and also contribute to managing the media during crisis and otherwise.
+REFERRAL SYSTEM FOR AEFI MANAGEMENT
+HPV vaccination sessions will be located in health facilities with a medical officer. Any AEFI which may rarely occur during the session will be managed by the medical officer.
+Each session will be tagged to a 24x7 AEFI Management Centre and a first and second referral hospital.
+The 24x7 AEFI Management Centre can be the same health facility in which the session site is located, if there is a medical officer available round the clock. If the health facility does not have a medical officer on duty after the session ends in the evening and at night, another nearby health facility with medical officers on duty round the clock will be the 24x7 AEFI Management Centre.
+The first referral will be a higher-level health facility such as the CHC or Sub Divisional Hospital or District Hospital with specialists available to manage the case. The second referral can be a multi-specialty hospital (medical college/state government hospital, etc.) The state/district may explore the possibility of setting up 24x7 AEFI management centers or referral centre in the private sector.
+Medical officers at the session site and 24x7 AEFI Management Centres should be trained in standard AEFI management, use of AEFI management kits and reporting procedures.
+All medical officers acting as supervisors of vaccination teams will have an AEFI management kit in the vehicle.
+The state can use an existing helpline number (usually 104) to respond to queries of vaccine recipients seeking location of the nearest 24x7 AEFI management centre. The district wise referral plans with list of session sites with tagged 24x7 AEFI management centres and first and second referral hospitals should be available with the staff manning the helpline.
+MO I/C will be responsible to provide mobility support for transporting any serious AEFI to higher health facility, if needed. The contact details of the transport facility should be available at each vaccination site.
+The 24x7 AEFI Management Centers and referral nodal officers will report the AEFI as per laid out procedures.
+5F. SAFE INJECTION PRACTICES Safe Injection Practices are a set of recommendations which are the foundation for preventing transmission of infections during patient care in all healthcare settings including immunization.
+A safe injection is one that: Does not harm the recipient Does not expose the Health Workers (HWs) to any avoidable risks Does not result in waste, which is harmful for the community The most common serious infections transmitted by unsafe injection practices are Hepatitis B, Hepatitis C, and HIV. Poorly administered injections can also cause injuries or drug toxicity when the wrong injection site, vaccine, diluent, or dose is used. It is necessary to dispose off used syringes and needles safely to prevent risks of accidental needle-stick injuries, and risk to the community at large.
+Cover any small cuts on the service provider’s skin, if any.
+Avoid giving injections if the skin at the site of injection is compromised by any local infection such as a skin lesion, cut, or weeping dermatitis.
+Always use 0.5 ml auto-disable (AD) syringes while administering the HPV vaccine as these prevent person-to-person transmission of blood-borne pathogens.
+Use a new sterile packed AD syringe for each injection for each beneficiary.
+Do not use AD syringes that have damaged packaging or have passed the manufacturer's expiry date.
+Check the expiry date and VVM of the vaccine vial. Do not use the vaccine if the VVM is not in a usable stage or if the vaccine has expired.
+Do not attempt to recap the needle. This practice can lead to needle–stick injuries.
+Immediately after injection, cut the AD syringe at the hub (the plastic part at the base of the needle) using a hub cutter. Discard the cut part in the red bag.
+Do not place the used syringes on a table or tray after the vaccination.
+WASTE SEGREGATION AND DISPOSAL
+The following steps should be adopted for the segregation and disposal of biomedical waste (Figures 116, 117 and 118) at the session.
+Step 1: At the session site, ANMs to cut the needle of the AD syringe immediately after administering the injection using the hub cutter that cuts the plastic hub of the syringe and not the metal part of needle. The cut needles will get collected in the puncture- proof container of the hub cutter.
+Step 2: Segregate and collect the plastic portion of the cut syringes in a Red bag or container.

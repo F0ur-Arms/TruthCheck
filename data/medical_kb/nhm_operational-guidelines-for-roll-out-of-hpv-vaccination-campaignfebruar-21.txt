@@ -1,0 +1,37 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 21
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Select the place of vaccination: Government or Private.
+Consent process Obtaining consent from the parent/guardian is mandatory at the time of self-registration, pre-registration or on-site registration.
+After selecting the checkbox next to the consent notice, a pop-up will appear. The vaccinator should read the consent notice verbally to the parent/guardian and obtain their consent for HPV vaccination by clicking “I have read the consent notice provided above".
+After clicking agree, an OTP will be received on the parent/guardian registered mobile number. This OTP must be entered to complete the beneficiary registration process.
+Consent Notice I, the data principal (Pregnant Woman/Parent/Guardian), understand that U-WIN portal may collect my and/or my child’s personal sensitive information (name, child’s name, date of birth, gender, ID number, mobile number etc.) strictly to register and manage vaccination appointments, vaccine administration, database management and certificate generation.
+1. I understand that mu and/or my child’s personal data may be collected only with my valid consent, and that it may be used or processed only in accordance with the Digital Personal Data Protection Act, 2023.
+2. I understand that I have certain rights that I enjoy as a data principal over my and/or my child’s personal data, in relation to its collection, use and processing. These rights relate to confirmation and access, correction and erasure, objection of disclosure, and portability of such personal data. These rights are available to me in the manner set out in the DPDP Act, 2023 and the Privacy Policy issued by Ministry of Health and Family Welfare, Government of India.
+3. I understand that I can withdraw my consent for all or any of the purposes at any time by and on withdrawal of my consent, the processing of my shared information will stop, however, any personal data already been processed shall remain unaffected on such withdrawal of consent.
+4. I am also aware that my and/or my child’s personal information may be used and/or shared for purposes of providing services/benefits as may be notified by Government of India.
+5. I am aware about the risk and benefits of the vaccine(s)being given. I consent to the vaccination(s) being given either to me or my child.
+I have read the consent notice provided above.
+Agree In case of internet connectivity issues or non-receipt of the OTP, a hard copy of the consent form should be signed and submitted by the parent/guardian. The prototype of consent form is shown in the image below.
+CONSENT FORM
+“I, __________________________ (Consent Provider Name), residing at __________________________, the data principal (Mother/Father/Guardian), understand that U-WIN portal may collect my and/or my child’s personal sensitive information (name, child’s name, date of birth, gender, ID number, mobile number etc.) strictly to register and manage vaccination appointments, vaccine administration, database management and certificate generation.
+1. I understand that mu and/or my child’s personal data may be collected only with my valid consent, and that it may be used or processed only in accordance with the Digital Personal Data Protection Act, 2023.
+2. I understand that I have certain rights that I enjoy as a data principal over my and/or my child’s personal data, in relation to its collection, use and processing.
+These rights relate to confirmation and access, correction and erasure, objection of disclosure, and portability of such personal data. These rights are available to me in the manner set out in the DPDP Act, 2023 and the Privacy Policy issued by Ministry of Health and Family Welfare, Government of India.
+3. I understand that I can withdraw my consent for all or any of the purposes at any time by and on withdrawal of my consent, the processing of my shared information will stop, however, any personal data already been processed shall remain unaffected on such withdrawal of consent.
+4. I am also aware that my and/or my child’s personal information may be used and/or shared for purposes of providing services/benefits as may be notified by Government of India.
+5. I am aware about the risk and benefits of the vaccine(s) to be administered. I consent to the administration of the vaccine(s), to my child.
+Relationship with the child (Mother/Father/Guardian): _____________________________________________________________________________ Signature: _______________________ Consent Form is signed by (Name): _____________________________________ Mobile: _________________________ After registration, the vaccinator can locate the beneficiary using the registered mobile number during the Once a beneficiary is scheduled for a session, the vaccinator must verify the beneficiary by clicking on the beneficiary’s name, as shown in the image below.
+For verification in UWIN, an OTP will be received on the registered mobile number.
+In case of non-receipt of OTP, vaccinator can verify the beneficiaries using alternate options by clicking on ‘Skip OTP’ option.
+After successfully verifying the beneficiary, the vaccinator must click “Continue" as shown in the image below.
+Post verification, the vaccinator must tag the beneficiary by Block/Ward or session site, select “HPV Vaccination – Adolescent,” and click “Save and Continue" as shown in the image below.
+The consent notice should be read by clicking “View more”, then acknowledged by selecting the checkbox, and finally by clicking “Agree" as shown in the image below.
+Consent Notice I, the data principal (Pregnant Woman/Parent/Guardian), understand that U-WIN portal may collect my and/or my child’s personal sensitive information (name, child’s name, date of birth, gender, ID number, mobile number etc.) strictly to register and manage vaccination appointments, vaccine administration, database management and certificate generation.
+1. I understand that mu and/or my child’s personal data may be collected only with my valid consent, and that it may be used or processed only in accordance with the Digital Personal Data Protection Act, 2023.
+2. I understand that I have certain rights that I enjoy as a data principal over my and/or my child’s personal data, in relation to its collection, use and processing. These rights relate to confirmation and access, correction and erasure, objection of disclosure, and portability of such personal data. These rights are available to me in the manner set out in the DPDP Act, 2023 and the Privacy Policy issued by Ministry of Health and Family Welfare, Government of India.
+3. I understand that I can withdraw my consent for all or any of the purposes at any time by and on withdrawal of my consent, the processing of my shared information will stop, however, any personal data already been processed shall remain unaffected on such withdrawal of consent.
+4. I am also aware that my and/or my child’s personal information may be used and/or shared for purposes of providing services/benefits as may be notified by Government of India.
+5. I am aware about the risk and benefits of the vaccine(s)being given. I consent to the vaccination(s) being given either to me or my child.

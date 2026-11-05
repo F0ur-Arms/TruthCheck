@@ -1,0 +1,31 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 1.7.3 Secondary prevention is to prevent the onset of complications in those
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+1.7.3 Secondary prevention is to prevent the onset of complications in those
+who are already diagnosed to have diabetes. This can be achieved by meticulous control of diabetes with the help of diet, physical activity, life style modification and antihyperglycaemic drugs as indicated. Control should include holistic care beyond glycemic control i.e. attention to blood pressure, lipids etc.
+1.7.4 Tertiary prevention of diabetes is aimed at limiting physical disability and
+rehabilitation measures in those who have already developed diabetic complications and preventing them from going into end stage complications of diabetes.
+SCREENING FOR TYPE 2 DIABETES Type 2 diabetes occurs a much earlier age (at least a decade earlier) in Indians compared to other major ethnic groups. Screening of asymptomatic individuals allows diagnosis of diabetes and prediabetes to be made at an earlier stage and thus appropriate management can be instituted. In addition, it provides an opportunity for screening of cardiovascular disease (CVD) risk factors and the institution of interventions for their control. Early detection of diabetes has been shown to improve outcomes.
+2.1 Whom and when to screen?
+2.2 How to screen?
+Screening can be done by fasting plasma glucose, an oral glucose tolerance test (OGTT) using 75 gm glucose or a random plasma glucose. Glycosylated (glycated) haemoglobin (HbA1c) is also recommended for screening; however, in India there are some limitations regarding its use.
+2.3 Where to screen?
+Preferably, screening should be done in a health care setting. Alternatively, community screening can also be done.
+2.4 Retesting:
+Retesting should be done after 3 years in case of normal glucose tolerance. In case of prediabetes, it should be done annually.
+2.5 Other aspects:
+CVD risk factors such as hypertension, dyslipidemia, tobacco use and case of sedentary lifestyle should be identiﬁed and treated.
+DIAGNOSTIC CRITERIA
+3.1 Diagnostic Criteria for Diabetes
+Diabetes diagnosed using any of these criteria should be conﬁrmed with another test subsequently.
+3.2 Symptoms of Diabetes
+3.3 Criteria for the Diagnosis of Prediabetes
+The term “prediabetes” refers to a situation where the blood glucose levels are higher than normal, but not high enough to warrant a diagnosis of diabetes.
+Prediabetes consists of two entities viz. impaired fasting glucose (IFG) and impaired gluose tolerance (IGT).
+3.4  Oral Glucose Tolerance Test (OGTT)
+Person to be tested should be on a normal diet (with at least 200 g carbohydrate/ day) for at least 3 days before the test The test should be done after an overnight fast of 8-10 hours and comprises of two blood samples: fasting and 2 hours after glucose load Following the collection of the fasting blood sample for analysis of plasma glucose, the individual should be administered 75 g of glucose (1.75 g/ kg body weight for children to a maximum of 75 g) dissolved in at least 250 ml of water. The glucose load should be drunk within a period of 5 minutes The second sample should be collected 2 hours after the glucose load is given.
+The subject should be resting and refrain from smoking and eating in between the two sample collections.
+3.5 Testing for Type 2 Diabetes in Children and Adolescents
+Children and adolescents aged 18 years and below should be screened for diabetes if they are overweight (weight>120% of ideal body weight) and have any of the following risk factors: Family history of type 2 diabetes in first degree relatives Signs of insulin resistance (Acanthosis nigricans) Hypertension Dyslipidaemia Polycystic Ovary Syndrome (PCOS)

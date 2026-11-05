@@ -1,0 +1,34 @@
+SOURCE: ICMR — Guidelines
+TITLE: DHR-ICMR Guidelines on Rickettsial Diseases: Guidelines For Diagnosis And
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/DHR-ICMR Guidelines on Ricketesial Diseases.pdf
+────────────────────────────────────────────────────────────
+
+GUIDELINES FOR DIAGNOSIS AND
+MANAGEMENT OF RICKETTSIAL
+DISEASES IN INDIA
+DHR-ICMR
+DEPARTMENT OF HEALTH RESEARCH
+INDIAN COUNCIL OFMEDICAL RESEARCH
+DHR-ICMR
+GUIDELINES FOR DIAGNOSIS AND
+MANAGEMENT OF RICKETTSIAL
+DISEASES IN INDIA
+Published by: Secretary, Department of Health Research Director General, Indian Council of Medical Research New Delhi-110029 © Indian Council of Medical Research February, 2015 Further details Dr Rashmi Arora arorar@icmr.org.in 011-26588296 Disclaimer: These guidelines on diagnostic and treatment of rickettsial infections are based on a review of the currently available evidence and best practices, and may be revised in light of future developments in the field.
+1.  Introduction
+2.  Presenting manifestations
+3.  Guidelines for management
+3.1  Case definition
+3.2  Laboratory criteria
+3.3  Treatment
+4.  References
+In reference to rickettsial disease, rampant during Russian revolution, Lenin is said to have remarked that “either socialism will defeat the louse or the louse will defeat the socialism”. Rickettsial infection occurring in adversary epidemics, during times of war and famine has been one of the great bedevil of mankind. Historically going back, the disease was first reported during Peloponnesian War, but more accurate descriptions begin in 1489 with the Spanish siege of Granada. Rickettsial infections in the past have taken more lives than all the wars combined together.
+In this era of modernization, the disease is still responsible for modern outbreaks; continues to cause severe illness and death in otherwise healthy adults and children, despite availability of low cost, effective antibiotic therapy. The greatest challenge to cli­ nician is the difficult diagnostic dilemma posed by these infections early in their clinical course when antibiotic therapy is most effective. With the possible threat posed by such infections, there is the need to put in place sufficient safeguard measures to protect the citizens of our country and the world from the threat posed by rickettsial infections.
+The present DHR-ICMR guidelines comprehensively address the various con­ cerns regarding the clinical assessment, treatment, and laboratory diagnosis of rickettsial diseases in India and the world. I hope the physicians, health care worker, scientific community, the regulatory agencies, public health care professionals and the public at large will be benefited by these guidelines.
+Dr. M. D. Gupte Foreword Rickettsial diseases continue to be the source of severe illness and death in healthy adults and children, in spite of the availability of low cost, effective antimicrobial thera­ py. The greatest challenge is the difficult diagnostic dilemma posed by these infections early in their clinical course, when antibiotic therapy is most effective. Early signs and symptoms of these illnesses are notoriously nonspecific or mimic benign viral illnesses, making diagnosis difficult.
+The care and management of people with rickettsial diseases is done primarily by the general practitioners and physicians. However, there are no clear directions or Guidelines for its management. A need for availability of a set of Guidelines which can be used by doctors, scientists and public health workers all over the country was strong­ ly felt. With this in view, Department of Health Research (DHR) and Indian Council of Medical Research (ICMR) took the initiative to formulate the guidelines for the diagnosis and management of Rickettsial diseases in India. A Task Force was constituted to ex­ amine various management guidelines available and deliberate on the relevant issues keeping in view the local conditions. The guidelines formulated and presented in this document define a framework for recognizing manifestations, identifying appropriate diagnostic tests and initiating prompt and effective treatment.
+These guidelines have been developed for scientific purpose with the aim to provide physicians and health care workers with practical information to assist with the diagnosis and care of patients with Rickettsial infections and also stimulate thinking among scientists interested in developing this area in the country at the various levels of health care and thus help the people to lead a normal and healthy life.
+V.M.Katoch Preface The emergence of Rickettsial infection has necessitated the development of con­ sensus amongst health care delivery personnel for appropriate timely diagnosis and man­ agement. Consequently, DHR-ICMR has taken the initiative in developing the “DHR-ICMR Guidelines for diagnosis and management of Rickettsial diseases in India”. We gratefully acknowledge the help rendered by all the people involved in the formulation of these guide­ lines.
+We are very grateful and indebted to our Secretary (DHR) & DG (ICMR) Dr. V. M.
+Katoch, for his vision, guidance and support given to develop the ‘Guidelines for diagnosis and management of Rickettsial diseases in India’. We extend our sincere thanks to Dr. M. D.
+Gupte, Co-Chair for identifying and highlighting the significant issues to be included in the guidelines on Rickettsial Infections and steering the deliberations during formulation of the guidelines. We also express our gratitude to Lt. Gen. D.Raghunath, Co-Chair for his continu­ ous guidance, support and encouragement in this endeavor.
+We are grateful to all the Task Force members for their scientific contribution in preparing guidelines and refinement of the manuscript. We also acknowledge the inputs received from representatives of different organizations present in the scientific deliberations and the suggestions received from others following posting of draft guidelines.

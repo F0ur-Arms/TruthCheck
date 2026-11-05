@@ -1,0 +1,36 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes: 22.	 Arieff AI, Carroll HJ. Nonketotic hyperosmolar coma with hyperglycemia: clinical features,
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+22.	 Arieff AI, Carroll HJ. Nonketotic hyperosmolar coma with hyperglycemia: clinical features,
+pathophysiology, renal function, acid-base balance, plasma- cerebrospinal fluid equilibria and the effects of therapy in 37 cases. Medicine (Baltimore) 1972; 51:73.
+23. Steiner MJ, Dewalt DA, Byerley JS. Is this child dehydrated? Jama 2004;291(22): 2746–2754.
+24. Koves IH, Neutze J, Donath S, Lee W, Werther GA, Barnett P, et al. The accuracy of clinical assessment of dehydration during diabetic ketoacidosis in childhood. Diabetes Care 2004; 27:2485-2487.
+25. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet 1974; 2(7872): 81–84.
+26. Edge J, Jakes R, Roy Y, Widmer B, Ford-Adams ME, Murphy NP, et al. The UK prospective study of cerebral oedema complicating diabetic ketoacidosis. Arch Dis Child 2005; 90 (Suppl.11):A2–A3.
+27. Lindsay R, Bolte RG: The use of an insulin bolus in low-dose insulin infusion for pediatric diabetic ketoacidosis. Pediatr Emerg Care 1989; 5:77–79.
+28.  	Rosenbloom  AL.  The  management  of  diabetic  ketoacidosis  in  children. Diabetes Ther
+29. Cryer PE. Diverse causes of hypoglycemia-associated autonomic failure in diabetes. N Engl J Med 30. Cryer PE, Davis SN, Shamoon H: Hypoglycemia in diabetes. Diabetes Care 2003;26:1902–1912.
+31.	 Workgroup on Hypoglycemia, American Diabetes Association. Defining and reporting
+32. Diabetes Control and Complications Trial Research Group, Nathan DM, Genuth S, Lachin J, Cleary P, Crofford O, et.al. Effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med.
+33. Donnelly LA, Morris AD, Frier BM, Ellis JD, Donnan PT, Durrant R, et al. Frequency and predictors of hypoglycemia in type 1 and insulin-treated type 2 diabetes: a population-based study. Diabet Med. 2005;22:749-755.
+34. U.K. Hypoglycemia Study Group. Risk of hypoglycemia in types 1 and 2 diabetes: effects of treatment modalities and their duration. Diabetologia 2007;50:1140-1147.
+35. Cryer PE. Hypoglycemia in Type 1 Diabetes Mellitus. Endocrinol Metab Clin of North Am.
+36. Skrivarhaug T, Bangstad HJ, Stene LC, Sandvik L, Hanssen KF, Joner G. Long- term mortality in a nationwide cohort of childhood-onset type 1 diabetic patients in Norway. Diabetologia 2006; 49(2):298–305.
+38.  	Hirsch IB. Insulin analogues. N Engl J Med 2005;352:174-183.
+39. Horvath K, Jeitler K, Berghold A, Ebrahim SH, Gratzer TW, Plank J, et al. Long- acting insulin analogues versus NPH insulin (human isophane insulin) for type 2 diabetes mellitus. Cochrane Database Syst Rev 2007;(2):CD005613. 40. Gough SC. A review of human and analogue insulin trials. Diabetes Res Clin Pract 2007;77:1-15.
+41. Dagogo-Jack S, Rattarasarn C, Cryer PE. Reversal of hypoglycemia unawareness, but not defective glucose counter-regulation, in IDDM. Diabetes 1994; 43:1426–1434.
+42. Cranston I, Lomas J, Maran A, Macdonald I, Amiel SA. Restoration of hypoglycemia unawareness in patients with long duration insulin-dependent diabetes mellitus. Lancet 344:283–287.
+43. Husband AC, Crawford S, McCoy LA, Pacaud D. The effectiveness of glucose, sucrose, and fructose in treating hypoglycemia in children with type 1 diabetes. Pediatr Diabetes 2010; 11:154-158.
+44. Haymond MW, Schreiner B. Mini-dose glucagon rescue for hypoglycemia in children with type 1 diabetes. Diabetes Care 2001; 24:643-645.
+45. Hartley M, Thomsett MJ, Cotterill AM. Mini-dose glucagon rescue for mild hypoglycemia in children with type 1 diabetes: the Brisbane experience. J Paediatr Child Health 2006; 42:108-111.
+46. Hypoglycemia in the Diabetes Control and Complications Trial. The Diabetes Control and Complications Trial Research Group. Diabetes 1997; 46:271–286.
+47. Jones TW, Porter P, Sherwin RS, Davis EA, O’Leary P, Frazer F, et al. Decreased epinephrine responses to hypoglycemia during sleep. N Engl J Med 1998; 338:1657–1662.
+48. Banarer S, Cryer PE. Sleep-related hypoglycemia-associated autonomic failure in type 1 diabetes: reduced awakening from sleep during hypoglycemia. Diabetes 2003 52:1195–1203.
+49. Kanc K, Janssen MMJ, Keulen ETP, Jacobs MAJM, Popp-Snijders C, SnoekFJ, et al. Substitution of night-time continuous subcutaneous insulininfusion therapy for bed time NPH insulin in a multiple injection regimen improves counter-regulatory hormonal responses and warning symptoms of hypoglycemia in IDDM. Diabetologia 1998; 41:322–329.
+50. Hirsch IB, Bode BW, Garg S, Lane WS, Sussman A, Hu P, et al. Continuous subcutaneous insulin infusion (CSII) of insulin aspart versus multiple daily injection of insulin aspart/insulin glargine in type 1 diabetic patients previously treated with CSII. Diabetes Care 2005; 28:533–538.
+51. Axelsen M, Wesslau C, Lonnroth P, Arvidsson Lenner R, Smith U. Bedtime uncooked cornstarch supplement prevents nocturnal hypoglycemia in intensively treated type 1 diabetes subjects.
+52. Taira M, Takasu N, Komiya I, Taira T, Tanaka H. Voglibose administration before the evening meal improves nocturnal hypoglycemia in insulin-dependent diabetic patients with intensive therapy.
+53. Benfield T, Jensen JS, Nordestgaard BG. Influence of diabetes and hyperglycaemia on infectious disease hospitalization and outcome. Diabetologia 2007;50:549–554.
+54. Casqueiro J, Casqueiro J, Alves C. Infections in patients with diabetes mellitus: A review of pathogenesis. Indian J Endocrinol Metab 2012;16,Suppl S1:27-36 55. Geerlings SE, Hoepelman AI. Immune dysfunction in patients with diabetes mellitus (DM). FEMS Immunol Med Microbiol 1999;26:256–65.

@@ -1,0 +1,28 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Paracetamol Guidelines, part 3
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Paracetamol_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+REFER dosage chart and choose volume required per dose as per age of the vaccine recipient.
+INSTRUCT the care-giver to administer syrup paracetamol to the child only when fever (axillary temperature > 38 oC/100.4 oF or feels hot to touch) occurs after vaccination.
+Do not give if there is no fever.
+TELL the appropriate volume to be given as one dose and SHOW the care giver the dose volume markings on the measuring cap of syrup bottle and the mark till which the paracetamol has to be poured. EXPLAIN that this is one dose.
+USE only the measuring cap supplied with the paracetamol syrup bottle to measure and administer syrup paracetamol to the child.
+INSTRUCT that not more than 4 doses should be given in 24 hours and a gap of at least 4 hours should be maintained between two doses.
+DEMONSTRATE shaking the bottle for 10 seconds before use IF suspension is supplied in place of syrup.
+ADVISE that a doctor should be consulted, if any danger sign is present or fever persists for more than two days even with use of paracetamol USE the referral protocol for post vaccination fever to determine need for referral Age wise dose of Paracetamol syrup (125 mg/5 ml) in infants (recommended dose of paracetamol : 10-15 mg/kg body weight) Age group Dose When 6 weeks-6 months In case of fever* following vaccination and 4-6 hourly thereafter, if needed 6-24 months Paracetamol is not recommended in children weighing <2 kg.
+JOB AID 2 Refer the child to the hospital, if he/she develops fever indicated by Axillary temperature of 38 degree Celsius (100.4 degree Fahrenheit) or higher OR Feels hot to touch AND If one or more of the following danger signs/symtoms are present Not accepting orally Vomiting everything Convulsions Lethargy or unconsciousness Fast or difficult breathing Petechiae or bleeding from any site Bluish discoloration of peripheries (peripheral cyanosis) Fever for more than 48 hours Steps to follow while referring the child to the hospital (Source: National IMNCI Guidelines, MoHFW)  Explain to the mother the need for referral and get her agreement to take the young infant to the hospital. In addition, explain that young infants are particularly vulnerable. When they are seriously ill, they need prompt hospital care. Calm the mother, allay her fears and help her resolve any problems/doubts. Prepare a referral note, give it to the mother and ask her to take it with her to the hospital to give to the doctor there. Give the mother any medical supplies which may be needed to take care of the child on the way to the hospital with instructions. Arrange ambulance if needed as allowed under JSSK.
+REFERRAL NOTE
+1.	 Date and time of referral
+2.	 Referred to (name of hospital/doctor)
+3.	 Name, age and gender of child
+4.	 Indication for referral
+5.	 Treatment given
+6.	 Name and dose of antibiotic
+7.	 Vaccines administered
+8.	 Date and time of vaccine administered
+9.	 Instructions to caregiver/mother during
+10.	 Date and time of onset of fever
+11.	 Dose of Paracetamol administered
+12.	 Date and time of Paracetamol administration	:
+13.	 Referred by (name and contact number)

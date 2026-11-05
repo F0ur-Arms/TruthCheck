@@ -1,0 +1,84 @@
+SOURCE: CDC
+TITLE: Similarities and Differences between Flu and COVID-19
+URL: https://www.cdc.gov/flu/about/flu-vs-covid19.html
+────────────────────────────────────────────────────────────
+
+What to know
+This page describes the differences and similarities between flu and COVID-19.
+How flu and COVID-19 are different
+Influenza (flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. COVID-19 is caused by infection with a coronavirus (SARS-CoV-2) first identified in 2019. Flu is caused by infection with an influenza virus .
+From what we know, COVID-19 spreads more easily than flu. Efforts to maximize the proportion of people in the United States who are up to date with their COVID-19 vaccines remain critical to reducing the risk of severe COVID-19 illness and death. More information is available about staying up to date with COVID-19 vaccines and how well they work .
+COVID-19
+Compared with flu, COVID-19 can cause more severe illness in some people. Compared to people infected with influenza virus, people infected with SARS-CoV-2 may take longer to show symptoms and may be contagious for longer periods of time.
+You cannot tell the difference between flu and COVID-19 by the symptoms alone because many of the signs and symptoms are the same. Testing is needed to confirm a diagnosis. Having a medical professional administer a test that detects both flu and COVID-19 allows you to get diagnosed and treated for the specific virus you have more quickly. Getting treated early for COVID-19 and flu can reduce your risk of getting very sick. Testing can also reveal if someone has both flu and COVID-19 at the same time, although this is uncommon. People with flu and COVID-19 at the same time can have more severe illness than people with either flu or COVID-19 alone. Additionally, some people with COVID-19 may also be affected by Long COVID .
+We are learning more everyday about COVID-19 and the virus that causes it. This page compares COVID-19 and flu, given the best available information to date.
+How to protect yourself and others from COVID-19
+How to protect yourself and others from flu
+Signs and symptoms
+Similarities
+Both COVID-19 and flu can have varying degrees of symptoms, ranging from no symptoms (asymptomatic) to severe symptoms. Common symptoms that COVID-19 and flu share include:
+- Fever or feeling feverish/having chills (Not everyone with flu will have a fever.)
+- Cough
+- Shortness of breath or difficulty breathing
+- Fatigue (tiredness)
+- Sore throat
+- Runny or stuffy nose
+- Muscle pain or body aches
+- Headache
+- Vomiting
+- Diarrhea (more frequent in children with flu, but can occur in any age with COVID-19)
+- Change in or loss of taste or smell, although this is more frequent with COVID-19.
+How long symptoms appear after exposure and infection
+For both COVID-19 and flu , one or more days can pass from when a person becomes infected to when they start to experience symptoms of illness. It is possible to be infected with the virus that causes COVID-19 without experiencing any symptoms. It is also possible to be infected with influenza viruses without having any symptoms.
+Differences
+If a person has COVID-19, it could take them longer from the time of infection to experience symptoms than if they have flu.
+Flu
+Typically, a person may experience symptoms anywhere from one to four days after infection.
+Typically, a person may experience symptoms anywhere from two to five days, and up to 14 days after infection .
+How long someone can spread the virus
+If a person has COVID-19, they could be contagious for a longer time than if they have flu.
+- People with influenza virus infection are potentially contagious for about one day before they show symptoms. However, it is believed that flu is spread mainly by people who are symptomatic with influenza virus infection.
+- Older children and adults with flu are most contagious during the first three days of their illness, but some people might remain contagious for slightly longer periods.
+- Young children and people with weakened immune systems may be contagious for longer periods of time.
+- On average, people can begin spreading the virus that causes COVID-19 two to three days before their symptoms begin, but infectiousness peaks one day before their symptoms begin.
+- People can also spread the virus that causes COVID-19 without experiencing any symptoms.
+- On average, people are considered contagious for about eight days after their symptoms began.
+How it spreads
+Both COVID-19 and flu can spread from person to person between people who are near or in close contact with one another. Both are spread mainly by large and small particles containing virus that are expelled when people with the illness (COVID-19 or flu) cough, sneeze, or talk. These particles can land in the mouths or noses of people who are nearby and possibly be inhaled into the respiratory tract. In some circumstances, such as indoor settings with poor ventilation, small particles containing virus might be spread longer distances and cause infections.
+Most spread is by inhalation of large and small droplets; however, it may be possible that a person can get infected by touching another person (for example, shaking hands with someone who has the virus on their hands), or by touching a surface or object that has virus on it, and then touching their own mouth, nose, or eyes. The virus that causes COVID-19 can be spread to others by people before they begin showing symptoms, by people with very mild symptoms, and by people who never experienced symptoms (asymptomatic people).
+While the virus that causes COVID-19 and influenza viruses are thought to spread in similar ways, the virus that causes COVID-19 is generally more contagious than influenza viruses. Also, COVID-19 has been observed to have more superspreading events than flu. This means the virus that causes COVID-19 can quickly and easily spread to a lot of people and result in continual spreading among people as time progresses.
+People at higher risk for severe illness
+Both COVID-19 and flu can cause severe illness and complications resulting in hospitalization and death, even in healthy people. Those at increased risk of severe illness include:
+- Older adults, particularly those 65 years and older
+- People with certain underlying medical conditions
+- Pregnant women
+- Infants (both COVID-19 and flu)
+- Children (flu)
+Overall, flu seems to cause more severe illness in young children than COVID-19.
+Some people that had COVID-19 can go on to develop Long COVID or multisystem inflammatory syndrome (MIS)
+Complications
+Both COVID-19 and flu can result in complications, including:
+- Pneumonia
+- Respiratory failure
+- Acute respiratory distress syndrome (fluid in the lungs)
+- Sepsis (a life-threatening illness caused by the body's extreme response to an infection)
+- Cardiac injury (for example, heart attacks and stroke)
+- Multiple-organ failure (respiratory failure, kidney failure, shock)
+- Worsening of chronic medical conditions (involving the lungs, heart, or nervous system or diabetes)
+- Inflammation of the heart, brain, or muscle tissues
+- Secondary infections (bacterial or fungal infections that can occur in people with flu or COVID-19)
+Most people who get flu will recover on their own in a few days to two weeks, but some people will experience severe complications , requiring hospitalization. Some of these complications are listed above. Secondary bacterial infections are more common with influenza than with COVID-19.
+Additional complications associated with COVID-19 can include:
+- Blood clots in the veins and arteries of the lungs, heart, legs or brain
+- Multisystem Inflammatory Syndrome in children (MIS-C) and in adults (MIS-A)
+Anyone who has had COVID-19, even if their illness was mild or if they had no symptoms, can experience Long COVID. Long COVID can include a wide range of ongoing symptoms and conditions that can last weeks, months, or even years after COVID-19 illness.
+Approved treatments
+People at higher risk of complications or who have been hospitalized for COVID-19 or flu should receive recommended treatments and supportive medical care to help relieve symptoms and prevent complications.
+Prescription influenza antiviral drugs are FDA-approved to treat flu. These antiviral drugs are only for treatment of flu and not COVID-19.
+People who are hospitalized with flu or who are at increased risk of complications and have suspected or confirmed flu are recommended to be treated with antiviral drugs as soon as possible after illness onset.
+FDA has authorized or approved several antiviral medications used to treat mild-to-moderate COVID-19 in people who are more likely to get very sick. Treatment must be started within five to seven days of when symptoms first start. The Infectious Diseases Society of America provides Guidelines on the Treatment and Managment of Patients with COVID-19 for health care providers to help them work with their patients and determine the best treatment options for their patients.
+Vaccine
+Similarities:
+Vaccines for COVID-19 and flu are approved or authorized for emergency use (EUA) by FDA.
+There are multiple FDA-licensed influenza vaccines produced annually to protect against the three flu viruses that scientists expect will circulate during the upcoming season.
+Multiple COVID-19 vaccines are authorized or approved for use in the United States to help prevent COVID-19.

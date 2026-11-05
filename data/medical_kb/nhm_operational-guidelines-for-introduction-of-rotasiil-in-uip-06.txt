@@ -1,0 +1,46 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Introduction of Rotasiil in UIP, part 6
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Operational_Guidelines_for_Introduction_of_Rotasiil_in_UIP.pdf
+────────────────────────────────────────────────────────────
+
+5.2.8 Rotavirus vaccine stock management (inventory control)
+The inventory system should ensure that vaccines with the nearest expiry date are used first in a system known as EEFO (early-expiry, first-out). Expiry date should always be checked whenever a vial is opened.
+PREPARING HEALTH
+STAFF The successful introduction of Rotavirus vaccine will largely depend upon the quality of training conducted for all levels of health functionaries. Health-care providers are not only responsible for handling and administering the vaccine but are also a major source of information for parents and the community. A good training gives confidence to the health workers to introduce new vaccines.
+All training sessions must be interactive and use the adult learning methodology. Methodology should include PowerPoint presentations, role plays, exercises and interactive discussions. At district/ sub district level, each batch should not have more than 40 participants.
+The number of batches is to be planned according to the number of different health staffs to be trained in the district/ sub district.
+The trainers should make a note of the feedback and queries during trainings and ensure that all doubts are clarified before the session ends.
+Health-care personnel who require training include district immunization officers (DIOs), medical officers (MOs), IEC officer, cold chain handlers, supervisors, data managers, ASHA coordinators and frontline health workers. A separate training session should be organized for ASHAs and AWWs for effective community mobilization.
+The officials and staff of the Department of Women and Child Development also need to be oriented at the same time. In addition, plans should be drawn up to orient the faculty of Pediatrics and Preventive and Social medicine departments in medical colleges as well as professional bodies (IAP, IMA) involved in immunization service delivery. The doctor, pediatrician and vaccinators at private facilities receiving vaccine from the public health system should also be oriented.
+Rotavirus vaccine introduction trainings should be conducted as per guidelines. The trainings for Rotavirus vaccine introduction should not be clubbed/ tagged with other ongoing training or review meetings. All trainings will have some common and some cadre-specific messages. Key tips/messages for participants have been incorporated into respective agendas.
+6.1 Training approach for Rotavirus vaccine introduction
+Cascaded trainings are envisaged for building capacity of all workforce involved in routine immunization.
+Each state where Rotavirus vaccine is to be introduced is expected to conduct State ToT workshops (two day duration).
+Subsequently, the trainers trained at the State ToT will conduct district-level training for block medical officers and supervisors of their district. These Medical Officers and Supervisors (including the ASHA Coordinators) will, in-turn, be responsible for training health workers, including ANMs, supervisors and cold chain handlers. The MOs and Supervisors will also orient the ASHAs and AWWs in their areas in a separate training session.
+In addition, every opportunity should be utilized for sensitization of any new vaccine introduction. For example, state/district task force meetings and medical officers’ RI trainings are the ideal opportunities to discuss Rotavirus vaccine introduction. All Rotavirus vaccine introduction trainings should be conducted as per the duration mentioned in the guidelines.
+All Rotavirus vaccine trainings must have a session on practical demonstration of the reconstitution and administration of Rotavirus vaccine.
+Training materials have been developed based on the past experiences of new vaccine introduction and post-introduction evaluations. These will include standardized PowerPoint presentations from operational guidelines, FAQs for medical officers and health workers on Rotavirus vaccine. These materials could be translated into the local language and be used appropriately in the states. The FAQs on Rotavirus vaccine should be widely used for dissemination of information, especially to medical officers, frontline health workers and mobilizers.
+Check the following details of Rotavirus vaccine before opening the vial.  Name of the vaccine  Manufacturer name  Date of manufacture  Expiry date  Batch number  VVM status  Visible damage Before administration of Rotavirus vaccine, confirm the age of the beneficiary  Three doses of Rotavirus vaccine are to be given at 6, 10 and 14 weeks of age along with other UIP vaccines  The upper age limit for administering 1st dose of Rotavirus vaccine is one year under UIP.
+Before administration of RVV, check for any contraindication.
+Don’t give Rotavirus vaccine to infants with  History of hypersensitivity to any component of the vaccine.  History of uncorrected congenital malformation of the gastrointestinal tract that would predispose the infant for intussusception.  Severe combined Immunodeficiency disease (SCID) as cases of gastroenteritis associated with other live Rotavirus vaccines have been reported in infants with SCID.  History of intussusception  Administer 2.5 ml of Rotavirus vaccine orally using the 6 ml oral syringe supplied with the vaccine.  Remember this Rotavirus vaccine is an oral freeze dried vaccine, so it has to be reconstituted with a diluent supplied along with the vaccine.  The entire amount of diluent should be used to reconstitute the two dose vial of Rotavirus vaccine. The adapter and one 6ml oral syringe will be used for the withdrawal of diluent for reconstitution. The same adapter along with the same oral syringe will then be used for withdrawal and administration of 1st dose (2.5 ml) of reconstituted vaccine. The 2nd oral syringe with the help of adapter will be used for withdrawal and administration of 2nd dose (2.5 ml). The syringe is strictly for oral use.
+Detailed steps of administration are given in page 15.
+Record the date of administration of Rotavirus vaccine on the immunization card and RCH register.
+Return the unopened and opened Rotavirus vaccine vials after the immunization session to the cold chain point as per guidelines.
+6.2 Reporting and recording of Rotavirus vaccine
+All recording and reporting formats with inclusion of Rotavirus vaccine should be printed well in time before introduction of the vaccine. These formats should be distributed before introduction and ensure that during health workers’ training, an exercise for filling the MCP card and other formats should be conducted.
+Inclusion of Rotavirus vaccine will be required in vaccine stock forms, MCP cards, due lists, tally sheets, monthly progress reports at all levels, RCH register, coverage monitoring charts, supervisory checklists and computer databases.
+The reporting of Rotavirus vaccine coverage will be done through existing reporting mechanisms such as the HMIS (health management information system), and the RCH portal. MoHFW has updated the HMIS for capturing the Rotavirus vaccine coverage.
+Special care if child < 2.5 kg at birth.
+Is lethargic or unconscious Congratulations! Your child is vaccinated for the 1st year of life.
+9 MONTHS
+DATE GIVEN
+DATE GIVEN
+DATE GIVEN
+DATE GIVEN
+DATE GIVEN
+SIA / OTHER
+VACCINE
+DATE GIVEN
+VITAMIN A
+CHILD AGE
+10 YEARS

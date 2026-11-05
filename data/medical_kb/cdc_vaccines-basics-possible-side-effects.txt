@@ -1,0 +1,106 @@
+SOURCE: CDC
+TITLE: Possible Side Effects from Vaccines
+URL: https://www.cdc.gov/vaccines/basics/possible-side-effects.html
+────────────────────────────────────────────────────────────
+
+Key points
+Summary
+Any vaccine can cause side effects. For the most part these are minor (for example, a sore arm or low-grade fever) and go away within a few days. Listed below are vaccines licensed in the United States and side effects that have been associated with each of them. This information is copied directly from CDC's Vaccine Information Statements (VISs), which in turn are derived from the Advisory Committee on Immunization Practices (ACIP) recommendations for each vaccine.
+Remember, vaccines are continually monitored for safety , and like any medication, vaccines can cause side effects. However, a decision not to immunize a child also involves risk and could put the child and others who come into contact with him or her at risk of contracting a potentially deadly disease.
+Regularly recommended vaccines
+DTaP vaccine side effects (diptheria, tetanus, and acellular pertussis)
+What are the risks from DTaP vaccine?
+As with any medicine, there is a very remote chance of a vaccine causing a severe allergic reaction, other serious injury, or death.
+This information is based on the DTaP Vaccine VIS .
+Hepatitis A vaccine side effects
+What are the risks from hepatitis A vaccine?
+People sometimes faint after medical procedures, including vaccination. Tell your provider if you feel dizzy or have vision changes or ringing in the ears.
+This information is based on the Hepatitis A Vaccine VIS .
+Hepatitis B vaccine side effects
+What are the risks from hepatitis B vaccine?
+This information is based on the Hepatitis B Vaccine VIS .
+Hib vaccine side effects ( Haemophilus influenzae type b)
+What are the risks from Hib vaccine?
+This information is based on the Hib Vaccine VIS .
+HPV-Gardasil-9 vaccine side effects (human papillomavirus Gardasil-9 vaccine)
+What are the risks from HPV (human papillomavirus) vaccine?
+This information is based on the HPV Vaccine VIS .
+Influenza (inactivated) vaccine side effects
+What are the risks from inactivated influenza vaccine?
+Young children who get the flu shot along with pneumococcal conjugate vaccine and/or DTaP vaccine at the same time might be slightly more likely to have a seizure caused by fever. Tell your health care provider if a child who is getting flu vaccine has ever had a seizure.
+This information is based on the Inactivated Influenza Vaccine VIS .
+Influenza (live) vaccine side effects
+What are the risks from live, attenuated influenza vaccine (LAIV)?
+If these problems occur, they usually begin soon after vaccination and are mild and short-lived.
+This information is based on the Live, Attenuated Influenza Vaccine VIS .
+MMR vaccine side effects (measles, mumps, and rubella)
+What are the risks from MMR vaccine?
+This information is based on the MMR Vaccine VIS .
+MMRV vaccine side effects (measles, mumps, rubella, and varicella)
+What are the risks from MMRV vaccine?
+If a person develops a rash after MMRV vaccination, it could be related to either the measles or the varicella component of the vaccine. The varicella vaccine virus could be spread to an unprotected person. Anyone who gets a rash should stay away from infants and people with a weakened immune system until the rash goes away. Talk with your health care provider to learn more.
+Some people who are vaccinated against chickenpox get shingles (herpes zoster) years later. This is much less common after vaccination than after chickenpox disease.
+This information is based on the MMRV Vaccine VIS .
+Meningococcal ACWY vaccine side effects
+What are the risks from meningococcal vaccines?
+This information is based on the Meningococcal ACWY Vaccine VIS .
+Meningococcal B vaccine side effects
+This information is based on the Meningococcal B Vaccine VIS .
+PCV vaccine side effects (pneumococcal conjugate vaccine)
+What are the risks from PCV?
+Young children may be at increased risk for seizures caused by fever after a pneumococcal conjugate vaccine if it is administered at the same time as inactivated influenza vaccine. Ask your health care provider for more information.
+This information is based on the Pneumococcal Conjugate Vaccine (PCV) VIS .
+PPSV23 vaccine side effects (pneumococcal polysaccharide)
+What are the risks from PPSV?
+This information is based on the PPSV23 Vaccine VIS .
+Polio vaccine side effects
+What are the risks from polio vaccine?
+This information is based on the Polio Vaccine VIS .
+Rabies vaccine side effects
+What are the risks from rabies vaccine?
+This information is based on the Rabies Vaccine VIS .
+Rotavirus vaccine side effects
+What are the risks from rotavirus vaccine?
+Intussusception is a type of bowel blockage that is treated in a hospital and could require surgery. It happens naturally in some infants every year in the United States, and usually there is no known reason for it. There is also a small risk of intussusception from rotavirus vaccination, usually within a week after the first or second vaccine dose. This additional risk is estimated to range from about 1 in 20,000 U.S. infants to 1 in 100,000 U.S. infants who get rotavirus vaccine. Your health care provider can give you more information.
+This information is based on the Rotavirus Vaccine VIS .
+Td vaccine side effects (adult tetanus and diphtheria)
+What are the risks from Td vaccine?
+This information is based on the Td Vaccine VIS .
+Tdap vaccine side effects (combined tetanus, diphtheria, and pertussis)
+What are the risks from Tdap vaccine?
+This information is based on the Tdap Vaccine VIS .
+Varicella vaccine side effects (chickenpox)
+What are the risks from chickenpox vaccine?
+It is possible for a vaccinated person to develop a rash. If this happens, the varicella vaccine virus could be spread to an unprotected person. Anyone who gets a rash should stay away from infants and people with a weakened immune system until the rash goes away. Talk with your health care provider to learn more.
+This information is based on the Varicella Vaccine VIS .
+Yellow fever vaccine side effects
+What are the risks from yellow fever vaccine?
+People 60 years and older and people with weakened immune systems might be more likely to experience serious reactions to yellow fever vaccine.
+As with any medicine, there is a remote chance of a vaccine causing a severe allergic reaction, other serious injury, or death.
+This information is based on the Yellow Fever Vaccine VIS .
+Zoster vaccine, RZV, side effects (shingles)
+What are the risks from shingles vaccine?
+These side effects may temporarily prevent a vaccinated person from doing regular activities. Symptoms usually go away on their own in 2 to 3 days. You should still get the second dose of recombinant shingles vaccine even if you had one of these reactions after the first dose.
+Guillain-Barré syndrome (GBS), a serious nervous system disorder, has been reported very rarely after recombinant zoster vaccine.
+This information is based on the Shingles Vaccine VIS .
+Travel and special circumstance vaccines
+Adenovirus vaccine side effects
+What are the risks from adenovirus vaccine?
+Note: Adenovirus vaccine is approved for use only among military personnel.
+This information is based on the Adenovirus Vaccine VIS .
+Anthrax vaccine side effects
+What are the risks from anthrax vaccine?
+After getting a shot of anthrax vaccine, you may have:
+This information is based on the Anthrax Vaccine VIS .
+Cholera vaccine side effects
+What are the risks from cholera vaccine?
+This information is based on the Cholera Vaccine VIS .
+Japanese encephalitis (JE) vaccine side effects
+What are the risks from JE vaccine?
+Studies have shown that severe reactions to JE vaccine are very rare.
+This information is based on the Japanese Encephalitis Vaccine VIS .
+Smallpox vaccine side effects (vaccinia)
+This medication guide replaces the Smallpox VIS. It is to be used before one receives the vaccination. Medical Guide for vaccination with ACAM2000 (10/1/09)
+Typhoid vaccine side effects
+What are the risks from typhoid vaccine?
+This information is based on the Typhoid Vaccine VIS .

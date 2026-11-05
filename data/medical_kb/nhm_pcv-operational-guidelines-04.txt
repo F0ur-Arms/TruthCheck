@@ -1,0 +1,46 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 4
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+The Government of India has constituted a National Pneumococcal Vaccine Expert Committee to guide the introduction of pneumococcal vaccine in the country. Currently, there are three pneumococcal conjugate vaccines that are licensed and available in the private sector in India.
+3.3 VACCINE EFFICACY & SAFETY
+Based on efficacy data, PCV10 and PCV13 would provide good protection for pneumococcal disease in India. Based on the immunogenicity data, PCV10 and PCV13 show comparable vaccine efficacies for serotypes contained in the vaccines. PCVs are considered safe in all target groups for vaccination, including immunocompromised individuals.
+Protection by PCV vaccination (seroconversion) does not change when the vaccine is given along with other childhood vaccines. PCV can be administered to prematurely born infants (i.e., <37 weeks gestation) at the recommended chronologic age concurrent with other routine vaccinations, unless there are contraindications.
+Several studies have assessed pneumococcal disease serotype distribution in India. In a Vellore study among children under five, the most common serotypes causing invasive infections were 14, 19F, 5, 6A and 6B.19 Both PCV10 and PCV13 would be expected to provide coverage for these serotypes.
+3.4 ROUTE AND SITE OF
+ADMINISTRATION
+The dose of the vaccine is 0.5 ml and to be administered by intramuscular injection in the anterolateral aspect of the right mid thigh of infants.
+If multiple injections must be given in the same thigh, the distance between the two injections should be at least 2.5 cm (1 inch) (Figure 20).
+3.5 VACCINATION SCHEDULE FOR  PCV
+VACCINE
+PCV will be administered in three doses (2 primary and 1 booster) at 6 weeks, 14 weeks and 9 months of age as part of routine immunization.
+The first dose, PCV1, will be administered at 6 weeks of age with the first dose of pentavalent vaccine, oral polio vaccine (OPV), fractional-dose IPV1 and rotavirus vaccine. Please refer to the scenarios depicted in figures 21.
+The second dose, PCV2, will be given at 14 weeks of age, with the third dose of pentavalent vaccine, oral polio vaccine, fractional-dose IPV2 and rotavirus vaccine. Please refer to the scenarios depicted in figures 21.
+The steps below detail how to hold a child (infant) for intramuscular injection in anterolateral aspect of right mid thigh.
+Place the child’s arms under one of their own arms and around their back and apply gentle pressure for a secure, hug-like hold.
+Use their free arm and hand to hold the child’s other arm gently but securely.
+Anchor the child’s feet firmly between their thighs.
+The PCV booster dose will be administered at 9 months of age with the first dose of measles-rubella (MR) vaccine and first dose of Japanese Encephalitis (JE) vaccine (in endemic districts).
+The two primary doses and one booster dose of PCV should be given during the first year of life. If the doses are delayed within the first year of life, delayed doses must be separated by a minimum interval of at least 8 week s, to be given at the next scheduled immunization visit.
+In delayed cases beyond 1 year of age, due doses can be given to a child only if a child has received at least one dose of PCV before his/her first birthday.
+3.6 COMPARISON OF IMMUNIZATION
+SCHEDULE BEFORE AND AFTER PCV
+INTRODUCTION
+The table 3 describes the current immunization schedule (i.e., prior to PCV introduction) and immunization schedule after the introduction of PCV.
+6 Weeks
+14 Weeks
+9 Months
+Age group for vaccination PCV in the UIP is recommended for infants (up to 1 year of age) in three doses (2 primary doses and 1 booster dose) at 6 weeks, 14 weeks and 9 months.
+Dosage and route z 0.5 ml using auto-disable (AD) syringe available in program. z Intramuscular injection in the anterolateral aspect of the right mid thigh.
+Recommendations for immunodeficient children z Regardless of the presence of underlying medical conditions (e.g., children with HIV infection, sickle cell disease or who are otherwise immunocompromised), the national schedule for giving PCV should be followed. z In fact these children are in particular need of PCV because their risk of pneumococcal disease is high. PCV has been proven to be safe and well-tolerated even among children infected with HIV. Children with HIV infection require a booster dose to sustain protection.
+Immunogenicity, efficacy and effectiveness z PCV vaccines are safe and being used in 146 countries. z PCV efficacy is more than 80% for serotypes present in the vaccine. z PCV10 and PCV13 show comparable vaccine efficacies for serotypes contained in the vaccines. z PCV10 and PCV13 have adequate efficacy to protect against the majority strains of pneumococcal disease in India. z PCVs are considered safe in all target groups for vaccination, including immunocompromised individuals. z PCV can be administered to prematurely born infants (i.e., <37 weeks gestation) at the recommended chronologic age concurrent with other routine vaccinations, unless there are contraindications. z PCV is not intended to be used for treatment of active infection.
+Co-administration with other vaccines z PCV can be co-administered with other UIP vaccines. z The vaccine cannot be mixed with other vaccines in the same syringe. z If two injections are being given in same limb, then they should be administered at least 1 inch apart.
+Contraindications z PCV is a safe vaccine. Severe reactions are extremely rare. z PCV should not be administered to children with severe allergic reaction to a prior dose, or to vaccines containing diphtheria toxoid, such as pentavalent vaccine. z PCV should not be given to a child with severe illness. However, PCV may be given in children with mild respiratory illness with or without low-grade fever. z Most common PCV side effects: Irritability, crying, swelling and tenderness at injection site, transient fever >39°C (102°F).
+3.7 KEY OPERATIONAL ASPECTS OF PCV UNDER UIP (REFER TABLE 4 BELOW)
+3.8 OPEN VIAL POLICY
+The Open Vial Policy guidelines, when followed correctly, ensures effective utilization of vaccines and minimizes wastage.
+Open vial policy is applicable to PCV 4/more dose vial.
+The permissible wastage for PCV is less than 10%.
+The states need to have a robust alternate vaccine delivery mechanism to ensure effective implementation of the open vial policy.
+Vaccine vials opened in a fixed or outreach session can be used at more than one immunization session for up to 4 weeks, as per the open vial policy of Govt. of India, provided | the expiry date has not been reached. | the vaccine vial monitor (VVM) has not reached the discard point; | vaccines are stored in appropriate cold chain conditions, both during transportation and in the cold chain storage point; | aseptic technique has been used to withdraw vaccine doses. (That is needle/septum has not been contaminated in anyway); and | vaccine septum has not been submerged in water or contaminated in any way.

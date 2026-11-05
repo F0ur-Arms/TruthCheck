@@ -1,0 +1,31 @@
+SOURCE: CDC
+TITLE: People with Disabilities and COVID-19
+URL: https://www.cdc.gov/covid/communication/people-with-disabilities.html
+────────────────────────────────────────────────────────────
+
+What to know
+This page is part of a group of easy-to-read pages about COVID-19.
+About COVID-19
+COVID-19 is a virus.
+COVID-19 can spread easily.
+COVID-19 can spread between people.
+People with COVID-19 get sick in different ways.
+Some people with COVID-19 feel fine.
+Some people with COVID-19 feel bad.
+Some people with COVID-19 get very sick.
+People with disabilities can get COVID-19.
+People with Down syndrome can get COVID-19.
+People with Down syndrome may get very sick.
+People with health problems can get COVID-19.
+People with health problems may get very sick.
+People with diabetes can get COVID-19.
+People with diabetes may get very sick.
+People with cancer can get COVID-19.
+People with cancer may get very sick.
+People with heart problems can get COVID-19.
+People with heart problems may get very sick.
+People with obesity can get COVID-19.
+People with obesity may get very sick.
+COVID-19 vaccines help keep you from getting very sick from COVID-19.
+Most people should get a COVID-19 vaccine.
+Ask your doctor if you should get a COVID-19 vaccine.

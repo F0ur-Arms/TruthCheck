@@ -1,0 +1,32 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR-DBT Guidelines for Evaluation of Probiotics in Food: Icmr-Dbt
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/PROBIOTICS_GUIDELINES.pdf
+────────────────────────────────────────────────────────────
+
+ICMR-DBT
+GUIDELINES FOR EVALUATION
+OF PROBIOTICS IN FOOD
+CONTENTS
+1. Introduction
+2. Guidelines and requirements for probiotic products
+2.7    Evaluation of safety of probiotics for human use
+2.8     Evaluation of efficacy studies in humans
+2.9     Effective dosage of probiotic strain/ strains
+2.10 Labeling Requirements
+2.11 Manufacturing and handling procedures
+3. References
+4. Glossary
+(ii) Dr. Maharaj Kishan Bhan Secretary to Government of India MD, DSc, FNA, FASc, FAMS Department of Biotechnology Ministry of Science and Technology FOREWORD [ Probiotics are bacteria that help maintain the natural balance of microflora in the intestines. The normal human digestive tract contains about 400 types of probiotic bacteria that reduce the growth of harmful bacteria and promote a healthy digestive system. Experiments into the benefits of probiotic therapies suggest a range of potentially beneficial medicinal uses for probiotics. Recent research on the molecular biology and genomics of Lactobacillus has focused on the interaction with the immune system, anti-cancer potential, and potential as a biotherapeutic agent in cases of antibiotic-associated diarrhoea, travellers’ diarrhea, paediatric diarrhoea, inflammatory bowel disease and irritable bowel syndrome.
+The increasing globalization of food trade has resulted in India being a fast emerging market for probiotic products. With the availability of these products increasing exponentially and the multiple claims made regarding the beneficial health effects, there is the need to put in place sufficient safeguards to protect the consumers from any adverse effects, ensure standardization of commercial products and their efficacy.
+The present ICMR-DBT guidelines comprehensively address the various concerns regarding safety, efficacy and reliability as well as labeling of probiotic products being sold in India.
+I hope the scientific community, the regulatory agencies and the public at large will be benefited by these guidelines.
+PREFACE
+The concept of probiotics was introduced in early 20th century, however they gained importance in recent years with the emerging scientific evidences suggesting their role in digestive and immunological functions.
+During the last decade there has been increased influx of probiotic products in Indian market. However, there was no systematic approach for evaluation of probiotics in food to ensure their safety and efficacy.
+Being the apex body in India for the formulation, coordination and promotion of biomedical research, Indian Council of Medical Research (ICMR) along with Department of Biotechnology (DBT) took the initiative to formulate the guidelines for evaluation of probiotics in food in India. A Task Force was constituted to examine various guidelines available in different parts of the world and deliberate on the relevant issues keeping in view the local conditions. The guidelines formulated and presented in this document define a set of parameters required for a product/strain to be termed as ‘probiotic’. These include identification of stain, in vitro screening for probiotic characteristics, animal studies to establish safety and in vivo animal and human studies to establish efficacy. These also include requirements for labeling of the probiotic products with strain specification, viable numbers at the end of shelf life, storage conditions etc which would prevent misleading the consumer.
+These guidelines have been developed for scientific purpose with the main aim to guide the regulatory authority for evaluating probiotic products in our country. I hope that these will also stimulate thinking among scientists interested in developing this area in India.
+ACKNOWLEDGEMENTS
+We gratefully acknowledge the help rendered by all the people involved in the formulation of guidelines.
+We are grateful to Prof. N.K. Ganguly, Chairperson of the Task Force on ‘Guidelines for evaluation of Probiotics in Food’ and Former Director General, Indian Council of Medical Research for identifying the need and significance of guidelines on probiotics in food. The Task force has met thrice to formulate and thoroughly discuss every aspect of the guidelines. Further, Core group and follow up meetings were also held to go over certain technical details of the document. We are grateful to all the Task Force member for their contributions in preparing guidelines and refinement of the manuscript.
+We also acknowledge the inputs received from the NGOs/Industry representatives present in the scientific deliberations and the suggestions received from others following posting of draft guidelines on ICMR website.
+Efforts of ICMR and DBT secretariat for putting together the available information and co-ordinating the activities of the Task Force is also acknowledged.

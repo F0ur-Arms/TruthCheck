@@ -1,0 +1,44 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Public Health Guidelines for Floods Events, part 3
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769333008_95276575411596609841.pdf
+────────────────────────────────────────────────────────────
+
+About 75% of people infected with cholera do not develop any symptoms. However, the pathogens stay in their feces for 7 to 14 days and are shed back into the environment, possibly infecting other individuals. Cholera is an extremely virulent disease that affects both children and adults. Unlike other diarrheal diseases, it can kill healthy adults within hours. Individuals with lower immunity, such as malnourished children or people living with HIV, are at greater risk of death if infected by cholera.
+5.1.1 Key Messages
+Cholera is transmitted through contaminated water or food.
+Water should be chlorinated during and after floods to prevent cholera.
+Prevention and preparedness of cholera require a coordinated multidisciplinary approach.
+Cholera can rapidly lead to severe dehydration and death if left untreated.
+ORS can successfully treat 80% of cholera cases.
+Appropriate antibiotics can reduce the duration of purging.
+5.1.2 Case Management
+Efficient treatment resides in prompt rehydration through the administration of oral rehydration salts (ORS) or intravenous fluids, depending of the severity of cases. Up to 80% of patients can be treated adequately through the administration of ORS (WHO/UNICEF ORS standard sachet). Very severely dehydrated patients are treated through the administration of intravenous fluids, preferably Ringer lactate. Appropriate antibiotics can be given to severe cases to diminish the duration of diarrhoea, reduce the volume of rehydration fluids needed and shorten the duration of V. cholerae excretion. For children up to five years, supplementary administration of zinc has a proven effective in reducing duration of diarrhoea as well as reduction in successive diarrhoea episodes. In order to ensure timely access to treatment, cholera treatment centres should be set up among the affected populations whenever feasible.
+For children below 6 months of age, add zinc 10mg daily for 2 weeks. For children from 6 months to 12 years, add zinc 20mg daily for 2 weeks.
+5.2 Foodborne Diseases
+Following natural disasters such as floods, food in affected areas may become contaminated and consequently be at risk for outbreaks of foodborne disease due to bacteria, viruses and chemicals. Threats posed by contaminated water and food are interrelated and cannot be separated. Therefore, water should be treated as a contaminated food and should be boiled or otherwise made safe before it is consumed or used as an ingredient in food.
+For food safety across the food supply chain, it is important to ensure that hazard of microbial contamination should be reduced from food and agricultural produce sourced from the affected areas reinforcing food safety messages to food handlers. Possibility of chemical contamination of agricultural produce harvested from flood affected areas should be ruled out before consumption.
+5.2.1. Health System Preparedness for Prevention of foodborne illness
+5.2.2. Five Keys to Food Safety
+5.3 Viral Hepatitis A and E
+Viral hepatitis A and E are food- and water-borne infections that can result in acute outbreaks in communities with unsafe water and poor sanitation. They do not result in chronic infection or chronic liver disease and there is no specific treatment. Prevention is through improved sanitation, food safety and vaccination.
+5.3.1 Management
+Hepatitis A and hepatitis E are generally a self-limiting illness, and most patients improve in a few weeks. No specific treatment is indicated for uncomplicated disease.
+Patients with marked vomiting, fever or headache may benefit from symptomatic treatment.
+5.3.2 Control measures to outbreak specific for hepatitis A and hepatitis E
+During a waterborne hepatitis outbreak, the concentration of free chlorine should be increased to more than 0.5 mg/L throughout the system as a minimum immediate response.
+Consumption of only boiled water. (Water should be boiled for at least 1 minute, cooled and then consumed)
+Generating awareness regarding water, sanitation and hygiene interventions to disrupt transmission of hepatitis A and E. Individuals should be encouraged to always wash their hands with soap after defecation and/or disposing of feces.Hand hygiene practices should be followed after using the toilet / latrines, after cleaning a soiled baby, Before eating or before feeding a child.
+Ensure safe disposal of excreta and prevent open defecation.
+Since the incubation period of hepatitis A is 2-6 weeks and for hepatitis E is 2–10 weeks, cases may continue to occurfor up to 6 weeks for hepatitis A and for 10 weeks for hepatitis E (the maximum incubation period) after steps have been instituted to ensuresafe drinking water, sanitation and improved hygiene. Therefore, longer-term monitoring after institution of these prevention measures is needed.
+6. Water, Sanitation and Personal Hygiene
+6.1 Safe Drinking Water
+Minimum drinking water requirement per person per day is 5 litres. Daily activities like cooking, toilet use, hand washing etc. require a minimum of 20 litres of water. Water sources are likely to get contaminated after floods and microbial drinking-water quality is the first concern. Consult with local authorities on whether tap water is safe to use. Agree to a procedure to receive warnings and an emergency water supply if the tap water becomes unfit for human consumption.
+Encourage women to breastfeed their babies, especially when the water quality is uncertain or insufficient. Ensure that water that is below drinking-water quality is used only for cleaning, laundry and sanitation, and that it is labelled as such. Water below drinking-water quality should be used for cleaning and laundry only in combination with detergent.
+For drinking water, point of use treatments like boiling of water; use of bleach, alum, etc should be used as measures for disinfection. The treatment should be cost effective and fast.
+6.1.1 Boiling of Water
+Water can be made safe by bringing it to a rolling boil (for example, in a kettle or pot on a cooker). After boiling, the water should be allowed to cool down on its own without the addition of ice. If water cannot be boiled for all, give priority to boiling drinking water for formula-fed infants, immunocompromised and other vulnerable patients. Protect it from post- treatment contamination during storage.
+6.1.2 Using Sodium Hypochlorite (Bleach)
+If it is not possible to boil water, chemical disinfection of clear, non-turbid water is effective for killing bacteria and most viruses, but not for protozoa like Cryptosporidium. Options for chemical disinfection include chlorine compounds or iodine.
+Bleach (Sodium Hypochlorite) is cheap and easily available domestic cleaner which is widely used for disinfection of drinking water and personal hygiene during floods.
+Some tips for using Bleach: Never mix Bleach with any other domestic cleaning agent (especially one containing ammonia). Wear rubber boots, rubber gloves, and eye protection while working with bleach. Try not to breathe bleach fumes.
+To treat clear drinking water: Use about 1/8 teaspoons bleach (approximately 0.75 ml treat clear drinking water for 1 gallon (nearly 4 litres of water let the water stand for 30 minutes before using it.

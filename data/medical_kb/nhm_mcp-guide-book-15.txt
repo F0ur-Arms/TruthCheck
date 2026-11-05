@@ -1,0 +1,37 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: MCP Guide Book, part 15
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Guide_Book.pdf
+────────────────────────────────────────────────────────────
+
+Anaemia in these cases should be treated as per the standard treatment guidelines, by the attending doctor, as per the merit of the individual case.
+AND WEIGHT FOR LENGTH/HEIGHT
+1.	 Detect early growth faltering and prevent undernutrition.
+2.	Identify underweight children who need special care and
+feeding at home, in addition to single take home ration received at the AWC.
+3.	Identify severely underweight children who need special
+care and feeding at home and referral advice, in addition to double take home ration received at the AWC.
+4.	Provide special attention to children whose weight for
+length/height falls in the yellow or orange band (refer below).
+These children will be treated in line with the directives from the Ministry of Women and Child Development.
+5.	Counsel families on feeding and care of these children.
+6.	Refer all children with illness to the nearest ANM.
+7.	Refer all children with complications or serious sickness to
+8.	Identify many causes of weight loss or no gain in weight
+i.e., illnesses such as Diarrhoea and Acute Respiratory Tract Infections; inadequate or insufficient food and feeding; mother’s illness; etc. and take corrective and timely action.
+9.	Educate, counsel and support mothers and families for optimal
+nutrition, health care and development of their children.
+In Anganwadi Centres, growth monitoring is done using weight- for-age based on WHO Child Growth Standards (2006). As per these standards, there are separate growth charts for girls and boys, as they have different weights and lengths beginning at birth and grow to different sizes related to their age. Growth charts are used to identify normal growth of a given child, as well as identify growth problems or trends for early preventive action. It enables effective counselling for promoting young child’s growth.
+The Growth Monitoring Charts are a part of the MCP Card. In addition to monitoring weight for age, the MCP card will now help you monitor weight for length/height in children below 3 years of age which will give a more comprehensive way of tracking and preventing severe acute malnutrition among children. Equipment and tools required for growth monitoring are weighing scales, infantometers, stadiometers and MCP Card.
+Hints for AWW Growth chart is a tool for assessing and monitoring the growth of a child. Pink border growth charts are for girls and blue border charts are for boys. There are two Growth Charts, one for recording weight-for-age and the other for recording weight-for-length/height.
+Weight-for-Age Chart In the weight-for-age chart, the horizontal line at the bottom of the Chart is the X Axis. This is for recording the age of the child and is called ‘month axis’. The vertical line at the far left of the Chart is the Y Axis. This is for recording the weight of the child from birth onwards and is called ‘weight axis’.
+The month axis of each Growth Chart has three boxes, representing three years. Each box contains 12 small squares representing 12 months i.e. each small square on month axis represents 1 month. Age is recorded in completed weeks/ months/years. It is recorded in completed weeks only for a child below 1 month. Similarly, on the weight axis, lines are marked for recording weight in kilograms and grams. Each thick extended line represents 1 kg, each line extended from a small square represents 500gms. and very thin and small extended lines represent 100gms.
+White rectangles below the ‘month axis’ are for writing months and years as per the date of birth of the child. On each visit, weight of the child taken is recorded under the relevant rectangle.
+A point on a Growth Chart, where a line extended from a measurement on the ‘month axis’ i.e. age, intersects with a line extended from a measurement on the ‘weight axis’ i.e. weight, is called a plotted point.
+A Growth Curve is formed by joining the plotted points on a Growth Chart. The direction of the growth curve indicates whether the child is growing or not and is more important than the actual weight of the child at any point.
+On each Growth Chart, there are 3 pre-printed Growth Curves. These are called Reference Lines or Z Score Lines and are used to compare and interpret the growth pattern of the child and assess her/ his nutritional status. The 1st/ top curve line on the growth chart is the median which generally speaking is the average. The other two curve lines are below the average and are at a distance.
+Weight of all normal and healthy children plotted on the Growth Chart, fall above 2nd curve (dark green band); weight of moderately underweight children falls between the 2nd curve and to the 3rd curve (yellow band); and weight of severely underweight children fall below the 3rd curve (orange band). A plotted point or a growth curve of a child, which is much above or far below from the 1st pre-printed curve indicates a growth problem.
+Weight-for-length/height Girls (As per WHO Child Growth Standards) Length/height (cm) Weight (kg) Weight-for-length/height Boy (As per WHO Child Growth Standards) Length/height (cm) Weight (kg) Weight-for-Height/Length Chart The horizontal line at the bottom of the Chart is the X Axis. This is for recording the length/height of the child for five years. The vertical line at the far left of the Chart is the Y Axis. This is for recording the weight of the child from birth onwards and is called ‘weight axis’.
+On each Growth Chart, there are 3 pre-printed Growth Curves. These are called Reference Lines or Z Score Lines and are used to compare and interpret the growth pattern of the child and assess her/ his nutritional status. The 1st/ top curve line on the growth chart is the median which generally speaking is the average. The other two curve lines are below the average and are at a distance.
+Weight of all normal and healthy children according to their length/height, plotted on the Growth Chart, falls above 2nd curve (dark green band); weight of children with moderate acute malnutrition fall between 2nd curve to 3rd curve (yellow band); and weight of children with severe acute malnutrition fall below the 3rd curve (orange band). A plotted point or a growth curve of a child, which is much above or far below from the 1st pre-printed curve indicates a growth problem.
+Start growth record of the child from birth or when the mother brings the child to the Anganwadi for the first time. Use MCP Card to record and counsel family members on growth of child using Weight-for-Age charts.
+Maintain the weight for length/height chart for each child and use this chart to screen children with acute malnutrition or the more dangerous form of malnutrition. Use one Growth Chart for each child.

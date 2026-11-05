@@ -1,0 +1,35 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: Pharmacological Management Of Diabetes
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+PHARMACOLOGICAL MANAGEMENT OF DIABETES
+1.	 Oral anti-hyperglycaemic drugs
+2.	 Insulin therapy
+3.	 Non-insulin injectable therapy
+7.1 Anti-Hyperglycaemic  Drugs
+Blood glucose levels are determined by several factors such as absorption of glucose from gut, uptake of glucose by peripheral tissues (muscle, adipose tissue), hepatic glucose output, and secretion of hormones such as insulin and glucagon from the pancreas and incretins from the gut, as well as renal handling of glucose.
+Various anti-hyperglycaemic agents act by modifying the factors aiding in the control of hyperglycaemia as shown in Figure 7.1. The oral anti-hyperglycaemic agents currently available in India are listed in Table 7.1.
+HYPERGLYCEMIA
+BIGUANIDES
+SULPHONYLUREAS
+ALPHA GLUCOSIDASE INHIBITORS
+7.1.1 Biguanides:
+METFORMIN IN RENAL INSUFFICIENCY
+The dose of metformin needs adjustment based on the patient’s renal function, as assessed by the estimated glomerular filtration rate (eGFR). Metformin can be given in full doses if the eGFR is above 60 ml/min. If the eGFR is between 45 and 60 ml/min, the drug can be continued at full dose with more frequent monitoring of renal function. Below 45 ml/min, the dose should be halved and no patient started anew on metformin; the drug should be stopped if the eGFR drops below 30 ml/min.
+7.1.2 Sulphonylureas:
+The sulphonylureas (glibenclamide, glipizide, gliclazide and glimepiride) bind to specific sulphonylurea receptors on pancreatic β-cells and increase insulin secretion.
+7.1.3 Dipeptidyl peptidase-4 (DPP-4) inhibitors (Gliptins):
+7.1.4 SGLT2 Inhibitors (Sodium Glucose Transporter 2 inhibitors):
+7.1.5. Thiazolidinediones (Glitazones):
+7.1.6 Non-sulphonylurea Insulin Secretagogues (Glinides):
+Repaglinide and nateglinide are non-sulphonylurea insulin secretagogues. They are benzoic acid derivatives, which act on separate non-sulphonylurea receptor binding sites on the β-cell and enhance insulin secretion. These agents are absorbed rapidly (0.5-1 hr) and have a short half life (<1 hr). Thus, they result in rapid but brief release of insulin, and hence may be useful in managing postprandial hyperglycaemia.
+7.1.7 Alpha-glucosidase inhibitors:
+Alpha- glucosidase inhibitors (AGI) (acarbose, miglitol and voglibose) act by competitively inhibiting alpha-glucosidase, the enzyme in the small intestine brush border which breaks down oligosaccharides and disaccharides into mono-saccharides.
+Thus, the absorption of glucose is delayed. AGIs are especially useful in decreasing post-prandial glucose levels. They can be combined with all other oral and injectable anti-hyperglycaemic agents. These agents should be started with the minimum dose at any one meal and then increased to the maximum tolerable dose. They must be ingested with the first bite of food, as the drug must be present in the small bowel with the food for proper effect. Hypoglycaemia rarely occurs if used as monotherapy.
+If hypoglycaemia results from combination therapy of which AGI is a component, treatment should be with oral glucose rather than sucrose.
+7.1.8 Other oral anti-hyperglycaemic agents:
+The disease-modifying antirheumatoid drug hydroxychloroquine and the dopamine agonist bromocriptine are also approved for use as antihyperglycaemic agents in India. The role of these agents in the therapeutic algorithm for type 2 diabetes needs further study. The dual PPARα/γ agonist saroglitazar is only licensed for use in diabetic dyslipidaemia in India and not as an antihyperglycaemic agent.
+7.1.9 General Guidelines for using oral anti-hyperglycaemic agents:
+Type 2 diabetes is a heterogeneous disease and hence treatment should be individualized. In every case, due emphasis should be given to encouraging healthy lifestyle choices such as increasing physical activity and modification of diet. In some cases, lifestyle changes alone would suffice to attain therapeutic targets. However, most patients with type 2 diabetes will need pharmacotherapy for achieving their glycemic goals.
+To help the practitioner in selecting the optimal antihyperglycaemic agent, we present below a table showing the important advantages and the disadvantages of each class of agent (Figure 7.2) and a suggested algorithm for their use (Figure 7.3).

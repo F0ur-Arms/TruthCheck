@@ -1,0 +1,40 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: National Guidelines on Diagnosis Case Management and Prevention and Control of Leptospiros, part 5
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769332981_File558.pdf
+────────────────────────────────────────────────────────────
+
+Procedure Treat the lm three times, 30 seconds each time, with xative.
+Wash off the xative with absolute alcohol and allow the alcohol to act for 3 min.
+Drain off the excess alcohol and carefully burn off the remainder until the lm is dry Pour on the mordant, heated till steam rises, and allow it to act for 30 sec.
+Wash well in distilled water and again dry the slide.
+Treat with ammoniated silver nitrate, heated till steam rises, for 30 sec, till the lm becomes brown in colour.
+Wash well in distilled water, dry and mount in Canada Balsam.
+It is essential that the specimen be mounted in balsam under a cover slip before examination, as some immersion oils cause the lm to fade at once. The spirochetes are stained brownish black on a brownish-yellow background.
+3.   Detection of specic antibodies of leptospires
+a) Detection of serovar specific antibodies : Microscopic Agglutination Test ( MAT): MAT is the gold standard test for detection of serovar/ serogroup specic antibodies. One of the critical issues of MAT is the cut off or a signicant titer for diagnosis, when the test is done on a single sample. A battery of antigens covering the range of serovars that are expected or likely to be circulating in a particular geographical area, where the patient becomes infected, should be used.
+Preparation of Antigens : The stock for collection of leptospires is best maintained in screw capped test tube containing 5-6 ml of liquid media.
+Fresh subculture are made by inoculating 0.5 ml from each strain/ serovar into tubes A loop full of culture should be examined by dark eld microscopy to conrm the presence of viable leptospires and the absence of contaminant.
+The inoculated cultures are incubated at 30º C and checked for the presence of growth after 5-7 days.
+Procedure : Fill all 96 wells of microtitre plate with 50µl PBS Add another 140 µl PBS to the wells of column 2 Add 10 µl of serum to the wells of column 2 (now dilution becomes 1:20), mix and discard 100 µl.
+Dilute by pipetting 50 µl from one well to the next, discard the nal 50 µl.
+Add 50 µl leptospira cultures to all wells.
+Incubate for 2 - 4 hour at 30 C Reading of the test results: The serum antigen mixtures are examined under a dark eld microscope for agglutination. For observation, one drop mixture is transferred with a platinum loop or pipette from a well to a microscopic slide and examined under dark eld microscope with 20x objective without cover slip. Compare with a control suspension of leptospires diluted 1 in two in PBS without serum.
+Agglutination is measured indirectly by establishing the reduction of Leptospiral density with 50% in comparison with the density of free leptospires in control.
+Advantages : It is serovar/ serogroup specic test. Some clue about the infecting serovar can be obtained Once infected the person stays MAT positive for several years so the test is useful for epidemiological purpose.
+Limitations : 14-21 strains have to be maintained in cultures which are often very difcult.
+It is not possible to distinguish between IgM indicative of current infection and IgG indicative of past infection.
+1.  ELISA
+ELISA is one of the techniques commonly used for the diagnosis. The test can detect specic antibodies earlier than MAT. The advantage of the test is that it can differentiate between recent and past infection by detecting the type of antibodies (IgM or IgG) present in the clinical specimen. In this test, broadly, reactive antigen is used. The antigen antibody reaction is visualized or measured by spectrophotometer/ ELISA reader using a conjugate (enzyme conjugated to anti- IgM or IgG) and a colour reagent. (Kits are commercially available. Procedure of the test should be as per the manufacturers' instructions.) Advantages Single antigenic preparation can be used.
+Allows rapid processing of large number of samples.Limitations : Infecting serovar cannot be assessed.
+2. Rapid Diagnostic Test
+Latex based Agglutination Test . Immunochromatography The tests should be performed as per manufacturer's instructions.
+4.   Molecular Methods:
+Polymerase Chain Reaction (PCR): PCR method involves in vitro amplication of genus-specic target, DNA sequence, if present, in clinical samples. A pair of short DNA fragments, known as primers is used for specic amplication of DNA fragments from the pathogen in blood, urine or CSF. Positive diagnosis results from the amplication of the target sequence whereas negative samples fail to produce amplied DNA in PCR. PCR can be used to detect leptospiral infection in both animals and human beings, especially during the rst few days of the disease when antibodies are not fully detectable in serological tests. The primers used for the PCR are G1 5' – CTG AAT CGC TGT ATA AAA GT-3' & G2 5'-GGA AAA CAA ATG GTC GGA AG-3' and B 64I5'-CTG AAT TCT CAT CTC AAC TC-3' & B64II5'-GCA GAA ATC AGA TGG ACG AT-3'.
+Advantages : Gives relatively quick results in the early stage of the disease when antibodies have not yet developed in detectable levels Limitations :- Sophisticated equipment and trained manpower is required.
+1. The sero-diagnostic tests being used for Leptospirosis has shown cross-
+reactivity with hepatitis E and A. Thus, caution is necessary in the interpretation of serological data.
+2. The health facilities undertaking sero-diagnosis should send 5% of their sera
+samples to the designated laboratory for cross-verication to ensure correct diagnosis Community Surveillance by Paramedics/ Volunteers/Field workers Acute febrile illness with headache, myalgia and prostration associated with a history of exposure to infected animals or an environment contaminated with animal urine with one or more of the following: Calf muscle tenderness/Conjuctival suffusion/Anuria or oliguria and/or proteinuria/Jaundice/Hemorrhagic manifestations (intestines, lung)/Meningeal irritation/Nausea, Vomiting, Abdominal pain, Diarrhoea.
+Suspected leptospirosis No Yes Ask/ Look for Severe myalgia Oliguria/Anuria Blood in cough Breathlessness Confusion Cold extremities Absent Present Refer to CHC/ District hospital Refer to PHC Look for other causes of fever Note: Field Worker shall daily report (A) Number of persons surveyed (B) Number of fever cases (C) Fever cases referred and (D) Any death following fever Guidelines for fever case management at PHC level for Medical ofcers Acute febrile illness with headache, myalgia and prostration associated with a history of exposure to infected animals or an environment contaminated with animal urine with one or more of the following: Calf muscle tenderness/Conjuctival suffusion/Anuria or oliguria and/or proteinuria/Jaundice/Hemorrhagic manifestations (intestines, lung)/Meningeal irritation/Nausea, Vomiting, Abdominal pain, Diarrhoea.
+3. Amoxycillin/ Ampicillin 30-50 mg/kg/day should be given in divided doses 6hourly for 7 days.
+3.Amoxycillin/ Ampicillin of 30-50 mg/kg/day should be given in divided doses 6hourly for 7 days.

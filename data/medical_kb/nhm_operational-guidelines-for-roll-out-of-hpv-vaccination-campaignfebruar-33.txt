@@ -1,0 +1,73 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 33
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Ensure registration, recording and reporting to be done on U-WIN.
+Review and monitor plan to vaccinate missed beneficiaries.
+Use the activity session-site microplans to strengthen routine immunization (RI) session microplans at the block level.
+5. ROLE OF FIRST-LINE SUPERVISOR
+First-line supervisors will be accountable for all aspects of the Campaign in areas allocated to them. Each supervisor will supervise three teams. Supervision of sessions as well as community monitoring will be conducted by supervisors/Monitors form the health department and development partners. They should be familiar with the area allocated to them. All supervisors must receive training prior to the activity in the technical as well as operational aspects. Each supervisor should be independently mobile.
+Pre-activity tasks Familiarize yourself with the allocated area.
+Assist the BMO/PHC-MO in preparing micro-plans, including: Selection of vaccinators, ASHAs, AWWs, volunteers and verifiers.
+Preferably, team supervisors should be from the same area they supervise, as this ensures familiarity with local communities.
+Ensure that the vaccine and logistics plan is prepared.
+Ensure ANMs, ASHAs, AWWs, and volunteers attend scheduled training sessions.
+Conduct random field visits to confirm that ASHAs have completed house-listing of target beneficiaries and to assess the activity preparations using the preparedness assessment checklist.
+During activity tasks Supervisors should use the monitoring checklist to assess the quality of activities at session sites.
+At the end of each day, supervisors will analyze coverage data.
+Attend the evening block-level meeting and provide feedback to the MO.
+Supervisors must ensure that any AEFI occurring during the session, or reported afterwards is recorded in the AEFI registers.
+All serious cases, including deaths, hospitalizations, or clustered incidents, must be promptly reported to the MO/MO in charge.
+Post-activity tasks Supervisors will do RCM after one month of the activities.
+6. ROLE OF IMPLEMENTERS AT HPV VACCINATION SITES (VACCINATOR, MOBILIZER,
+VERIFIER AND VOLUNTEER) Proper implementation of activities at the vaccination session sites is the key to success. At the session site, there is a team of four members comprising of vaccinator, mobilizer, verifier and volunteer. Each member has a specific role in the HPV vaccination Campaign as described below.
+6.1 Roles and responsibilities of the vaccinator
+Pre-activity Assist in conducting the headcount survey to prepare line listing of all the eligible girls aged 14-year to estimate the target population.
+Submit the microplan to the planning unit including vaccine delivery and logistics requirement.
+Providing updated and accurate information on the sub-centre/urban area, including new permanent or temporary settlements, hamlets etc.
+Participating in training and coordinating with ASHAs, AWWs, and volunteers to ensure attendance at scheduled training sessions.
+Liaising with community leaders in the catchment area to ensure completion of target beneficiary listing by ASHAs/AWWs.
+During activity Organize HPV vaccination session site as per the microplan, with the help of the team - mobilizer, verifier and volunteer.
+Ensure that all IEC materials including poster, banner is displayed at the right place at the session site.
+Check that all logistics (vaccines, syringes, indelible markers, anaphylaxis kit, cotton swab) have been received in sufficient quantity.
+Check that HPV vaccine is within expiry date and the VVM is in usable stage.
+Administer vaccine following all safety norms. Dose is 0.5 ml and should be administered intramuscularly in the left upper arm. The site is important for survey purposes.
+Ensure every vaccinated girl receives an HPV vaccination certificate.
+Supervise and guide ASHA, AWWs and volunteers in her team.
+Ask each beneficiary to wait for at least 30 mins after vaccination.
+Respond promptly to AEFIs and ensure reporting of AEFI.
+Remain at the session site for 1 hour after vaccinating the last girl, to manage any AEFI.
+Ensure all immunization waste generated during vaccination is returned to the CCP from which logistics were issued.
+Ensure registration, recording and reporting on U-WIN portal.
+6.2 Roles and Responsibilities of Mobilizer
+Pre-activity Participate in microplanning meetings/trainings at block and sub-centre levels.
+Identify hard-to-reach areas (tribal belts, urban slums, informal schools, industrial settings, red light areas, construction sites, orphanages, correction centers) and conducting headcount surveys and preparing name-based line lists of all eligible 14-year-old girls.
+Distribution of HPV vaccination Information Card (Refer to Annexure 6) to parents of eligible girl.
+Informing families about vaccination dates and encouraging them to get their daughters registered on U-WIN portal and get vaccinated.
+Support eligible parents to self register on U-WIN portal. Helping parents to update vaccination status of girls on U-WIN who are already vaccinated.
+Spreading awareness about cervical cancer and the HPV vaccine in the community.
+Assisting ANMs in estimating session site logistics, vaccine carrier needs, and other requirements.
+During activity (at session site) Being present at the vaccination site as per the micro-plan to assist the ANM with session setup and manage the crowd at the session site, including drinking water and seating arrangements, along with verification and coordination.
+Mobilizing eligible girls to HPV vaccination session sites.
+Support ANM/Data Entry Operator for walk in registration of beneficiaries in U-WIN platform.
+Assist in marking left index finger of eligible girls.
+Monitoring for Adverse Events Following Immunization (AEFI) and support ANM to provide immediate care as per training Educating parents and girls on post vaccination care and reassuring them about mild side effects.
+Post activity Identify and mobilize missed beneficiaries to nearest session site for vaccination.
+Assisting in AEFI follow-ups and reporting any adverse events noticed post vaccination, referring the beneficiary to 24x7 nearest health facility in case of any emergency in evening/late night.
+Participating in review and feedback meetings at the sub-centre or PHC.
+6.3 Roles and Responsibilities of Volunteer
+Pre-activity Participate actively in training activities before the Campaign.
+Support in activities being undertaken for creating awareness and social mobilization.
+During activity Assist in crowd management and session site management.
+Mark the left-hand index finger of each vaccinated girl, only for the 3 month duration of the activities.
+6.4 Roles and Responsibilities of Verifier
+Verify that all eligible beneficiaries have arrived at the session site according to the due list.
+Confirm the index finger marking has been done after vaccination.
+Ensure beneficiaries are observed for 30 minutes post-vaccination.
+6.5 Roles and Responsibilities of Principal, School Nodal Teacher and Class Teacher:
+Pre-activity Appoint a nodal teacher to liaise with the health department.
+Conduct parent–teacher meetings with Medical Officers/ANMs/CHOs and use platforms such as SMS and WhatsApp to build confidence in the vaccine by sharing information about HPV vaccination, cervical cancer, and vaccine safety, address concerns, dispelling myths and information about nearest vaccination center and vaccination dates.
+Distribute information card (Refer to Annexure 6) to eligible girls/parents.
+During activity Remind students and parents of vaccination dates and nearby vaccination centres.
+Use morning assemblies and IEC materials for reinforcement.

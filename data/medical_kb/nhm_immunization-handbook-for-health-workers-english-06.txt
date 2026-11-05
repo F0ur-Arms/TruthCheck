@@ -1,0 +1,43 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 6
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Is a booster dose required for Rotavirus vaccine?
+No booster dose of Rotavirus vaccine is recommended. Only three doses at 6, 10 and 14 weeks are required to complete the schedule of vaccination for a child.
+Should Rotavirus vaccine be given to children who have already received first dose of OPV and Pentavalent vaccine?
+No, during the initial period of Rotavirus vaccine introduction, only the infants coming for the first dose of OPV and pentavalent vaccine will be administered Rotavirus vaccine. These children will be given 2nd and 3rd doses in subsequent visits as per the schedule. Infants, who are coming for their second or third dose of OPV and pentavalent vaccine, will complete the schedule with OPV and pentavalent vaccine only. Rotavirus vaccine is not to be started with second or third dose of OPV and Pentavalent vaccine.
+What should be done if a child has received one or two doses of Rotavirus vaccine in a private facility?
+If the parents want to vaccinate their child from the public sector after receiving one or two doses of Rotavirus vaccine in a private facility, a new course of Rotavirus vaccine must be started with all three doses at one month intervals provided the child is less than one year old.
+IPV refers to Inactivated Polio Vaccine administered by injection. Evidence suggests that this vaccine, when used along with OPV, increases the protection to the individual as well as the community. IPV together with OPV prevents re-emergence and reinfection of wild poliovirus (WPV).
+No, IPV (injection) will not replace OPV (polio drops), since IPV is recommended for administration in addition to OPV.
+Is it safe to give IPV and OPV together?
+Yes, it is absolutely safe to give IPV and OPV together. It is also important – and best – for a child to receive both IPV and OPV. Together, these two vaccines provide safe and strong protection against polio. If a child only receives one of the vaccines it will not be as well protected as the child that has received both the vaccines. Primary doses of OPV (OPV1, OPV2 and OPV 3) should be completed as per schedule.
+IPV has to be administered as a two-dose fractional intradermal schedule at 6 & 14 weeks.
+How should you vaccinate if a child has not received the vaccine at 6th week?
+If missed, the Fractional IPV 1st dose should be given as early as possible after the 6th week. The 2nd dose must be given with 8 weeks interval. h) Measles / Rubella What are Measles / Rubella diseases?
+Measles is a highly infectious disease causing illness and death due to complications in the form of diarrhea, pneumonia or brain infection mostly among the children less than five years of age.
+Rubella is a mild disease but when infection occurs in early pregnancy, it has the potential to cause spontaneous abortions, fetal deaths, still births and serious congenital defects in the child causing lifelong disabilities.
+CRS, (Congenital Rubella syndrome) is a set of serious congenital defects a child may be born with when a pregnant women gets Rubella infection in early pregnancy , causing blindness, deafness, heart defects, mental retardation, liver disorders and other hematological disorder, incompatible with normal living.
+This Measles –Rubella vaccine is given for preventing both measles and rubella disease in the child, as these diseases can be only prevented by vaccination.
+Does a child need to be vaccinated if she or he has history of any fever-rash illness including measles or rubella disease?
+Yes, every child must be vaccinated with two doses, as per the national immunization schedule with MR vaccine at the recommended ages, irrespective of any past fever-rash illness or measles/rubella disease.
+If a child has received the Measles Rubella vaccine before 9 months of age, is it necessary to repeat the vaccine later?
+Yes, the Measles Rubella vaccine needs to be administered, according to the National Immunization Schedule, after the completion of 9 months until 12 months of age as 1st dose and at 16-24 months as 2nd dose in RI.
+If a child comes after 2 years for the first dose, then can he/she get the second dose?
+All efforts should be made to immunize all children at the right age i.e. first dose at completed 9 months to 12 months and second dose at 16-24 months. However if a child comes late (beyond 2 years),then two doses of the vaccine can be given at one month interval until 5 years of age under UIP.
+If a child has received all vaccines as per the national immunization schedule, dose she or he need to be vaccinated during supplementary MR campaigns?
+Yes, in addition to the recommended national immunization schedule the child (if eligible as per age group targeted) must be vaccinated with supplementary MR vaccines during campaigns.
+As measles and JE vaccine doses are recommended for the same age group, can they be given together?
+Yes, two live injectable vaccines can be administered simultaneously at different sites.
+Remember – if two live injectable vaccines are not given together as per schedule there must be a minimum interval of 28 days. i) Japanese Encephalitis What if someone misses receiving JE vaccine during catch-up campaigns?
+Those children aged 9 months to 15 years who have missed receiving JE vaccine during the catch-up campaigns can receive it at the nearest PHC/CHC or district hospital.
+If a child more than 9 months but less than 24 months who has never received any JE vaccine comes for immunization, how should JE vaccine be administered?
+The first dose should be given at first contact and the second dose should be given with an interval of 3 months following the first dose.
+J ) Pneumococcal Conjugate Vaccine (PCV) What should be done if a PCV dose is delayed?
+The two primary doses and one booster dose of PCV should be given during the first year of life.
+If the doses are delayed within the first year, Doses (both primary and booster) must be separated by a minimum interval of at least 2 months, to be given at the next scheduled immunization visit.
+In delayed cases beyond 1 year of age, due doses can be given to a child only if a child has received at least one dose of PCV before his/her first birthday.
+For those with at least one previous PCV dose, the series should be completed at the earliest available opportunity.
+No, two PCV doses are not sufficient to confer long lasting immunity, especially for protecting against pneumococcal colonization which is essential for the full public health benefit.
+The benefit of the PCV booster dose is not only in providing additional duration of immunity against pneumocococcal disease, but it also serves to reduce carriage, thus having an indirect benefit for the other community members.

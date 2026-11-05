@@ -1,0 +1,91 @@
+SOURCE: CDC
+TITLE: Measles, Mumps, Rubella, Varicella (MMRV) Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/mmrv.html
+────────────────────────────────────────────────────────────
+
+Key points
+You can protect against these diseases with vaccination.
+Overview
+Measles causes fever, rash, cough, runny nose, and red, watery eyes. Complications can include ear infection, diarrhea, pneumonia, brain damage, and death.
+Mumps causes fever, headache, muscle aches, tiredness, loss of appetite, and swollen salivary glands. Complications can include swelling of the testicles or ovaries, deafness, inflammation of the brain and/or tissue covering the brain and spinal cord (encephalitis/meningitis) and, rarely, death.
+Rubella , causes fever, sore throat, rash, headache, and red, itchy eyes. If a woman gets rubella while she is pregnant, she could have a miscarriage, or her baby could be born with serious birth defects.
+Varicella (chickenpox) causes blister-like rash, itching, fever, and tiredness. Complications can include severe skin infection, scars, pneumo­nia, brain damage, or death.
+Due to high vaccination rates, outbreaks of measles, mumps, and rubella in the U.S. are not as common as they were before the vaccine began being used. However, these diseases still appear in the U.S. and people who decide not to vaccinate their children because of religious or personal beliefs put their children and others at risk for getting these diseases.
+Available vaccine & manufacturer package insert
+The FDA approved ProQuad in 2005 for use in children ages 1 through 12 years of age.
+Common side effects
+- Sore arm from the shot.
+- Fever.
+- Mild rash.
+Some children who get MMRV vaccine may have a febrile seizure after getting the shot. However, these seizures are not common and have not been associated with any long-term problems.
+Rarely, the MMRV vaccine can cause swelling of neck or cheeks or a temporary low platelet count.
+Extremely rarely, the vaccine's ingredients cause severe allergic (anaphylactic) reactions. Children should not get MMRV vaccine if they have ever had a life-threatening allergic reaction to any component of the vaccine, including gelatin or the antibiotic neomycin.
+When to call 911
+Vaccines, like any medicine, can have side effects. Most people who get MMRV vaccine do not have any serious problems with it. Getting MMRV vaccine is much safer than getting measles, mumps, rubella, or varicella.
+Report possible adverse events to VAERS‎
+A closer look at the safety data
+- Before the MMRV vaccine was licensed for use in the United States, researchers studied the vaccine in children aged 12 to 23 months old. The studies found that rash and a fever of 102°F or higher happened more often during the 42 days after the first dose of MMRV vaccine compared with separate injections of MMR and varicella vaccines. There is no increased risk of febrile seizures after vaccination with MMRV vaccine in children aged 4 through 6 years. Febrile seizures have not been associated with any long-term effects.
+- Soreness from the shot was reported less often after MMRV vaccine than after MMR and varicella vaccines given in separate shots at the same visit. For more information, see "Results from Studies Before MMRV Vaccine Was Licensed."
+Explore CDC research on vaccine safety
+CDC's Vaccine Safety Research page provides access to CDC vaccine safety studies and data published in scientific journals. On this page, you can explore journal articles that use CDC's data and cover a variety of vaccine safety related topics.
+Keep Reading Vaccine Safety Research
+Previous studies
+VSD MMRV safety study
+Background
+Through use of CDC's Vaccine Safety Datalink (VSD) Project's rapid cycle analysis (RCA) , scientists can detect adverse events in near real time so that the public can be informed quickly of any possible risks. VSD uses computerized data from managed care organizations, which gather data on vaccination, demographic information, and health outcomes of their patients (more than 8.8 million patients across the country each year).
+As part of ongoing efforts to monitor the safety of vaccines, CDC used rapid cycle analysis to study the safety of the MMRV vaccine.
+Methods
+- The study assessed risk for certain health outcomes, including seizures, within 42 days after vaccination among children aged 12-23 months who received MMRV vaccine. This is the age when the first dose is recommended for the MMRV vaccine as well as for the measles, mumps, rubella (MMR) and varicella vaccines. Investigators looked at how often certain outcomes occurred among children in the MMRV vaccine group compared with children who received MMR vaccine (many children also received varicella vaccine) mainly in the period before MMRV vaccine was available.
+- An increased risk for seizures of any cause was detected. The seizures were clustered around 7-10 days after vaccination in both groups (MMRV vaccine [1 shot] and MMR and varicella vaccines [2 separate shots] administered at the same visit).
+- Investigators reviewed the medical charts of children identified in the database as having had seizures 7-10 days after receiving an MMRV vaccine or MMR and varicella vaccines to distinguish febrile seizures from other kinds of seizures.
+- Investigators used statistical methods to compare rates of febrile seizures among children in two study groups: 1) children who received an MMRV vaccine during January 2006 -October 2008; and 2) children who received separate injections of MMR and varicella vaccines at the same visit during January 2000 -October 2008.
+Results
+Only children aged 12-23 months who received the first dose were studied. This information was presented at the June 2009 Advisory Committee on Immunization Practices (ACIP) meeting.
+- The study included 83,107 children who received their first dose of MMRV vaccine and 376,354 children who received their first doses of MMR and varicella vaccines administered at the same visit.
+- Of the children identified in the computerized data as having seizures 7-10 days after vaccination, about 90% were found to be febrile seizures after chart review.
+- The rates of febrile seizures that occurred 7-10 days after vaccination were 8.5 per 10,000 in the MMRV vaccine group compared with 4.2 per 10,000 in the MMR and varicella vaccine group. Thus, the risk was about 2 times higher in children who received the single shot vs. the two separate shots.
+- 7-10 days after vaccination, about one additional febrile seizure would be expected to occur for every 2,300 children who receive an MMRV vaccine compared with children vaccinated with MMR and varicella vaccines at the same visit.
+- A similar percentage of children with febrile seizures in the MMRV vaccine group (30%) and the MMR and varicella vaccine group (29%) had a family history of seizures.
+VSD MMRV vaccine safety studies among children aged 12-23 months
+Before MMRV vaccine was licensed
+- Two adverse events occurred more frequently during the 42 days after the first dose of MMRV vaccine compared with separate injections of MMR and varicella vaccines—a fever of 102° F or higher and rash. Most of the risk for fever and rash was in the 5-12 days after vaccination. These conditions typically resolved on their own.
+- Soreness at injection site: 1 child out of 5.
+- Fever: 1 child out of 5.
+- Rash: 1 child out of 20.
+- Soreness at injection site: 1 child out of 4.
+- Fever: 1 child out of 7.
+- Rash: 1 child out of 25.
+Because these studies showed an increased risk for fever after MMRV vaccination, compared with vaccination with MMR and varicella vaccines in separate shots at the same visit, there was concern about a potential increased risk for febrile seizures (seizures triggered by a rising or dropping fever) after MMRV vaccination. As part of routine monitoring of vaccine safety for all new vaccines, CDC conducted studies of the safety of MMRV vaccine. In these studies, CDC analyzed data reported to the VSD regarding MMRV vaccine given to children aged 12-23 months, the age when the first dose of MMRV or MMR and varicella vaccines is recommended. The study assessed the rate of several medical events after MMRV vaccination, including febrile seizures.
+After MMRV vaccine was licensed
+- 7-10 days after the first dose of vaccination, the rate of febrile seizures was about 2 times higher among children who received MMRV vaccine (8.5 per 10,000 children vaccinated) than among children who received measles, mumps, and rubella (MMR) and varicella vaccines separately at the same visit (4.2 per 10,000 children vaccinated), mainly before MMRV vaccine became available.
+- 7-10 days after vaccination, about one additional febrile seizure would be expected to occur among every 2,300 children vaccinated with first-dose MMRV vaccine compared with children vaccinated with the first doses of MMR and varicella shots at the same visit.
+Merck, the manufacturer of the MMRV vaccine, also sponsored an observational study (after MMRV vaccine was licensed) of febrile seizures after the first dose of MMRV vaccine was given to children aged 12-23 months. Here are some key findings from that study:
+- The rate of febrile seizures 5-12 days after first dose of vaccination was 7.0 per 10,000 children who received MMRV vaccine compared with a rate of 3.2 per 10,000 children who received measles, mumps, rubella (MMR) and varicella vaccines separately at the same visit (3.2 is the rate before MMRV vaccine became available).
+- 5-12 days after vaccination, about one additional febrile seizure would be expected to occur among every 2,600 children vaccinated with the first dose of MMRV vaccine compared with children vaccinated with the first doses of MMR and varicella vaccines administered at the same visit.
+These findings and other relevant data were presented to the Advisory Committee on Immunization Practices (ACIP) . In May 2010, CDC released new recommendations on the use of MMRV vaccine.
+To help parents and healthcare providers better understand the ACIP recommendations, risks and benefits of MMRV vaccine, and febrile seizures, the following information is available:
+- For Parents and Caregivers: Fact Sheet on Measles, Mumps, Rubella, and Varicella
+- For Parents and Caregivers: Frequently Asked Questions on MMRV Vaccines
+- For Providers: Fact Sheet for Providers on MMR & Varicella Vaccines or MMRV Vaccine
+- For Providers: Frequently Asked Questions on MMRV Vaccines
+- Frequently Asked Questions about Febrile Seizures Following Childhood Vaccinations
+- Information on the VSD MMRV Vaccine Safety Study
+- Merck Package Insert for ProQuad (MMRV vaccine)
+MMRV Vaccine and Febrile Seizures
+The study, "Measles-Mumps-Rubella-Varicella Combination Vaccine and the Risk of Febrile Seizures" uses computerized information from CDC's Vaccine Safety Datalink (VSD) Project . VSD consists of managed care organizations which gather vaccination and demographic information, as well as health outcomes of their patients (more than 9.2 million across the U.S.)
+Researchers examined VSD data on more than 83,000 children who received their first dose of MMRV vaccine and over 376,000 children who received their first doses of MMR and varicella vaccines given at the same visit from the year 2000 to the year 2008.
+Main findings 1
+- For MMRV combination vaccine, there was 1 additional febrile seizure for every 2,300 doses given, compared to separate MMR plus varicella vaccines in the 7 to 10 days following vaccination.
+- Of the children identified as having seizures following the 7 to 10-day vaccination period, about 90% were found to be febrile seizures.
+- The rate of seizures in this timeframe was 85 per 1000 person-years in the MMRV vaccine group compared to 42 per 1000 in the MMR and varicella vaccine group. This risk was about 2 times higher in children who received the combination shot (MMRV) versus the single shots (MMR and varicella).
+Conclusions
+CDC recommends providers who choose to use the combination MMRV vaccine be aware of and clearly communicate to parents and caregivers the increased risk of fever and seizure within the 7 to 10 days following vaccination.
+Parents should be educated on the risk of seizure following the combination MMRV vaccine and know their options. Most children recover quickly from febrile seizures and have no lasting effects.
+How CDC monitors vaccine safety
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- Klein, N. P., Fireman, B., Yih, W. K., Lewis, E., Kulldorff, M., Ray, P., Baxter, R., Hambidge, S., Nordin, J., Naleway, A., Belongia, E. A., Lieu, T., Baggs, J., Weintraub, E., & Vaccine Safety Datalink (2010). Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures. Pediatrics , 126 (1), e1–e8. https://doi.org/10.1542/peds.2010-0665
+- CDC. Use of Combination Measles, Mumps, Rubella, and Varicella Vaccine: Recommendations of the Advisory Committee on Immunization Practices (ACIP) . MMWR . 2010 May 07;59(RR03):1-12.
+- Hornig M, Briese T, Buie T, Bauman ML, Lauwers G, et al. Lack of association between measles virus vaccine and autism with enteropathy: A case-control study.External PLoS One . 2008 Sep 4;3(9):e3140.
+- Klein NP, Fireman B, Yih WK, Lewis E, Kulldorff M. Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizuresExternal . Pediatrics . 2010 Jul;126(1):e1-8.
+- Klein NP, Lewis E, Baxter R, et al. Measles-containing vaccines and febrile seizures in children age 4 to 6 yearsExternal . Pediatrics . 2012 May;129(5):809 -814.
+- Rowhani-Rahbar A, Fireman B, Lewis E, Nordin J, Naleway A, et al. Effect of age on the risk of Fever and seizures following immunization with measles-containing vaccines in childrenExternal . JAMA Pediatr . 2013 Dec;167(12):1111-7.

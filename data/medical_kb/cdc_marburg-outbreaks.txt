@@ -1,0 +1,48 @@
+SOURCE: CDC
+TITLE: History of Marburg Outbreaks
+URL: https://www.cdc.gov/marburg/outbreaks/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+- Most Marburg virus disease (Marburg) outbreaks have occurred in Sub-Saharan Africa.
+- The virus has been diagnosed in other areas in infected travelers or after accidental laboratory infections.
+- The disease is named for the German city where scientists became ill with the disease's first known cases in 1967 while handling monkeys imported from Africa.
+All Marburg outbreaks
+History of Marburg 1967-2025
+On November 14, 2025, the Ethiopia Ministry of Health declared the country's first Marburg outbreak after cases were confirmed in the South Ethiopia Regional State. Ethiopia reported 14 confirmed cases and 9 deaths (64% case fatality rate). The last confirmed case-patient died on December 14, 2025, and the outbreak was officially declared over on January 26, 2026.
+On January 14, 2025, the Tanzania Ministry of Health announced a Marburg outbreak in the Kagera Region in northwest Tanzania. Tanzania reported 10 cases, two confirmed and eight probable. All patients died (100% case fatality rate). The last confirmed case-patient died on January 28, 2025, and the outbreak was officially declared over on March 13, 2025.
+On September 27, 2024, the Rwanda Ministry of Health announced the country’s first Marburg outbreak. Most of the confirmed cases were among healthcare workers from two healthcare facilities in Kigali. Rwanda recorded 66 cases and 15 deaths from Marburg. The last known case tested negative on November 8, and the outbreak was officially declared over on December 20, 2024.
+On March 21, 2023, Tanzania government officials declared the country's first Marburg outbreak. The outbreak was declared over on May 31, with a total of nine cases reported, one probable and eight confirmed, of which six died (67% case-fatality rate). All cases were reported from the country's northwest Kagera region.
+On February 13, 2023, the Government of Equatorial Guinea (GREG) declared the country's first Marburg outbreak. Cases were reported in several provinces, including Kie-Ntem, Littoral, and Centro Sur. The government declared the outbreak over on May 15, with 16 confirmed illnesses and 12 deaths. One additional lab-confirmed sample was never linked to a specific patient since the sample was unlabeled. An additional 23 probable cases, all of whom died, were also reported during this outbreak.
+The World Health Organization declared the outbreak over on June 8, 2023, 42 days after the last patient was discharged from treatment.
+There is no evidence of a link between the 2023 Equatorial Guinea and Tanzania Marburg outbreaks.
+A fatal suspect case of Marburg was identified in the Ashanti region of Ghana on July 7, 2022. Marburg was initially detected through testing at Ghana’s national laboratory and confirmed at the Institut Pasteur in Dakar, Senegal, marking the first detection of Marburg in Ghana. Shortly after, two additional family members were also confirmed to have Marburg . No additional cases outside the family cluster were identified. The outbreak was declared over in September. There were three cases and two deaths (67% case-fatality rate).
+One case was reported and confirmed by the Guinean Ministry of Health in a patient who was diagnosed after death. No additional cases were confirmed after more than 170 high-risk contacts were monitored for 21 days.
+A blood sample from Kween District in Eastern Uganda tested positive for Marburg virus. Within 24 hours of confirmation, a rapid outbreak response was begun. This outbreak occurred as a family cluster with no additional transmission outside of the four related cases. There were four cases and three deaths (75% case-fatality rate).
+Overall, one fatal case was confirmed, and 197 contacts were followed for 21 days. Out of these 197 contacts, eight developed symptoms similar to Marburg, but all tested negative at the Uganda Virus Research Institute (UVRI) with support from CDC.
+Testing at CDC/UVRI identified a Marburg virus disease outbreak in the districts of Kabale, Ibanda, Mbarara, and Kampala over a three-week period. There were 15 cases and four deaths (27% case-fatality rate).
+A 40-year-old Dutch woman with a recent history of travel to Uganda was admitted to hospital in the Netherlands. She had visited a cave in Maramagambo forest in Uganda, at the southern edge of Queen Elizabeth National Park). Three days before hospitalization, the first symptoms (fever, chills) occurred, followed by a rapid deterioration in her health. The woman died on the 10th day of the illness.
+A U.S traveler returned from Uganda in January 2008. The patient developed illness four days after returning, was hospitalized, discharged, and recovered fully. The patient was later diagnosed with Marburg virus infection.
+This was a small outbreak, with four cases in young men working in a lead and gold mine. To date, there have been no additional cases identified. There was one death (25% case-fatality rate).
+This outbreak is believed to have begun in Uige Province in October 2004. Most cases detected in other provinces have been linked directly to the outbreak in Uige. There were 252 cases and 227 deaths (90% case-fatality rate).
+Most cases occurred in young male workers at a gold mine in Durba, in the northeastern part of the country, which proved to be the epicenter of the outbreak. Cases were later detected in the neighboring village of Watsa. There were 154 cases and 128 deaths (83% case-fatality rate).
+This outbreak occurred through laboratory contamination. There was one case and the patient died.
+A 15-year-old Danish boy was hospitalized with a three-day history of headache, malaise, fever, and vomiting. Nine days prior to symptom onset, he had visited Kitum Cave in Mount Elgon National Park. Despite aggressive supportive therapy, the patient died on the 11th day of illness. No further cases were detected.
+The patient had recently traveled, including a visit to Kitum Cave in Kenya’s Mount Elgon National Park. Despite specialized care in Nairobi, the male patient died. A doctor who attempted to revive the patient developed symptoms nine days later but recovered. There were two cases and one death (50% case-fatality rate).
+A man with a recent travel history to Zimbabwe was admitted to hospital in South Africa. Infection spread from the man to his traveling companion and a nurse at the hospital. The man died, but both women were given vigorous supportive treatment and eventually recovered (33% case-fatality rate).
+Simultaneous outbreaks occurred in laboratory workers handling African green monkeys imported from Uganda. In addition to the 31 reported cases, an additional primary case was later diagnosed by blood test. There were 31 cases and 7 deaths (23% case-fatality rate).
+- Siegert R. Marburg Virus. In. Virology. New York: Springer-Verlag; 1972; pp. 98-153.
+- Feldmann H, Slenczka W, Klenk HD. Emerging and reemerging of filoviruses. Archives of Virology . 1996;11(Suppl.):77-100.
+- Conrad JL, Isaacson M, Smith EB, Wulff H, Crees M, Geldenhuys P, Johnston J. Epidemiologic investigation of Marburg virus disease, Southern Africa, 1975 . Am J Trop Med Hyg. 1978 Nov;27(6):1210-5.
+- Smith DH, Johnson BK, Isaacson M, et al. Marburg-virus disease in Kenya. Lancet . 1982; 1(8276):816-820.
+- Johnson ED, Johnson BK, Silverstein D, et al. Characterization of a new Marburg virus isolated from a 1987 fatal case in Kenya. Archives of Virology . 1996;11(Suppl):101-114.
+- Nikiforov VV, Turovskii IU, Kalinin PP, et al. A case of laboratory infection with Marburg fever. Zhurnal Mikrobiologii, Epidemiologii i Immunobiologii . 1994(3):104-106.
+- Bausch DG, Nichol ST, Muyembe-Tamfum JJ, et al. Marburg hemorrhagic fever associated with multiple genetic lineages of virus. New England Journal of Medicine . 2006;355:909-919.
+- Towner JS, Khristova ML, Sealy TK, et al. Marburgvirus genomics and association with a large hemorrhagic fever outbreak in Angola. Journal of Virology . 2006;80(13):6497-6516.
+- Adjemian J, Farnon EC, Tschioko F, et al. Outbreak of Marburg hemorrhagic fever among miners in Kamwenge and Ibanda districts, Uganda, 2007. Journal of Infectious Diseases . 2011; 204(Suppl 3):S796-S799.
+- Centers for Disease Control and Prevention. Imported case of Marburg hemorrhagic fever – Colorado, 2008. Morbidity and Mortality Weekly Report . 2009; 58(49):1377-1381.
+- World Health Organization. Case of Marburg Haemorrhagic Fever imported into the Netherlands from Uganda . 10 July 2008.
+- Timen A, Koopmans M, Vossen A, et al. Response to Imported Case of Marburg Hemorrhagic Fever, the Netherlands . Emerging Infectious Diseases . 2009; 15(8):1171-1175.
+- Albarino CG, Shoemaker T, Khristova ML, et al. Genomic analysis of filoviruses associated with four viral hemorrhagic fever outbreaks in Uganda and the Democratic Republic of the Congo in 2012. Virology . 2013;442(2):97-100.
+- Uganda Ministry of Health. Press Release, Oct. 8, 2014.
+- Nyakarahuka L, Shoemaker TR, Balinandi S, et al. (2019) Marburg virus disease outbreak in Kween District Uganda, 2017: Epidemiological and laboratory findings. PLoS Negl Trop Dis 13(3): e0007257.

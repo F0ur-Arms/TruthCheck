@@ -1,0 +1,41 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Public Health Guidelines for Floods Events, part 1
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769333008_95276575411596609841.pdf
+────────────────────────────────────────────────────────────
+
+22 Sham Nath Marg, Delhi 110054
+22 Sham Nath Marg, Delhi 110054
+22 Sham Nath Marg, Delhi 110054
+PUBLIC HEALTH
+GUIDELINES FOR FLOOD
+22 Sham Nath Marg, Delhi 110054
+1. Scope and Background
+1. 1 Scope of this Document This document is intended to assist health authorities in preparing for, and responding to, flood events, with the aim to reduce adverse health effects after floods. Various aspects have been covered including rapid needs assessment for health system planning, setting up of post-flood surveillance system and various aspects of common epidemic prone diseases in post flood situation.
+1. 2 Background Natural disasters continue to strike unabated and without notice. Generally, floods are caused due to the concentrated spells of heavy rains in the upper mountain reaches during the monsoon months (June- September).
+Although disasters cannot be prevented fully, their impact can be reduced with better disaster management strategies including better public health preparedness and response.
+1.3 Types of Floods
+1.3.1 Flash Floods – Such floods that occur within six hours during heavy rainfall and are usually associated with towering cumulus clouds, severe thunderstorms, and tropical cyclones or during the passage of cold weather fronts. This type of flood requires rapid localized warning system and immediate response in favour of affected communities. Other causes of flash floods include dam failure or other river obstructions.
+1.3.2 River Floods - Such floods are caused by precipitation over large catchment areas or by melting of snow or sometimes both. They take place in river systems with tributaries that may cover or drain large geographical area and encompass many independent river basins.
+These floods are normally built up slowly or on seasonal basis and may continue for days or weeks as compared to flash floods. Factors such as ground conditions like moisture, vegetation cover, depth of snow, etc. and size of the catchments govern the amount of flood covering the main rivers of India like Ganga, Brahmaputra and Yamuna, etc.
+1.3.3 Coastal Floods – Some floods are associated with the cyclonic activities like Hurricanes, Tropical cyclones, etc. generating catastrophic flood from rainwater which often aggravate wind-induced storm and water surges along the coast. As in river floods, intense rain falling over a large geographic area produces extreme flood situation in coastal river basins.
+2. Common Public Health Effects due to Flood
+2.1 Immediate and Medium Term Public Health Risks
+The main public health threats in flooding crisis are related to communicable diseases, listed below. Basic preventive and curative health services are also disrupted, weakening access to appropriate health care.
+Interruption of safe water and sanitation supplies: The populations displaced by flooding are at immediate (days to weeks) and high risk of outbreaks of waterborne and food borne diseases, such as cholera.
+Population displacement with overcrowding: Populations in the affected areas have been displaced into schools, camps or with host families, and are at immediate and high risk for transmission of measles and meningitis and increased incidence of acute respiratory infections (ARI), especially pneumonia in children under 5 years.
+Vector breeding: Flooding can result in the proliferation of vector breeding sites, increasing the medium-term (weeks to months) risk of malaria.
+Poor access to health services is of immediate concern, as the health infrastructure has been destroyed or overwhelmed, drugs and supplies damaged and health-care workers also displaced.
+Malnutrition and transmission of communicable diseases. Malnutrition compromises natural immunity, leading to more frequent, severe and prolonged episodes of infections. Severe malnutrition often masks symptoms and signs of communicable diseases, making prompt clinical diagnosis and early treatment more difficult.
+2.2 Post Flood Epidemic Prone Diseases
+3. Rapid Needs Assessment
+Rapid needs assessment is an epidemiological tool used to collect information about disaster affected population to guide response efforts and prioritize use of scarce resources. The Community Assessment for Public Health Emergency Response (CASPER) uses a validated two stage sampling method to obtain information at household level on health status and other basic needs from a disaster affected community. The method provides estimates that are representative and statistically robust.
+In the disaster setting, the main objectives of CASPER are to determine the critical health needs and assess the impact of the disaster, characterize the population residing in the affected area, produce household-based information and estimates for decision-makers, and evaluate the effectiveness of relief efforts through conducting a follow-up CASPER.
+3.1 Preparation Phase
+Prior to conducting RNA, it is essential to determine the usefulness of data, timing and geographical assessment and population dynamics of assessment area, prior assessments and the resources necessary. Availability of logistics and manpower, including intersectoral coordination with partner agencies is prerequisite during the preparedness phase.
+Selection of Clusters The assessment areas have to be identified, which serve as the ‘sampling frame’ for the assessment. A sampling frame is then divided into non-overlapping sub-units or clusters.
+Usually villages or census blocks may be considered as clusters. A two-stage cluster design is the preferred methodology.
+A. Stage One: Selection of 30 Clusters In the first stage, 30 clusters are selected based on their probability proportional to number of households or housing units. They may be selected by simple or systematic random sampling methods. The clusters are arranged in ascending/descending order based on the number of households with their cumulative frequency. For simple random sampling, thirty random numbers are generated using a random number generator. For systematic random sampling, a sampling interval is calculated by dividing the number of total households by 30.
+The number is then used to systematically select 30 clusters from the sampling frame.
+B. Stage Two: Selection of Seven Households within Each Cluster The seven households are selected by simple or systematic random sampling. It is important to visit all thirty clusters as selected initially, without looking for a replacement cluster as it effects the representativeness of the sampling frame.
+Data Collection Instrument The questionnaire should be short, simple and should ideally consume 10-15 minutes for each interview of any eligible member (above 18 years of age) of the selected household. The questionnaire may contain questions encompassing basic demographic, vulnerable groups, evacuation and household damage, household needs (including water, sanitation & hygiene), health needs (including injuries, acute and chronic illnesses, and mental health problems), health care facilities and relief measures received so far, and emergency preparedness. A mock interview should be conducted to test the questionnaire, for any confusing questions and time taken, among the teams. Both paper-based questionnaire or handheld electronic devices may be used, after careful consideration of their feasibility, availability and advantages-disadvantages in the field. The participation in the survey should be voluntary and anonymous.
+Logistics and Training The number of teams required to do the assessment are decided based on area to be covered, proposed timeline of assessment and number of people available. Each team should carry cluster maps, adequate data collection forms, two tracking forms to enter all households interviewed, consent forms, referral forms and sufficient handouts. Availability of computer, paper supplies, copy machine and communication mode is essential at the headquarters.

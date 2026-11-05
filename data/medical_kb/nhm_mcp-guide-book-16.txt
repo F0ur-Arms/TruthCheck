@@ -1,0 +1,62 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: MCP Guide Book, part 16
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Guide_Book.pdf
+────────────────────────────────────────────────────────────
+
+Use pink border charts for girls and blue border charts for boys.
+Fill up the information related to the child and the family in the ‘Index’ in the register.
+Fill up Information Box given on the left-hand side of each Growth Chart before using it.
+Weigh all children under five years of age once a month.
+Remember to: ‒ Weigh newborn babies as early as possible after birth– within 2 days. ‒ Weigh children every month.
+Measure length/height of the child every three months and plot it in the weight for length/height growth chart.
+1. Assess the correct age of the child in completed weeks or
+2. Determine the correct weight of the child to the nearest 100
+3. Plot weight and height accurately on the Growth Chart.
+4. Interpret position of the plotted point and the direction of the
+5. Discuss child’s growth with the mother and the family, counsel
+Use the growth chart to identify normal growth of a child, as well as the growth problems or trends that suggest that a child is at risk and needs urgent attention. Discuss the growth of the child with the mother and the family, using the growth chart.
+Discuss feeding and child care practices and care for development.
+Counsel mother, father and families on importance of appropriate growth and nutrition practices.
+Use VHSNDs/mothers’ meetings/ ECCE Days to counsel on importance of regular growth monitoring and to create awareness in families.
+Counsel on services provided at AWC and importance of regularly bringing child to AWC for weight and height monitoring.
+IMMUNIZATION
+India has one of the world’s largest immunization program in the world. With your efforts, a large number of previously unvaccinated children have now been immunized. You are also actively involved in Mission Indradhanush (MI) for improving the immunization coverage of your area. However, many challenges persist and need our attention. Full immunization coverage among children 12-23 months continues to be low at 62%1. The revision of the immunization section in the MCP card provides an update on new vaccines introduced and other related updates in the Universal Immunization Program (UIP). Entering the correct and updated Immunization information in the MCP card is very essential for correct reporting and tracking the beneficiary, thus helping in improving the immunization coverage.
+Children are born with natural immunity against some diseases, which they get from their mothers and by breastfeeding in the early days of their life. But as they grow, this immunity gradually decreases.
+Immunization further enhances children’s immunity and protects them against vaccine-preventable diseases. Immunization prevents the child from developing many diseases that can cause disease, death and disability.
+Timely immunization is important because vaccines ensure the best protection when they are given at the right time. India’s National Immunization Schedule has been designed to protect children since birth and at the ages when they are vulnerable to specific vaccine-preventable diseases.
+Under the Universal Immunization Program (UIP), vaccines are provided against 9 vaccine preventable diseases (VPDs) nationally and against 3 VPDs sub-nationally. Details of vaccines against these 12 VPDs are captured in the MCP Card.
+The 8 nationally available vaccines are: BCG, Hepatitis B, OPV, IPV, MR, DPT, Td and Pentavalent. The 3 vaccines that are available in select states/districts are: JE, PCV and Rotavirus.
+New vaccines added in MCP Card: IPV (inactivated polio vaccine), PCV (Pneumococcal conjugate vaccine), Rota (rotavirus vaccine), MR (Measles Rubella), JE (Japanese encephalitis).
+Adds 4 key messages on immunization to ensure family members understand the importance of complete immunization for their children.
+9 MONTHS
+DATE OF VACCINATION
+DATE OF VACCINATION
+DATE OF VACCINATION
+DATE OF VACCINATION
+DATE OF VACCINATION
+FOUR KEY MESSAGES ON IMMUNIZATION
+1 NFHS 4 2015-16
+Recent vaccine-related developments for ANM and ASHA to know: Pneumococcal Conjugate Vaccine (PCV)
+PCV reduces the mortality and morbidity due to pneumococcal disease.
+PCV 1 and 2 to be given at 6 and 14 weeks and PCV booster at 9 months.
+PCV is a safe and effective vaccine that can be given concurrently with all other scheduled vaccines in the UIP.
+The government has introduced the vaccine sub-nationally and is being gradually scaled up.
+Rotavirus is a leading cause of Diarrhoea in children, responsible for 40% of all the cases of moderate to severe Diarrhoea.
+RVV reduces mortality and morbidity due to Rotavirus Diarrhoea.
+To be given at 6, 10 and 14 weeks orally.
+The government has introduced the vaccine sub-nationally and is being gradually scaled up.
+Measles is an acute viral infection that spreads via respiratory secretions. Symptoms include fever, rash, cough, conjunctivitis.
+Complications and mortality are highest in children < 2 years. and in adults.
+Rubella is a contagious, generally mild viral infection that occurs most often in children and young adults. Rubella infection in pregnant women may cause foetal death or congenital defects known as congenital rubella syndrome (CRS). There is no specific treatment for rubella, but the disease is preventable by vaccination. CRS during pregnancy may result in spontaneous-abortion, stillbirth, serious birth defects.
+MR vaccine has been introduced through campaign targeting age group of 9 months to 15 years in a phased manner.
+Now MR vaccine has replaced Measles vaccine in Routine Immunization Program as MR 1st dose in the 9th month and 2nd dose in between 16th and 24th month.
+In line with the polio endgame strategy, Inactivated Polio Vaccine (IPV) was introduced in the country to provide double protection to children against polio and to arrange safe environment for withdrawal of Oral Polio Vaccine from Immunization Program.
+To be given as fractional doses at 6 weeks and 14 weeks of age, intradermally.
+The schedule in the card gives information about the immunization and the doses of Vitamin A to be given to the child till 16 years of age.
+Boxes in the chart indicate each type of vaccine, date to be given, date when it was given and the age.
+An additional column has been incorporated to enter the details of vaccines given during the campaign or any other vaccine (except UIP) given to the child.
+At birth, the child is given BCG, OPV and Hepatitis B vaccine.
+Hepatitis B vaccine should be given within 24 hours of birth.
+A child should be taken to the nearest immunization session at village/sub-centre/AWC or to the nearest health facility at 1½, 2½, 3½ and 9 months of age for all due doses of vaccines as per immunization schedule.
+Children 16-24 months and older also need to be given all due doses as per immunization schedule.
+Children aged 10 to 16 years will receive the Td vaccine in place of the TT vaccine (refer to chapter 4 on Pregnancy and Regular Check up for details on Td vaccine).

@@ -1,0 +1,37 @@
+SOURCE: National Centre for Disease Control, MoHFW
+TITLE: Public Health Guidelines for Floods Events, part 4
+URL: https://ncdc.mohfw.gov.in/uploads/resource/1769333008_95276575411596609841.pdf
+────────────────────────────────────────────────────────────
+
+In case of cloudy drinking water, add ¼ teaspoon bleach per I gallon (approximately 4 litres) and let it stand for 30 minutes before using.
+6.1.3 Using Chlorine Tablets
+For typical room temperature and water temperature of 25 °C, minimum contact time should be 30 minutes; increase contact time for colder water (e.g. double time for each 10 °C less than 25 °C). Prepare according to package instructions. Add to clear water or after settling or clarification to be most effective. This solution should be added to water to leave a free residual chlorine concentration of 0.4 to 0.5 mg/l after 30 minutes, which can be determined using a special test kit. If this is not available, a slight smell of chlorine is a crude indicator.
+6.1.4  Safe Water Storage
+Store water safely in order to prevent it from becoming (re-)contaminated or a breeding place for mosquitoes. Use of narrow mouthed containers, or covered containers should be encouraged.
+Containers for transportation and storage of drinking-water should be cleaned and preferably disinfected before they are put into operation.
+6.1.5 Disinfection of Water Containers and Cans to Store Water
+Mix soap and clean water in container Shake or stir to clean inside of container Rinse container Mix 1 teaspoon (4.9 ml) bleach per 1 cup (240 ml) water and pour it in the container Cover the container and shake so the solution touches all inside surfaces Cover and let stand for 30 minutes Rinse with clean water It is advised that the containers should be cleaned and disinfected every alternate day.
+6.1.6 Disinfection of Wells
+WHO endorses the disinfection of well in emergency situation. There are various ways of doing this but the most common is chlorination as it leaves a residual disinfectant in the water after chlorination.
+Chlorine has the advantage of being widely available, simple to measure and use, and it dissolves easily in water. Its disadvantages are that it is a hazardous substance (to be stored and handled with care) and that at commonly applied concentrations it is not effective against all pathogens (some cysts and viruses require higher chlorine concentrations).
+The chlorine compound most commonly used is high strength calcium hypochlorite (HSCH) in powder or granular form which contains 60-80% chlorine. Also used is sodium hypochlorite in liquid bleach or bleaching powder form which contains 35% chlorine or laundry bleach with 5- 8% chlorine. Each chlorine compound has a different amount of usable chlorine depending on the quantity of time the product has been stored or exposed to the atmosphere and the way it is made. Table 10 and 11 outlines methods for calculating appropriate chlorine doses for bleaching powder, HSCH granule chlorine and liquid bleach. Stir the water in the well thoroughly with a long pole and then allow the water to stand for at least 30 minutes.
+6.1.7 Dewater the Well
+Following the contact period, remove all water in the well using a pump or bucket. When the well has refilled, wait a further 30 minutes and measure the chlorine concentration. If the residual chlorine concentration is less than 0.5mg/l the well is safe to use. If the concentration is greater than 0.5mg/l, remove all the water from the well again and repeat the process.
+Two issues need extra care when dewatering the wells: 1. water with high concentration of chlorine should not flow into streams or wetlands; 2. when dewatering on coastal areas salt water intrusion should be avoided.
+3. Do not allow anyone to use the well during the cleaning process. The water will have a strong concentration of chlorine that will give it a bad taste and smell.
+6.2. Water Supply Needs Assessment in Health Care Facilities During and
+After Flood Event With the help of the relevant authority, establish mechanisms to monitor water quality at the health care facility.
+Emergency water supplies can consist of packaged water, tanker water, direct use of alternative water sources or on-site production of drinking-water. If circumstances allow, separate emergency supplies (including both materials and human resources) are encouraged for health care facilities. Prevent access of unauthorized people to the emergency water supply and storage system.
+Table-10 Methods for Calculating Appropriate Chlorine Doses (1) Table-11 Methods for Calculating Appropriate Chlorine Doses (2)
+6.1.8 Ground Water Contamination
+Ground water contamination is one of the serious issues which is often neglected. Flooding has potential to pollute ground water and is unsafe for human use. It contains salts and heavy metal concentration and certain micro-organisms which can cause serious illness.
+6.1.9 Sanitation
+Concentration of a large number of people at limited sites, compromises sanitation and water supply situation, are ideal conditions for rapid spread of water borne diseases like diarrhoea, cholera and typhoid. These diseases are responsible for high mortality and morbidity rate in developing countries and are all spread through faeco-oral or skin penetration.
+Children under five years of age are most at risk from communicable diseases since their immune systems have not developed. Relief workers and affected population in the camps must wash their hands with soap before meals and after using the toilet.
+Shallow trench latrines should be dug out in areas where the usage will be less than 5 days.
+In areas, where the toilets will be in use for more than 5 days, deep trench latrines (minimum depth 6 feet, width: 1 ½ feet, length: 3 feet) should be dug. The trenches should be covered with fresh earth after every use and the toilets should be disinfected with disinfectant powders like gamma hexane, twice daily. The toilets should be minimum 100 feet away from the relief camps.
+6.1.10 Sanitation and Hygiene in Health Care Facilities During and After Flood Event For non-emergency circumstances, WHO recommends one toilet per 20 users for inpatient settings (including patients who use bedpans instead of toilets) and at least four toilets for small outpatient settings (one for staff; one for females and one that is appropriate for use by children for patients). The number should be increased for larger outpatient settings.
+6.1.11 Waste Handling and Disposal
+In the absence of functioning sewers and routine waste collection/treatment services, collection mechanism for both human and medical waste will experience additional strain.
+Staff involved with handling human waste from emergency sanitation must be provided with personal protective equipment. For staff handling medical waste, personal protective equipment includes aprons, masks, boots and gloves.
+Waste collection zones need to be protected to prevent access by the general public, disease vectors and the dispersion of hazardous materials by floods and storms. Local authorities can advise siting of additional disposal areas for human waste (such as deep trench latrines for emptying bucket latrines). Provide a possibility of hand washing or hand disinfection in the waste collection zones.

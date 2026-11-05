@@ -1,0 +1,48 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 17.1	 TB of the spine
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+HIV-positive people are more likely to have disseminated TB infection at presentation. More detailed diagnostic tests to look for other opportunistic infections and to assess the extent of disease may be useful.
+There is increasing evidence that newer diagnostic tests for TB, including Xpert MTB/RIF, have different diagnostic test accuracy in people with advanced HIV and low CD4 counts. These guidelines have not addressed this issue in detail, but information about this can be found elsewhere in the literature.
+HIV-positive people are at higher risk of paradoxical reactions, or immune reconstitution inflammatory syndrome (IRIS), and these reactions may be life- threatening. The decision to commence ART must also be considered in patients who are not already receiving it. Guidance on initiation of ART can be found elsewhere at: BHIVA guidelines 2011 (Pozniak, 2011); Rapid Advice on ART for HIV infection in adolescents and adults (WHO, 2009); Guideline on when to start ART and on pre-exposure prophylaxis for HIV (WHO, 2015).
+Basu, S. M. (2014). Degree, duration and causes of visual impairment in eyes affected with ocular tuberculosis. J Ophthalmic Inflamm Infect. , 4 (1), 10.
+Bell, L. B. (2015). Paradoxical reactions and immune reconstitution inflammatory syndrome in tuberculosis. International Journal of Infectious Diseases , 32, 39-45.
+Biswas, J. N. (1996-1997). Pattern of uveitis in a referral uveitis clinic in India. International Ophthalmology , 20 (4), 223-8.
+Blakemore, R. S. (2010). Evaluation of the analytical performance of the Xpert MTB/RIF assay. Journal of Clinical Microbiology , 48 (7), 2495-2501.
+British Thoracic Society Standards of Care Committee and Joint TB Committee. (2010). Guidelines for the prevention and management of Mycobacterium tuberculosis infection and disease in adult patients with chronic kidney disease. Thorax , 65, 559-570.
+Cheng, V. H. (2002). Clinical spectrum of paradoxical deterioration during antituberculosis therapy in non-HIV-infected patients. European Journal of Clinical Microbiology and Infectious Diseases , 21 (11), 803-9.
+Denkinger, C. S. (2014). Xpert MTB/RIF assay for the diagnosis of extrapulmonary tuberculosis: a systematic review and meta-analysis. European Respiratory Journal , 44 (2), 435-46.
+Donald, P. (2010). The chemotherapy of tuberculous meningitis in children and adults. Tuberculosis (Edinburgh) , 90 (6), 375-392.
+Fowler, N. (1991). Tuberculous pericarditis. Journal of the American Medical Association , 266, 99- Garg, R. M. (2014). Paradoxical reaction in HIV negative tuberculous meningitis. Journal of the Neurological Sciences , 340 (1-2), 26-36.
+GRADE Working Group. (2008). http://www.gradeworkinggroup.org/publications/. Retrieved July Greco, S. G. (2003). Adenosine deaminase and interferon gamma measurements for the diagnosis of tuberculous pleurisy: a meta-analysis. Int. J. Tuberc. Lung Dis. , 7 (8), 777-786.
+Guyatt Gordon H, O. A.-Y. (2008). Going from evidence to recommendations. British Medical Journal , 336, 1049.
+References Higgins, J. A. (2011). Chapter 8: Assessing risk of bias in included studies. In G. S. Higgins JPT, Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0. The Cochrane Collaboration.
+Jabs, D. N. (2005). Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. American Journal of Ophthalmology , 140, 509-161.
+Jain, A. S. (2012). Magnetic resonance evaluation of tubercular lesion in spine. International Orthopaedics , 36 (2), 261-9.
+Liang, Q. S. (2008). Diagnostic accuracy of adenosine deaminase in tuberculous pleurisy: a meta- analysis. Respiratory Medicine , 102 (5), 744-754.
+Light R.W., M. M. (1972). Pleural effusions: the diagnostic separation of transudates and exudates.
+Light, R. (2010). Update on tuberculous pleural effusion. Respirology , 15 (3), 451-458.
+Nhu, N. H. (2014). Evaluation of GeneXpert MTB/RIF for diagnosis of tuberculous meningitis. Journal of Clinical Microbiology , 52 (1), 226-33.
+Porcel, J. E. (2010). Diagnostic performance of adenosine deaminase activity in pleural fluid: a single- center experience with over 2100 consecutive patients. European Journal of Internal Medicine , 21 (5), 419-423.
+Pozniak, A. C. (2011). British HIV Association guidelines for the treatment of TB/HIV coninfection. HIV Medicine , 12, 517-524.
+Prasad, K. S. (2016). Corticosteroids for managing tuberculous meningitis. The Cochrane Library (4), 1-64.
+Ramam, M. M. (2011). How useful is the Mantoux test in the diagnosis of doubtful cases of cutaneous tuberculosis? International Journal of Dermatology , 50 (11), 1379-82.
+RNTCP. (2014). TB India 2014 Revised National TB Control Programme Annual Status Report. Ministry of Health and Family Welfare, Central TB Division, Directorate General of Health Services. New Delhi: Central TB Division.
+Rossi, G. B. (1987). Tuberculous pleural effusions. Evidence for selective presence of PPD-specific T-lymphocytes at site of inflammation in the early phase of the infection. American Review of Respiratory Disease , 136 (3), 575-579.
+Sharma S.K., M. A. (2004). Extrapulmonary tuberculosis. Indian Journal of Medical Research , 120 (4), 316-353.
+Sharma, P. T. (2015). Clinical and biochemical profile of tuberculosis in patients with liver cirrhosis.
+Shu, C. W.-T.-Y.-N.-J. (2011). In-hospital outcome of patients with culture-confirmed tuberculous pleurisy: clinical impact of pulmonary involvement. BMC Infectious Diseases , 11, 46.
+Singh, R. G. (2004). Pattern of uveitis in a referral eye clinic in north India. Indian Journal of Ophthalmology , 52, 121-5.
+Sreenivas, A. R. (2014). Standards for TB Care in India. New Delhi: World Health Organisation Country Office for India.
+Steingart K.R., H. M. (2006). Fluorescence versus conventional sputum smear microscopy for tuberculosis: a systematic review. Lancet Infectious Diseases , 6 (9), 570-81.
+Steingart, K. S. (2014). Xpert® MTB/RIF assay for pulmonary tuberculosis and rifampicin resistance in adults. The Cochrane Database of Systematic Reviews , 1, 1-66.
+Tappeiner. (2008). Tuberculosis and Infections with atypical mycobacteria. In G. L. Wolff K, Fitzpatrick’s Dermatology in General Medicine, 7th ed. (p. 1768). New York: McGraw Hill Medical.
+TB CARE I. (2014). International Standards for Tuberculosis Care (3rd ed.). The Hague: TB CARE I.
+The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC). (2015). 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. European Heart Journal , 36, 2921–2964.
+Thwaites G.E., N. D. (2004). Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults. New England Journal of Medicine , 351 (17), 1741-1751.
+Thwaites, G. F. (2009). British Infection Society guidelines for the diagnosis and treatment of tuberculosis of the central nervous system in adults and children. Journal of Infection , 59, 167-187.
+Van Loenhout-Rooyackers, J. K. (2001). Tuberculous meningitis: is a 6-month treatment regimen sufficient? International Journal of Tuberculosis and Lung Disease , 5 (11), 1028–35.
+Watts, H. L. (1996). Current concepts review: tuberculosis of bone and joints. The Journal of Bone and Joint Surgery [Am] , 78 (A), 288-98.
+WHO. (2014). Guidance for national tuberculosis programmes on the management of tuberculosis in children (2nd ed.). Geneva: World Health Organisation.
+WHO. (2015). Guideline on when to start antiretroviral therapy and on pre-exposure prophylaxis for HIV. Geneva: World Health Organisation.

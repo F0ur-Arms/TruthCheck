@@ -1,0 +1,16 @@
+SOURCE: CDC
+TITLE: Vaccine Recalls: Frequently Asked Questions
+URL: https://www.cdc.gov/vaccine-safety/recalls/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+Why would a vaccine, or certain batches of a vaccine, be withdrawn or recalled?
+There have been only a few vaccine recalls or withdrawals due to concerns about either how well the vaccine was working or about its safety. Several vaccine lots have been recalled in recent years because of a possible safety concern before anyone reported any injury. Rather, the manufacturer's quality testing noticed some irregularity in some vaccine vials. In these cases, the safety of these vaccines was monitored continuously before and after they were in use. CDC analyzed reports to the Vaccine Adverse Event Reporting System (VAERS) to search for any side effects that might have been caused by the irregularity, and found none. Any time such an irregularity is found in a vaccine lot which could make it unsafe, the manufacturer, in collaboration with the U.S. Food and Drug Administration (FDA), will recall it immediately. Information on recalled lots of is available by year from FDA.
+How is a vaccine recalled?
+Vaccine recalls or withdrawals are almost always initiated voluntarily by the vaccine manufacturer. The FDA rarely issues a recall, and if safety is a concern, the recall is immediate. The manufacturer contacts vaccine distributors and healthcare facilities who might have purchased the vaccine to inform them of the suspected problem. Whenever a vaccine lot is to be recalled, FDA's role is to oversee a manufacturer's strategy and help ensure the recall goes well.
+How is a vaccine recall communicated?
+You would most likely hear from your doctor if a vaccine given to you or your child is recalled. When a recalled product has been widely distributed, the news media often reports on the recall. Not all recalls are announced in the media, but all recalls are listed in FDA's weekly Enforcement Reports . Also, information on vaccines that have been recalled in the past few years is available at FDA's Recalled Vaccines page.
+What do I do if a vaccine is recalled?
+In many cases, the person who is vaccinated will not need to do anything after a vaccine is recalled.
+When a vaccine recall is due to low vaccine potency or strength, vaccines from the lot might not produce an immune response that is strong enough to protect against disease. People who were vaccinated with a vaccine from that lot might need to be vaccinated again to ensure they are protected against the disease.
+When a recall is related to a possible safety concern noted by the manufacturer, people who were vaccinated should be aware of their reaction to the vaccine, and talk to their doctor if they have any concerns that they may be having a reaction.

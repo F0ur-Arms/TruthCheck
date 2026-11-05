@@ -1,0 +1,44 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: PCV Operational Guidelines, part 15
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/PCV_Operational_Guidelines.pdf
+────────────────────────────────────────────────────────────
+
+Existing routine immunization micro plans in all districts should be revised to include high-risk areas, including urban slums and missed areas, so that vulnerable populations are not missed.
+Due-listing through house visits by link workers will help in enumerating the true target population for high vaccination coverage.
+Preparation of due lists based on head count survey should capture information on beneficiaries under 2 years of age. This head count survey will provide the authorities with almost close to actual number of target beneficiaries.
+Supportive supervision and appropriate oversight should be maintained and a regular feedback mechanism should be in place.
+Identify supportive supervisors and independent external monitors at all levels and make a plan for supervision – monitoring with emphasis on the high risk areas/populations as part of the micro plan.
+Rapid monitoring should be initiated at block & session level for at least 3 months of new vaccine introduction to assess implementation status, identify gaps/bottlenecks and provide feedback for immediate corrections. Separate formats for rapid monitoring have to be filled in addition to the routine immunization monitoring.
+Monitoring data from the field is fed back to the block, district and state task forces to guide programmatic decision-making and actions.
+Channel for e-reporting (HMIS) should be strengthened. The data collected from paper reports and drop-out and vaccine stock should be readily retrievable at all levels and should be checked for accuracy. Data should be analyzed to improve program performance and fill in gaps.
+Reporting and recording tools such as MCP cards, registers, tally sheets, etc. should be timely updated to include columns for recording of new vaccines.
+Training and sensitization for reporting and investigation of all serious/severe AEFIs for all frontline health workers, MOs (and not just MO in charges) all PHCs/CHCs/SDHs/District Hospitals and private practitioners.
+All AEFI cases should be investigated promptly, as this helps to establish causality and builds trust among the community.
+Cascaded trainings are envisaged for building capacity of all cadres of health staff involved in new vaccine introduction and other routine immunization strengthening activities. The completion of trainings at all levels should be tracked. These trainings should begin at least 2-3 months before new vaccine introduction.
+Districts should be allowed to introduce new vaccine only after block-level trainings have been completed.
+Funds for the introduction of vaccine should be ensured beforehand.
+The incentives of ASHAs and health workers should be released timely. This is important to ensure their motivation and commitment.
+Cold chain & vaccine management should be reviewed and strengthened before any new vaccine introduction to ensure space availability for both vaccine and related logistics at state, district and block levels.
+Cold chain inventory should be regularly reviewed and status of the same should be updated in the NCCMIS.
+A quarterly review of district cold chain handlers should be organized at the state level and on a monthly basis at the district level.
+Recording of temperatures in ILRs and deep freezers (DFs) should be done regularly even on weekends.
+It will be important to ensure that these recommendations are acted upon during PCV introduction process in states.
+Standardized AEFI management kits should be procured by the district health team in advance for distribution to all AEFI treatment centers before any new vaccine introduction drive as per micro-plan.
+The Open Vial Policy is applicable to PCV vaccine.
+Refer to the most recent MoHFW letter regarding open vial policy.
+Vaccine wastage records should be analyzed to identify poor-performing areas and corrective action taken.
+States should consider adopting the outsourced models of waste management for more efficient waste management and ensure regular review at all facilities.
+Hub cutters and black and red bags should be made available at immunization sites as part of waste disposal mechanism (refer guidelines).
+A media sensitization workshop should be conducted before the vaccine launch to increase public awareness and deal with vaccine-related queries.
+IEC materials prepared in local language should be made available to the community at least 2–4 weeks prior to vaccine launch.
+Health workers should also deliver the key messages to all caregivers and explain the need for the newly introduced vaccine.
+IPC is the best tool to connect with community mobilization and vaccine acceptance.
+Cold chain handlers are provided smart phones with the eVIN application which allows for the digitization of vaccine inventories. As a routine task, every cold chain handler enters the net utilization for each vaccine in the standardized registers at the end of every immunization day. This is simultaneously updated in the eVIN application and uploaded on a cloud server which can then be viewed by programme managers at district, state and national level through online dashboards. In addition to providing real-time information on vaccine stocks, the system also helps to track storage temperature of vaccines. SIM-enabled temperature loggers attached to the cold chain equipment capture temperature information through a digital sensor placed in the refrigerator. Temperature data is recorded every 10 minutes and updated at an interval of 60 minutes on the server via General Packet Radio Service (GPRS).
+In case of temperature breach, the logger alarms and sends email and SMS alerts to responsible cold chain technicians and managers.
+The Ministry of Health and Family Welfare has rolled out an innovative electronic vaccine intelligence network called eVIN in all states. eVIN aims to support the Government of India’s Universal Immunization Programme by providing real-time information on vaccine stocks and flows, and storage temperatures across all cold chain points in these states. eVIN provides an integrated solution to address widespread inequities in vaccine coverage by supporting state governments in overcoming constraints of infrastructure, monitoring and management information systems and human resources, often resulting in overstocking and stockouts of vaccines in storage centers.
+Human Resources: to empower the state cold chain network by building the capacities of eVIN Process Flow Cold chain handler then punches data in eVIN mobile application to update the stock for each vaccine.
+After the RI session day, cold chain handler enters the net utilization of each vaccine, including open vials, in Immunization Session Register.
+After completing RI session site and updating Immunization Session Register, cold chain handler updates the stock of each vaccine in Stock Register. eVIN Process Flow After the RI session day, cold chain handler enters the net utilization of each vaccine, including open vials, in Immunization Session Register.
+After completing RI session site and updating Immunization Session Register, cold chain handler updates the stock of each vaccine in Stock Register.
+Cold chain handler then punches data in eVIN mobile application to update the stock for each vaccine.
+After data punching with eVIN mobile application, data is updated in the cloud server. District- and state-level officers can view the real-time stock status store-wise as well as antigen-wise and generate relevant reports.

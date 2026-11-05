@@ -1,0 +1,25 @@
+SOURCE: ICMR — Guidelines
+TITLE: INDEX-TB Guidelines on extra-pulmonary tuberculosis for India: 10.5	 Complications
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Index-TB Guidelines - green colour 2594164.pdf
+────────────────────────────────────────────────────────────
+
+10.5	 Complications
+Treatment with diuretics such as mannitol should be limited to emergency management, aimed at decreasing ICP until shunt insertion can be performed.
+External ventricular drainage is not usually recommended, unless surgery is contraindicated or urgent CSF diversion is indicated to buy time before a shunt can be inserted.
+There is some evidence that aspirin may prevent stroke in TBM in adults. Further trials in adults and children are on-going.
+Prophylactic anti-epileptic drugs are not required in TBM patients who have not had seizures during their clinical course.
+10.6	 CNS tuberculoma
+Tuberculoma of the central nervous system (CNS) is less common than TBM and has lower morbidity and mortality, but remains an important cause of intracranial space-occupying lesions. Tuberculoma can arise anywhere in the brain or spinal cord, and may present as a mass lesion causing focal neurological deficits depending on anatomical location and/or seizure, or may be found in concurrence with TBM.
+Presumptive CNS tuberculoma Any patient presenting with seizures, headache, fever or focal neurological deficits with neuroimaging features consistent with a mass lesion of inflammatory nature.
+Patients with presumptive CNS tuberculoma should be referred for investigation and treatment by a specialist. Neuroimaging, particularly multimodal MRI, with interpretation by a specialist is indicated to characterize the lesion(s).
+Diagnosis is based on the following: Patient history – previous TB disease and contact with a pulmonary TB patient make tuberculoma more likely.
+Clinical findings – active TB elsewhere in the body makes tuberculoma more likely. Chest X-ray should be performed. Other imaging such as CT chest should be considered to look for TB, identify other lesions amenable to biopsy, and look for features suggestive of other pathology such as malignancy.
+HIV status – HIV testing is important as HIV-positive people are at increased risk, not only of tuberculoma, but also other diagnoses such as coccidiomycosis and toxoplasmosis. Other causes of immunosuppression are also important.
+MRI/CT scan findings consistent with tuberculoma CSF findings – CSF can be normal, or show features similar to TBM. The sensitivity of culture for Mtb is low, and PCR-based tests require further investigation in tuberculoma.
+Stereotactic or open biopsy is rarely performed as this is a highly invasive procedure, but it may be indicated in patients where the diagnosis remains very uncertain after non-invasive tests, or there is no response to ATT.
+The aims of treatment are: Resolution of neurological and constitutional symptoms Resolution of the lesion on neuroimaging.
+There is a lack of evidence as to the optimum duration of treatment in CNS tuberculoma. The expert group suggested that ATT should be given for 9 to 12 months initially, with repeat neuroimaging at 3 months and 9–12 months to monitor response to treatment. Treatment should then be tailored to the clinical and radiological response of the patient.
+Paradoxical reaction with increase in the size and number of lesions can occur, usually in the first 3 months of treatment, and requires treatment with steroids as well as continued ATT.
+Treatment failure should be suspected when lesions either increase in size or fail to reduce in size after 3 to 6 months ATT despite appropriate dosing and good adherence. The treating clinician needs to weigh the benefits and risks of biopsy against those of commencing second-line treatment empirically for suspected MDR-TB, or persisting with first-line treatment for suspected paradoxical reaction.
+If a biopsy is performed due to strong consideration of an alternative diagnosis, the specimens should be sent for: a) histopathology with staining for AFB; b) Mtb culture and drug susceptibility testing; c) other microbiological tests as indicated by the case history.
+Head and neck TB constitutes 10–15% of all EPTB cases, with the majority of these cases being cervical lymph node TB, and <1% extra-nodal head and neck TB cases. Malignancy is the most important differential diagnosis in ear, nose and throat (ENT) TB and diagnostic approaches must take this into account.

@@ -1,0 +1,66 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: Summary Of Guidelines
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+SUMMARY OF GUIDELINES
+Screening and Diagnosis 1.1 All individuals aged 30 years and above should be screened for diabetes.
+Screening should be carried out at an earlier age in those with additional risk factors.
+1.2 The oral glucose tolerance test is the diagnostic test of choice. Other options include fasting plasma glucose, random plasma glucose (in the presence of symptoms) and glycated hemoglobin (HbA1c).
+1.3 The diagnosis of diabetes should be confirmed by a repeat test on a different day (unless there is unequivocal hyperglycemia).
+Management of Hyperglycemia 2.1 Education regarding the disease and its management should be provided to all patients.
+2.2  	 Lifestyle modification, including information on healthy dietary practices and
+2.3  	 Metformin is the initial pharamacotherapy of choice for most patients (unless
+specific contraindications or tolerance issues exist, or the patient has symptomatic hyperglycemia).
+2.4  	 Sulphonylureas, dipeptidyl peptidase 4 (DPP-4) inhibitors and sodium glucose
+Other alternatives include thiazolidinediones, alpha-glucosidase inhibitors, glinides and glucagon-like peptide-1 (GLP-1) receptor agonists.
+2.5 Consider triple oral therapy or initiation of insulin in patients not at target with dual therapy.
+2.6 Most patients with type 2 diabetes should aim to keep their HbA1c below 7%.
+3.1  	 Comprehensive risk factor control should be attempted, aiming at achieving
+optimal levels of blood pressure and lipids, smoking cessation and weight reduction in addition to glycemic control.
+3.2  	 Dilated retinal examination should be performed by a trained ophthalmologist at
+the time of first diagnosis of diabetes and at least annually thereafter.
+3.3 Kidney function should be assessed at the time of diagnosis and at least annually thereafter by means of urine albumin-creatinine ratio and serum creatinine levels with calculation of estimated glomerular filtration rate (eGFR).
+3.4 A comprehensive foot examination should be carried out at the time of first diagnosis and at least annually thereafter, focusing on detection of peripheral neuropathy and peripheral arterial disease.
+Diabetes in pregnancy 4.1 All pregnant women should be screened for diabetes at the first antenatal visit.
+4.2 	 Screening is ideally performed by means of an OGTT, utilizing thresholds
+suggested by the International Association of Diabetes in Pregnancy Study Groups (IADPSG). Alternatively, the Diabetes in Pregnancy Study Group India (DIPSI) criteria can be used if the woman is unable to come in the fasting state.
+4.3 	 While lifestyle modification is the initial management option for women with
+gestational diabetes, most patients will need insulin. Oral antihyperglycemic agents are best avoided.
+4.4 All women with gestational diabetes should undergo an OGTT 6 weeks after delivery to reclassify their glycemic status Prevention of Diabetes 5.1 Prevention of diabetes can be carried out at primordial, primary, secondary and tertiary levels.
+5.2 	 Individuals with pre-diabetes should receive education on intensive lifestyle
+CONVENORS
+CO-ORDINATORS
+EXPERT GROUP
+WORKING GROUPS
+1.	 Dr.V. Mohan
+2.	 Dr. Shashank R. Joshi
+3.	 Dr. Sidhartha Das
+4.	 Dr. P.V.Rao
+5.	 Dr. Anand Moses
+6.	 Dr. Uma Ram
+7.	 Dr. S.V.Madhu
+8.	 Dr. R.Madhavan
+9.	 Dr. A. Shanmugam
+1.  Dr.K.Gokulakrishnan
+2.  Dr.S.Kanthimathi
+1.	 Dr. Nihal Thomas
+2.	 Dr. S.R.Aravind
+3.	 Dr. Jothydev Kesavadev
+4.	 Dr. P. Dharmarajan
+5.	 Dr. R.M.Anjana
+1.  Dr.D.Bodhini
+1.	 Dr.Sudha Vidyasagar
+2.	 Ms.Sudha Vasudevan
+3.	 Dr.Tanvir Kaur
+4.	 Dr.Rekha Sharma
+1.	 Dr.Ranjani Harish
+1.	 Dr. Nikhil Tandon
+2.	 Dr.Anant Nigam
+3.	 Dr.Subhankar Chowdhury
+4.	 Dr.Banshi Saboo
+5.	 Dr.Ranjit Unnikrishnan
+1.  Dr.Deepa Mohan
+1.	 Dr.Ashok Kumar Das
+2.	 Dr.Vijay Viswanathan
+3.	 Dr. I. Periyandavar

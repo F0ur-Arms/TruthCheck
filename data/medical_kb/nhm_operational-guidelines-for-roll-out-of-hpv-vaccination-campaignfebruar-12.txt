@@ -1,0 +1,43 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 12
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Develop a strategy and plan for advocacy and communication in line with the national communication strategy document on HPV vaccination.
+Develop an adaptation of the training curriculum, agenda and training materials disseminated from the state level.
+Establishing District Control Room for monitoring the daily activities.
+Define the roles and responsibilities of other departments and development partners.
+Communicate with blocks about the campaign dates, operational guidelines, budgetary provisions for operational cost, training plan and material and technical assistance plan including deployment plan for resources at blocks.
+Ensure that standard formats, training materials and communication materials are shared with the planning units well in time.
+Identify and deploy district-level supervisors and external monitors, and develop a plan to supervise sub district level preparedness, monitoring of the session and for Rapid Convenience Monitoring (RCM) and ensure mid-course corrections, assess and review the progress, and document lessons learned from the Ensure the District AEFI Committee meets before and during the campaign as frequently as needed to monitor the inclusion of medical colleges, public and private hospitals in the AEFI reporting network, linkage of session sites with 24x7 AEFI management centres, and other capacity building activities for investigation within 10 days of notification in all cases.
+MICROPLANNING
+The preparation of the microplan shall follow a bottom-up approach, considering the ground realities across all blocks, planning units, functional units, last service delivery points, and urban areas. Microplanning should commence at least one month prior to the launch of the HPV vaccination campaign. The microplanning process should begin with a sensitization meeting involving ANMs, CHOs, AWWs and ASHAs at the block or planning unit level.
+Reaching The Unreached A micro-plan should list all areas including HRAs. The high-focus areas / populations include: Hard-to-reach areas due to difficult geographic location (forest, tribal, far flung isolated pockets, tea estates, riverine islands).
+Unserved or underserved areas or areas with shortage / prolonged vacancy of health workers.
+Urban areas, especially unauthorized slums, makeshift huts, girls in juvenile homes, observation home, remand home, orphanages, ashrams, blind schools, girls living in hostels, red light areas, floating street girls as well as peri-urban new settlements.
+Key strategies for covering the high-risk areas are as follows: Understanding and overcoming cultural, educational, logistical, political, linguistic, ethnic or religious barriers that prevent underserved populations from bringing their ward for immunization.
+Deployment of extra supervisors/monitors and conducting extra community monitoring.
+A comprehensive micro-plan shall ensure: Inclusion of all areas - all Villages / Hamlets/ Tolas/Ward/Mohalla/HRA Sites/Industry set up/Mining area/ Brick kiln area/Migratory setup/Orphanage/Hostels/Correction Centre/Red Light Areas under the Sub centre/ANM area.
+Identification of all eligible beneficiaries through a thorough headcount survey.
+Identify health facilities for HPV vaccination that have a CCP as per eVIN, a dedicated medical officer for AEFI management, internet connectivity, a desktop/laptop with printer.
+Linkage of HPV vaccination session site to 24×7 health facilities for AEFI management.
+Plan the number of sessions for the three-month (90 days) campaign based on the projected injection load.
+Tag the target population from non-session-site health facilities to the corresponding HPV vaccination session sites health facilities.
+Form vaccination teams of four members including vaccinator, mobilizer, verifier and volunteer with detailed rosters.
+Prepare comprehensive logistics plans covering all required supplies and resources.
+The key points to be noted while developing the microplan are summarized in Table 3.
+Ancillary products HPV vaccine dose Equals target population i.e. All girls aged 14 years x 1.01 AD syringes To be bundled equal to vaccine doses Hub cutters One per session site Number of personnel Supervisors 1 supervisor covering one health facility HR Team Responsible Person and their Role Vaccinator (1) ANM / male HW / LHV/Nurse/CHO; and anyone authorized to administer an injection may be considered as a potential vaccinator and for recording of vaccination data on U-WIN.
+Verifier (1) Health Facility Staff; responsible for checking registration status and verification in the waiting room on the vaccination day.
+Mobilizer (1) ASHA / ASHA coordinator / AWW / Link Worker responsible for head count survey, pre-registration of girls on U-WIN, mobilization of beneficiaries and support in session site management.
+Volunteer (1) Field Monitor/member of Mahila Arogya Samiti/ member of Jan Arogya Samiti/health staff for session site crowd management.
+Banner 2 per health facility and 2 per SC/ANM urban area for common places with high footfall.
+Overview of microplanning formats: A total of 14 microplanning forms including monitoring and reporting forms have been developed (annexed in the annexure section: Annexure 3). This includes 10 forms on micro-planning including monitoring and reporting and 4 forms on communication planning. A brief description of 10 microplanning forms including reporting and monitoring forms is provided in the table below, with a detailed explanation of their purpose and application presented thereafter. The 4 communication planning forms are described in detail in the Communication Strategy document.
+to be filled by surveyor (ASHA/AWWs/MAS/JAS member/Link worker) Provides information on name-wise line listing of eligible girls; update the information of past HPV vaccination, if any, facilitate registration on U-WIN and distribution of information cards (Refer to Annexure 6) Health Facility Level Health Facility Level Planning Form – to be filled by MOIC Compile information from the SC/Urban ANM area micro plan (from form 2) and the school line-listing information (from form 1) HPV vaccination centre planning form – to be filled by MOIC Provides information on planning of number of sessions, roster details, vaccine requirement, logistics, manpower requirement, waste management, AEFI management, IEC material etc.
+Form 1: District-wise school line listing and planning form This marks the first step of microplanning, in which a district-wise line listing of schools (Government, Private, Madarsas, Residential schools), along with the number of eligible girls, will be compiled. The District Immunization Officer (DIO) will guide and provide the form to the District Education Officer (DEO) after sensitization of DEO and BEO by the DIO on HPV vaccination campaign.
+While HPV vaccine will be administered at health facilities, this information will assist in orienting the eligible girls and their parents or caregivers and teachers as the majority of the target population is school-going. This will also excludes boys only schools.
+Part A, containing columns a to j, to be filled by the District Education Officer during the planning phase of the vaccination activity.
+Column a: School Name Write the complete School Name as per UDISE+.
+Column b: UDISE+ code Write the UDISE+ code of the school.
+Column c: Block/Urban Area Write the Block/Urban Area where the school is located.
+Column d: Address Write the complete address of the school.
+Column e: Number of girls aged 14 years Mention the total number of girls aged 14 years (those who have celebrated their 14th birthday but have not celebrated 15th birthday yet) Column f: Name of Principal/School Nodal Write the name of the school Principal/School Nodal.

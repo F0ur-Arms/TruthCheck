@@ -1,0 +1,59 @@
+SOURCE: CDC
+TITLE: Hepatitis B Vaccine Safety
+URL: https://www.cdc.gov/vaccine-safety/vaccines/hepatitis-b.html
+────────────────────────────────────────────────────────────
+
+Key points
+Overview
+Hepatitis B is a vaccine-preventable liver infection caused by HBV. Hepatitis B can range from a mild, short-term, acute illness lasting a few weeks to a serious, long-term, chronic infection.
+Available vaccines & manufacturer package inserts
+Vaccines against Hepatitis B and manufacturer inserts
+Contain only hepatitis B vaccine.
+Vaccine against Hepatitis A and B and manufacturer insert
+Childhood vaccines that include Hepatitis B and manufacturer inserts
+Contain hepatitis B vaccine plus other vaccines.
+Who should & should not get the vaccine
+Common side effects
+When to call 911
+Severe allergic reactions following vaccination are rare, but can be life threatening. If someone experiences symptoms of a severe allergic reaction, which can include hives, swelling of the face and throat, difficulty breathing, a fast heartbeat, dizziness, and weakness.
+Vaccines, like any medicine, can have side effects. Many people who get a hepatitis B vaccine have no side effects at all. The most common side effects include injection site pain, soreness, or redness, headache, and fatigue, and are usually mild lasting 1-2 days.
+Report possible adverse events to VAERS‎
+The Vaccine Adverse Event Reporting System (VAERS) is an early warning system, co-managed by CDC and FDA, that monitors for potential vaccine safety problems. Healthcare providers and vaccine manufacturers are required by law to report certain adverse events (any side effect or health problem after vaccination that is concerning to you, even if you are not sure if the vaccine caused the event) following vaccination to VAERS; patients and caregivers can also submit reports.
+A closer look at the safety data
+Hepatitis B and multiple sclerosis
+In 1998, some research caused concern that hepatitis B vaccination might be linked with multiple sclerosis (MS) , a progressive nerve disease. Numerous studies have evaluated a possible relationship between hepatitis B vaccination and MS. A large body of scientific evidence now shows that hepatitis B vaccination does not cause or worsen MS.
+Hepatitis B vaccination does not cause MS
+Hundreds of millions of people worldwide have received hepatitis B vaccine without developing MS or any other autoimmune disease. As with all vaccines and any disease, due to the large number of vaccinations administered worldwide, surveillance systems that monitor health concerns after vaccination do expect to receive reports of MS occurring after vaccination that happen by chance alone.
+To further explore any possible connection between hepatitis B vaccination and MS, many scientific studies have been conducted, and have concluded that hepatitis B vaccination does not cause MS. 6 7 8 9 10 11
+Research on vaccines and other autoimmune diseases
+CDC takes concerns about vaccines and immune system diseases and disorders very seriously. Researchers at CDC and elsewhere have conducted studies to examine the possible link between vaccines and autoimmune conditions like MS, diabetes, and asthma. These studies have been reassuring, providing no evidence to suggest a link between vaccines and autoimmune conditions.
+As part of ongoing vaccine safety surveillance , CDC continues to conduct research to examine the effects vaccines may have on the immune system.
+How CDC monitors vaccine safety
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+- Eriksen, E. M., Perlman, J. A., Miller, A., Marcy, S. M., Lee, H., Vadheim, C., Zangwill, K. M., Chen, R. T., DeStefano, F., Lewis, E., Black, S., Shinefield, H., & Ward, J. I. (2004). Lack of association between hepatitis B birth immunization and neonatal death: a population-based study from the vaccine safety datalink project. The Pediatric infectious disease journal , 23 (7), 656–662. https://doi.org/10.1097/01.inf.0000130953.08946.d0
+- Haber, P., Moro, P. L., Ng, C., Lewis, P. W., Hibbs, B., Schillie, S. F., Nelson, N. P., Li, R., Stewart, B., & Cano, M. V. (2018). Safety of currently licensed hepatitis B surface antigen vaccines in the United States, Vaccine Adverse Event Reporting System (VAERS), 2005-2015. Vaccine , 36 (4), 559–564. https://doi.org/10.1016/j.vaccine.2017.11.079
+- Woo, E. J., Miller, N. B., Ball, R., & VAERS Working Group (2006). Adverse events after hepatitis A B combination vaccine. Vaccine , 24 (14), 2685–2691. https://doi.org/10.1016/j.vaccine.2005.10.049
+- Lewis, E., Shinefield, H. R., Woodruff, B. A., Black, S. B., Destefano, F., Chen, R. T., Ensor, R., & Vaccine Safety Datalink Workgroup (2001). Safety of neonatal hepatitis B vaccine administration. The Pediatric infectious disease journal , 20 (11), 1049–1054. https://doi.org/10.1097/00006454-200111000-00009
+- Mikaeloff, Y., Caridade, G., Rossier, M., Suissa, S., & Tardieu, M. (2007). Hepatitis B vaccination and the risk of childhood-onset multiple sclerosis. Archives of pediatrics & adolescent medicine , 161 (12), 1176–1182. https://doi.org/10.1001/archpedi.161.12.1176
+- Sadovnick, A. D., & Scheifele, D. W. (2000). School-based hepatitis B vaccination programme and adolescent multiple sclerosis. Lancet (London, England) , 355 (9203), 549–550. https://doi.org/10.1016/S0140-6736(99) 02991-8
+- Institute of Medicine (US) Immunization Safety Review Committee, Stratton, K., Almario, D., & McCormick, M. C. (Eds.). (2002). Immunization Safety Review: Hepatitis B Vaccine and Demyelinating Neurological Disorders . National Academies Press (US).
+- Confavreux, C., Suissa, S., Saddier, P., Bourdès, V., Vukusic, S., & Vaccines in Multiple Sclerosis Study Group (2001). Vaccinations and the risk of relapse in multiple sclerosis. Vaccines in Multiple Sclerosis Study Group. The New England journal of medicine , 344 (5), 319–326. https://doi.org/10.1056/NEJM200102013440501
+- Ascherio, A., Zhang, S. M., Hernán, M. A., Olek, M. J., Coplan, P. M., Brodovicz, K., & Walker, A. M. (2001). Hepatitis B vaccination and the risk of multiple sclerosis. The New England journal of medicine , 344 (5), 327–332. https://doi.org/10.1056/NEJM200102013440502
+- DeStefano, F., Verstraeten, T., Jackson, L. A., Okoro, C. A., Benson, P., Black, S. B., Shinefield, H. R., Mullooly, J. P., Likosky, W., Chen, R. T., & Vaccine Safety Datalink Research Group, National Immunization Program, Centers for Disease Control and Prevention (2003). Vaccinations and risk of central nervous system demyelinating diseases in adults. Archives of neurology , 60 (4), 504–509. https://doi.org/10.1001/archneur.60.4.504
+- Groom HC, Irving SA, Koppolu P, Smith N, Vazquez-Benitez G, Kharbanda EO, Daley MF, Donahue JG, Getahun D, Jackson LA, Tse Kawai A, Klein NP, Nordin JD, Sukumaran L, Naleway AL. Uptake and safety of Hepatitis B vaccination during pregnancy: A Vaccine Safety Datalink study. Vaccine. 2018 Oct 1; 26(41): 6111-6116. Epub 2018 Sep 5.
+- Schillie S, Vellozzi C, Reingold A, Harris A, Haber P, Ward JW, Nelson NP. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep 2018 Jan 12: 67(No. RR-1): 1-31.
+- Haber P, Moro PL, Ng C, Lewis PW, Hibbs B, Schillie SF, Nelson NP, Li R, Stewart B, Cano MV. Safety of currently licensed hepatitis B surface antigen vaccines in the United States, Vaccine Adverse Event Reporting System (VAERS), 2005-2015. Vaccine . 2018 Jan 25; (4): 559-564. Epub 2017 Dec 11.
+- Moro PL, Zheteyeva Y, Barash F, Lewis P, Cano M. Assessing the safety of hepatitis B vaccination during pregnancy in the Vaccine Adverse Event Reporting System (VAERS), 1990-2016. Vaccine. 2018 Jan 2; 36(1): 50-54. Epub 2017 Nov 27.
+- Schillie S, Murphy TV, Sawyer M, Ly K, Hughes E, Jiles R, de Perio MA, Reilly M, Byrd K, Ward JW. CDC Guidance for Evaluating Health-Care Personnel for Hepatitis B Virus Protection and for Administering Postexposure Management. MMWR Recomm Rep. 2013 Dec 20: 62(RR10); 1-19.
+- Sawyer MH, Hoerger TJ, Murphy TV, Schillie SF, Hu D, Spradling PR, Byrd KK, Xing J, Reilly ML, Tohme RA, Moorman A, Smith EA, Baack BN, Jiles RB, Klevens M, Ward JW, Kahn HS, Zhou F. Use of Hepatitis B Vaccination for Adults with Diabetes Mellitus: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR. 2011 Dec 23: 60(50); 1709-1711.
+- Yu O, Bohlke K, Hanson CA, Delaney K, Rees TG, Zavitkovsky A, Ray P, Mullooly J, Black SB, Benson P, Thompson WW, Davis RL, Jackson LA. Hepatitis B vaccine and risk of autoimmune thyroid disease: A Vaccine Safety Datalink study . Pharmacoepidemiol Drug Saf . 2007 Jul;16(7):736-45.
+- Hocine MN, Farrington CP, Touze E, Whitaker HJ, Fourrier A, Moreau T, Tubert-Bitter P. Hepatitis B vaccination and first central nervous system demyelinating event: Reanalysis of a case-control study using the self-controlled case series method . Vaccine . 2007;25(31):5938-5943.
+- Woo EJ, Miller NB, Ball R. Adverse events after hepatitis A B combination vaccine . Vaccine . 2006 Mar 24;24(14):2685-91.
+- DiMiceli L, Pool V, Kelso JM, Shadomy SV, Iskander J; VAERS Team. Vaccination of yeast sensitive individuals: review of safety date in the US vaccine adverse event reporting system (VAERS) . Vaccine . 2006 Feb 6;24(6):703-7.
+- Eriksen EM, Perlman JA, Miller A, Marcy SM, Lee H, Vadheim C, Zangwill KM, Chen RT, Destefano F, Lewis E, Black S, Shinefield H, Ward JI. Lack of association between hepatitis B birth immunization and neonatal death: A population-based study from the Vaccine Safety Datalink project . Pediatr Infect Dis J . 2004 Jul;23(7):656-62.
+- DeStefano F, Verstraeten T, Jackson LA, Okoro CA, Benson P, Black SB, Shinefield HR, Mullooly JP, Likosky W, Chen RT, Vaccine Safety Datalink Research Group, National Immunization Program, CDC. Vaccinations and risk of central nervous system demyelinating diseases in adults . Arch Neurol . 2003 Apr;60(4):504-9.
+- Lewis E, Shinefield HR, Woodruff BA, Black SB, Destefano F, Chen RT, Ensor E, Vaccine Safety Datalink Workgroup. Safety of neonatal hepatitis B vaccine administration . Pediatr Infect Dis J . 2001 Nov;20(11):1049-54.
+- DeStefano F, Verstraeten T, Chen RT. Hepatitis B vaccine and risk of multiple sclerosis . Expert Rev Vaccines . 2002 Dec;1(4):461-6.
+- Niu MT, Rhodes P, Salive M, Lively T, Davis DM, Black S, Shinefield H, Chen RT, Ellenberg SS. Comparative safety of two recombinant hepatitis B vaccines in children: Data from the Vaccine Adverse Event Reporting System (VAERS) and Vaccine Safety Datalink (VSD) . J Clin Epidemiol . 1998 Jun;51(6):503-10.
+- Niu MT, Davis DM, Ellenberg S. Recombinant hepatitis B vaccination of neonates and infants: emerging safety data from the Vaccine Adverse Event Reporting System . Pediatr Infect Dis J . 1996 Sep;15(9):771-6.
+- PREHEVBRIO vaccine is the only hepatitis B vaccine that does not contain yeast, making it safe for people who are allergic to yeast.

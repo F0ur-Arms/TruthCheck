@@ -1,0 +1,40 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: FAQ on Immunization for Health Workers English, part 6
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/FAQ_on_Immunization_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+2. All empty vaccine vials
+2. Date and time of opening is mentioned
+3. VVM is not in usable stage
+3. Vial is within 28 days of opening
+4. Date and time of opening is not mentioned
+4. Date of expiry has not reached/crossed
+5. The vaccine vial septum is not contaminated
+These vials should be discarded after 48 hours or before the next session, whichever is earlier as per the CPCB guidelines.
+1. Opened vials of BCG, Measles/MR, JE and RVV
+1. VVM is intact and in usable stage
+How should you ensure that cold chain is maintained at the outreach immunization session sites?
+During an immunization session, can vaccine vials be placed on ice pack taken out from vaccine carrier?
+Vaccine carrier is an insulated box used for transporting limited number of vaccine vials and diluents from cold chain point to outreach session sites, for storing vials at the session site, and to return back unused, partially used and completely used vials back to cold chain point on the same day. It is packed with four conditioned ice packs and can maintain storage temperature of +2OC to +8OC for 12 hours, if not opened frequently. Vaccine carriers are used globally for the purpose of transporting vaccines to the point of use.
+Note: Droppers and Syringes should not be kept in the vaccine carrier At outreach immunization session sites (villages and mohallas); a health worker is responsible for maintaining appropriate cold chain for vaccines.
+You should ensure that once the vaccines are transported to the session sites, the vaccine carrier is placed in shade and not in direct exposure to sunlight. During the session, avoid opening vaccine carrier frequently as this breaks the cold chain for vials stored inside. To address this, take out one conditioned ice pack outside the vaccine carrier and place non freeze-sensitive, opened vaccine vials on it, to maintain the recommended temperature.
+As per guidelines, during an immunization session, take out one ice pack from vaccine carrier and place non freeze-sensitive, opened vaccine vials on it to maintain cold chain. This helps ensure that vaccine carrier is not opened again and again.
+The vaccine vials that should be placed on ice pack are – BCG, Measles, OPV, Rotavirus and JE. BCG and Measles vials are placed in the pits provided on ice packs, while OPV, Rotavirus and JE are placed on the surface of ice pack.
+The freeze-sensitive vaccine vials should NEVER be placed on ice pack. IPV, TT, DPT, PCV and Pentavalent vaccine vials should never be kept on the ice-pack.
+Vaccine carrier should only be used for transporting vaccines and diluents provided under UIP to session sites. It should have four conditioned ice packs to ensure appropriate temperature inside carrier. No other vaccine (non UIP), drug, food, or item should be kept inside vaccine carrier. State-specific vaccines, if are part of the Routine Immunization may be transported in the same vaccine carrier.
+The droppers used for administration of oral vaccines and syringes should NOT be transported inside vaccine carrier as cold temperatures can cause them to crack.
+Note: Hard frozen ice-packs should be used in vaccine carrier in case of Polio SIAs.
+Freeze sensitive vaccines (Hepatitis B, Pentavalent, IPV, DPT, TT and PCV); lose their potency if they freeze during storage or transportation. Therefore, if any of these vaccine vials are found to be visibly frozen, they should be discarded as per the guidelines.
+A “shake test” should be performed at the health facility for any suspected frozen vaccine vial i.e. if temperature falls below 0°C or there are other frozen vials in the same box or there is any suspicious vial damaged due to freezing.
+Vaccines, like OPV and Rotavirus vaccines do not lose their potency and efficacy on freezing, and these vaccines can be used again once they liquefy.
+Are diluents also to be stored in cold chain at recommended storage temperature?
+A vaccine diluent is the liquid which is used to reconstitute a lyophilized (freeze- dried) vaccine (BCG, Measles/MR and JE). A vaccine diluent may be sensitive to heat or freezing, and may require transportation and storage in the cold chain.
+CONDITIONING OF
+ICE-PACKS
+What precautions should be taken regarding use of diluents?
+File the neck of the diluent ampoule Break the diluent at the point of filing Mention date and time of opening the vial Shake the vial Reconstitute the vaccine Draw the diluent (Use within 4 hours of opening) he e and time the vial Draw the diluent f Figure 11: Procedure of reconstitution ONLY the diluents supplied by the same manufacturer (bundled) along with vaccine are to be used as these are specifically designed for the needs of that vaccine, with respect to volume, pH level and chemical properties. No other diluents should be used even if they are chemically same. Diluents should be checked for expiry date, batch numbers and breakage (cracks and leaks). Care should be taken to ensure that freeze dried vaccine (BCG, Measles/ MR and JE) are issued with corresponding diluents. Only the recommended volume of diluent must be used to reconstitute the vaccine. “Bundling” ensures that vaccines are always supplied with diluents, AD syringes and reconstitution syringes, in corresponding quantities, at each level of the supply chain. ensured that they are kept in ILR at least 24 hours before use or issuing to sessions to ensure that vaccines and diluents are at same temperature (i.e. +2° to +8°C) during reconstitution. When mixed, the diluent and vaccine should be approximately at the same temperature; otherwise, it can lead to thermal shock that is, the death of some or all the essential live organisms in the vaccine.
+The glass of diluent ampoules is too fragile and it should be stored in top of the ILR (above all the vaccines) to prevent cracking. Diluents should be transported along with the vaccines, in the vaccine carrier to the session sites.
+OPEN VIAL POLICY IS
+OPEN VIAL POLICY IS NOT
+To address the avoidable wastage and ensure optimal utilization of life-saving vaccines, Ministry of Health & Family Welfare, Govt. of India, has adopted a Multi- Dose Open Vial Policy (OVP). The policy underlines guidelines for the reuse and storage of open vaccine vials of specific types that contain a few doses at the end of a session, provided certain criteria are fulfilled.
+Implementation of Open Vial Policy allows reuse of partially used multi dose vials of applicable vaccines under UIP in subsequent session (both fixed and outreach) up to four weeks (28 days) provided; If the square is visible and lighter in colour, the vaccine is safe to use.

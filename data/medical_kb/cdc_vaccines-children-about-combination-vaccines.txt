@@ -1,0 +1,42 @@
+SOURCE: CDC
+TITLE: Combination Vaccines
+URL: https://www.cdc.gov/vaccines-children/about/combination-vaccines.html
+────────────────────────────────────────────────────────────
+
+What to know
+Combination vaccines reduce the number of shots your child needs while protecting against the same number of serious diseases.
+Fewer shots, but same protection
+Combination vaccines take two or more vaccines that could be given individually and put them into one shot.
+At a doctor's visit, your child may only get two or three shots to protect him from five diseases, instead of five individual shots.
+Several vaccines are so common that they are generally known by their initials: MMR (measles, mumps, and rubella) and DTaP (diphtheria, tetanus, and pertussis). Each protect your child against three diseases. However, today these two particular vaccines are not considered true combination vaccines because in the United States, you cannot get separate vaccines for all of the diseases that MMR and DTaP protect against.
+Common combination vaccines for children
+- DTaP + Hep B + IPV Diphtheria, tetanus, pertussis, hepatitis B, and polio
+- DTaP + IPV + Hib Diphtheria, tetanus, pertussis, polio, and Hib ( Haemophilus influenzae type b)
+- DTaP + IPV Diphtheria, tetanus, pertussis, and polio
+- DTaP + IPV +Hib +HepB Diphtheria, tetanus, pertussis, polio, hepatitis B, and Hib ( Haemophilus influenzae type b)
+- MMR + varicella Measles, mumps, rubella, and varicella
+Benefits of Vaccines
+Benefits of combination vaccines
+Combining vaccines into fewer shots may mean that more children will get recommended vaccinations on time. And that means fewer delays in disease protection .
+- Fewer shots
+- Fewer visits to doctor
+- Less pain and discomfort
+- Less hassle and cost with fewer visits
+- On-time protection
+- Less time off from work or family activity
+Are combination vaccines safe?
+Safety and effectiveness
+Before a combination vaccine is approved for use, it goes through careful testing to make sure the combination vaccine is as safe and effective as each of the individual vaccines given separately. And, just as with individual vaccines, there are systems in place to watch for any rare reactions to combination vaccines that can be detected only after the vaccine is used widely.
+Did you know?
+Side effects
+Side effects from combination vaccines are usually mild. They are similar to those of the individual vaccines given separately.
+Sometimes combination vaccines cause slightly more pain or swelling where the shot was given. But if your child got the shots individually, he or she might have pain or swelling in two or three spots, instead of just one.
+If your child has moderate or serious side effects from a combination vaccine, tell your child's doctor. If the separate vaccines are available, the doctor may be able to give additional doses of certain vaccines separately.
+Growing future for combination vaccines
+As scientists develop and test new vaccines to protect children against more diseases, more combination vaccines may become available. This will allow children to get additional protection with fewer shots.
+Recommendations for the MMRV vaccine
+The MMRV vaccine combines the MMR (for measles, mumps, and rubella) vaccine with the chickenpox vaccine. Some children who get the first MMRV shot at 12 through 23 months of age may have a higher chance of a seizure caused by fever after the shot. But this is not common.
+These "febrile" seizures are scary for parents, but they are not harmful to children. Because of this slightly higher risk of seizures, the Centers for Disease Control and Prevention recommend that children under 4 years old get the first dose of MMR and chickenpox vaccines separately .
+- Klein NP, Fireman B, Yih WK, et al. Measles-mumps-rubella-varicella combination vaccine and the risk of febrile seizures . Pediatrics 2010;126:e1-8.
+- American Academy of Pediatrics, Committee on Infectious Diseases. Combination vaccines for childhood immunization: recommendations of the Advisory Committee on Immunization Practices (ACIP), the American Academy of Pediatrics (AAP), and the American Academy of Family Physicians (AAFP) . Pediatrics 1999;103:1064–1077.
+- Midthun K, Horne AD, Goldenthal KL. Clinical safety evaluation of combination vaccines . Dev Biol Stand. 1998;95:245–249.

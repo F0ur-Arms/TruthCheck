@@ -1,0 +1,30 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 1 Diabetes: 15. Long term intensive blood
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_Guidelines_for_Management_of_Type_1_Diabetes.pdf
+────────────────────────────────────────────────────────────
+
+Screening and diagnosis depend on assessment of albuminuria and renal function which has to be done annually once the disease duration is five years or more. Non-albuminuric phenotype of DN needs to be thought of when isolated renal dysfunction is present.
+Though microalbuminuria has long been considered a reliable and the earliest marker of diabetic nephropathy, it can be temporary or transient and patients may have associated renal dysfunction even at diagnosis. Newer biomarkers and use of advanced “omics” technology may pave the way for earlier diagnosis and personalized management in the future. At present, management consists of adequate glucose control, optimal blood pressure management with RAAS blockade and close follow-up. The future research in DKD focusses on early screening and diagnosis with better preventive measures for protection from adverse renal and cardiovascular outcomes.
+1. Agarwal SK, Srivastava RK. Chronic Kidney Disease in India: Challenges and Solutions.
+2. Virmani A. Type 1 Diabetes in India: The Numbers Show the Way Ahead. Indian Pediatr 2019 15;56(3):189–90.
+3. 	 American Diabetes Association Association AD. Standards of Medical Care in Diabetes—2017
+4. 	 Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and
+Complications (DCCT/EDIC) Research Group; Nathan DM, Zinman B, Cleary PA, Backlund J-YC, Genuth S, Miller R, et al. Modern-day clinical course of type 1 diabetes mellitus after 30 years’ duration: the diabetes control and complications trial/epidemiology of diabetes interventions and complications and Pittsburgh epidemiology of diabetes complications experience (1983-2005). Arch Intern Med 2009 Jul 27;169(14):1307–16.
+5. Möllsten A, Svensson M, Waernbaum I, Berhan Y, Schön S, Nyström L, et al. for the Swedish Childhood Diabetes Study Group, the Diabetes Incidence Study in Sweden, and the Swedish Renal Registry. Cumulative risk, age at onset, and sex-specific differences for developing end- stage renal disease in young patients with type 1 diabetes: a nationwide population-based cohort study. Diabetes 2010 Jul;59(7):1803–8.
+6. Bhatia V, Arya V, Dabadghao P, Balasubramanian K, Sharma K, Verghese N, et al. Etiology and outcome of childhood and adolescent diabetes mellitus in North India. J Pediatr Endocrinol Metab 2004 Jul;17(7):993–9.
+7. Sudhanshu S, Nair VV, Godbole T, Reddy SVB, Bhatia E, Dabadghao P, et al. Glycemic Control and Long-term Complications in Pediatric Onset Type 1 Diabetes Mellitus: A Single-center Experience from Northern India. Indian Pediatr 2019 Mar 15;56(3):191–5.
+8. Thorn LM, Gordin D, Harjutsalo V, Hägg S, Masar R, Saraheimo M, et al. The Presence and Consequence of Nonalbuminuric Chronic Kidney Disease in Patients With Type 1 Diabetes.
+9. Ruggenenti P, Remuzzi G. Nephropathy of type 1 and type 2 diabetes: diverse pathophysiology, same treatment? Nephrol Dial Transplant 2000 Dec 1;15(12):1900–2.
+10. 	Papadopoulou-Marketou N, Chrousos GP, Kanaka-Gantenbein C. Diabetic nephropathy in
+type 1 diabetes: a review of early natural history, pathogenesis, and diagnosis. Diabetes Metab Res Rev 2017;33(2).
+11. Lin Y-C, Chang Y-H, Yang S-Y, Wu K-D, Chu T-S. Update of pathophysiology and management of diabetic kidney disease. J Formos Med Assoc 2018 Aug 1;117(8):662–75.
+12. Caramori ML, Parks A, Mauer M. Renal lesions predict progression of diabetic nephropathy in type 1 diabetes. J Am Soc Nephrol 2013 Jun;24(7):1175–81.
+13. Mogensen CE, Christensen CK, Vittinghus E. The stages in diabetic renal disease. With emphasis on the stage of incipient diabetic nephropathy. Diabetes 1983 May;32 Suppl 2:64– 14. Poulsen PL, Hansen KW, Mogensen CE. Ambulatory blood pressure in the transition from normo- to microalbuminuria. A longitudinal study in IDDM patients. Diabetes 1994 Oct;43(10):1248–53.
+15. de Boer IH, Afkarian M, Rue TC, Cleary PA, Lachin JM, Molitch ME, et al. for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Research Group. Renal outcomes in patients with type 1 diabetes and macroalbuminuria. J Am Soc Nephrol 2014 Oct;25(10):2342–50.
+16. Tervaert TWC, Mooyaart AL, Amann K, Cohen AH, Cook HT, Drachenberg CB, et al. Renal Pathology Society Pathologic Classification of Diabetic Nephropathy. J Am Soc Nephrol. 2010 Apr 1;21(4):556–63.
+17. Parving HH, Feldt-Rasmussen B, Fioretto P, Rossing P. Diabetic Nephropathy. In: Brenner and Rector’s The Kidney E-Book - 9th Edition. Philadelphia, PA: Elsevier; 2016. Available from: https://www.elsevier.com/books/brenner-and- rectors-the-kidney-e-book/taal/978-1-4557- 18. National Kidney Foundation. KDOQI Clinical Practice Guideline for Diabetes and CKD: 2012 Update. Am J Kidney Dis 2012 Nov;60(5):850–86.
+19. Persson F, Rossing P. Diagnosis of diabetic kidney disease: state of the art and future perspective.
+20. Tuttle KR, Bruton JL, Perusek MC, Lancaster JL, Kopp DT, DeFronzo RA. Effect of strict glycemic control on renal hemodynamic response to amino acids and renal enlargement in insulin-dependent diabetes mellitus. N Engl J Med 1991 Jun 6;324(23):1626–32.
+21. Wang PH, Lau J, Chalmers TC. Meta-analysis of effects of intensive blood- glucose control on late complications of type I diabetes. Lancet 1993 May 22;341(8856):1306–9.
+22. Mauer M, Zinman B, Gardiner R, Suissa S, Sinaiko A, Strand T, et al. Renal and retinal effects of enalapril and losartan in type 1 diabetes. N Engl J Med 2009 Jul 2;361(1):40–51.
+23. Chaturvedi N, Porta M, Klein R, Orchard T, Fuller J, Parving HH, et al. DIRECT Programme Study Group. Effect of candesartan on prevention (DIRECT- Prevent 1) and progression (DIRECT-Protect 1) of retinopathy in type 1 diabetes: randomised, placebo-controlled trials.

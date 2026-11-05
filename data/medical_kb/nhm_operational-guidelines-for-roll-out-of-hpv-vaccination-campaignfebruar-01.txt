@@ -1,0 +1,44 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Operational Guidelines for Roll Out of HPV Vaccination CampaignFebruary 2026, part 1
+URL: https://nhm.gov.in/New-Update-2025-26/Immunization/Operational-Guidelines/Operational-Guidelines-for-Roll-Out-of-HPV-Vaccination-CampaignFebruary-2026.pdf
+────────────────────────────────────────────────────────────
+
+Acknowledgments We extend our sincere gratitude to Smt. Punya Salila Srivastava, Secretary (Health), for her visionary leadership and unwavering support provided during the development of the Operational Guidelines on the Rollout of HPV Vaccination Campaign 2026.
+We are particularly grateful to Ms. Aradhana Patnaik (Additional Secretary & Mission Director - NHM) for her comprehensive oversight in preparing this document, and to Ms. Meera Srivastava, Joint Secretary (RCH), for her insightful contributions and dedicated assistance.
+We extend our appreciation to Dr. Pawan Kumar, Additional Commissioner (UIP), for steering the process with expert technical input, guidance, and thorough reviews throughout the development of these guidelines.
+We express our sincere thanks to Dr. Neerja Bhatla (Ex- Professor & Head, Obstetrician & Gynaecologist, AIIMS-Delhi) for her technical guidance in refining these operational guidelines.
+We express appreciations for the commitment and valuable contributions from the Ministry of Education, Ministry of Women & Child Development, Ministry of Tribal Affairs and Department of Legal Affairs in this initiative of Ministry of Health & Family Welfare.
+JHPIEGO
+NCCVMRC, ITSU, WHO, UNICEF, UNDP, JHPIEGO,
+Girl Effect and JSI in the entire process of guidelines development which is highly appreciated.
+ACRONYMS
+AB-SHWP
+NCCVMRC
+NISHTHA
+TABLE OF CONTENTS
+ANNEXURES
+LIST OF TABLES
+LIST OF FIGURES
+The objective of these operational guidelines is to provide evidence-based technical information and ensure the operational feasibility of HPV vaccination Campaign.
+1.	 HPV Vaccine Profiles (https://www.gavi.org/sites/default/files/document/2022/Gavi-HPV-vaccines-
+2.	 HPV VACCINE SCHEDULE OPTIMIZATION, Key considerations for decision-making, planning, and
+3.	 Considerations for human papillomavirus (HPV) vaccine product choice, second edition https://iris.
+4.	 WHO Position Paper 2022 (https://iris.who.int/server/api/core/bitstreams/182d51d2-6d08-4963-
+5.	 HPV
+CERVICAL CANCER
+Cervical cancer is cancer of the lower end of the uterus, also known as the cervix. Cervical cancer is a preventable disease and is curable if detected early and treated adequately. Yet it remains one of the most common cancers and an important cause of cancer-related deaths in women across the globe. About 99.7% of cervical cancers are caused by persistent infection of the genital tract by high-risk types of human papillomavirus (HPV).1 HPV is the most common viral infection of the reproductive tract. While the majority of HPV infections are asymptomatic and resolve spontaneously, persistent infection with HPV may result in cervical cancer.2 CERVICAL CANCER: INCIDENCE AND MORTALITY (GLOBAL SCENARIO) Globally, cervical cancer is the fourth most common cancer amongst women after breast, lung, and colorectal cancer. The estimated age-standardized incidence and mortality rates of cervical cancers in 2022 were 14.1 and 7.1 per 1,00,000 women-years, respectively (Figure 1), with an estimated 6,62,301 new cases and 3,48,874 deaths due to cervical cancer (Figures 2 and 3).
+World Health Organization. (2022). Human papillomavirus vaccines: WHO position paper, December 2022. Weekly Epidemiological Record, 97(50), 645–672.
+Available at: https://iris.who.int/server/api/core/bitstreams/182d51d2-6d08-4963-a643-43d4bc843189/content. Accessed on February 4, 2026.
+Ferlay, J., Ervik, M., Lam, F., Colombet, M., Mery, L., Piñeros, M., Znaor, A., Soerjomataram, I., & Bray, F. (2020). Global Cancer Observatory: Cancer Today.
+International Agency for Research on Cancer. https://gco.iarc.fr/today. Accessed on February 4, 2026.
+GLOBAL ESTIMATED CERVICAL CANCER PROJECTIONS
+The visuals in Figure 7 show projected increase in cervical cancer cases and deaths by 2035. Unless prevention and control measures for cervical cancer are successfully implemented, it is estimated that globally by 2035, 815,000 new cases of cervical cancer will be diagnosed annually with 448,000 deaths.
+The NCRP provides comprehensive data on cancer incidence, mortality, survival, patterns, trends, and stage at diagnosis across the country.
+Mathur, P., Sathishkumar, K., Das, P., Santhappan, S., Sankarapillai, J., Nath, A., ... & National Cancer Registry Programme Investigator Group. (2025). Cancer incidence and mortality across 43 Cancer registries in India. JAMA Network Open, 8(8), e2527805-e2527805. Available at: doi:10.1001/jamanetworkopen.2025.27805.
+In 2024, there were an estimated 78,499 new cases and 42,392 deaths due to cervical cancer (Figures 9 and 10). The majority of cervical cancer cases in India are diagnosed at a locally advanced stage (62.2%), which adversely affects treatment outcomes and survival.4 Disease and Vaccine Disease and Vaccine HUMAN PAPILLOMAVIRUS (HPV) INFECTION HPV belongs to the family Papillomaviridae. The virions are non-enveloped and contain a double-stranded DNA genome. HPV types are classified in various ways, including by their potential to induce cancer, i.e. high risk vs low-risk types. Currently 17 HPV types are defined as high-risk (oncogenic) and can cause cancer in humans (types 16, 18, 45, 33, 58, 31, 52, 35, 59, 39, 56, 51, 68, 73, 26, 69, and 82). Oncogenic risk varies by type, with type HPV16 being the most oncogenic (Figure 11).5 HPV infection is the etiologic factor for several cancers including cervical, vulvar, vaginal, anal, penile and oropharyngeal cancers. However, as a public health problem, cervical cancer cases far outnumber the other cancers. Moreover, the attributable fraction of cancers caused by HPV is also highest for cervical cancer, making this the major focus for prevention programmes.
+HPV16 and HPV18 together are responsible globally for 77% of cases of cervical cancer in women.5 In India, the attributable fraction of these two types is higher at 83%6 which makes it likely to have even better response with the quadrivalent HPV vaccines than the global experience.7 Wei, F., Georges, D., Man, I., Baussano, I., & Clifford, G. M. (2024). Causal attribution of human papillomavirus genotypes to invasive cervical cancer worldwide: a systematic analysis of the global literature. The Lancet, 404(10451), 435-444. Available at: DOI: 10.1016/S0140-6736(24)01097-3. Accessed on February 4, 2026.
+ICO/IARC Information Centre on HPV and Cancer (2023) India: Human Papillomavirus and Related Cancers, Fact Sheet 2023. Available at: https://hpvcentre.net/ statistics/reports/IND_FS.pdf. Accessed: 13 January 2026.
+Bzhalava, D., Guan, P., Franceschi, S., Dillner, J., & Clifford, G. (2013). A systematic review of the prevalence of mucosal and cutaneous human papillomavirus types. Virology, 445(1-2), 224-231. Available at: https://doi.org/10.1016/j.virol.2013.07.015. accessed on Febrauary 4, 2026.
+High-risk HPV types 16 and 18 are the primary contributors to disease burden, accounting for 77% of the cumulative attributable fraction, with coverage reaching nearly 95% when including the next five most prevalent genotypes (HPV45, 33, 58, 31, and 52), as shown in the figure 12 below: Figure 12: Cumulative and individual attributable fraction (AF) of specific high-risk HPV genotypes.5 Hall, E., & Centers for Disease Control and Prevention (Eds.). (2021). Epidemiology and prevention of vaccine-preventable diseases (pp. 275-286). Atlanta, GA, USA: US Department of Health and Human Services, Centers for Disease Control and Prevention. Available at: https://www.merle-arbeitsmedizin.de/wp-content/ uploads/2022/02/CDC-Pink-Book-Version-14th-Edition.pdf . Accessed on Febrauary 4, 2026.
+Johnson, C. A., James, D., Marzan, A., & Armaos, M. (2019, April). Cervical cancer: an overview of pathophysiology and management. In Seminars in oncology nursing (Vol. 35, No. 2, pp. 166-174). WB Saunders. Available at: https://doi.org/10.1016/j.soncn.2019.02.003. Accessed on February 4, 2026.
+Zhang, S., Xu, H., Zhang, L., & Qiao, Y. (2020). Cervical cancer: Epidemiology, risk factors and screening. Chinese Journal of Cancer Research, 32(6), 720. Available at: doi: 10.21147/j.issn.1000-9604.2020.06.05. Accessed on Febrauary 4, 2026.

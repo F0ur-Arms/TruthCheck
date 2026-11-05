@@ -1,0 +1,40 @@
+SOURCE: National Health Mission, MoHFW — Immunization
+TITLE: Immunization Handbook for Health Workers English, part 7
+URL: https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/Immunization_Handbook_for_Health_Workers-English.pdf
+────────────────────────────────────────────────────────────
+
+Can PCV be given to a sick child?
+Yes, PCV can be safely administered to a child with immunodeficiency (e.g., HIV/AIDS, congenital or acquired immunodeficiency, sickle cell disease), malnutrition, or other underlying illnesses, using the same schedule as for any other child.
+These children are in particular need of PCV because their risk of pneumococcal disease is high.
+Children with mild acute illnesses can and should be immunized with PCV on time Are there any contraindications for use of PCV?
+The pneumococcal vaccine should not be given to the following persons: those who have had severe allergic reactions to a prior dose. those who are known to have had a severe reaction to another vaccine containing diphtheria toxoid. those who have a severe illness; vaccination should be delayed until the condition improves in part so as to not mistakenly attribute any clinical changes with the vaccination.
+4.1	 RI microplanning – Importance
+Microplanning ensures that the immunization services reach every community. It starts at the Sub Centre (SC) level. This is the most important component and forms the base for the planning and management of immunization services. Microplans from the subcentres are compiled to prepare the PHC microplan. Information from PHCs is consolidated at the district or may be at the taluk and then to the district level in some states. Fig 4.1 shows the RI microplanning from subcentre to district level.
+PHC/UHC RI
+PHC/UHC RI
+PHC/UHC RI
+Microplan Sub Centres RI Microplan Sub Centres RI Microplan As an ANM you are responsible to prepare the SC-microplan in coordination with ASHA and AWW.
+4.2	 Subcentre RI microplan
+A microplan at the subcentre should have the following components: Map of area under SC with names of villages, urban areas including all hamlets (tola), subvillages, sub-wards, sector, mohalla, hard to reach areas, etc. Demarcation map – allocating areas for each ANM if more than 2 ANMs are present in a SC. It can also show the exact boundaries and areas for ASHAs and AWWs Master list of the area– this list includes all villages/tolas/HRAs/wards/mohalls An estimation of beneficiaries (who has to be vaccinated and with which antigen) e) An estimation of vaccines and logistics (for each planned session) f) ANM work plan including mobilization plan HRAs and urban areas form an important component of the master list of the areas for preparing RI-Microplan.
+High risk areas/populations HRAs are special sites/areas, which may be one or more of the following types of areas: Hard-to-reach areas Unserved or underserved areas/areas with shortage of health workers Urban areas, especially slums Migratory populations including temporary harvesters, brick kiln workers and construction labourers in large construction sites Security compromised areas.
+4.3	 RI microplanning activities and timelines
+Actively participate in preparing and generating new RI microplans including house to house survey and head counting: Ensure that all areas are included into the list, confirm the master list of villages and HRAs; Form 1 Prepare map of areas under SC with names of villages, urban areas including all hamlets (tola), subvillages, sub-wards, sector, mohalla, hard to reach areas, etc. showing exact boundaries and areas for ASHAs and AWWs; Form 2 Ensure that migratory populations, temporary settlements are also listed and included in the map. Provide actual population and beneficiary counts through house to house survey and head counting; Form 3, 4 & 5 Generate needed information for planning sessions, vaccine and logistic calculations. Forms 6 & 7.
+Conduct only the house-to-house survey and head counting. This activity in coordination with ICDS and partners will help to: Identify any new sites for inclusion / mobilization and Update the beneficiary due lists for effective mobilization.
+Participate in RI microplan review to help: Update the plans to incorporate information on sub centres where staff is on leave or if it has become vacant and Respond to changes in vaccine delivery and inclusion of new areas - nomads / HRAs and other issues based on monitoring results.
+At Sub centre: with ASHA/AWW Review due lists of all the sessions held in the previous month; Update coverage monitoring chart to quantify leftouts and dropouts; At PHC share the salient points with the sector medical officer, so that MO can make plans to visit sub centre during this activity After every RI session take help of ASHA/AWW to: Review the session due list and Identify dropout / left-out beneficiaries and enter their names into the next session’s due list for follow-up and mobilization. Ensure follow-up visits to beneficiaries to identify minor vaccine reactions or AEFIs. Guide ASHA/mobilizer to identify, newborns/pregnant women for inclusion in next due list. Guide ASHA/mobilizer to visit these houses during other field visits and remind beneficiaries of immunization.
+4.4	 Process/steps of Microplanning
+For preparing a new RI microplan, you should plan the activity during March and conduct the house-to-house survey during April-May of every year (or as per timeline decided by State/district).
+The steps in the process of developing RI microplans are shown in Fig. 4.2 while Fig. 4.3 gives an overview of major activities in RI microplanning.
+ASHA/AWW/
+PHC/UHC
+PHC/UHC RI
+4.5	 Overview of RI microplanning formats
+A set of formats have been developed to collect and compile information and data to prepare RI microplans for an area. The table 4.1 below enlists these formats and the information they collect.
+PLANNING FORMS
+SURVEY FORMS
+SUB CENTRE FORMS
+To be filled by ANM RI Session beneficiary due list (to be made after SC microplan is approved by MO) RI session plan RI session injection load and vaccine distribution plan Per Session estimation of vaccines & logistics ANM work plan / roster Communication plan for SC Overview of RI Forms 1 and 2 Village / area Master list Area Survey planning template Basis for conducting house to house survey Map of Sub centre area RI Microplan Form 1 – Sub-centre area survey planning form & Master List Sub Centre Area Master List and Survey Planning Form Sub centre name: ANM Name/Ph No.: PHC Name: S. no Name of Villages/Hamlets/Tolas/HRA# Total number of households in this area?
+Column A: Serial numbers are to be allotted to each area. Numbers are not to be repeated and must be in serial for one sub-centre area. If the areas per sub-centre need to be entered on more than one sheet, the numbering will continue until the last area for that sub-centre.
+Column B: Ensure all the Villages / Hamlets / Tolas / High Risk Areas (HRAs) details are entered.
+The classification of the HRAs is given as footer and the relevant number to be entered in brackets along with the name of HRA.
+Column C: Enter the total number of houses as per information available. If information is not available an approximate number can be entered. For areas such as nomadic sites and brick kilns household numbers are important or approximations must be entered. For HRAs, (including brick kilns or nomadic/construction sites) each site must be entered into a separate row. Refer to existing polio microplans, census lists, maps, high-risk area lists, and interactions with ASHA / AWW or Panchayat Raj Institution (PRI) members to ensure the inclusion of all areas in the sub centre area. This will form the master list for each sub centre.

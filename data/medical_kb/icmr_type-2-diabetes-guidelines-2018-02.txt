@@ -1,0 +1,23 @@
+SOURCE: ICMR — Guidelines
+TITLE: ICMR Guidelines for Management of Type 2 Diabetes 2018: 1.3 Types of diabetes
+URL: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf
+────────────────────────────────────────────────────────────
+
+1.3 Types of diabetes
+According to the American Diabetes Association and the World Health Organisation, diabetes can be classified into four main types (see Box).
+Classification of Diabetes Gestational diabetes Other types of diabetes (Monogenic diabetes, pancreatic diabetes, drug-induced diabetes etc.) Of these, the two most important forms of diabetes are type 1 and type 2 diabetes.
+Type 1 diabetes is primarily due to autoimmune-mediated destruction of pancreatic beta cells, resulting in absolute insulin deficiency and thus requiring insulin for good health and survival. While type 1 diabetes is also on the increase, the actual numbers of people with type 1 diabetes in India is, relatively speaking, still small. Type 2 diabetes, on the other hand, accounts for over 90-95% of all people with diabetes and is characterized by insulin resistance and abnormal insulin secretion, either of which may predominate. The diabetes epidemic relates particularly to type 2 diabetes, and predominantly due to the changing lifestyles, urbanization, demography and increased longevity.
+1.4 Differentiating Between Type 1 and Type 2 Diabetes
+Type 2 diabetes is a metabolic-cum-vascular syndrome characterized by predominant insulin resistance with varying degrees of insulin secretory defect. It is a progressive disease often associated with central obesity, dyslipidaemia and hypertension. It is more common in overweight and obese individuals of middle to late age but is increasingly being seen in younger age groups and in those with lower body mass index (BMI) as well. The “Asian Indian phenotype” refers to a peculiar constellation of abnormalities in south Asians, whereby for any given level of BMI, they tend to have higher total body fat, visceral fat, insulin resistance and prevalence of diabetes compared to white Caucasians (Figure 1.1).
+ASIAN INDIAN
+PHENOTYPE
+1.5 Goals for management
+1.6 Diabetes Education
+Diabetes education means empowering people with diabetes with knowledge and providing tools crucial for making them active partners in the diabetes management team. These include: In-depth information about diabetes, its complications and treatment Appropriate self care skills Appropriate resources for self care A positive attitude Self monitoring skills The compliance of people with diabetes is essential for effective management of diabetes. Education programmes are intended to help people to understand why these actions are so important and thereby increase their motivation for self-management.
+1.7 Prevention of Diabetes
+There is an urgent need for strategies to prevent or at least slow down the emerging epidemic of diabetes apart from treating diabetes and associated complications.
+Several factors are thought to contribute towards the acceleration of the epidemic, the most important being the rapid epidemiological transition due to urbanization and life style changes. Identifying individuals at risk is essential in planning preventive measures. Prevention of diabetes has several windows of opportunities (Figure 1.2).
+IGT/IFG
+1.7.1 Primordial prevention attempts to reduce the risk factors for diabetes, e.g.,
+1.7.2 Primary prevention targets people who are in the stage of prediabetes
+to prevent the onset of diabetes. All people with prediabetes should be regularly screened and encouraged at each health care visit to pursue a healthy life-style, including a healthy diet, adequate exercise and weight control in order to prevent diabetes. Several studies including from India have shown that diabetes can be prevented in up to a third of people with prediabetes. When lifestyle alone is not sufficient and especially in those with combined IFG and IGT where progression to type 2 diabetes appear imminent, use of metformin in addition to lifestyle measures may be considered especially in Indians who progress rapidly to diabetes from the prediabetes stage.

@@ -1,0 +1,16 @@
+SOURCE: Central TB Division, MoHFW — FAQs
+TITLE: Tuberculosis FAQs (September 2022), part 2
+URL: https://tbcindia.mohfw.gov.in/wp-content/uploads/2023/04/Tuberculosis_FAQs_12_September_2022.docx
+────────────────────────────────────────────────────────────
+
+TB and COVID-19 both primarily affect the lungs although TB is caused by bacteria and COVID-19 by a virus. Many symptoms of COVID-19 and TB are similar as well. Therefore, if you have symptoms such as cough, fever, and difficulties in breathing, get yourself tested for both COVID-19 and tuberculosis.
+How are TB and HIV related?
+HIV is the strongest risk factor for tuberculosis among adults as it adversely affects the immune system. An HIV-positive person is 20-40 times more likely to develop TB disease once infected as compared to an HIV-negative person.
+Can TB be cured in HIV co-infected patients?
+TB is curable in patients who suffer from HIV using the same medicines which are used to treat HIV-negative TB patients. However, HIV/TB co-infected patients require additional medications such as Antiretroviral Therapy (ART) and Co-trimoxazole preventive therapy (CPT) to prevent other opportunistic infections.
+How is it assessed whether the patient is responding to TB treatment?
+The response to treatment in the case of patients with pulmonary TB is assessed by follow-up sputum examinations/culture done at regular intervals over the course of treatment. The sputum examination is also done at the end of the treatment to declare the patient cured. The response in extra-pulmonary TB patients is assessed through clinical improvement and follow-up investigations such as X-rays, CT scans, etc. depending on the site affected.
+Since the treatment duration is long, what happens if a patient shifts their place of residence?
+There is a provision of ‘Transferring Out’ to ensure continuity of treatment and care services if a patient shifts their residence to anywhere in the country. The patient simply needs to inform the programme officials in the district where s/he was originally notified about her/his location change. The details are automatically updated via the Ni-kshay system. All medications and social support benefits can then be availed by the patient in the new location of residence. The remaining treatment is then continued at the treatment centre or unit nearest to the new residence of the patient.
+21 I have a regular doctor who is my family physician. Can I go to him/her for guidance on TB?
+You can consult any certified MBBS doctor for medical advice. They are best placed to diagnose and provide treatment. It is important to remember that TB is diagnosed through appropriate sputum examinations and/or molecular diagnostic testing.
