@@ -1,0 +1,5256 @@
+[
+ {
+  "claim": "Peroxynitrite is required for nitration of TCR/CD8.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Peroxynitrite is required for the nitration of TCR/CD8."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Next step for anti-cancer vaccine",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is a next step in the development or use of an anti-cancer vaccine."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Patient zero for the 2014-2015 measles outbreak was found to be an already-vaccinated child or illegal immigrant.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The first case of the 2014-2015 measles outbreak was a vaccinated child.",
+   "The first case of the 2014-2015 measles outbreak was an illegal immigrant."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "U.N. supports 'brelfies' to encourage breastfeeding.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The United Nations supports 'brelfies' to promote breastfeeding."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 vaccines will cause more severe disease through antibody-dependent enhancement",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines cause more severe disease through antibody-dependent enhancement."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Washington, D.C. needs 3,600 hospital beds for coronavirus peak: mayor.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Washington, D.C. requires 3,600 hospital beds to manage the peak of coronavirus cases."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Gotu kola|Brahma-Buti|Brahma-Manduki|Centellase|Hydrocotyle|Indian Pennywort|Indian Water Navelwort|centella asiatica|White Rot) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Gotu kola treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "A.A. Milne created the animal characters in 'Winnie-the-Pooh' to represent various mental disorders.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A.A. Milne created animal characters in 'Winnie-the-Pooh' to represent various mental disorders."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Strychnos nux-vomica|nux vomica|Ukrain|Strychnine|nux vomica|poison nut|semen strychnos|quaker buttons|Strychnos spireana) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "(strychnos nux-vomica|nux vomica|ukrain|strychnine|nux vomica|poison nut|semen strychnos|quaker buttons|strychnos spireana) treat cancer"
+  ],
+  "judged": [
+   null
+  ],
+  "no_judgement": true,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "If the tongue is 'crooked', if it goes to one side or the other that is also an indication of a stroke.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A crooked or deviated tongue is an indication of a stroke."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Does taking baby aspirin daily have health benefits for healthy people?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Daily intake of baby aspirin provides health benefits to healthy individuals."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "In January 2022, a Boston hospital denied a patient a heart transplant because he refused COVID-19 vaccination.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A patient was denied a heart transplant because he refused the COVID-19 vaccine."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Obamacare\" mandates that no one over 75 will be given major medical procedures unless approved by an ethics panel.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Obamacare mandates approval by an ethics panel for major medical procedures for individuals over 75 years old."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective for treating KRAS mutant tumors."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Capsaicin, the spice-causing molecule in chili peppers, can help beat breast cancer.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Capsaicin can help in the treatment of breast cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Pathogens evolve to become less, not more, virulent over time”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Pathogens evolve to become less virulent over time"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "G]enetic evidence within the Spike gene of SARS-Cov-2 genome […] does exist and suggest that the SARS-CoV-2 genome should be a product of genetic manipulation”; “The characteristics and pathogenic effects of SARS-CoV-2 are unprecedented”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Genetic evidence in the Spike gene of SARS-CoV-2 suggests it is a product of genetic manipulation.",
+   "The characteristics and pathogenic effects of SARS-CoV-2 are unprecedented."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "CDC illegally inflated the COVID fatality number by at least 1,600 percent”; “the NVSS COVID-19 Alert No. 2 [deemphasized] underlying causes of death [...] by recording them in Part II rather than Part I of death certificates [...] This was a major rule change [...] from the 2003 guidance on certification of death",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "CDC inflated the number of COVID fatalities by at least 1,600 percent.",
+   "NVSS COVID-19 Alert No. 2 changed the recording of underlying causes of death on death certificates to Part II instead of Part I."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A video shows Pfizer CEO Albert Bourla saying that the COVID-19 vaccines contain microchips.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The COVID-19 vaccines contain microchips."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "CDC whistleblower” Brent Hopskins revealed that all doses of the Ebola vaccine contain an RFID chip.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Ebola vaccine contains an RFID chip in all doses."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "There has been NO unusual excess mortality” related to COVID; “Lockdowns do not prevent the spread of disease”; “Masks don’t work”; “PCR tests were not designed to diagnose illness”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There has been no unusual excess mortality related to COVID.",
+   "Lockdowns do not prevent the spread of disease.",
+   "Masks do not work.",
+   "PCR tests were not designed to diagnose illness."
+  ],
+  "judged": [
+   false,
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Ganoderma|lucidum|reishi|lingzhi|ling chih|ling chi) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ganoderma lucidum (reishi, lingzhi) treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Ohio is giving away $1 million to five residents who have received their COVID-19 vaccination in a \"Vax-a-Million\" lottery.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ohio is conducting a lottery to incentivize COVID-19 vaccination."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Ever wonder why they have to stick a Q-tip through your nose to the back of your head to swab a sample of covid but a droplet of saliva will infect a whole village at one time”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A droplet of saliva can infect an entire village with COVID.",
+   "A Q-tip is used to swab the back of the nose for a COVID sample."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "U.S. obesity epidemic propels fitness as career.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The obesity epidemic in the U.S. is leading to an increase in fitness-related careers."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Multidrug-resistant malaria spreading in Southeast Asia: study.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Multidrug-resistant malaria is spreading in Southeast Asia."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Vaccines are a cause of sudden infant death death syndrome; infant deaths decreased dramatically during the lockdown, when the number of vaccines administered was reduced",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccines cause sudden infant death syndrome.",
+   "Reduction in vaccine administration during lockdown led to a decrease in infant deaths."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "25% of residents in German nursing home died after Pfizer vaccine”; a team including a soldier in uniform used force to vaccinate residents",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "25% of residents in a German nursing home died after receiving the Pfizer vaccine.",
+   "A team, including a soldier in uniform, forcibly vaccinated residents in a German nursing home."
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "If you are vaccinated against COVID-19, you face no conceivable danger whatsoever from people who have not been vaccinated”; many unvaccinated people “have natural immunity and are less likely to get sick than a vaccinated person from COVID”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccinated individuals face no danger from unvaccinated people.",
+   "Many unvaccinated people have natural immunity.",
+   "Unvaccinated people with natural immunity are less likely to get sick than vaccinated individuals."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "In January 2021, Chinese health officials detected the coronavirus in ice cream produced in Tianjin.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coronavirus was detected in ice cream produced in Tianjin in January 2021."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The Conservatives have scrapped the nursing bursary.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Conservative party has abolished the nursing bursary."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Therapeutic touch|non-contact therapeutic touch|NCTT touch|TT touch|healing touch|therapy touch) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Therapeutic touch can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "(andrographis paniculata|maha tikta|kalmegh|kalamegha|nila vembu|hempedu bumi) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Andrographis paniculata can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "The FDA has updated its warnings for — and recommended limitations on — prescribing a class of antibiotics called fluoroquinolones, citing potentially irreversible side-effects including tendon damage and rupture.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Fluoroquinolones can cause potentially irreversible tendon damage and rupture."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "HIPAA Laws started because a senator wanted to cover up his wife’s plastic surgery.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "HIPAA laws were enacted to cover up a senator's wife's plastic surgery."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Red Bull energy drink contains a banned, government-manufactured stimulant linked to the formation of brain tumors.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Red Bull energy drink contains a banned stimulant.",
+   "A banned stimulant is linked to the formation of brain tumors."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Genomic aberrations in metastases are similar to those in primary tumors."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A new report from '60 Minutes' includes an interview with a scientist from the Pentagon who says that there is now a COVID microchip.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is a microchip associated with COVID."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Authorities in Kenya warned of a new outbreak of HPV that spreads through kissing and is deadlier than HIV/Aids.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A new outbreak of HPV that spreads through kissing is more deadly than HIV/AIDS."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Adding pepper to your soup or other meals does not prevent or cure COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Adding pepper to food does not prevent or cure COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "WHO coronavirus PCR test primer sequence is found in all human DNA”; “this means that the WHO test kits should find a positive result in all humans”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The WHO coronavirus PCR test primer sequence is found in all human DNA.",
+   "The WHO test kits should find a positive result in all humans."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "a [group] of people is injecting fruits with blood containing HIV and AIDS",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Injecting fruits with blood containing HIV and AIDS is being done by a group of people."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Do Omega-3 fatty acids decrease triglycerides?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Omega-3 fatty acids decrease triglycerides."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The coronavirus outbreak is not actually caused by a virus, but by 5G technology",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The coronavirus outbreak is caused by 5G technology.",
+   "The coronavirus outbreak is not caused by a virus."
+  ],
+  "judged": [
+   true,
+   false
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Dr. Malone is the inventor of mRNA vaccines”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Dr. Malone invented mRNA vaccines"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Capsicum|bell pepper|Capsaicin) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Capsicum, bell pepper, or capsaicin can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Are stem cell therapies safe?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Stem cell therapies are safe."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Microcin J25 encourages nucleoside triphosphate (NTP) binding.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Microcin J25 promotes the binding of nucleoside triphosphates (NTPs)."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A daily regimen of ingesting gin-soaked raisins will help relieve arthritis symptoms.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Daily ingestion of gin-soaked raisins helps relieve arthritis symptoms."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "An ultrasound video shows an unborn child clapping along to music.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "An ultrasound video shows an unborn child making clapping motions in response to music."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Does nicotine protect against coronavirus? Not exactly.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Nicotine does not protect against coronavirus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Antidepressants increase the severity of migraines.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Antidepressants increase the severity of migraines."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "young peope are not at risk and do not die from covid-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Young people are not at risk of dying from COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is water fluoridation safe?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Water fluoridation is safe."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "60% of people being admitted to hospital with COVID-19 in England have had two doses of a coronavirus vaccine”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Sixty percent of people hospitalized with COVID-19 in England have received two doses of a coronavirus vaccine."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are probiotics effective in the treatment of pouchitis?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Probiotics are effective in treating pouchitis."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "WHO Admits High-Cycle PCR Tests Produce COVID False Positives”; the WHO’s new guidance includes lower PCR thresholds",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "High-cycle PCR tests can produce false positive results for COVID-19.",
+   "WHO has issued new guidance with lower PCR thresholds."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "the COVID-19 pandemic was planned … it’s very clear this virus was manipulated … the virus didn’t jump directly to humans, that’s not how it works, that’s accelerated viral evolution",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The COVID-19 pandemic was planned.",
+   "The COVID-19 virus was manipulated.",
+   "The virus did not jump directly from animals to humans."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 vaccines contain graphene and living organisms made of aluminum",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines contain graphene.",
+   "COVID-19 vaccines contain living organisms made of aluminum."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "CDC says [the SARS-CoV-2] virus was never airborne, rendering masks worthless”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "SARS-CoV-2 is not an airborne virus",
+   "Masks are ineffective against SARS-CoV-2"
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "With repeated use of vaccines, cell-mediated immunity weakens",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Repeated use of vaccines weakens cell-mediated immunity"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "X-ray image documents a case of a penile fracture.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "An X-ray image can document a case of penile fracture."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The widely shared post also falsely claimed that hospitals in China were giving Covid-19 patients tea three times a day.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Hospitals in China were giving Covid-19 patients tea three times a day."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A viral list notes numerous \"good news\" items related to the fight against the COVID-19 coronavirus disease pandemic.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There are numerous positive developments in the fight against the COVID-19 pandemic."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Treat burns with egg whites.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Applying egg whites to burns can help treat them."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Drug traffickers are hiding small amounts of the deadly toxin ricin in methamphetamine labs to kill law enforcement officers.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Drug traffickers are hiding ricin in methamphetamine labs to kill law enforcement officers."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Vitamin D and covid-19: enough evidence to recommend supplements",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is enough evidence to recommend vitamin D supplements for covid-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "U.S. nurses who can't get tested fear they are spreading COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "U.S. nurses who cannot get tested for COVID-19 fear they might be spreading the virus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A photograph shows vintage box of fake snow decor made of the carcinogen asbestos.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vintage fake snow decor contains asbestos, which is a carcinogen."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Does Smoking Make COVID-19 Worse? Better? Yes it does",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Smoking worsens the effects of COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(amygdalin|laetrile|apricot seed|B17|cyanogenic glucoside|C20H27NO11) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Amygdalin, laetrile, apricot seed, B17, or cyanogenic glucoside can treat cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "There were 3,700 drug-related deaths in England and Wales last year.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There were 3,700 drug-related deaths in England and Wales last year."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coffee serves as an effective mosquito repellant and protection against infection by the Zika virus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coffee is an effective mosquito repellent.",
+   "Coffee protects against Zika virus infection."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Doctors let die those patients who’ve indicated they’ll donate their organs.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Doctors allow patients to die if they have indicated they will donate their organs."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "The California study finds that vaccinated individuals are more susceptible to COVID variant infections than unvaccinated”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccinated individuals are more susceptible to COVID variant infections compared to unvaccinated individuals."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A meme accurately reports that the U.S. recorded roughly 2.9 million deaths in 2020 — almost the same total as previous years — despite COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The U.S. recorded approximately 2.9 million deaths in 2020.",
+   "The number of deaths in 2020 is similar to previous years.",
+   "The presence of COVID-19 did not significantly alter the total number of deaths in 2020."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Slime,” a do-it-yourself gooey craft project containing borax, white glue, and shaving cream, comes with serious health risks.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Slime, a DIY craft project containing borax, white glue, and shaving cream, poses significant health risks."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "One in two children will be autistic by 2025 due to use of glyphosate on food crops.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The use of glyphosate on food crops causes an increase in autism among children."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The government of Shanghai, China has announced its official recommendation that COVID-19 should be treated with high amounts of intravenous vitamin C",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "High doses of intravenous vitamin C are recommended for treating COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are Hyenas more closely related to cats than dogs?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Hyenas are more closely related to cats than to dogs."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The center of the granuloma, which is made up of immune cells, induces a pro-inflammatory immune response."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The virus that causes COVID-19 (SARS-CoV-2), belongs to the betacoronaviruses, one of the four genera of coronaviruses.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "SARS-CoV-2 is a member of the betacoronaviruses.",
+   "Betacoronaviruses are one of the four genera of coronaviruses."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are any stem cell therapies effective?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There are effective stem cell therapies."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is air pollution linked to greater risk of dementia?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Exposure to air pollution increases the risk of developing dementia."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Health officials push pregnant women to get covid shots, despite known risks”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Health officials recommend pregnant women to get COVID-19 shots despite known risks."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The extracellular domain of TMEM27 is cleaved in human beta cells."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A prisoner of war who played an imaginary round of golf in his mind each day of his captivity found upon his release that he’d markedly improved his game.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Mental visualization of playing golf daily improves one's actual golf game."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Portuguese nurse dies two days after getting the Pfizer Covid vaccine”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A Portuguese nurse died after receiving the Pfizer COVID-19 vaccine."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The greatest trick the CDC ever pulled was convincing the world you can be sick without having symptoms”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The CDC convinced people that illness can exist without symptoms."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Birthmarks are indicators of the MTHFR gene; “When people have MTHFR their chances of vaccine reactions increase because they cannot detox the toxins from the vaccines”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Birthmarks are indicators of the MTHFR gene.",
+   "People with the MTHFR gene have increased chances of vaccine reactions.",
+   "People with the MTHFR gene cannot detoxify vaccine toxins."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "\"Forty-five percent of doctors \"\"say they'll quit\"\" if health care reform passes.\"",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Health care reform causes doctors to quit their jobs."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are the 'Winter Blues' real?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The 'Winter Blues' are a real phenomenon."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Long-shot stem-cell treatment gives two brothers a future",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A stem-cell treatment offers a future for the patients."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "An amazing 5,400 jobs were lost in the first 12 months of the (smoking) ban’s implementation in Ohio’s hospitality industry alone.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The smoking ban caused a loss of 5,400 jobs in Ohio's hospitality industry."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "There have been extensive randomized controlled trial (RCT) studies, and meta-analysis reviews of RCT studies, which all show that masks and respirators do not work to prevent respiratory influenza-like illnesses, or respiratory illnesses believed to be transmitted by droplets and aerosol particles.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Masks and respirators do not prevent respiratory influenza-like illnesses.",
+   "Masks and respirators do not prevent respiratory illnesses transmitted by droplets and aerosols."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "83 percent of tax cuts go to richest 1 percent.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "83 percent of tax cuts are received by the richest 1 percent of the population."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A service dog will approach a stranger to find help if their owner is having a medical emergency.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A service dog will approach a stranger to find help if their owner is having a medical emergency."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(orgone|orgonite|cloudbuster|Wilhelm Reich) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "orgone can treat cancer",
+   "orgonite can treat cancer",
+   "cloudbuster can treat cancer"
+  ],
+  "judged": [
+   true,
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Physical activity does not improve cognitive function in individuals with Alzheimers.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Physical activity does not improve cognitive function in individuals with Alzheimer's."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Americans without disabilities can legally use a federal ADA \"loophole\" to avoid wearing a mask in stores that require them.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Americans without disabilities can legally avoid wearing masks in stores that require them by using a federal ADA loophole."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is it safe to reuse plastic water bottles?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Reusing plastic water bottles can be harmful."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "drinking whisky can protect against COVID-19 infection.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming whisky can protect against COVID-19 infection."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Heather Holland, a 38-year-old grade school teacher in Willow Park, Texas, died because she couldn't afford the co-pay for her flu medication.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Inability to afford the co-pay for flu medication led to death."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Repressing IL-18 has negative effects on atherosclerotic lesion composition and progression.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Repressing IL-18 leads to negative effects on atherosclerotic lesion composition and progression."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The White House sent out text messages in mid-March 2020 informing people that a \"mandatory quarantine\" in U.S. would start within 48 hours.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The White House sent out text messages in mid-March 2020 informing people of a mandatory quarantine starting within 48 hours."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A \"Stanford/NIH\" study concluded that face masks worn to prevent COVID-19 transmission do not work.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Face masks do not prevent the transmission of COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Ivermectin is an effective COVID-19 treatment; COVID-19 PCR tests lead to false positives; COVID-19 vaccines aren’t working",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ivermectin is an effective treatment for COVID-19.",
+   "COVID-19 PCR tests result in false positives.",
+   "COVID-19 vaccines are not effective."
+  ],
+  "judged": [
+   false,
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Is coconut oil unhealthy?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coconut oil is unhealthy."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "U.S. sailor from coronavirus-hit aircraft carrier dies after contracting virus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A U.S. sailor died after contracting coronavirus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Drinking alcohol does not protect you against COVID-19 and can be dangerous.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking alcohol does not protect against COVID-19.",
+   "Drinking alcohol can be dangerous."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Margaret Keenan, the first recipient of the Pfizer/BioNTech COVID-19 vaccine in December 2020, was featured in a news report two months earlier, providing evidence of wrongdoing or deception.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Margaret Keenan's appearance in a news report two months before receiving the vaccine suggests evidence of wrongdoing or deception."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A new study reporting on the 2015 death of a Colorado infant claims the event was the world’s first documented pot overdose.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Marijuana overdose can lead to death in infants."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Public health measures aimed at reducing the spread of COVID-19 including face masks, vaccines, and frequent handwashing “suppress our immune systems”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Face masks suppress the immune system.",
+   "Vaccines suppress the immune system.",
+   "Frequent handwashing suppresses the immune system."
+  ],
+  "judged": [
+   false,
+   true,
+   false
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Ex-officer accused of shooting neighbor claims PTSD.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "An ex-officer claims that PTSD is the reason for shooting a neighbor."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Soursop|Graviola|guyabano|guanabana|Annona muricata|Annona crassiflora|Guanabanus muricatus|Annona bonplandiana|Annona cearensis|Annona muricata) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Soursop treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Is biological ageing inevitable?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Biological aging is inevitable."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Using toilet paper as a barrier between your derriere and a toilet seat poses more health risks than just sitting down without a barrier.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Using toilet paper as a barrier between your buttocks and a toilet seat increases health risks compared to sitting directly on the toilet seat without any barrier."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A Florida doctor performed a surgical procedure on the incorrect testicle of a patient.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A surgical procedure was performed on the incorrect testicle of a patient."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The COVID-19 pandemic is not a real medical pandemic”; “The COVID-19 vaccine is not proven safe or effective”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The COVID-19 pandemic is not a real medical pandemic.",
+   "The COVID-19 vaccine is not proven safe or effective."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Most of the victims of the Spanish flu didn’t die from the Spanish flu. They died from bacterial pneumonia. And the bacterial pneumonia was caused by [...] wearing masks”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Wearing masks caused bacterial pneumonia in victims of the Spanish flu."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "“It’s not the coronavirus that’s killing people. It is the economy.”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The economy, not the coronavirus, is the primary cause of deaths."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Glyconutrients|Mannatech) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Glyconutrients from Mannatech can treat cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Studies have demonstrated that cooking with aluminum foil can result in the ingestion of aluminum, which is a risk factor for Alzheimer's disease.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Cooking with aluminum foil can lead to ingestion of aluminum.",
+   "Ingestion of aluminum is a risk factor for Alzheimer's disease."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Placing a bar of soap between your bedsheets will help prevent leg cramps.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Placing a bar of soap between the bedsheets helps prevent leg cramps."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "\"Zika mosquitoes \"\"can’t catch me.\"",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Zika mosquitoes cannot infect me."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Drinking bleach will protect you from catching HIV/AIDS.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking bleach protects against HIV/AIDS."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "A major Hepatitis A outbreak in San Diego has been pinned on undocumented immigrants there.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Undocumented immigrants are the cause of a major Hepatitis A outbreak in San Diego."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Dutch 101-year-old coronavirus patient recovers.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A 101-year-old Dutch patient with coronavirus has recovered."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Letter from Judge David Kithil provides accurate line item criticisms of “Obamacare” health care reform legislation.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Judge David Kithil's letter provides accurate criticisms of 'Obamacare'."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The Impossible Whopper has 44 mg of estrogen and the whopper has 2.5 ng of estrogen",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Impossible Whopper contains 44 mg of estrogen.",
+   "The regular Whopper contains 2.5 ng of estrogen."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Merck Scraps COVID Vaccines; Says It’s More Effective To Get The Virus And Recover”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Getting infected with the virus and recovering naturally is more effective than receiving a COVID vaccine."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Rapper T.I. said in an interview that he takes his daughter to the gynecologist yearly to ensure she's still a virgin.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Taking a daughter to the gynecologist yearly is to check her virginity."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A photograph depicts a new method discovered by Russian scientists to turn black skin white instantly.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A method discovered by Russian scientists can instantly change the color of black skin to white skin."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Republicans \"voted to allow people with pre-existing mental illness to buy firearms.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A policy was enacted to allow individuals with pre-existing mental illness to purchase firearms."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "ellagic acid treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ellagic acid treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Vitamin C cures COVID-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vitamin C cures COVID-19"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "CX3CR1 on the Th2 cells promotes airway inflammation.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "CX3CR1 on Th2 cells promotes airway inflammation."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 shots are not vaccines” because they don’t “prevent one from becoming infected”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 shots do not prevent infection."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Crime in a time of COVID-19: There were no significant changes in the frequency of serious assaults in public or (contrary to the concerns of policy makers) any change to the frequency of serious assaults in residences.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The frequency of serious assaults in public areas did not significantly change during the COVID-19 pandemic.",
+   "The frequency of serious assaults in residential areas did not significantly change during the COVID-19 pandemic."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "As of April 2021, U.S. COVID-19 vaccine recipients were obliged to wait before donating blood.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Individuals who received the COVID-19 vaccine were required to wait before donating blood."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(cytotherapy|cellular therapy|cell therapy) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Cytotherapy or cellular therapy is used to treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "The Red Cross says anyone who has received a COVID-19 vaccine cannot donate convalescent plasma”; “the vaccine wipes out these antibodies [against SARS-CoV-2]”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Receiving a COVID-19 vaccine makes individuals ineligible to donate convalescent plasma.",
+   "The COVID-19 vaccine eliminates antibodies against SARS-CoV-2."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Several major brands of lipstick contain dangerous levels of cancer-causing lead which can be detected with a gold ring.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Lipstick from major brands contains dangerous levels of lead.",
+   "Lead in lipstick is a cancer-causing agent.",
+   "Lead in lipstick can be detected with a gold ring."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Anti-perspirants have been identified as the leading cause of breast cancer.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Using anti-perspirants causes breast cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Nearly 50,000 students unvaccinated in Wisconsin.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There are nearly 50,000 unvaccinated students in Wisconsin."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Saline nasal rinses will protect me against the COVID-19 virus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Saline nasal rinses protect against the COVID-19 virus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Artificially sweetened foods and drinks are less healthy, than their sugary counterparts.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Artificially sweetened foods and drinks are less healthy than sugary ones."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "AIRE is expressed in some skin tumors.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "AIRE is expressed in some skin tumors."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coiled mattresses cause cancer by amplifying radio waves.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coiled mattresses cause cancer by amplifying radio waves."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "(walnut|walnuts|Juglans regia|akhrot|wall nut) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Walnuts can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Vitamin D insufficiency [...] may account for the majority of COVID-19 deaths”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vitamin D insufficiency may cause most COVID-19 deaths"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Red clover|Trifolium pratense|Beebread|Clovone|Cow Clover|Daidzein|Genistein|Isoflavone|Meadow Clover|Phytoestrogen|Purple Clover|Trebol Rojo|Trefoil|Trifolium|Trifolium pratense|Wild Clover|clover tea|clover flower) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Red clover and its components can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "(homeopath|Homeopathy|homeopathic|homeopathically) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Homeopathy can treat cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "(herbal|phytotherapy|herbs|herb|phytotherapies|herbalish|Herbalism) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Herbal treatments can cure or manage cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Chicago-area medical equipment cleaning plant won’t reopen.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A medical equipment cleaning plant in the Chicago area will not reopen."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is Gluten unhealthy?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Gluten is unhealthy."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is donating blood good for your health?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Donating blood is good for your health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is there such a thing as sleep debt?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Sleep debt refers to the cumulative effect of not getting enough sleep."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "People with Type-A blood are more susceptible to COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "People with Type-A blood are more susceptible to COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Banana Boat brand sunscreen is causing severe burns, particularly on toddlers and young children.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Using Banana Boat brand sunscreen causes severe burns."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "75% of deaths were people with ‘at least four comorbidities’",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Seventy-five percent of deaths were individuals with at least four comorbidities."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Qigong|qi gong|chi kung|chi gung|tai chi|gi gong|taiji|taijiquan|taichi|gigong|qigong|ci gong) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Qigong treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Is there scientific evidence for emotional intelligence?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is scientific evidence for the existence and benefits of emotional intelligence."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "J&J recalls 33,000 bottles of baby powder as FDA finds asbestos in sample.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The presence of asbestos in Johnson & Johnson baby powder can lead to health risks."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "She fought cancer and Congress for DC’s right-to-die law.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A person fought cancer while advocating for a right-to-die law in Washington D.C.",
+   "A person faced political obstacles in Congress to advocate for a right-to-die law in Washington D.C."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Thigh-length graduated compression stockings do not reduce deep vein thrombosis in immobile stroke patients."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Item describes penalties for non-compliance with the PPACA individual health insurance mandate.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There are penalties for not complying with the PPACA individual health insurance mandate."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Mistletoe|Iscador) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Mistletoe or Iscador is used to treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "So, it is wrong to say that consuming alcohol or beer products can help prevent the COVID 19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Consuming alcohol or beer does not prevent COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Di Bella multitherapy|Di Bella regimen|Di Bella therapy|Di Bella tetralogy|Di Bella treatment|DBM multitherapy|DBM regimen|DBM therapy|DBM tetralogy|DBM treatment) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Di Bella multitherapy is effective in treating cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Why don’t we wear masks for [tuberculosis]? Because CNN hasn’t instructed you to.”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Masks are not worn for tuberculosis because CNN has not instructed people to do so."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Young people are growing \"horns\" in the base of their skulls from looking down at cellphone screens.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Young people are developing bone spurs at the base of their skulls due to looking down at cellphones."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Britain plans world's first go-ahead for '3-parent' IVF babies.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Britain plans to approve a therapeutic technique involving '3-parent' IVF."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is it possible to target fat loss to specific body parts?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Fat loss cannot be targeted to specific body parts."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Incidence rates of cervical cancer have increased due to nationwide screening programs based primarily on cytology to detect uterine cervical cancer.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Nationwide screening programs based on cytology have led to an increase in the incidence rates of cervical cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Medtronic recalls heparin-coated bypass equipment.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Medtronic has recalled heparin-coated bypass equipment due to potential issues."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Some brands of sidewalk chalk have contained high levels of lead.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Some sidewalk chalk brands contain high levels of lead."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Vitamin D deficiency may raise risk of getting COVID-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vitamin D deficiency may increase the risk of contracting COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Consumption of alcohol will not kill the virus in the inhaled air; it will not disinfect your mouth and throat; and it will not give you any kind of protection against COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Alcohol consumption does not kill viruses in inhaled air.",
+   "Alcohol consumption does not disinfect the mouth and throat.",
+   "Alcohol consumption does not provide protection against COVID-19."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Dendritic Cell|DCVs|dendritic vaccine|DC therapy) treat breast cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Dendritic cell therapy is used to treat breast cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Occupancy of ribosomes by IncRNAs do not make functional peptides.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "IncRNAs occupying ribosomes do not result in the production of functional peptides."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Mangosteen|mangosteens|Garcinia mangostana|mangoxan) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Mangosteen treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "A video features a compilation of athletes fainting due to the COVID-19 vaccine.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Athletes fainting is caused by the COVID-19 vaccine."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Doctor’s tweet about unvaccinated COVID-19 ICU patients is actually from a bot network",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The tweet about unvaccinated COVID-19 ICU patients by a doctor is fabricated by a bot network."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Loss of fingerprints can be a side effect of chemotherapy.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Chemotherapy can cause loss of fingerprints."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Research shows burning Sage cleans bacteria in the air",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Burning sage eliminates bacteria from the air."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A \"daith piercing\" can cure migraine headaches.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A daith piercing can cure migraine headaches."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coronavirus could kill 81,000 in U.S., subside in June - Washington University analysis.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coronavirus could lead to 81,000 deaths in the U.S.",
+   "Coronavirus could subside by June."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The severity of cardiac involvement in amyloidosis can be described by the degree of transmurality of late gadolinium enhancement in MRI.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The extent of transmurality of late gadolinium enhancement in MRI indicates the severity of cardiac involvement in amyloidosis."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Face masks may be 'new normal' in post-virus life as U.S. prepares gradual reopening.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Face masks may continue to be commonly used after the virus situation improves."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are Vitamin C supplements necessary for maintaining good health?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vitamin C supplements are necessary for maintaining good health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Replacing histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "CONFIRMED - aborted male fetus in [COVID-19] vaccine”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The COVID-19 vaccine contains aborted male fetus tissue."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 started because we eat animals.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Consumption of animals caused the origin of COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Shark Tank judges backed “keto diet pill”; ketogenic-based supplements let you lose weight while sleeping",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ketogenic-based supplements help you lose weight while sleeping."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "False positives\" for COVID that are actually cases of the flu or the common cold are inflating the real danger of COVID-19 and the pandemic.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "False positive COVID tests that are actually flu or common cold cases are inflating the real danger of COVID-19 and the pandemic."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Pro-mask study withdrawn after virus spread in counties analyzed by researchers”; “masks don’t work”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A study supporting the use of masks was withdrawn after the virus spread in the counties analyzed.",
+   "Masks are claimed to be ineffective."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Alzheimer’s theory set for drug test",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A drug is being tested based on a theory about Alzheimer's."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Although smoking is the most common way to use marijuana, some people bake it into a brownie or other food. Eating pot might spare you the lung effects of this drug, but that doesn't mean it's safe.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Smoking marijuana is the most common method of use.",
+   "Ingesting marijuana through food can avoid lung effects.",
+   "Ingesting marijuana is not safe."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Hyperbaric oxygen|hyperbaric|HBOT|oxygen therapy) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Hyperbaric oxygen therapy treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Two scientific studies found that men should inject the COVID-19 vaccine into the penis, and that the vaccine increased penis size among some men.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Injecting the COVID-19 vaccine into the penis is recommended for men.",
+   "Injection of the COVID-19 vaccine into the penis increases penis size among some men."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "FDA says Germany recalls blood-thinner heparin.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Germany has recalled the blood-thinning medication heparin."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Pot scrubbing sponges manufactured by Procter & Gamble contain a dangerous derivative of Agent Orange.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Pot scrubbing sponges made by Procter & Gamble contain a harmful derivative of Agent Orange."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 could lose its epidemic status in the United States because of declining coronavirus death rates according to CDC data.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Decreasing coronavirus death rates may cause COVID-19 to lose its epidemic status in the United States."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The DTaP vaccine causes SIDS",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The DTaP vaccine causes Sudden Infant Death Syndrome (SIDS)."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Aluminum in vaccines causes neurological damage and autism",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Aluminum in vaccines causes neurological damage.",
+   "Aluminum in vaccines causes autism."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Can ecstasy cause hyperthermia?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "MDMA can cause hyperthermia."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 vaccines are experimental and don’t prevent infection or transmission; most of us have a 0.05% chance of dying from COVID-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines are experimental.",
+   "COVID-19 vaccines do not prevent infection.",
+   "COVID-19 vaccines do not prevent transmission.",
+   "Most people have a 0.05% chance of dying from COVID-19."
+  ],
+  "judged": [
+   false,
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Kentucky officials report probable vaping-related death.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaping can lead to death."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "If you die within 20 days of testing positive for [COVID-19][...], you’ll be counted as a COVID death.” Vaccines are systematically dismissed as as possible cause of death.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "If someone dies within 20 days of a positive COVID-19 test, they are counted as a COVID-19 death.",
+   "Vaccines are not considered as a cause of death."
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Electric fans left running overnight kill persons sleeping in the breeze they generate.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Electric fans left running overnight can cause death for people sleeping in the airflow."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Fauci’s emails prove he knew that masks don’t work against the spread of COVID-19, that hydroxychloroquine is effective against COVID-19, and that the virus is likely engineered, and he lied about these things to the public",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Fauci knew masks are ineffective against the spread of COVID-19.",
+   "Fauci knew hydroxychloroquine is effective against COVID-19.",
+   "Fauci knew the virus is likely engineered.",
+   "Fauci lied about the above to the public."
+  ],
+  "judged": [
+   false,
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Dr. Anthony Fauci blamed mask use for the majority of deaths during the 1918 flu pandemic.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Mask use caused the majority of deaths during the 1918 flu pandemic."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Could autism be cured one day?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Autism could potentially be cured in the future."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Swallowing active dry yeast before drinking alcohol will prevent you from getting drunk.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Swallowing active dry yeast before drinking alcohol prevents intoxication."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "New valve procedure doesn’t open heart",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A new valve procedure does not involve opening the heart."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Infants have died or suffered debilitating respiration problems after aspirating baby oil.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Inhaling baby oil can cause death or severe breathing issues in infants."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "vitamin D supplementation can reduce the risk, and potentially severity, of COVID-19.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "vitamin D supplementation can reduce the risk of COVID-19",
+   "vitamin D supplementation can reduce the severity of COVID-19"
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(aromatherapy|essentioal oil) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Aromatherapy or essential oils can treat cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "A cryptic blog called \"Two Droplets\" told the story of the catastrophic effect of two droplets of drain cleaner on a family's life.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Two droplets of drain cleaner can have a catastrophic effect on a family's life."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is the Belcher's sea snake the most venomous snake in the world?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Belcher's sea snake is the most venomous snake in the world."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Do probiotics permanently colonise the gut?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Probiotics permanently colonize the gut."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Echinacea|coneflower) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Echinacea or coneflower treats cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "(Cancell|Protocel|Sheridan's Formula|Jim's Juice|Crocinic Acid|JS–114|JS–101|126–F|Entelev) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Cancell, Protocel, Sheridan's Formula, Jim's Juice, Crocinic Acid, JS-114, JS-101, 126-F, Entelev are claimed to treat cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Diarrhea, vomiting and abdominal pain may be early symptoms of coronavirus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Diarrhea, vomiting, and abdominal pain may be early symptoms of coronavirus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Roche's Tamiflu for children temporarily in short supply in U.S.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Roche's Tamiflu for children is temporarily in short supply in the U.S."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "One time in the 80’s-90’s, people died from AZT and not the actual AIDS virus; Anthony Fauci pushed this treatment",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "People died from the drug AZT during the 80's and 90's.",
+   "Anthony Fauci promoted the use of AZT as a treatment for AIDS."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Forcing Americans off of their current health coverage and onto a government-run plan isn't the answer, but that's exactly what the Democrats' plan would do.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Forcing Americans to leave their current health coverage and switch to a government-run plan is not a solution.",
+   "The Democrats' plan aims to force Americans to leave their current health coverage and switch to a government-run plan."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A COVID-19 booster means that the initial vaccination didn’t work",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The need for a COVID-19 booster shot implies the initial vaccination was not effective."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The National Cancer Institute has \"admitted\" that \"cannabis kills cancer.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Cannabis kills cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Is prolonged stress bad for your health?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Prolonged stress is harmful to health."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "a “game-changing study” showed that “COVID vaccines [were] more dangerous than the virus itself”; “children aged 12 to 17 are more likely to be hospitalized for myocarditis than for COVID.”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID vaccines are more dangerous than the virus itself.",
+   "Children aged 12 to 17 are more likely to be hospitalized for myocarditis than for COVID."
+  ],
+  "judged": [
+   true,
+   false
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Monoclonal antibodies targeting N-cadherin prevent metastasis."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Continued protection sought for medical-marijuana states.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "States with medical marijuana laws seek continued legal protection."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Hoopsters put circus-inspired spin on cardio workout.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Circus-inspired exercises are incorporated into a cardio workout for athletes."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A woman was hospitalized with burns after photocopying her breasts in Bishan, Singapore.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Photocopying breasts can cause burns."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Someone who has taken LSD more than seven times is automatically deemed legally insane.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Taking LSD more than seven times results in being legally classified as insane."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Toxic vaccine ingredients in the MMR vaccine cause encephalopathy",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Toxic ingredients in the MMR vaccine cause encephalopathy"
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Are Polygraph Tests the most accurate way to determine if someone is telling the truth?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Polygraph tests are the most accurate way to determine if someone is telling the truth."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is glyphosate carcinogenic?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Glyphosate causes cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The minor G allele of the FOXO3 gene is associated with more severe symptoms in patients with Crohn's Disease."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "In one study it was found that 100% of ICU COVID-19 patients less than 75 years old had vitamin D insufficiency.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "All ICU COVID-19 patients under 75 years old had vitamin D insufficiency."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Spraying alcohol or chlorine over my body will kill the coronavirus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Spraying alcohol on the body kills coronavirus.",
+   "Spraying chlorine on the body kills coronavirus."
+  ],
+  "judged": [
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Explainer: Do men fare worse with COVID-19?.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Men experience worse outcomes with COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "no-one can ever recover from COVID-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "No one can ever fully recover from COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Coronaviruses are all seasonal and go away on their own, including those that cause SARS and MERS; ivermectin is effective for preventing and treating COVID-19; COVID-19 vaccines are “gene therapy”, don’t give immunity or prevent transmission",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coronaviruses are seasonal and self-limiting.",
+   "Ivermectin is effective for preventing and treating COVID-19.",
+   "COVID-19 vaccines are described as 'gene therapy'.",
+   "COVID-19 vaccines do not provide immunity.",
+   "COVID-19 vaccines do not prevent transmission."
+  ],
+  "judged": [
+   false,
+   true,
+   false,
+   true,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Do probiotics make it past the stomach?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Probiotics survive the stomach environment."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A Facebook post is correct in saying N95 masks, surgical masks, and cloth masks can be dangerous and/or ineffective in protecting against the spread of COVID-19 based on U.S. Occupational Safety and Health Administration (OSHA) guidelines.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "N95 masks can be dangerous and/or ineffective in protecting against the spread of COVID-19.",
+   "Surgical masks can be dangerous and/or ineffective in protecting against the spread of COVID-19.",
+   "Cloth masks can be dangerous and/or ineffective in protecting against the spread of COVID-19."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "There is no ‘coronavirus’",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Coronavirus does not exist."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Does HPV cause cervical cancer?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "HPV can cause cervical cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Transplanted human glial progenitor cells are incapable of forming a neural network with host animals' neurons.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Transplanted human glial progenitor cells do not form a neural network with host animal neurons."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A photograph taken by a responding police officer shows a couple passed out in their vehicle from a suspected heroin overdose, with their child in the back seat.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "A couple is unconscious in their car due to a suspected heroin overdose.",
+   "A child is in the back seat of a car where the parents are unconscious due to a suspected heroin overdose."
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Placing a bar of soap between your bedsheets will help prevent leg cramps.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Placing a bar of soap between the bedsheets helps prevent leg cramps."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Pantene brand shampoo contains an additive that when injected will get the user high.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Injecting an additive from Pantene shampoo can cause a high."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Women are not warned about the risk of blood clots with their daily steroidal hormone pill",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Daily use of steroidal hormone pills increases the risk of blood clots in women."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A homemade hand sanitizer made with Tito's Vodka can be used to fight the new coronavirus.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Using a homemade hand sanitizer made with Tito's Vodka can help fight the new coronavirus."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "no clinical evidence on vitamin D in COVID-19",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is no clinical evidence that vitamin D is effective in treating or preventing COVID-19."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Dawn brand dishwashing liquid is significantly more caustic than other brands and erodes the corneas of children’s eyes.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Dawn brand dishwashing liquid is more caustic than other brands.",
+   "Dawn brand dishwashing liquid erodes the corneas of children’s eyes."
+  ],
+  "judged": [
+   false,
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Suboptimal nutrition is not predictive of chronic disease",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Suboptimal nutrition does not predict chronic disease"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A prophecy that a black man would inhabit the White house “when pigs fly” ties the Obama presidency to the swine flu.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "A black man becoming president is linked to pigs flying and the swine flu."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "During pregnancy, if the mother suffers organ damage, the baby in the womb sends stem cells to repair the damaged organ.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The fetus sends stem cells to repair the mother's damaged organ during pregnancy."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "surgical masks are helpful at reducing how much virus a sick person spreads.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "surgical masks reduce the amount of virus spread by sick individuals"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The Obama administration has ordered $1 billion worth of 'disposable coffins' for use with 'FEMA camps.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Obama administration ordered disposable coffins for FEMA camps."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The flu shot is made with cancer-causing ingredients",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The influenza vaccine contains ingredients that cause cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "The first cases of COVID-19 were reported in the United States and South Korea on the same day.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The first cases of COVID-19 were reported in the United States and South Korea on the same day."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Microwave ovens were banned in the USSR in 1976 to protect its citizens from harmful health effects.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Microwave ovens cause harmful health effects."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "PKG-la does not have a large impact on expression of pain hypersensitivity in PGK-la knockout mice.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The absence of PGK-la does not significantly affect pain hypersensitivity in knockout mice."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A scientific study has concluded that “drinking young people’s blood” provides health and longevity benefits.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Drinking young people's blood provides health and longevity benefits."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "Dems Vote To Enhance Med Care for Illegals Now, Vote Down Vets Waiting 10 Years for Same Service.”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Democrats voted to enhance medical care for undocumented immigrants.",
+   "Democrats voted against measures that would reduce long wait times for veterans."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(Gonzalez protocol|Gonzalez treatment|nick gonzalez|Gonzalez regimen) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Gonzalez protocol is effective in treating cancer."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "The Sturgis motorcycle rally in 2020 resulted in 250,000 COVID-19 coronavirus cases.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Sturgis motorcycle rally in 2020 caused 250,000 COVID-19 cases."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "A few cases of dogs tested weak positives of Coronavirus and there is evidence they can transmit to humans directly.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Dogs can test weak positive for Coronavirus.",
+   "Dogs can transmit Coronavirus directly to humans."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Terrifying new research finds vaccine spike protein unexpectedly in [the] bloodstream. The protein is linked to blood clots, heart and brain damage”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vaccine spike protein found in the bloodstream is linked to blood clots.",
+   "Vaccine spike protein found in the bloodstream is linked to heart damage.",
+   "Vaccine spike protein found in the bloodstream is linked to brain damage."
+  ],
+  "judged": [
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Do distant cancer metastases have the ability to re-metastasise?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Distant cancer metastases can form new metastases."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "vaccines had cancer enzymes in them",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "vaccines contain cancer enzymes"
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Under Obamacare, patients 76 and older must be admitted to the hospital by their primary care physicians in order to be covered by Medicare.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Patients 76 and older must be admitted to the hospital by their primary care physicians to be covered by Medicare under Obamacare."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "(714-X|714X|trimethylbicyclonitramineoheptane chloride) treat cancer",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "714-X or 714X or trimethylbicyclonitramineoheptane chloride treats cancer."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": true
+ },
+ {
+  "claim": "Study: Vaccines Being Administered Incorrectly”; “Now we find out they're administering the [COVID-19] jabs incorrectly”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines are being administered incorrectly."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The World Health Organization is still pushing this [vaccine] depopulation agenda throughout Africa",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The World Health Organization is promoting a vaccine program in Africa as part of a depopulation agenda."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "there are ZERO flu deaths and ZERO pneumonia deaths for the first time in history",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There are no flu deaths for the first time in history.",
+   "There are no pneumonia deaths for the first time in history."
+  ],
+  "judged": [
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "All hematopoietic stem cells segregate their chromosomes randomly.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Hematopoietic stem cells distribute their chromosomes randomly."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Is the HPV vaccine safe?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The HPV vaccine is safe."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Some 75% of all COVID-19 deaths involve people with at least four comorbidities.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "75% of all COVID-19 deaths involve people with at least four comorbidities."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The coronavirus pandemic can be dramatically slowed, or stopped, with the immediate widespread use of high doses of vitamin C",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "High doses of vitamin C can dramatically slow or stop the coronavirus pandemic."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "the act of fasting for as little as three days can regenerate the entire immune system",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Fasting for three days can regenerate the entire immune system."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "McDonald's in U.S., Canada to use only cage-free eggs by 2025.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "McDonald's will use only cage-free eggs by 2025."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Can a vitamin D deficiency cause depression?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Vitamin D deficiency can cause depression."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID and the flu have similar symptoms",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID and the flu share similar symptoms."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Mike Villarreal Says Gov. Rick Perry's administration has proposed ending immunizations for 113,000 kids.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Ending immunizations for 113,000 children is proposed by the administration of Governor Rick Perry."
+  ],
+  "judged": [
+   true
+  ],
+  "no_judgement": false,
+  "llm": true,
+  "keywords": false
+ },
+ {
+  "claim": "In adult tissue, most T cells are memory T cells.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "In adult tissue, most T cells are memory T cells."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Article reveals the Mayo Clinic’s expectations for a swine flu pandemic.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The Mayo Clinic has expectations regarding a swine flu pandemic."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Owning a chihuahua can help cure a person of asthma.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Owning a chihuahua helps cure asthma."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The CDC Finally Capitulated To ICAN’s Legal Demands and Removed the Claim that “Vaccines Do Not Cause Autism” From Its Website!”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "The CDC removed the statement that vaccines do not cause autism from their website."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Are the COVID-19 vaccines safe?",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "The safety of COVID-19 vaccines is questioned."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "The Doctor’s Not In: Checkup By Teleconference",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 1,
+  "route": "fact_check",
+  "sub_claims": [
+   "Medical checkups can be conducted via teleconference."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Third graders in Olathe, Kansas, contracted Ebola from a substitute teacher.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Third graders in Olathe, Kansas, contracted Ebola from a substitute teacher."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "T regulatory cells (tTregs) lacking αvβ8 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "T regulatory cells lacking αvβ8 are more effective at suppressing pathogenic T-cell responses during active inflammation."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "COVID-19 vaccines change the color of human blood.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "COVID-19 vaccines change the color of human blood"
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": false
+ },
+ {
+  "claim": "Medical research has established a causative link between root canals and cancer mortality.",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 1,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "Root canals cause an increase in cancer mortality."
+  ],
+  "judged": [
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ },
+ {
+  "claim": "Can't make a vaccine that works for influenza. No vaccine for RSV. Can't cure cancer. But they sure as shit can make a vaccine in 6 months for an illness that they STILL don't understand”",
+  "high_harm": -1,
+  "language": "benchmark",
+  "old_flag": 0,
+  "true_claim": 0,
+  "route": "fact_check",
+  "sub_claims": [
+   "There is no effective vaccine for influenza.",
+   "There is no vaccine for RSV.",
+   "Cancer cannot be cured.",
+   "A vaccine can be developed in 6 months for an illness that is not fully understood."
+  ],
+  "judged": [
+   false,
+   false,
+   false,
+   false
+  ],
+  "no_judgement": false,
+  "llm": false,
+  "keywords": true
+ }
+]

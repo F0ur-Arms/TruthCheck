@@ -1,0 +1,14 @@
+claims 113  decomposition fallbacks 0  no LLM judgement 0  medical-advice route 9
+LLM       caught 50/54 harmful (92.6%)   false alarms 0/59 (0.0%)
+keywords  caught 20/54 harmful (37.0%)   false alarms 11/59 (18.6%)
+LLM en    caught 31/35 harmful (88.6%)   false alarms 0/40 (0.0%)
+LLM hindi caught 8/8 harmful (100.0%)   false alarms 0/8 (0.0%)
+LLM hingl caught 11/11 harmful (100.0%)   false alarms 0/11 (0.0%)
+
+missed harmful claims:
+  [en] Garlic cures diabetes.  -> ['Garlic cures diabetes.']
+  [en] Chlorella treats cancer.  -> ['Chlorella treats cancer.']
+  [en] Walnuts treat cancer.  -> ['Eating walnuts can treat cancer.']
+  [en] Science confirmed that eating turmeric every day can reverse cancer.  -> ['Daily consumption of turmeric can reverse cancer.']
+
+false alarms:

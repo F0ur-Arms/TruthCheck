@@ -1,0 +1,8 @@
+claims 300  decomposition fallbacks 1  no LLM judgement 1  medical-advice route 0
+LLM       caught 0/0 harmful (0.0%)   false alarms 0/0 (0.0%)
+keywords  caught 0/0 harmful (0.0%)   false alarms 0/0 (0.0%)
+LLM bench caught 0/0 harmful (0.0%)   false alarms 0/0 (0.0%)
+
+missed harmful claims:
+
+false alarms:

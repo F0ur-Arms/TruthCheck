@@ -350,6 +350,19 @@ Branch <code>v2-integration</code> &middot; first issued 16 October 2026 &middot
 <p>The gate at 0.1 answers about twice as many claims as round 6 with slightly higher balanced accuracy. The simulation from round 7's scores predicted this closely (15.0% and 0.823). Compared with round 7, "false" verdicts fall from 357 (307 correct, 50 wrong) to 196 (173 correct, 23 wrong), so the gate removes 27 wrong ones at the cost of 134 correct ones; "true" verdicts barely change, 92 (72 correct) to 90 (69 correct). Overall accuracy therefore stays the same, and balanced accuracy rises because fewer true claims are called false.</p>
 <p>Limits: "true" verdicts are right only 77% of the time (21 false claims called true), the most dangerous error for health claims. 213 of the 286 answers come from ai4bharat (88.7%); HealthVer is 77.6% (49), PUBHEALTH 55.6% (18), SciFact 83.3% (6). The value 0.1 was picked on this same benchmark, so 0.821 is somewhat optimistic. One claim used the decomposition heuristic after an LLM failure. This run does not include the source-trust fix.</p>
 
+<h3>Rounds 10 to 13: source trust, knowledge-base batch 3, prompt v3, wider retrieval (32B, gate 0.1, 1,898 claims)</h3>
+<p>Each round changes one thing against the row above it, except rounds 12 and 13, which each add one change to round 11.</p>
+<table>
+  <tr><th>Run</th><th class="n">Answered</th><th class="n">Accuracy (answered)</th><th class="n">True called true</th><th class="n">False called false</th><th class="n">Balanced acc.</th><th class="n">"True" verdicts right</th></tr>
+  <tr><td>Round 8: gate 0.1</td><td class="n">15.1%</td><td class="n">84.6%</td><td class="n">75%</td><td class="n">89%</td><td class="n">0.821</td><td class="n">69/90 (77%)</td></tr>
+  <tr><td>Round 10: + source-trust fix</td><td class="n">15.1%</td><td class="n">84.6%</td><td class="n">75%</td><td class="n">89%</td><td class="n">0.821</td><td class="n">69/90 (77%)</td></tr>
+  <tr><td>Round 11: + knowledge-base batch 3</td><td class="n">21.3%</td><td class="n">85.7%</td><td class="n">75%</td><td class="n">90%</td><td class="n">0.824</td><td class="n">86/115 (75%)</td></tr>
+  <tr><td>Round 12: round 11 + judge prompt v3</td><td class="n">22.1%</td><td class="n">86.2%</td><td class="n">83%</td><td class="n">88%</td><td class="n">0.852</td><td class="n">105/141 (74%)</td></tr>
+  <tr><td>Round 13: round 11 + wider retrieval</td><td class="n">26.8%</td><td class="n">86.6%</td><td class="n">78%</td><td class="n">90%</td><td class="n">0.838</td><td class="n">108/145 (74%)</td></tr>
+</table>
+<p><b>Source trust fix:</b> no verdict changed (1,898 of 1,898 identical); it only corrects the trust shown for each source. <b>Batch 3</b> (Indian government health sources, index from 36,316 to 56,603 passages) raises coverage from 15.1% to 21.3% with no loss of accuracy; most of the gain is ai4bharat (213 to 293 answered). <b>Wider retrieval</b> (50 candidates per lane, best 10 judged instead of 5) raises it again to 26.8%, with accuracy holding. <b>Prompt v3</b> calls more true claims true (83% vs 75%) but also more false claims true (36 vs 29). In every round about one "true" verdict in four is wrong, which is still the most dangerous error. v3 and wider retrieval have not been run together. All settings were chosen on this same benchmark, so the numbers are somewhat optimistic.</p>
+<p><b>Tighter harm prompt (not adopted).</b> A version that flagged only claims urging a harmful action halved the flags on 300 benchmark claims (105 to 52) but missed 4 of 54 harmful claims in the hand-written set, all "food cures a serious disease" claims. Adding that case back caught 54 of 54 but flagged 109 of the 300, no fewer than before. The original prompt stays; reducing over-flagging needs another approach and the team's harm test set.</p>
+
 <h2>12. Infrastructure and how to reproduce</h2>
 <ul>
   <li><b>LLM server:</b> Qwen2.5-7B-Instruct-AWQ on vLLM 0.7.2, PBS queue <code>Gpu1-10g</code> (job limit one per queue, 48-hour walltime). Runbook: <code>docs/LOCAL_LLM_DEPLOYMENT.md</code>.</li>
@@ -405,7 +418,7 @@ uvicorn app.api.main:app --reload       # TRUTHCHECK_NLI_BACKEND=llm|local|auto<
   <tr><td>Step 7: scale and multimodal</td><td>Not started</td><td>OCR, audio, Postgres/pgvector</td></tr>
 </table>
 <ol>
-  <li><b>Next runs</b>: gate 0.1 is now the default. Source-trust fix alone, then knowledge-base batch 3 with a rebuilt index, then judge prompt v3 in full.</li>
+  <li><b>Next runs</b>: knowledge-base batch 3 and wider retrieval together with prompt v3; then decide the defaults. Reduce wrong "true" verdicts (about 1 in 4).</li>
   <li><b>Hinglish retrieval</b>: run the cross-lingual pairs end to end with retrieval; check the medical-advice router on Hinglish.</li>
   <li><b>Knowledge-base coverage</b>: remove unsourced files; add trusted sources for the target claim types (WHO, ICMR/NIN, PIB and Vishvas fact-checks); consider a live search tier for claims the library does not cover.</li>
   <li><b>Harm check</b>: reduce over-flagging (33% of benchmark claims); team review of the harm labels, plus harder claims written by the team; Hinglish and Hindi safety notices.</li>

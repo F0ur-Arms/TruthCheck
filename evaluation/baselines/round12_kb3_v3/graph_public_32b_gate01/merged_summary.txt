@@ -1,0 +1,13 @@
+{
+  "n": 1898,
+  "abstained": 1478,
+  "coverage": 0.22128556375131717,
+  "strict_accuracy": 0.19072708113804004,
+  "strict_f1_weighted": 0.2081854718018137,
+  "answered_accuracy": 0.861904761904762,
+  "answered_precision_weighted": 0.8677869653161349,
+  "answered_recall_weighted": 0.861904761904762,
+  "answered_f1_weighted": 0.8638217503889147
+}
+WARNING: 2 claims used the decomposition heuristic after an LLM failure
+verdicts: [('INSUFFICIENT_EVIDENCE', 1413), ('FALSE', 279), ('SUPPORTED', 127), ('MIXED_EVIDENCE', 26), ('WITHHELD', 24), ('SUPPORTED_WITH_CAVEATS', 14), ('NOT_A_FACT_CHECK', 12), ('ERROR:OutOfMemoryError', 3)]
