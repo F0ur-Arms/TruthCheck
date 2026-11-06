@@ -26,7 +26,8 @@ them through an SSH tunnel; the API has no login, so it only listens on the clus
    cd ~/FoodFactCheck/TruthCheck_demo && nohup bash scripts/cluster/run_demo.sh > ~/FoodFactCheck/logs/demo.log 2>&1 &
    ```
 
-4. Open http://localhost:8090, go to Chat, and run one claim before the demo starts. The first
+4. Open http://localhost:8090 (if the cluster SSH session is already open, the tunnel can be added to it
+   instead: `ssh -S /tmp/tc-cluster.sock -O forward -L 8090:127.0.0.1:8090 bagler@192.168.3.91`), go to Chat, and run one claim before the demo starts. The first
    check loads the models and takes about 40 seconds; later ones take about 20. They are slower while an
    evaluation job is using the LLM server, so hold or finish those first (`qhold <job>`, `qrls <job>`).
 
@@ -47,11 +48,11 @@ Answers can change as the knowledge base and models change, so re-run these befo
 
 ## Known limits to say up front
 
-- Results on the public benchmark: balanced accuracy 0.821 at 15.1% coverage with the demo's gate of
-  0.1 (0.810 at 7.7% with gate 0.6, 0.765 at 23.7% with the gate off).
+- Results on the public benchmark: with knowledge-base batch 3 (the demo's setup, round 11), 21.3% of
+  claims answered at 85.7% accuracy (balanced 0.824). About 1 in 4 "true" verdicts is wrong.
 - "Drinking bleach cures COVID-19" gets "insufficient evidence" with a safety notice: the knowledge base
   has no relevant passage. A notice is shown, but the claim is not called false.
 - The harm check flags too many claims (33% of the benchmark) and is not validated on reviewed labels.
 - Confidence comes from hand-set weights, not a calibrated model. Nobody reviews answers.
-- The demo includes the source-trust fix, which has not had a full evaluation run. `testing.txt`
-  (unsourced) is excluded from the demo's evidence, and knowledge-base batch 3 is not merged yet.
+- `testing.txt` (unsourced) is excluded from the demo's evidence. Trace and review endpoints need
+  `TRUTHCHECK_ADMIN_TOKEN`, which the demo does not set, so they stay closed.
