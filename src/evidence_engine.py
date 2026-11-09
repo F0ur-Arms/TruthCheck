@@ -64,10 +64,18 @@ class EvidenceEngine:
             nli = FallbackNLI(judge, lambda: NLIVerifier(NLI_FALLBACK_MODEL))
         from config import MIN_RELEVANCE
         min_relevance = float(os.environ.get("TRUTHCHECK_MIN_RELEVANCE", MIN_RELEVANCE))
-        # TRUTHCHECK_EXCLUDE_SOURCES: comma-separated knowledge-base files never to use as evidence.
+        # TRUTHCHECK_EXCLUDE_SOURCES: comma-separated knowledge-base files never to use as evidence;
+        # a trailing * matches a prefix (e.g. "toi_*" turns off every Times of India file).
         excluded = [f for f in os.environ.get("TRUTHCHECK_EXCLUDE_SOURCES", "").split(",") if f]
         return cls(kb_manager, retriever, Reranker(), nli, min_relevance=min_relevance or None,
                    excluded_sources=excluded)
+
+    def _excluded(self, source_file: Optional[str]) -> bool:
+        """An entry ending in "*" excludes every file with that prefix (e.g. "toi_*")."""
+        if not source_file:
+            return False
+        return any(source_file.startswith(e[:-1]) if e.endswith("*") else source_file == e
+                   for e in self.excluded_sources)
 
     def make_lanes(self, canonical_claim: str, subject: Optional[str] = None,
                    outcome: Optional[str] = None) -> Dict[str, str]:
@@ -80,7 +88,7 @@ class EvidenceEngine:
         candidates = self.hybrid_retriever.retrieve_hybrid(lanes, top_per_lane=top_per_lane)
         if self.excluded_sources:
             candidates = [c for c in candidates if c.get("passage_index") is None
-                          or self.kb_manager.source_for_index(c["passage_index"]) not in self.excluded_sources]
+                          or not self._excluded(self.kb_manager.source_for_index(c["passage_index"]))]
         reranked = self.reranker.rerank(
             canonical_claim,
             candidates,

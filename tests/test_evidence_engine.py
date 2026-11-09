@@ -50,6 +50,13 @@ class EvidenceEngineGateTests(unittest.TestCase):
         engine = EvidenceEngine(kb, _Retriever(), _Reranker(), None, excluded_sources=["testing.txt"])
         self.assertEqual([p["passage"] for p in engine.retrieve("c", {"support": "c"})], ["p1", "p2"])
 
+    def test_excluded_prefix_turns_off_a_whole_batch(self):
+        kb = MagicMock()
+        files = {0: "pubmed_scifact_1.txt", 1: "pubmed_scifact_2.txt", 2: "pubmed_x.txt"}
+        kb.source_for_index.side_effect = files.get
+        engine = EvidenceEngine(kb, _Retriever(), _Reranker(), None, excluded_sources=["pubmed_scifact_*"])
+        self.assertEqual([p["passage"] for p in engine.retrieve("c", {"support": "c"})], ["p2"])
+
     def test_source_url_comes_from_the_file_header(self):
         with tempfile.TemporaryDirectory() as kb:
             Path(kb, "who__x.txt").write_text("SOURCE: WHO\nTITLE: X\nURL: https://www.who.int/x\n---\nbody")

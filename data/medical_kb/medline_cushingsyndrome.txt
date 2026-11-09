@@ -1,0 +1,53 @@
+SOURCE: MedlinePlus, U.S. National Library of Medicine (public domain)
+TITLE: Cushing Syndrome
+URL: https://medlineplus.gov/cushingsyndrome.html
+────────────────────────────────────────────────────────────
+
+Also called: Hypercortisolism
+What is Cushing syndrome?
+Cushing syndrome is a hormonal disorder. It happens when your body has too much of a hormone called cortisol over a long period of time. Hormones are chemical messengers in your bloodstream that control the actions of certain cells or organs. Cortisol is made by your adrenal glands, two small glands that sit above your kidneys.
+Cortisol helps your body:
+Respond to stress (cortisol is sometimes called the "stress hormone")
+Reduce inflammation (swelling)
+Control blood glucose (also called "blood sugar")
+Control metabolism (how your body uses food for energy)
+Control blood pressure
+What causes Cushing syndrome?
+Cushing syndrome happens when your body has too much cortisol. The most common cause is if you take high doses of glucocorticoids (a type of steroid medicine such as prednisone) for a long time. This is known as exogenous Cushing syndrome. These medicines act like cortisol and are used to treat conditions such as asthma, rheumatoid arthritis, and lupus. They're also used to keep the body from rejecting a transplanted organ.
+Less often, Cushing syndrome happens when a tumor causes the body to make too much cortisol. This is known as endogenous Cushing syndrome. This type is rare. It's most common in adults ages 30 to 50, but children can also get it. It affects about three times as many women as men.
+Causes of endogenous Cushing syndrome may include:
+Pituitary tumors. A tumor on the pituitary gland (at the base of the brain) makes too much of a hormone called ACTH. ACTH tells the adrenal glands to make cortisol. This type is called Cushing disease. It's the most common cause when medicine isn't to blame.
+Tumors in other parts of the body (ectopic Cushing syndrome). Some tumors outside the pituitary gland, most often in the lungs, make too much ACTH.
+Adrenal tumors. A tumor on an adrenal gland can make too much cortisol on its own.
+What are the symptoms of Cushing syndrome?
+The symptoms of Cushing syndrome can vary from person to person, and not everyone has all of them. Some of the common ones include:
+Weight gain, mostly around the belly and upper body
+A rounded face
+Thin arms and legs
+Extra fat at the base of the neck or a fatty hump between the shoulders
+Wide purple stretch marks, mostly on the abdomen (belly), breasts, hips, and under the arms
+Severe fatigue and muscle weakness
+High blood pressure
+High blood glucose
+Easy bruising
+Women may grow extra hair on the face, neck, chest, abdomen (belly), or thighs, and their periods may become irregular or stop.
+Men may have less interest in sex, erectile dysfunction (ED), or fertility problems.
+Children often gain weight and grow more slowly than other children.
+How is Cushing syndrome diagnosed?
+Cushing syndrome can be hard to diagnose because many of the symptoms are like other conditions. To find out if you have Cushing syndrome, your health care provider will:
+Ask about your health history. This includes asking whether you take any glucocorticoids (pills, shots, inhalers, or creams).
+Do a physical exam.
+Order tests to check the cortisol levels in your urine, saliva or blood. You will usually have at least two of these tests:
+A 24-hour urine test, which requires you to collect your urine (pee) for 24 hours
+A late-night saliva test, which checks when cortisol levels are usually at their lowest
+A dexamethasone suppression test, which is a blood test that checks whether cortisol levels drop after taking a medicine that normally lowers cortisol
+If the tests show you have Cushing syndrome, you may need more tests to find the cause. These tests may include an ACTH blood test and imaging tests, such as an MRI or CT scan to check for a tumor.
+What are the treatments for Cushing syndrome?
+The treatment for Cushing syndrome depends on the cause. The goal is to return your cortisol levels to normal.
+If glucocorticoid medicine is the cause, your provider may slowly lower your dose or switch you to a different medicine. But don't stop taking any medicines or change the dose unless your provider tells you to.
+If a tumor is the cause, you will probably have surgery to remove it. Other options may include radiation, chemotherapy, or medicines that lower cortisol. In some cases, you may need surgery to remove your adrenal glands.
+After surgery, you may need to take cortisol medicine for a while until your body makes enough on its own. If both adrenal glands are removed, you'll need to take hormone medicines for life.
+Most people with Cushing syndrome get better with treatment, but recovery can take time.
+Without treatment, Cushing syndrome can lead to serious health problems, such as heart attack, stroke, blood clots, weak bones that break easily, and type 2 diabetes.
+Healthy habits can help you manage the effects of too much cortisol while you're being treated. Your provider may recommend eating enough protein and calcium to protect your muscles and bones and limit salt if you have high blood pressure. Ask your provider which changes are right for you.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases

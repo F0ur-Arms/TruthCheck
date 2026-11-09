@@ -23,4 +23,21 @@ fb = [r for r in recs if r.get("nli_fallback_calls")]
 if fb:
     print(f"WARNING: {len(fb)} claims used the local NLI fallback ({sum(r['nli_fallback_calls'] for r in fb)} judgments)")
 print("verdicts:", Counter(r["verdict"] for r in recs).most_common())
+
+# Coverage alone can be bought by calling true claims false, so report both classes' recall.
+answered = [r for r in recs if r["pred"] is not None]
+recall = {c: (sum(r["pred"] == c for r in answered if r["true"] == c) /
+              max(1, sum(r["true"] == c for r in answered))) for c in (0, 1)}
+print(f"answered balanced accuracy: {(recall[0] + recall[1]) / 2:.3f}  "
+      f"(true claims called true {recall[0]:.3f}, false claims called false {recall[1]:.3f})")
+errors = sum(1 for r in recs if str(r["verdict"]).startswith("ERROR"))
+if errors:
+    print(f"WARNING: {errors} claims ended in an error and count as abstentions")
+if any("origin" in r for r in recs):
+    print("by origin:")
+    for origin in sorted({r.get("origin") for r in recs}):
+        rows = [r for r in recs if r.get("origin") == origin]
+        ans = [r for r in rows if r["pred"] is not None]
+        acc = sum(r["pred"] == r["true"] for r in ans) / len(ans) if ans else 0.0
+        print(f"  {origin:20} n={len(rows):5} coverage={len(ans) / len(rows):.3f} answered_acc={acc:.3f}")
 json.dump(recs, open(f"{d}/merged_predictions.json", "w"))

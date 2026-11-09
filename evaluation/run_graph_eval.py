@@ -79,15 +79,25 @@ def main():
         out = {}
         fallback_before = getattr(nodes.get_engine().nli_judge, "fallback_calls", 0)
         decomp_before = nodes.claims_processor.fallback_count
-        try:
-            out = app.invoke({"raw_input": str(row["claim"])}, config=cfg)
-            if out.get("__interrupt__"):
-                verdict, held = None, True
-                out = app.get_state(cfg).values
-            else:
-                verdict, held = (out.get("final_response") or {}).get("verdict"), False
-        except Exception as exc:
-            verdict, held = f"ERROR:{type(exc).__name__}", False
+        for attempt in range(2):
+            try:
+                out = app.invoke({"raw_input": str(row["claim"])}, config=cfg)
+                if out.get("__interrupt__"):
+                    verdict, held = None, True
+                    out = app.get_state(cfg).values
+                else:
+                    verdict, held = (out.get("final_response") or {}).get("verdict"), False
+                break
+            except Exception as exc:
+                verdict, held = f"ERROR:{type(exc).__name__}", False
+                # A GPU out-of-memory error says nothing about the claim; free the cache and retry once
+                # on a fresh thread so it is not scored as an abstention.
+                if attempt == 0 and "OutOfMemory" in type(exc).__name__:
+                    import torch
+                    torch.cuda.empty_cache()
+                    cfg = {"configurable": {"thread_id": f"eval-{idx}-retry"}}
+                    continue
+                break
         pred = get_binary_prediction([{"verdict": verdict}]) if verdict and not verdict.startswith("ERROR") else None
         rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held,
                "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before,
