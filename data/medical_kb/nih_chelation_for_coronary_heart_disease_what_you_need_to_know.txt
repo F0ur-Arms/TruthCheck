@@ -1,0 +1,38 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Chelation for Coronary Heart Disease: What You Need To Know
+URL: https://www.nccih.nih.gov/health/chelation-for-coronary-heart-disease-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Chelation for Coronary Heart Disease: What You Need To Know
+Heart disease is the leading cause of death among both men and women in the United States. Coronary heart disease (also called coronary artery disease) is a type of heart disease where the arteries of the heart cannot deliver enough oxygen-rich blood to the heart. It is the most common type of heart disease and is responsible for more than 370,000 deaths each year. Treatments include lifestyle changes (such as choosing heart-healthy foods and quitting smoking), medicines, and in some instances, medical procedures.
+Chelation therapy using disodium EDTA (edetate disodium) has been used as a complementary therapy for people with coronary heart disease. This fact sheet describes chelation therapy for coronary heart disease and the research done on it, including two large studies funded by the National Institutes of Health (NIH).
+What is chelation therapy?
+Chelation therapy is a process in which a substance is delivered intravenously (through the veins) to bind metals or minerals so they can be removed from the body via urination. When it’s used as a complementary treatment for heart disease, a course of treatment can require 20 to 40 weekly infusions lasting several hours each. Patients also typically take high-dose pills of vitamins and minerals.
+Is EDTA chelation for coronary heart disease approved by the U.S. Food and Drug Administration (FDA)?
+No. The use of EDTA chelation for coronary heart disease has not been approved by the FDA.
+What has research shown about chelation for coronary heart disease?
+Two large-scale NIH-funded studies of chelation for coronary heart disease have been completed: the Trial to Assess Chelation Therapy (TACT) and Trial to Assess Chelation Therapy 2 (TACT2).
+Trial to Assess Chelation Therapy (TACT)
+TACT was conducted between 2003 and 2011, and results were reported in 2013. The 1,708 people who participated in TACT were age 50 or older and had had at least one heart attack. They were randomly assigned to receive 40 treatments with EDTA or a placebo, plus either high-dose vitamins and minerals or placebo pills, and they did not know which treatment they were receiving.
+Overall, chelation therapy produced a modest reduction in cardiovascular events. However, further analysis showed that the beneficial effect occurred only in people with diabetes.
+People with diabetes, who made up about one-third of the participants, had a 41 percent overall reduction in the risk of any cardiovascular event; a 40 percent reduction in the risk of death from heart disease, nonfatal stroke, or nonfatal heart attack; a 52 percent reduction in recurrent heart attacks; and a 43 percent reduction in death from any cause over a period of about 5 years.
+The high-dose vitamins and minerals didn’t reduce cardiovascular events, but they appeared to be safe. However, the researchers couldn’t be completely certain about these conclusions because many people stopped taking their vitamin/mineral or placebo pills or dropped out of the study.
+Since TACT was the first clinical trial to show a benefit of chelation, its results were not, by themselves, sufficient to support the routine use of chelation as a post–heart attack therapy in people with diabetes. A second study, TACT2, was performed to see whether the results of TACT in people with diabetes and a history of heart attack could be replicated.
+Trial to Assess Chelation Therapy 2 (TACT2)
+TACT2 was conducted between 2016 and 2023, and results were reported in 2024. A total of 1,000 people were enrolled in the study, and 959 actually received infusions. All participants were age 50 or older, had diabetes, and had had a heart attack before joining the study. Like the participants in TACT, they were randomly assigned to receive 40 treatments with EDTA or a placebo, plus either high-dose vitamins and minerals or placebo pills, and they did not know which treatment they were receiving.
+Blood lead and urine cadmium levels were measured before and after the participants had the series of EDTA or placebo infusions. These measurements were included in the study to see whether EDTA chelation was reducing levels of the metals in the body. Chronic exposure to heavy metals such as lead and cadmium has been associated with cardiovascular disease, and removal of these metals might play a role in any benefits of EDTA chelation.
+EDTA chelation reduced lead levels but did not reduce cardiovascular events in this study. Cardiovascular events occurred in similar percentages of people in the EDTA group (35.6 percent) and the placebo group (35.7 percent). Blood lead levels decreased by 61 percent in the EDTA group but did not decrease significantly in the placebo group. Urine cadmium levels increased substantially right after each chelation treatment. Thus, EDTA therapy was effective in chelating both lead and cadmium and promoting their excretion.
+The effects of high-dose vitamin and mineral supplementation in TACT2 have not yet been reported.
+Because TACT2 did not reproduce the results of TACT, its findings do not support the use of chelation to reduce cardiovascular risk in people with diabetes and a history of heart attack.
+Why did the results of TACT and TACT2 differ?
+The reasons are not yet known. Further analyses of the TACT2 data may provide an explanation. One possibility is that differences between the two study populations may be responsible. The TACT2 participants had more advanced heart disease and higher cardiovascular event rates than those in TACT and may have been exposed to lower levels of lead. It is not known, however, whether these differences can explain the differences in results between the two studies.
+Can chelation therapy have side effects?
+Yes. The most important serious side effects are hypocalcemia (abnormally low blood calcium levels) and damage to the kidneys.
+In TACT, serious adverse events occurred in 100 (11.9 percent) of people receiving chelation and 127 (14.6 percent) of those receiving placebo. In TACT2, serious adverse events occurred in 81 (16.8 percent) of those receiving chelation and 79 (16.6 percent) of those receiving placebo.
+Do over-the-counter chelation products work? Are they safe?
+The FDA has warned the public not to use chelation products that are sold for home use, such as dietary supplements, nasal sprays, or suppositories. These products have not been approved to treat any health condition, and they may have serious side effects. They can also be harmful if people rely on them rather than seeking medical care for serious health problems.
+What should you do if you think you have been exposed to too much lead?
+Consult your health care provider for evaluation and, if necessary, treatment. You can learn about the health effects of lead and how to prevent lead exposure from the National Institute of Environmental Health Sciences.
+More To Consider
+If you’re considering chelation therapy for coronary heart disease, discuss it first with your cardiologist or other health care provider. Seek out and consider information available from scientific studies on the therapy.
+Take charge of your health—talk with your health care providers about any complementary approaches you use. Together, you can make shared, well-informed decisions.

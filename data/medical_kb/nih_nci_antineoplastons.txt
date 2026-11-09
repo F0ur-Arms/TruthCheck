@@ -1,0 +1,49 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Antineoplastons (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/antineoplastons-pdq
+────────────────────────────────────────────────────────────
+
+NOTE: There is either no new research on this topic or the recent published research is weak and not appropriate for inclusion in the summary. Therefore, the information in this summary is no longer being updated and is provided for reference purposes only.
+Antineoplastons are chemical compounds found in urine and blood. Antineoplastons are made in a laboratory when used for research. (See Question 1.)
+No randomized, controlled trials of antineoplastons have been published in peer-reviewed scientific journals. (See Question 4.)
+Clinical trials are being done at the clinic where antineoplastons were first made to study the effect of antineoplastons on cancer. (See Question 4.)
+Antineoplastons have caused mild to severe side effects. (See Question 5.)
+Antineoplastons are not approved by the U. S. Food and Drug Administration for the prevention or treatment of any disease. (See Question 6.)
+Questions and Answers About Antineoplastons
+What are antineoplastons?
+Antineoplastons are chemical compounds found in urine and blood. They are made up of amino acids (the building blocks of protein) and peptides (compounds made of two or more amino acids). When used in research, antineoplastons are made from chemicals in the laboratory.
+How are antineoplastons given?
+Antineoplastons are given by mouth or by injection (shot).
+Have any laboratory or animal studies been done using antineoplastons?
+In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people.
+Laboratory and animal studies have tested the effects of antineoplastons in laboratory experiments. See the Laboratory/Animal/Preclinical Studies section of the PDQ health professional summary on Antineoplastons for information on laboratory and animal studies done using antineoplastons.
+Have any studies of antineoplastons been done in people?
+No phase III, randomized, controlled trials of antineoplastons as a treatment for cancer have been done. Phase I clinical trials, phase II clinical trials, and case reports have been reported.
+Cancer patients have been studied and treated with antineoplastons at the clinic where antineoplastons were first made. A few trials and case studies have been done outside of the clinic. Cancer types studied include breast, bladder, cervical, prostate, liver, lung, brain, leukemia, and lymphoma.
+Some patients in the studies received standard treatments and the antineoplastons. In those cases, it is not known if responses and side effects were caused by antineoplaston therapy, the other treatments, or both.
+(See the PDQ health professional summary on Antineoplastons for information on clinical trial results.)
+Have any side effects or risks been reported from antineoplastons?
+Side effects from antineoplastons include the following:
+Anemia (lower than normal number of red blood cells).
+Abnormal levels of calcium in the blood.
+High blood pressure.
+Irregular heartbeat.
+Headaches.
+Dizziness.
+Fever and chills.
+Nausea and vomiting.
+Anorexia.
+Gas.
+Dry or itchy skin rash.
+Numbness.
+Tiredness or sleepiness.
+Swelling caused by excess fluid in body tissues.
+Swelling, pain, or stiffness in small joints.
+Confusion.
+Seizures.
+Swelling near the brain.
+The most severe side effects from antineoplastons occurred in a phase II trial in brain tumor patients that included sleepiness, confusion, seizures, and swelling near the brain.
+Are antineoplastons approved by the U.S. Food and Drug Administration (FDA) for use as a cancer treatment?
+Antineoplastons are not approved by the U. S. Food and Drug Administration (FDA) for the prevention or treatment of any disease. The FDA gave the developer permission to run clinical trials of antineoplaston therapy at his own clinic. In the United States, antineoplaston therapy can be obtained only in clinical trials at the developer’s clinic.
+Current Clinical Trials
+Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available.

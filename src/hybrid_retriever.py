@@ -32,6 +32,35 @@ class MultiLaneQueryGenerator:
             "india_context": f"{sub} {out} ICMR NIN FSSAI Indian diet guidelines",
         }
 
+    @staticmethod
+    def generate_plain_lanes(claim_text: str, subject: Optional[str] = None, outcome: Optional[str] = None) -> Dict[str, str]:
+        """TRUTHCHECK_QUERY_LANES=v2: queries without template words.
+
+        The v1 lanes add fixed words ("does not cause ... safe healthy normal evidence", "CKD patients elderly
+        pregnant children") to every claim, which pulls in passages about those words instead of the claim.
+        These lanes search for the claim, its subject alone (finds reference pages such as "Laetrile" for
+        "laetrile treats cancer"), subject with outcome, and the claim's content words.
+        """
+        text_clean = claim_text.strip()
+        lanes = {"support": text_clean}
+        sub = (subject or "").strip()
+        if sub and sub.lower() != text_clean.lower():
+            lanes["subject"] = sub
+            if outcome and outcome.strip():
+                lanes["subject_outcome"] = f"{sub} {outcome.strip()}"
+        keywords = " ".join(w for w in re.findall(r"[\w'-]+", text_clean) if w.lower() not in _STOPWORDS)
+        if keywords and keywords.lower() != text_clean.lower():
+            lanes["keywords"] = keywords
+        return lanes
+
+
+_STOPWORDS = frozenset(
+    "a an the is are was were be been being am do does did can could will would shall should may might must "
+    "it its this that these those of in on at to for from by with as and or but if than then so not no "
+    "you your we our they their he she his her i me my there here what which who whom whose how why when "
+    "where very more most much many some any all just also about into over under up down out off again".split()
+)
+
 
 class HybridRetriever:
     """Combines BM25 lexical search with FAISS dense vector search using Reciprocal Rank Fusion."""

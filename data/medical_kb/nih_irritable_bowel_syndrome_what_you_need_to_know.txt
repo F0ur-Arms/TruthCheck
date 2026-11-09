@@ -1,0 +1,109 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Irritable Bowel Syndrome: What You Need To Know
+URL: https://www.nccih.nih.gov/health/irritable-bowel-syndrome-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Irritable Bowel Syndrome: What You Need To Know
+What’s the Bottom Line?
+What do we know about the usefulness of complementary health approaches for irritable bowel syndrome?
+Nutritional Approaches
+There is some evidence that peppermint oil may help reduce irritable bowel syndrome (IBS) symptoms.
+Although some evidence suggests that certain probiotics may improve IBS symptoms, there is not enough evidence to know for sure.
+Research on prebiotics has not found clear benefits for people with IBS.
+Except for peppermint oil, the evidence on herbal products is too limited for any conclusions to be reached.
+Psychological and Physical Approaches
+There is some evidence that gut-directed hypnotherapy can help with IBS symptoms and improve health-related quality of life.
+The research on acupuncture for IBS is not conclusive.
+There is very little research on meditation and mindfulness, yoga, or relaxation techniques for IBS.
+What do we know about the safety of complementary health approaches for irritable bowel syndrome?
+Probiotics and peppermint oil have a history of apparently safe use, but both can have side effects. Also, few studies have looked at the safety of probiotics in detail, so there’s a lack of solid information on the frequency and severity of side effects.
+Prebiotics have a long history of safe use. However, taken in large doses (more than 20 grams per day for an adult), they can have side effects including gassiness, bloating, abdominal pain, cramps, and diarrhea.
+Psychological and/or physical approaches generally have good safety records when used correctly. However, that doesn’t mean that they’re risk-free for everyone. Your health and special circumstances (such as pregnancy) may affect the safety of these approaches.
+About Irritable Bowel Syndrome
+IBS is the most commonly diagnosed gastrointestinal (GI) condition. Symptoms include repeated abdominal pain with changes in bowel movements (diarrhea, constipation, or both). IBS is a disorder of how the brain and gut work together.
+More
+In the United States, IBS is more common in women than men, and people younger than age 50 are more likely to develop IBS than people older than age 50. About 12 percent of people in the United States have IBS.
+IBS was once called by different names, such as colitis or spastic colon, but doctors now refer to three types: IBS with constipation, IBS with diarrhea, or IBS with mixed bowel habits. Many people with IBS have normal bowel movements on some days and abnormal bowel movements on other days.
+For more information on IBS, see the National Institute of Diabetes and Digestive and Kidney Diseases webpage on IBS.
+About Complementary Health Approaches
+Complementary health approaches are a group of diverse medical and health care systems, practices, and products whose origins come from outside of mainstream medicine. They include such products and practices as herbal supplements, other dietary supplements, meditation, spinal manipulation, and acupuncture.
+Complementary approaches can be classified by their primary therapeutic input (how the therapy is taken in or delivered), which may be:
+Nutritional (e.g., special diets, dietary supplements, herbs, probiotics, microbial-based therapies)
+Psychological (e.g., meditation, hypnosis, music therapies, relaxation therapies)
+Physical (e.g., acupuncture, massage, spinal manipulation)
+Combinations such as psychological and physical (e.g., yoga, tai chi, dance therapies, some forms of art therapy) or psychological and nutritional (e.g., mindful eating)
+Nutritional approaches include what the National Center for Complementary and Integrative Health (NCCIH) previously categorized as natural products, whereas psychological and/or physical approaches include what was referred to as mind and body practices.
+What the Science Says About the Effectiveness of Complementary Health Approaches for IBS
+Nutritional Approaches
+Peppermint Oil
+There is some evidence that enteric-coated peppermint oil capsules can help reduce IBS symptoms over the short term. There is not yet enough evidence to know if peppermint oil helps long term.
+A 2020 review and analysis of 11 studies in 684 people reported that peppermint oil is a safe and effective treatment for global IBS symptoms over the short term.
+A 2021 study that gave 133 people with IBS either enteric-coated peppermint oil pills or placebo (fake) pills for 6 weeks reported that IBS symptoms improved the same amount in both groups. More people in the peppermint oil group reported side effects, but none were serious.
+Clinical practice guidelines published in 2021 by the American College of Gastroenterology, the professional organization for doctors who treat digestive disorders, include peppermint oil as one of several approaches that may be helpful for relieving IBS symptoms. However, this recommendation is based on low-quality evidence.
+Side effects from peppermint oil are usually mild and may include reflux, heartburn (especially if the pills are not enteric coated), belching, and perianal burning.
+Peppermint oil shouldn’t be taken by people with a hernia or gastroesophageal reflux disease (GERD), especially at high doses.
+Visit the NCCIH website for more information on peppermint oil.
+Herbal Products
+In addition to peppermint oil, other herbal products have been studied for IBS, but there has only been a small amount of research on them, and much of it is of limited quality.
+A 2018 analysis of 3 studies in 326 people suggested that curcumin, a substance found in the herb turmeric, may have a potential benefit for treating symptoms in some people with IBS. The quality of the evidence was very low, however, and there wasn’t enough evidence to know for sure if it is helpful. Although in the past turmeric had been considered safe, recent research has raised concerns about a potential association between turmeric and liver injury in a small number of people with certain genes.
+Visit the NCCIH website for more information on turmeric.
+Probiotics
+Probiotics are live microorganisms (such as bacteria and yeast) that can be taken as dietary supplements or included in yogurt and other fermented foods and some beauty products.
+Some evidence suggests that some probiotics may improve IBS symptoms; but the evidence is not conclusive. Some probiotics seem to be more effective than others, depending on whether they’re used alone or in different combinations.
+According to practice guidelines from the American College of Gastroenterology (2021), there’s not enough strong evidence on the effectiveness of probiotics for IBS to recommend their use. The guidelines say that the current evidence for this recommendation is very weak, however, because many different types of probiotics have been studied, and most of the studies have been small, with mixed results.
+A 2022 review and analysis of 10 studies in 757 people with constipation-predominant IBS found that probiotics improved stool consistency but did not help reduce pain or bloating or improve quality of life. The quality of the evidence in the reviewed studies was low.
+A 2021 review and analysis of 9 studies in 651 children with IBS found that children who took probiotics had less severe and less frequent abdominal pain than those who took a placebo (fake treatment). Different studies used different doses and types of probiotics, however, and it is not clear how the size of the probiotic dose relates to pain in children with IBS.
+A 2020 review and analysis of 35 studies involving 3,452 people with IBS found that taking probiotics for 4 weeks may help relieve IBS symptoms such as abdominal pain, bloating, and gas. Better results were obtained with combination probiotics than single probiotics. However, because of small study sizes and differences in the types of probiotics and methods used in the studies, it is not clear which types of probiotics are the most effective.
+A 2019 review and analysis of 14 studies in 1,695 people with IBS reported that daily doses of probiotics containing Lactobacillus and Bifidobacterium microorganisms relieved overall IBS symptoms more than daily doses of a single probiotic.
+Probiotics have an extensive history of apparently safe use, particularly in healthy people. However, few studies have looked at the safety of probiotics in detail, so there’s a lack of solid information on the frequency and severity of side effects. The risk of harmful effects from probiotics is greater in people who are seriously ill or have compromised immune systems.
+In people with IBS, probiotics usually have only minor side effects, if any. Side effects that have been reported include cramping and nausea. Rarely, more serious side effects have been reported, including infections and acidosis, a potentially life-threatening condition where there is too much acid in the body.
+Most research about the safety of probiotics comes from studies of Lactobacillus and Bifidobacterium; less is known about other probiotics.
+Visit the NCCIH website for more information on probiotics.
+Prebiotics
+Prebiotics are nondigestible ingredients in food or dietary supplements that support the growth or activity of beneficial gut bacteria.
+A 2019 review and analysis of 11 studies in 729 people with IBS or other functional bowel disorders found that taking prebiotic supplements did not improve GI symptoms or quality of life. Moderate amounts of some prebiotics, specifically less than 6 grams/day of non-inulin-type fructans, improved gassiness. However, other prebiotics (inulin-type fructans) had the opposite effect; they increased gassiness in people with IBS.
+Prebiotics have a long history of safe use. However, when taken in large doses (more than 20 grams per day for an adult), they can have side effects including gassiness, bloating, abdominal pain, cramps, and diarrhea.
+Psychological and Physical Approaches
+Gut-Directed Hypnotherapy (Hypnosis)
+In hypnosis, practitioners help lead people into a state where they are open to suggestion. In gut-directed hypnotherapy, practitioners make suggestions aimed at allowing people to control their GI functions.
+There is some evidence that gut-directed hypnotherapy can help people who have IBS with GI symptoms, anxiety, depression, disability, and health-related quality of life. Research has also reported that gut-directed hypnotherapy can help relieve GI pain in children with IBS.
+Practice guidelines issued in 2021 by the American College of Gastroenterology recommend gut-directed psychotherapies including gut-directed hypnotherapy for treating IBS symptoms. This recommendation is conditional, however, based on very low-quality evidence.
+A 2020 review and analysis of 41 studies in 4,072 people found that gut-directed hypnotherapy helped improve IBS symptoms or pain more than education in adults with IBS. However, it did not help more than other psychological therapies, such as cognitive behavioral therapy or stress management, which worked about as well. In people with refractory IBS symptoms (symptoms that are ongoing and do not respond to conventional treatments), cognitive behavioral therapy and gut-directed hypnotherapy helped the most over the long term.
+A 2017 review of 4 studies in 146 children and adolescents with recurrent abdominal pain and functional abdominal pain disorders including IBS reported that hypnotherapy and guided imagery may reduce pain frequency and intensity in this age group in the short term, based on low-quality evidence.
+The use of hypnosis in the treatment of medical conditions has a good safety record. However, it’s possible that hypnosis could worsen symptoms in people with some mental health conditions.
+Visit the NCCIH website for more information on hypnosis.
+Yoga
+A small amount of evidence suggests that yoga and other types of exercise may be helpful for IBS. A 2022 review of 5 studies in 218 people with IBS reported improvement in IBS symptoms but not pain or quality of life from doing yoga. The authors of the study cautioned, however, that the quality of the evidence was very low.
+Yoga is generally considered a safe form of physical activity for healthy people when performed properly, under the guidance of a qualified instructor. However, as with other forms of physical activity, injuries can occur. The most common injuries are sprains and strains. Serious injuries are rare. The risk of injury associated with yoga is lower than that for higher impact sports activities.
+Visit the NCCIH website for more information on yoga.
+Meditation and Mindfulness
+There is little research on the benefits of meditation and mindfulness for improving health in people with IBS, and the results are not conclusive.
+A 2018 review of 5 studies in 695 people concluded that in addition to receiving conventional care, participating in online mindfulness along with education or cognitive behavioral therapy can benefit general health in people with health conditions including IBS.
+A 2019 review and analysis of 2 studies in 165 people reported that mindfulness meditation training did not improve IBS symptoms, based on low-quality evidence.
+Meditation and mindfulness practices usually are considered to have few risks. However, few studies have examined these practices for potentially harmful effects, so it isn’t possible to make definite statements about safety.
+Visit the NCCIH website for more information on meditation and mindfulness.
+Relaxation Techniques
+There has been a small amount of research on the use of relaxation therapy for IBS.
+A 2021 review and analysis of 6 studies in 278 people with IBS reported that relaxation therapy was not helpful for abdominal pain or overall symptoms from IBS.
+Relaxation techniques are generally considered safe for healthy people. In most research studies, there have been no reported negative side effects. However, occasionally, people report negative experiences such as increased anxiety, intrusive thoughts, or fear of losing control.
+There have been rare reports that certain relaxation techniques might cause or worsen symptoms in people with epilepsy or certain psychiatric conditions, or with a history of abuse or trauma.
+Visit the NCCIH website for more information on relaxation techniques.
+Acupuncture
+The research on acupuncture for IBS is mixed. When compared with sham (fake) acupuncture, real acupuncture does not improve IBS symptoms. However, research that compared acupuncture to various medications found that acupuncture was more effective in relieving IBS symptoms.
+A 2021 review and analysis of 24 studies in 3,220 people with IBS found that in studies comparing acupuncture to various medications, acupuncture was more effective in relieving IBS symptoms. When used in combination with other treatments including medicines or herbs, acupuncture helped to improve their effectiveness in treating IBS symptoms. However, acupuncture did not work better than sham acupuncture for improving IBS symptoms. The authors noted that the quality of the evidence was low to moderate in the reviewed studies.
+Relatively few complications from using acupuncture have been reported. However, complications have resulted from use of nonsterile needles and improper delivery of treatments.
+When not delivered properly, acupuncture can cause serious adverse effects, including infections, punctured organs, and injury to the central nervous system.
+The U.S. Food and Drug Administration (FDA) regulates acupuncture needles as medical devices and requires that they be sterile and labeled for single use only.
+Visit the NCCIH website for more information on acupuncture.
+More About Complementary Psychological and Physical Approaches
+A 2020 analysis of 53 studies looked at using a variety of complementary psychological and physical approaches in adults and children with IBS. Among the included approaches were various relaxation techniques, yoga, meditation, hypnosis, and biofeedback (i.e., using breathing or information from external devices to learn how to control heart rate or other body functions). The authors concluded that, when used together with medicinal treatment, these complementary psychological and physical approaches along with conventional psychological therapies, such as psychoeducation and cognitive behavioral therapy, can help reduce IBS symptom severity. They also found that different complementary psychological and physical approaches appear to be equally effective; none appears to be more effective than the others.
+NCCIH-Funded Research
+Studies supported by NCCIH are currently looking at:
+Whether peppermint oil can reduce abdominal pain frequency in children with functional abdominal pain, a condition that is similar to IBS.
+How the brain influences sensations in the gut, with the goal of helping to identify complementary approaches to treat brain behaviors linked to gut sensing dysfunction, which may play a role in IBS.
+How the gut’s sense of touch works in health and in functional GI diseases including IBS.
+More To Consider
+If you have IBS, you may have to try a few treatments—lifestyle changes, medicines, probiotics, mental health therapies—to see what works best for you. See what your health care provider recommends.
+If you’re considering a practitioner-provided complementary health practice such as hypnotherapy or acupuncture, ask a trusted source (such as the health care provider who treats your IBS or a nearby hospital) to recommend a practitioner. Find out about the training and experience of any practitioner you’re considering. NCCIH’s website offers some tips on how to find a complementary health practitioner.
+Keep in mind that some dietary supplements can interact with medications or other dietary supplements. They also may contain ingredients not listed on the label. Your health care provider can advise you about potential interactions. If you’re pregnant or nursing a child, or if you’re considering using a dietary supplement for a child, it’s especially important to consult your (or the child’s) health care provider.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.

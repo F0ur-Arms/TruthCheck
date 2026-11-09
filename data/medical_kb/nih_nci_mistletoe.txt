@@ -1,0 +1,61 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Mistletoe Extracts (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/mistletoe-pdq
+────────────────────────────────────────────────────────────
+
+Mistletoe is a semiparasitic plant that grows on many types of trees, including apple, oak, pine, and elm (see Question 1).
+Mistletoe extracts are one of the most widely studied complementary and alternative medicine therapies in people with cancer. In Europe, mistletoe extracts are among the most prescribed drugs for patients with cancer (see Question 1).
+Mistletoe extracts are usually given by injection under the skin or, less often, into a vein, into the pleural cavity, or into a tumor (see Question 2).
+Few side effects have been reported from the use of mistletoe extracts (see Question 5).
+The U.S. Food and Drug Administration (FDA) has not approved mistletoe extracts as a treatment for cancer or any other medical condition (see Question 6).
+Questions and Answers About Mistletoe
+What is mistletoe?
+Mistletoe is a semiparasitic plant that grows on many types of trees, including apple, oak, maple, elm, pine, and poplar. It has been used for hundreds of years to treat medical conditions such as epilepsy, asthma, hypertension, headaches, menopausal symptoms, infertility, dermatitis, arthritis, and rheumatism.
+Mistletoe extracts are one of the most widely studied complementary and alternative medicine therapies for cancer. In Europe, mistletoe extracts are among the most prescribed therapies for cancer patients.
+Mistletoe products vary, based on the following factors:
+The species of mistletoe.
+The type of host tree on which the mistletoe grows.
+The time of year the plant is picked.
+The type of extract used and if it is made with homeopathic methods.
+The company that makes the product.
+Mistletoe extracts are made in water-based solutions or solutions of water and alcohol. Mistletoe products may be named by the type of tree on which the plant grows. For example, IscadorM is from apple trees, IscadorP comes from pine trees, IscadorQu is from oak trees, and IscadorU comes from elm trees.
+How are mistletoe extracts given?
+Mistletoe extracts are usually given by an injection under the skin. Less common ways to give mistletoe extracts include by mouth, into a vein, into the pleural cavity, or into a tumor.
+What laboratory or animal studies have been done using mistletoe extracts?
+In laboratory studies, a substance is tested in tumor cells to find out if it has any anticancer effects. In animal studies, a drug, procedure, or treatment is tested in mice or other animals to see if it is safe and effective. Laboratory and animal studies are done before a substance is tested in people.
+Laboratory and animal studies have tested the effects of mistletoe extracts. For information on laboratory and animal studies using mistletoe extracts, see the Laboratory/Animal/Preclinical Studies in the health professional version of this summary.
+Have any studies of mistletoe extracts been done in people with cancer?
+Most clinical trials using mistletoe extracts to treat cancer have been done in Europe. Many studies use mistletoe products as adjuvant therapy in patients with cancer. Although some studies have shown that mistletoe extracts can work against cancer, these findings should be read with caution because some of the studies:
+Have small numbers of participants.
+Lack detailed information about participants.
+Lack detailed information about doses.
+Are poorly designed.
+Studies with large numbers of participants reported the following:
+Breast cancer
+A study in postoperative early-stage breast cancer patients compared standard treatment and mistletoe extract to standard treatment alone. Less adverse drug reactions were reported in the group given mistletoe extract.
+Another study in breast cancer patients compared survival between those who had standard therapy and mistletoe extract and those who had standard therapy alone. Improved survival was reported in the group given mistletoe extract.
+Colorectal cancer
+A retrospective cohort study done between 1993 and 2000 looked at the use of mistletoe extract as long-term adjuvant therapy in patients treated with chemotherapy and/or radiation therapy for colorectal cancer that had not spread. The study found that patients treated with mistletoe extract had longer disease-free survival, fewer adverse events, and better symptom relief than patients who did not receive mistletoe extract as adjuvant therapy.
+Pancreatic cancer
+A study published in 2013 looked at the use of mistletoe extract in advanced or metastatic pancreatic cancer. Patients received best supportive care and were randomly assigned to receive either mistletoe extract or no anticancer therapy. Results from the study showed that patients treated with mistletoe extract had improved survival compared with those who did not receive mistletoe extract.
+Non-small cell lung cancer
+Two randomized clinical trials that compared chemotherapy to mistletoe extract in patients with non-small cell lung cancer reported no differences in quality of life between the two groups.
+A study done between 1978 and 1987 looked at the use of mistletoe extract in non-small cell lung cancer that could not be treated with surgery. Patients were randomly assigned to receive one of 3 treatments: (1) a mistletoe extract injection; (2) an injection made from a sheep spleen said to stimulate the immune system and have antitumor effects; (3) a placebo injection of vitamin B. Results among the 3 groups were no different in survival or tumor response. It was noted that more patients in the mistletoe extract group than in the other groups reported an improved sense of well-being.
+Melanoma
+A randomized clinical trial in melanoma patients treated with mistletoe extract for 1 year found that there was no increase in survival time.
+Reviews of combined clinical trials
+Reviews have looked at the effects of mistletoe extract on quality of life, survival, and symptom relief in different types of cancer. Some of the studies were well designed and reported benefits for patients, while others were not. A few studies reported a difference in survival or quality of life in patients who received mistletoe extract compared with those who did not.
+For more information on mistletoe extract studies, see the health professional version of Mistletoe Extracts.
+Have any side effects or risks been reported from mistletoe extracts?
+Side effects from the use of mistletoe extracts include soreness and inflammation at injection sites, headache, fever, chills, nausea, and feeling very tired. A few cases of severe allergic reactions, including anaphylactic shock, have been reported.
+One review reported that treatment with mistletoe extract did not reduce immune system response. High doses of mistletoe extract damaged the liver in some cases, but the damage was repaired. Another review reported adverse effects that included circulatory problems, thrombophlebitis, swelling of lymph nodes, and allergic reactions.
+In an observational cohort study, three types of mistletoe extract (Iscador, Helixor, and abnobaVISCUM) were found to be safe in a small group of cancer patients with autoimmune diseases.
+Is mistletoe extract approved by the U. S. Food and Drug Administration (FDA) for use as a cancer treatment in the United States?
+The FDA has not approved the use of mistletoe extract as a treatment for cancer or any other medical condition.
+Current Clinical Trials
+Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available.
+Changes To This Summary (06/21/2023)
+The PDQ cancer information summaries are reviewed regularly and updated as
+new information becomes available. This section describes the latest
+changes made to this summary as of the date above.
+Changes were made to this summary to match those made to the health professional version.

@@ -1,0 +1,150 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq
+────────────────────────────────────────────────────────────
+
+Over a third of adults with cancer in the United States use some form of complementary and alternative medicine (CAM) product. CAM products may include dietary supplements, herbal products, and special teas. Taking anticancer drugs and CAM products together may cause a person to have an undesired (adverse) reaction. Talk to your doctor about the CAM products you use before you begin treatment.
+When dietary supplements, herbs, or other CAM products are taken with an anticancer drug, they could change the way the cancer drug works in a person's body. They may change how the cancer drug is absorbed and distributed (metabolized) in the body tissues, or how it is removed (excreted) from the body.
+Special enzymes and other proteins help drugs work against cancer in the body. The cytochrome P450 superfamily of enzymes are important for how the body metabolizes many cancer drugs. P-glycoprotein, a special protein that helps remove substances from cells, is also involved in how cancer drugs work in a person's body. If a CAM product disturbs these systems, the cancer drug will not work like it should, and the person will not receive the full benefits of the drug.
+Some studies have been done on taking CAM products with cancer drugs. This summary covers some of the possible adverse reactions from taking CAM products and cancer drugs together.
+Antioxidants
+Questions and Answers About Antioxidants
+What are antioxidants?
+Antioxidants are natural or man-made substances. They are found in foods and dietary supplements that protect cells from the damage caused by free radicals (unstable molecules made by oxidation during normal metabolism). Free radicals may play a part in cancer, heart disease, stroke, and other diseases of aging.
+Some common dietary antioxidants include the following:
+Vitamin C (ascorbate).
+Vitamin E.
+Flavonoids (such as soy isoflavones, green tea catechins).
+Beta-carotene.
+Glutathione.
+How are antioxidants given or taken?
+Antioxidants found in fruits, vegetables, and dietary supplements are taken by mouth.
+Have any laboratory or animal studies been done on antioxidants and drug interactions?
+For information on laboratory and animal studies done using antioxidants, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on antioxidants and drug interactions in people with cancer?
+One study looked at antioxidant dietary supplement use before and after diagnosis in postmenopausal breast cancer survivors. This study found an increased risk of death and a reduced chance of staying cancer free when antioxidant dietary supplements were used during chemotherapy and radiation therapy. Another study found similar results for people with breast cancer who used antioxidant dietary supplements before and during chemotherapy.
+Clinical trials of people with head and neck cancer who took vitamin E supplements looked at a compound in the supplements known as alpha-tocopherol. Researchers studied alpha-tocopherol to see if it decreased adverse reactions from chemotherapy and radiation therapy. Although some clinical trials reported that alpha-tocopherol may reduce damage to the body caused by radiation therapy, other clinical trials found there was a higher risk of cancer coming back.
+Have any side effects or risks been reported from antioxidants?
+Antioxidant dietary supplements that are taken while being treated with chemotherapy or radiation therapy may lower the chance of staying cancer free. Some people take antioxidants because they think the supplement will protect and repair healthy cells damaged by cancer drugs. More research is needed to find out if antioxidant supplements are safe and effective as a complementary therapy when taken with standard cancer treatment.
+Are antioxidants approved by the United States Food and Drug Administration (FDA) for use as a cancer treatment in the United States?
+The FDA has not approved the use of antioxidants as a treatment for cancer or any other medical condition.
+Antioxidants are available in the United States in food products and dietary supplements. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of antioxidant supplements may not be the same.
+Herbs
+Questions and Answers About Ginseng
+What is ginseng?
+Ginseng is a root that has been used as a dietary supplement in traditional Chinese medicine. People take ginseng for the following health benefits:
+To improve one's focus and quality of life.
+To build up the immune system.
+To help with health problems such as heart disease, depression, and anxiety.
+How is ginseng given or taken?
+Ginseng is a dietary supplement that is taken by mouth.
+Have any laboratory or animal studies been done on ginseng and drug interactions?
+For information on laboratory and animal studies done using ginseng, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on ginseng and drug interactions in people with cancer?
+A case study found that a young man who was treated with an anticancer drug and took ginseng as part of an energy drink was diagnosed with liver damage. More research is needed to find out if the ginseng or something else in the energy drink caused the liver damage.
+Have any side effects or risks been reported from ginseng?
+The most common side effect is poor sleep. Other side effects from taking ginseng supplements include the following:
+Menstrual problems.
+Breast pain.
+Fast heart rate.
+High or low blood pressure.
+Headache.
+Loss of appetite.
+Digestive problems.
+Is ginseng approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of ginseng as a treatment for cancer or any other medical condition.
+Ginseng is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of ginseng supplements may not be the same.
+Questions and Answers About Scutellaria baicalensis/Wogonin
+What is Scutellaria baicalensis?
+Scutellaria baicalensis is a plant used in traditional Chinese medicine to treat medical conditions such as diarrhea, hepatitis, infections, and inflammation. Scutellaria baicalensis is also known as wogonin, Chinese skullcap, or Huang Qin.
+How is Scutellaria baicalensis given or taken?
+Scutellaria baicalensis is a dietary supplement that is taken by mouth.
+Have any laboratory or animal studies been done on Scutellaria baicalensis and drug interactions?
+For information on laboratory and animal studies done using Scutellaria baicalensis, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on Scutellaria baicalensis and drug interactions in people with cancer?
+No clinical trials or other studies in people with cancer have been published in peer-reviewed scientific journals to support the safety or effectiveness of Scutellaria baicalensis.
+Have any side effects or risks been reported from Scutellaria baicalensis?
+Information about side effects or risks from taking Scutellaria baicalensis is not available because there have been no clinical trials or other studies done in people with cancer. Some research has shown that Scutellaria baicalensis may change the anticancer effects of certain drugs.
+Is Scutellaria baicalensis approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of Scutellaria baicalensis as a treatment for cancer or any other medical condition.
+Scutellaria baicalensis is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of Scutellaria baicalensis may not be the same.
+Questions and Answers About St. John's Wort
+What is St. John's wort?
+St. John’s wort (Hypericum perforatum) is a flowering plant that has been used to help with sleep issues, lung and kidney problems, and wound healing. Today, it is often used for depression.
+How is St. John's wort given or taken?
+St. John’s wort is a dietary supplement. The flowers from the St. John’s wort plant can be taken in the form of tablets, teas, capsules, or extracts.
+Have any laboratory or animal studies been done on St. John's wort and drug interactions?
+For information on laboratory and animal studies done using St. John’s wort, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on St. John's wort and drug interactions in people with cancer?
+Studies have found that patients who took St. John’s wort while receiving anticancer drugs had lower levels of the drugs in their blood. Anticancer drugs may be less effective if taken with St. John’s wort.
+Have any side effects or risks been reported from St. John's wort?
+St. John’s wort can interact with how other medicines are absorbed in the body. These interactions can cause side effects, including the following:
+Sensitivity to sunlight.
+Trouble sleeping.
+Anxiety.
+Dry mouth.
+Dizziness.
+Digestive problems.
+Fatigue.
+Headache.
+Problems with sexual function.
+St. John’s wort can interact with medicines for depression causing unsafe levels of serotonin, a chemical substance found in the brain. When serotonin increases to a certain level, it can be dangerous.
+Is St. John’s wort approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of St. John’s wort as a treatment for cancer or any other medical condition.
+St. John’s wort is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of St. John's wort may not be the same.
+Questions and Answers About Thunder God Vine
+What is thunder god vine?
+Thunder god vine, also known as Tripterygium wilfordii Hook f, is an herb used in traditional Chinese medicine to help with inflammation and lessen immune responses. Two ingredients in thunder god vine—triptolide and celastrol—are being studied for anticancer effects.
+How is thunder god vine given or taken?
+Thunder god vine is a dietary supplement that can be taken by mouth. It can also be applied to the skin.
+Have any laboratory or animal studies been done on thunder god vine and drug interactions?
+For information on laboratory and animal studies done using thunder god vine, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on thunder god vine and drug interactions in people with cancer?
+No clinical trials or other studies in people with cancer have been published in peer-reviewed scientific journals to support the safety or effectiveness of thunder god vine.
+Have any side effects or risks been reported from thunder god vine?
+Thunder god vine can cause many side effects, including the following:
+Organ damage.
+Death.
+Digestive problems.
+Abnormal heart rate.
+Low blood count.
+Kidney problems.
+Liver problems.
+Skin conditions.
+Infertility.
+Headache.
+Hair loss.
+Is thunder god vine approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of thunder god vine as a treatment for cancer or any other medical condition.
+Thunder god vine is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of thunder god vine may not be the same.
+Foods
+Questions and Answers About Grapefruit
+What is grapefruit?
+Grapefruit is a fruit in the citrus family. Grapefruit and fruits similar to grapefruit, such as Seville oranges, pomelos, and limes, are known to interact with anticancer drugs. The seeds from the fruit contain furanocoumarin that may cause adverse reactions.
+How is grapefruit given or taken?
+People eat grapefruit or take it as a dietary supplement (in the form of an extract made from the seeds). Some people drink grapefruit juice.
+Have any laboratory or animal studies been done on grapefruit and drug interactions?
+For information on laboratory and animal studies done using grapefruit, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on grapefruit and drug interactions in people with cancer?
+A small randomized trial found that less of the anticancer drug etoposide reached the bloodstream in people who drank grapefruit juice than in people who did not drink grapefruit juice. However, studies with the anticancer drugs imatinib, sunitinib, and nilotinib have shown that drinking grapefruit juice increased the amount of anticancer drug that reached the bloodstream.
+Have any side effects or risks been reported from grapefruit?
+Grapefruit can interact with many medicines used to treat a variety of health problems. Grapefruit juice and the furanocoumarin in grapefruit seeds have been known to interact with some anticancer drugs.
+Is grapefruit approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of grapefruit as a treatment for cancer or any other medical condition.
+Grapefruit is available in the United States in food products or as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of grapefruit seed extracts may not be the same.
+Questions and Answers About Green Tea
+What is green tea?
+Green tea comes from the Camellia sinensis plant. Green tea has been used to lower cholesterol and improve weight loss, mental alertness, and digestive symptoms.
+The health benefits studied in green tea are thought to be from compounds called polyphenols. Polyphenols are a group of plant chemicals that include catechins (antioxidants that help protect cells from damage). Catechins make up most of the polyphenols in green tea.
+How is green tea given or taken?
+People usually drink green tea or take it as a dietary supplement in the form of a dried herb or an extract.
+Have any laboratory or animal studies been done on green tea and drug interactions?
+For information on laboratory and animal studies done using green tea, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.
+Have any studies been done on green tea and drug interactions in people with cancer?
+Clinical research with people is limited. A case study of a patient with metastatic renal cell carcinoma who drank green tea while he received an anticancer drug reported worse control of symptoms. The symptoms improved when he stopped drinking the green tea.
+Have any side effects or risks been reported from green tea?
+Risks and side effects result from drinking large amounts of green tea (more than 8 cups per day). In rare cases, green tea extracts taken in pill form have caused damage to the liver. Green tea may interact with other medicines. Studies have not determined whether green tea is safe or effective when used with anticancer drugs.
+Is green tea approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of green tea as a treatment for cancer.
+The FDA Division of Drug Oncology Products recommends that green tea extract be taken with food by participants in clinical trials and that liver function tests be considered during treatment.
+Green tea is available in the United States in food products and dietary supplements. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of green tea extract may not be the same.

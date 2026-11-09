@@ -1,0 +1,113 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Low-Back Pain and Complementary Health Approaches: What You Need To Know
+URL: https://www.nccih.nih.gov/health/low-back-pain-and-complementary-health-approaches-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Low-Back Pain and Complementary Health Approaches: What You Need To Know
+What’s the Bottom Line?
+What do we know about the effectiveness of complementary health approaches for low-back pain?
+There’s low- or moderate-quality evidence that a variety of mind and body practices, including acupuncture, electromyography biofeedback, low-level laser therapy, mindfulness-based stress reduction, progressive muscle relaxation, spinal manipulation, tai chi, and yoga, may be helpful for chronic low-back pain.
+There’s low-quality evidence that acupuncture, massage therapy, and spinal manipulation may be helpful for acute low-back pain.
+Preparations of the herb cayenne, used topically, may help to relieve low-back pain.
+What do we know about the safety of complementary health approaches for low-back pain?
+The mind and body practices mentioned above (acupuncture, electromyography biofeedback, low-level laser therapy, massage therapy, mindfulness-based stress reduction, progressive muscle relaxation, spinal manipulation, tai chi, and yoga) have good safety records when used appropriately. However, that doesn’t mean that they’re risk-free for everyone. Your health and special circumstances (such as pregnancy) may affect the safety of these approaches.
+If you’re considering natural products such as oral or topical herbal products, remember that natural doesn’t always mean safe and that some natural products may have side effects or interact with medications.
+Some Basics About Low-Back Pain
+Low-back pain is a very common problem in the United States and around the world. About 80 percent of adults have low-back pain at some point in their lives. It’s the most common cause of job-related disability and a leading contributor to missed work days and visits to physicians.
+Most episodes of low-back pain last only a short period of time. Health professionals call this acute low-back pain. Acute low-back pain is often defined as pain that lasts for up to 4 weeks. In most cases, acute low-back pain goes away without causing any lasting problems.
+Low-back pain that lasts for between 4 and 12 weeks is called subacute.
+If low-back pain lasts for 12 weeks or longer, it’s called chronic. Treatment sometimes relieves chronic low-back pain successfully, but in other cases, pain persists despite treatment.
+Clinical Practice Guidelines for Treating Low-Back Pain
+Clinical practice guidelines provide recommendations, developed by groups of experts, to help health care providers and patients make informed decisions about what types of care to use. They’re based on reviews of the scientific evidence and assessments of the potential benefits and harms of different care options. The guidelines are updated frequently as new evidence becomes available.
+The American College of Physicians issued a clinical practice guideline for the treatment of low-back pain in 2017. The guideline recommends that health care providers and patients use nondrug treatments as first-line therapy for chronic low-back pain. It also recommends the use of nondrug approaches for acute low-back pain, with or without drug therapy. Several complementary health approaches are among the treatment options suggested for acute low-back pain, chronic low-back pain, or both.
+What the Science Says About Complementary Health Approaches for Low-Back Pain
+Mind and Body Approaches:
+Acupuncture
+Acupuncture is a technique in which practitioners stimulate specific points on the body—most often by inserting thin needles through the skin.
+A 2017 evaluation of 49 studies of acupuncture for low-back pain with more than 7,900 participants found evidence that acupuncture has a modest benefit on acute low-back pain and a moderate benefit on chronic low-back pain.
+A 2018 review by the Agency for Healthcare Research and Quality (AHRQ) looked at the impact of therapies for chronic low-back pain at least 1 month after the end of treatment. It found that acupuncture was associated with slightly greater effects on pain and function at 1-6 months when compared to controls, such as sham (simulated) acupuncture or usual care. One study also found a greater reduction in pain after more than 12 months.
+The American College of Physicians clinical practice guideline on low-back pain treatment includes acupuncture as an option for initial treatment of chronic low-back pain (based on moderate-quality evidence) and as a treatment option for acute/subacute low-back pain (based on low-quality evidence).
+Serious complications of acupuncture are rare.
+For more information, see the NCCIH webpage on acupuncture.
+Biofeedback
+Biofeedback is a technique that measures body functions and gives you information that may help you learn to control them. A type of biofeedback called electromyography (EMG) biofeedback, which involves measurements of muscle tension, has been evaluated for low-back pain.
+A 2010 review of three studies (64 participants) found low-quality evidence that EMG biofeedback is helpful for short-term relief of chronic low-back pain.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes EMG biofeedback as an option for initial treatment of chronic low-back pain (based on low-quality evidence).
+No harmful effects of EMG biofeedback for low-back pain have been reported.
+Cupping
+Cupping is a practice that involves creating suction on the skin using a glass, ceramic, bamboo, or plastic cup.
+A 2017 review of 6 studies (458 participants) of cupping for low-back pain showed better results for cupping than for usual care or medication, but it’s uncertain whether these differences are real because different types of cupping were used in different studies, making them hard to compare, and because some of the studies were of poor quality.
+Cupping can cause side effects such as persistent skin discoloration, scars, burns, and infections. Because cupping equipment can become contaminated with blood, it can spread bloodborne diseases if it is not sterilized or disinfected between patients.
+For more information, see the NCCIH webpage on cupping.
+Dry Needling
+Dry needling is a procedure in which thin needles are inserted directly into specific hard, tender spots (called myofascial trigger points) in muscles. The needles are the same type used in acupuncture, but the points where the needles are inserted are chosen in a different way.
+An evaluation of 16 studies of dry needling for low-back pain (1,233 participants) found evidence that it may be helpful. However, the research was not of high enough quality for definite conclusions to be reached.
+Serious complications of dry needling are rare.
+Low-Level Laser Therapy
+Low-level laser therapy is a light source treatment; laser acupuncture is one type of low-level laser therapy. The mechanisms by which low-level laser therapy may relieve pain are not well understood.
+A review of 15 studies (1,039 participants) of low-level laser therapy for low-back pain found evidence that it may be beneficial, but only with higher laser doses and relatively short durations of pain (less than 30 months), and only in studies that did not involve acupuncture.
+A 2018 AHRQ review that looked at the impact of therapies for chronic low-back pain at least 1 month after the end of treatment found only one relevant study of low-level laser therapy. That study showed moderately greater effects of laser therapy on pain and slightly greater effects on function, compared to sham (simulated) laser therapy, after 1-6 months.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes low-level laser therapy as an option for initial treatment of chronic low-back pain (based on low-quality evidence).
+The U.S. Food and Drug Administration has cleared the marketing of devices for low-level laser therapy. Studies of low-level laser therapy for low-back pain did not find evidence of any harmful effects.
+Massage Therapy
+Massage therapy involves manipulating the soft tissues of the body with the goal of helping to manage a health condition or enhance wellness.
+A 2015 review of 25 studies of massage for low-back pain, with about 3,000 participants, found that it may produce short-term improvements in pain. The quality of the evidence was low to very low.
+A 2018 AHRQ review that looked at the impact of therapies for chronic low-back pain at least 1 month after the end of treatment found that massage therapy was associated with slightly greater effects on pain and function after 1-6 months, compared to sham (simulated) massage or usual care. There was no evidence of an effect at 6-12 months.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes massage as a treatment option for acute/subacute low-back pain (based on low-quality evidence). It does not recommend massage therapy as an option for chronic low-back pain.
+The risk of harmful effects from massage therapy appears to be low.
+For more information, see the NCCIH webpage on massage therapy.
+Mindfulness-Based Stress Reduction
+The term “mindfulness” can refer to a variety of practices, but most definitions involve keeping attention or awareness on the experience of the present moment and being open or accepting toward that experience. Mindfulness-based stress reduction (MBSR) is a structured program that teaches meditation and mindfulness, including incorporation of mindfulness into everyday life.
+A 2017 review of 7 studies (864 participants) that evaluated MBSR for low-back pain found evidence of short-term improvements in pain intensity and physical functioning, but it was uncertain whether the improvement was large enough to be meaningful to patients.
+A 2018 AHRQ review that looked at the impact of therapies at least 1 month after the end of treatment found that MBSR was associated with slightly greater effects on pain after 1-6 and 6-12 months, when compared to usual care. There was no evidence of an impact on function.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes MBSR as an option for initial treatment of chronic low-back pain (based on moderate-quality evidence).
+Mindfulness-based interventions are usually considered safe for most people. However, because only a few studies have systematically looked in detail for harmful effects, it isn’t possible to make definite statements about their safety.
+Progressive Relaxation
+Progressive relaxation is a method of systematically tensing and relaxing muscle groups in different parts of the body. The goal is to eliminate both physical and mental tension.
+A 2010 review of 3 studies (74 participants) of progressive relaxation for low-back pain found low-quality evidence for lower pain intensity in people who used this technique.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes progressive relaxation as an option for initial treatment of chronic low-back pain (based on low-quality evidence).
+Relaxation techniques such as progressive relaxation rarely cause side effects. People with heart disease should consult their health care providers before using progressive relaxation.
+For more information, see the NCCIH webpage on relaxation techniques.
+Prolotherapy
+Prolotherapy is a technique that involves repeated injections of irritant solutions into ligaments in the back in an effort to strengthen them and reduce low-back pain.
+A 2010 review of 5 high-quality studies (366 participants) of prolotherapy for low-back pain found conflicting evidence on whether this technique was helpful.
+In studies of prolotherapy for low-back pain, increases in pain and stiffness after treatment were common, but these effects only lasted for short periods of time.
+Spinal Manipulation
+Spinal manipulation is a technique in which practitioners use their hands or a device to apply a controlled thrust to a joint of the spine. The amount of force can vary, but the thrust moves the joint more than it would on its own. Spinal manipulation is different from spinal mobilization, which doesn’t involve a thrust.
+A 2017 review of 15 studies (1,699 participants) of spinal manipulation for acute low-back pain found moderate-quality evidence that this treatment is associated with modest improvements in pain at up to 6 weeks. In the same review, 12 studies (1,381 participants) indicated that spinal manipulation can improve function (moderate-quality evidence).
+A 2018 combined analysis of 9 studies (1,176 participants) found moderate-quality evidence that manipulation and mobilization are likely to reduce pain and improve function in people with chronic low-back pain. Manipulation appeared to produce a larger effect than mobilization.
+A 2018 AHRQ review that looked at the impact of therapies for chronic low-back pain at least 1 month after the end of treatment found that spinal manipulation had slightly greater benefits on function after 1-6 months and 6-12 months and on pain after 6-12 months, when compared to sham (simulated) manipulation or other controls.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes spinal manipulation as an option for treating acute/subacute low-back pain (low-quality evidence) and for initial treatment of chronic low-back pain (low-quality evidence).
+Mild, temporary side effects after spinal manipulation, such as local discomfort at the manipulation site or increased pain, are common. Cases of serious side effects have occurred in patients who received manipulation of the lower back, but it’s unclear whether the treatment actually caused the problems.
+For more information, see the NCCIH webpage on spinal manipulation.
+Tai Chi
+Tai chi is a centuries-old mind and body practice that combines certain postures and gentle movements with mental focus, breathing, and relaxation.
+A 2016 review of 3 studies of tai chi for low-back pain (385 participants), all of which involved at least 10 weeks of tai chi, found it was helpful. In two additional studies, not included in the review, tai chi was at least as helpful as some other treatments for low-back pain and better than no treatment.
+The American College of Physicians clinical practice guideline for low-back pain treatment includes tai chi as an option for initial treatment of chronic low-back pain (based on low-quality evidence).
+Tai chi is generally considered safe. It may lead to minor aches and pains but is unlikely to cause serious injury.
+For more information, see the NCCIH webpage on tai chi.
+Transcutaneous Electrical Nerve Stimulation (TENS)
+In transcutaneous electrical nerve stimulation (TENS), a person wears a battery-powered device with electrodes placed on the skin over the painful area. The device generates electrical impulses that may modify the perception of pain.
+A 2018 review of 9 studies (404 participants) of TENS or a related technique called interferential current for low-back pain or neck pain was unable to reach any conclusions about whether the techniques were helpful.
+Side effects of TENS include skin irritation and rashes at the sites where the electrodes are applied. See your health care provider before using TENS to make sure it is safe for you. TENS devices should not be used by pregnant women, people with certain health conditions such as epilepsy, or those with implanted medical devices such as pacemakers.
+Yoga
+Yoga, as practiced in the United States, typically emphasizes physical postures, breathing techniques, and meditation.
+A 2017 review of 12 studies (1,080 participants) of yoga for low-back pain concluded that yoga, when compared to interventions that did not involve exercise, produced small to moderate improvements in back-related function after 3 and 6 months and may also have been slightly more effective for pain. It was uncertain whether there was any difference between yoga and exercise for either back pain or function.
+A 2018 AHRQ review that looked at the impact of therapies for chronic low-back pain at least 1 month after the end of treatment found that yoga was associated with moderately greater effects on pain and slightly greater effects on function at 1-6 and 6-12 months, when compared to controls (such as being on a waiting list for a yoga program).
+The American College of Physicians clinical practice guideline for low-back pain treatment includes yoga as an option for initial treatment of chronic low-back pain (based on low-quality evidence).
+Yoga is generally considered safe for healthy people when performed properly, under the guidance of a qualified instructor. However, as with other types of physical activity, injuries can occur. People with health conditions, older adults, and pregnant women may need to avoid or modify some yoga poses and practices.
+For more information, see the NCCIH webpage on yoga.
+Natural Products
+Herbal Products
+A variety of herbal products, administered either orally (by mouth) or topically (by rubbing on the skin) have been tested for low-back pain. There’s evidence that cayenne, used topically, reduces pain. Other herbal products that might be beneficial include devil’s claw or white willow bark, used orally, and comfrey, Brazilian arnica, and lavender essential oil, used topically.
+It’s important to be aware that herbal products may have side effects or interact with medications. Talk with your health care provider about the safety of any herbal products you’re considering or using for low-back pain.
+Vitamin D
+Studies that compared blood vitamin D levels in people with and without low-back pain have shown that, on average, people with low-back pain were more likely to be deficient in the vitamin. This association was particularly noticeable in people under age 60, especially women. However, a 2018 review of 8 studies of vitamin D supplementation (747 participants) did not find vitamin D to be helpful in improving low-back pain.
+Taking excessive amounts of vitamin D can be harmful. The recommended upper limit for vitamin D intake for adults is 4,000 IU/day.
+NCCIH-Funded Research
+The National Center for Complementary and Integrative Health (NCCIH) is collaborating with other agencies to fund 11 large-scale studies on the implementation of nondrug approaches for pain management in the military and veterans health care systems. Several of these studies focus specifically on low-back pain.
+NCCIH is participating in the National Institutes of Health (NIH) HEAL (Helping to End Addiction Long-termSM) Initiative—an effort to find new ways to address the national public health crisis related to opioids. HEAL includes the NIH Back Pain Research Consortium (NIH BACPAC), which will address the need for better therapies for low-back pain, and the PRISM (Pragmatic and Implementation Studies for the Management of Pain to Reduce Opioid Prescribing) program, which will fund several studies, including a study of acupuncture for chronic low-back pain in older adults.
+Other NCCIH-funded studies are addressing a variety of complementary health approaches for back pain, including
+Mindfulness-based dance/movement therapy for low-back pain
+Tai chi for chronic low-back pain in older adults
+The mechanisms of psychosocial treatments for chronic low-back pain.

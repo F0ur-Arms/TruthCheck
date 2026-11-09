@@ -1,0 +1,68 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: COVID-19 Symptoms and Complementary Approaches: What You Need To Know
+URL: https://www.nccih.nih.gov/health/covid-19-symptoms-and-complementary-approaches-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+COVID-19 Symptoms and Complementary Approaches: What You Need To Know
+What’s the Bottom Line?
+What do we know about the effectiveness of complementary approaches for acute COVID-19 symptoms?
+Although research suggests that some complementary approaches, such as traditional Chinese medicine and nasal irrigation, may be helpful in reducing symptoms of COVID-19, the studies have some limitations. In general, the number of studies is still relatively small, the studies are not of high quality, or study sample sizes are small, which can lead to biased results or inconclusive outcomes.
+For instance, in a 2023 review of 33 studies (15,226 total participants) on various complementary approaches used for COVID-19, the authors indicated that although most of the studies showed positive findings—especially for products used in traditional Chinese medicine, other herbal therapies, and acupuncture—the evidence was based mostly on quasi-experimental studies, in which people were not randomly assigned to treatments, and was deemed inadequate.
+This fact sheet presents information about the research on some of the specific complementary health approaches that have been studied for the treatment of COVID-19 symptoms.
+What do we know about the safety of complementary approaches for COVID-19?
+To find out about the safety of specific dietary supplements that have been considered for COVID-19, see Dietary Supplements in the Time of COVID-19, a publication from the Office of Dietary Supplements (ODS) at the National Institutes of Health (NIH).
+Overall, mind and body practices, such as acupuncture, meditation, and yoga, generally have good safety records when done properly by a trained professional or taught by a well-qualified instructor.
+People can get severe infections if they use neti pots or other nasal rinsing devices improperly. Tap water isn’t safe for use as a nasal rinse because it’s not adequately filtered or treated. If your immune system isn’t working properly, consult your health care provider before using any nasal irrigation systems.
+It is important to find out safety information on any complementary approach you are considering. Some groups of people—such as children, older people, pregnant women, and those with certain diseases and conditions—may have higher risks with some practices.
+Some Basics About COVID-19
+COVID-19 Disease and Its Treatment
+COVID-19 is a disease that is caused by the virus SARS-CoV-2. Symptoms of COVID-19 often resemble those of a cold, the flu, or pneumonia, but COVID-19 can also affect parts of the body beyond the lungs and respiratory system.
+Most people who get COVID-19 have a mild form of the illness and can recover at home. Over-the-counter treatments can be used to reduce symptoms.
+People with certain risk factors may experience serious illness from COVID-19. For those with one or more risk factors, treatments are available that can reduce the chances of being hospitalized or dying from COVID-19. For these people, receiving treatment early, within 5 to 7 days of initial symptoms, is critical.
+If you get sick with COVID-19 and are at high risk for serious illness, talk to your doctor or other health care provider immediately about the best treatment options for you, even if your symptoms are mild.
+Long COVID
+Many people appear to recover from an initial acute COVID-19 illness within 4 weeks, but others continue to recover for 4 to 12 weeks or longer. Long COVID—also called long-haul COVID, post-COVID condition, chronic COVID, and post-acute sequelae of SARS-CoV-2 infection—can be defined as signs, symptoms, or conditions that occur after SARS-CoV-2 infection and that last for at least 3 months. The definition of long COVID continues to be evaluated as more is learned about this chronic condition.
+About Complementary Health Approaches
+Complementary approaches can be classified by their primary therapeutic input (how the therapy is taken in or delivered), which may be:
+Nutritional (e.g., special diets, dietary supplements, herbs, probiotics, and microbial-based therapies).
+Psychological (e.g., meditation, hypnosis, music therapies, relaxation therapies).
+Physical (e.g., acupuncture, massage, spinal manipulation).
+Combinations such as psychological and physical (e.g., yoga, tai chi, dance therapies, some forms of art therapy) or psychological and nutritional (e.g., mindful eating).
+Nutritional approaches include what the National Center for Complementary and Integrative Health (NCCIH) previously categorized as natural products, whereas psychological and/or physical approaches include what was referred to as mind and body practices.
+What the Science Says About Complementary Health Approaches for Acute Symptoms of COVID-19
+Complementary health approaches that have been studied for acute COVID-19 symptoms include the following.
+Acupuncture
+There is very little research on the use of acupuncture for COVID-19 symptoms. A 2023 review of 17 studies spanning different stages and severity of COVID-19 infection suggested that acupuncture might reduce some symptoms, but the authors of the review noted several limitations in the research, including the type of research, which included mostly case reports and small-sized studies, and the poor quality of the studies. Also, some of the suggested benefits were theoretical; they were based on past research that was not specifically on COVID-19.
+Dietary Supplements
+NIH’s Office of Dietary Supplements, also called ODS, has information on the usefulness and safety of many dietary supplements that have been studied for COVID-19, including echinacea, magnesium, melatonin, N-acetylcysteine, quercetin, zinc, vitamins C and D, and others. Currently, ODS indicates research hasn’t clearly shown that any dietary supplement can help prevent COVID-19 or decrease the severity of its symptoms.
+Meditation and Mindfulness
+Very little research on meditation and mindfulness for COVID-19 symptoms has been conducted. A small randomized controlled trial from 2022 found that 8 sessions of a mindfulness-based stress reduction program resulted in better mental well-being than standard routine care in 60 adults with COVID-19 after they were discharged from the hospital.
+This one small study is insufficient for drawing overall conclusions, but the authors say the research suggests possible benefits from adding a mindfulness program to physical treatments for COVID-19 and provides a basis for designing future, similar studies.
+Nasal Irrigation
+Nasal irrigation involves introducing a solution into one or both nostrils with a device to help flush the nasal passages and clear out mucus and pathogens. People may do this with a neti pot, squeeze bottle, rubber nasal bulb, or syringe.
+There is a small amount of research on nasal irrigation for COVID-19. In a 2024 review, 9 of 10 studies (757 participants) showed that saline nasal irrigation reduced the viral load in the nose and throat of people with COVID-19. Some of the nasal irrigation solutions included additives, such as xylitol. Two of the studies in the review evaluated COVID-related symptoms and found that saline nasal irrigation reduced symptoms such as congestion. The review was limited by small studies that used different methods and were of mixed quality. Other small studies not in the review have suggested that nasal irrigation started early can reduce COVID-19 symptoms and possibly lessen the severity of the disease.
+The U.S. Food and Drug Administration (FDA) has warned that tap water is not safe for use as a nasal rinse with nasal irrigation devices because it is not adequately filtered or treated. Some tap water contains bacteria and protozoa that, if introduced to nasal passages, can cause potentially serious infections, including fatal ones. The FDA includes information on safe types of water that can be used and how to use and clean nasal irrigation devices safely. If your immune system isn’t working properly, consult your health care provider before using any nasal irrigation systems.
+Qigong
+Only a few studies have examined qigong for COVID-19 symptoms. A 2024 review looked at 5 studies on the integrative use of qigong in COVID-19 treatment (754 participants) and 4 studies on using qigong to enhance the recovery of people with long COVID (667 participants).
+The review suggested that integrating qigong with standard COVID-19 treatment improved physical and psychological well-being, sleep quality, and health-related quality of life and eased respiratory symptoms and anxiety. For long COVID, qigong appeared to help with respiratory issues, dizziness, sleep disturbances, and health-related quality of life.
+Limitations of the research include a range in study quality, the use of other interventions in addition to qigong in some studies, and differences in qigong session duration and frequency among the studies.
+Relaxation Techniques
+There is a small amount of research on relaxation techniques for COVID-19 symptoms. One example is a 2023 review of four studies (227 participants) that suggested that progressive muscle relaxation exercises can help to improve sleep quality, anxiety, depression, disease severity, and quality of life in patients with mild-to-moderate COVID-19 over a short-term period when compared to usual care.
+The review was limited by the small number of included studies, small size of the individual studies, differences in the interventions, and short follow-up periods in most of the studies. The authors noted that there is insufficient evidence to draw firm conclusions about the safety of progressive muscle relaxation for patients with COVID-19.
+Traditional Chinese Medicine
+A 2024 review of 30 studies (4,144 participants) evaluated 7 oral products used in traditional Chinese medicines for mild or moderate COVID-19 and found that adding the products to conventional western medicine improved certain symptoms. For instance, the review suggested that one medicine helped to improve cough and that another helped to improve fatigue. The review was limited by small studies, the overall quality of the data, possible regional publication bias, and possible subjective bias in symptom improvement.
+A 2022 review of 57 studies (15,520 participants) found that traditional Chinese medicine products relieved clinical symptoms of COVID-19 and decreased the proportion of patients progressing to severe cases by 55 percent. The authors noted that some of the studies were small, not of high quality, and prone to bias. Also, only about half of the studies involved random assignment of participants to different treatment groups.
+A 2022 study of 21 systematic reviews (36,977 total participants) found that although evidence suggested benefits of herbal traditional Chinese medicine products for COVID-19, the quality of the evidence was inadequate to accurately judge their effectiveness.
+Yoga
+Only a handful of studies have looked at adding yoga to conventional care for improving the clinical status of patients with mild-to-moderate COVID-19 and for reducing symptoms of stress, anxiety, and depression in people who test positive for COVID-19. A few studies suggest benefits in these cases, but the studies are small.
+Research on Long COVID
+The NIH Researching COVID to Enhance Recovery (RECOVER) Initiative seeks to identify how people recuperate from COVID-19 and who is at risk for developing long-term symptoms. In addition, researchers work with patients, clinicians, and communities across the United States to identify strategies to prevent and treat the long-term effects of COVID, including long COVID. To find out more, visit the RECOVER website.
+A 2023 review of 14 studies (1,195 participants) suggested that some complementary approaches could possibly benefit people with long COVID, but the authors indicated the findings should be interpreted with caution because the included studies had methodological limitations. Some of the complementary interventions included self-administered transcutaneous auricular vagus nerve stimulation, neuromeditation, dietary supplements, olfactory training, aromatherapy, inspiratory muscle training, and an online breathing and well-being program.
+NCCIH-Funded Research
+NCCIH-supported research on COVID-19 includes projects on the following:
+Whether acupuncture can help with persistent pain problems in people with long COVID.
+Evaluation of a large collection of botanical extracts to identify new nondrug treatments for COVID-19.
+The efficacy of a 6-week biofeedback intervention for alleviating mood symptoms, somatic symptoms, and sleep disturbance in patients diagnosed with long COVID.
+The feasibility and usefulness of a mobile app mindfulness intervention for addressing psychological distress in people hospitalized for COVID-19 who had elevated depression symptoms upon discharge from the hospital.
+A systematic review of randomized controlled trials on the safety and effectiveness of complementary approaches for people with long COVID.
+Evaluation of different components of fruit for inhibiting the interaction of the spike S1 of SARS-CoV-2 with the ACE2 receptors on cells.

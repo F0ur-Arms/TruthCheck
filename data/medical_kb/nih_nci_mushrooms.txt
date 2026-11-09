@@ -1,0 +1,78 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Medicinal Mushrooms (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq
+────────────────────────────────────────────────────────────
+
+Medicinal mushrooms are mushrooms that are used as medicine. They have been used to treat infection for hundreds of years, mostly in Asia. Today, medicinal mushrooms are also used to treat lung diseases and cancer. For more than 30 years, medicinal mushrooms have been approved as an addition to standard cancer treatments in Japan and China. In these countries, mushrooms have been used safely for a long time, either alone or combined with radiation or chemotherapy.
+In Asia, there are more than 100 types of mushrooms used to treat cancer. Some of the more common ones are Ganoderma lucidum (reishi), Trametes versicolor or Coriolus versicolor (turkey tail), Lentinus edodes (shiitake), and Grifola frondosa (maitake).
+Mushrooms are being studied to find out how they affect the immune system and if they stop or slow the growth of tumors or kill tumor cells. It is thought that certain chemical compounds, such as polysaccharides (beta-glucans) in turkey tail mushrooms, strengthen the immune system to fight cancer.
+This summary gives an overview of the use of medicinal mushrooms in treating cancer. The following information is given for Trametes versicolor, also called Coriolus versicolor (turkey tail), and Ganoderma lucidum (reishi):
+How it is given or taken.
+Reviews of laboratory and animal studies.
+Results of clinical trials (studies in humans).
+Side effects.
+U.S. Food and Drug Administration (FDA) information.
+Questions and Answers About Turkey Tail and Polysaccharide-K (PSK)
+What is turkey tail?
+Turkey tail is a type of mushroom that grows on dead logs worldwide. It's named turkey tail because its rings of brown and tan look like the tail feathers of a turkey. Its scientific name is Trametes versicolor or Coriolus versicolor. In traditional Chinese medicine, it is known as Yun Zhi. In Japan, it is known as kawaratake (roof tile fungus). There are many other types of Trametes mushrooms. It can be hard to tell the difference between turkey tail and other types of Trametes mushrooms without the use of special testing.
+Turkey tail has been used in traditional Chinese medicine to treat lung diseases for many years. In Japan, turkey tail has been used to strengthen the immune system when given with standard cancer treatment.
+What is PSK?
+Polysaccharide K (PSK) is the best known active compound in turkey tail mushrooms. In Japan, PSK is an approved mushroom product used to treat cancer.
+How is PSK given or taken?
+PSK can be taken as a tea or in capsule form.
+Have any laboratory or animal studies
+been done using PSK?
+In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people.
+Laboratory and animal studies have tested the effects of PSK on the immune system, including immune cells called natural killer cells and T-cells. For more information on laboratory and animal studies done using PSK, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Medicinal Mushrooms.
+Have any studies
+of PSK been done in people?
+PSK has been studied in patients with gastric cancer, breast cancer, colorectal cancer, and lung cancer. It has been used as adjuvant therapy in thousands of cancer patients since the mid-1970s. PSK has been safely used in people for a long time in Japan and few side effects have been reported.
+Gastric cancer
+Studies show that the use of PSK as adjuvant therapy in patients with gastric (stomach) cancer may help repair immune cell damage caused by chemotherapy and strengthen the immune system.
+Studies of PSK as adjuvant therapy for gastric cancer include the following:
+A randomized clinical trial in Japan done between 1978 and 1981 included 751 patients who had surgery for gastric cancer. After surgery, patients received chemotherapy with or without PSK. On average, the patients who received chemotherapy and PSK lived longer than those who received chemotherapy alone. The researchers believe it might be possible to predict which patients would benefit the most from PSK depending on the numbers of granulocytes and lymphocytes in the patient’s blood.
+In 1994, a study in Japan followed 262 patients who had successful surgery for gastric cancer and were given chemotherapy with or without PSK. Patients who received chemotherapy and PSK were less likely to have recurrent cancer and lived longer than those who did not. Treatment with PSK caused few side effects. The researchers thought the study showed that PSK and chemotherapy should be given to gastric cancer patients after surgery to remove the cancer.
+A review published in 2007 combined results from 8 randomized controlled trials in 8,009 patients who had surgery to remove gastric cancers. After surgery, patients in the trials were given chemotherapy with or without PSK. The results suggest that receiving chemotherapy and PSK helped patients live longer after surgery.
+Breast cancer
+To date, PSK studies in patients with breast cancer have focused on changes in the immune system (T-cell and B-cell levels in the blood) rather than on clinical results (patient survival, symptoms, side effects, and quality of life).
+Colorectal cancer
+Studies of PSK as adjuvant therapy for colorectal cancer include the following:
+PSK was studied in a randomized clinical trial for its effect on the immune system in patients with stage II or stage III rectal cancer. Patients received chemotherapy and radiation therapy, with or without PSK. This study found that PSK increased the number of cancer-killing immune cells and had anticancer effects in tissue that received radiation therapy.
+A review that combined results from 3 studies in 1,094 patients with colorectal cancer found that patients who received PSK were less likely to have recurrent cancer and lived longer than those who did not.
+Two groups from Japan studied patients with colorectal cancer who received adjuvant chemotherapy with or without PSK after surgery. In the first study, patients who were treated with both chemotherapy and PSK had markedly better 10-year survival rates. In the second study of patients who were older than 70 years, 3-year survival rates were markedly higher in the group treated with both chemotherapy and PSK.
+Lung cancer
+Studies of PSK as adjuvant therapy for patients with lung cancer include the following:
+Five nonrandomized clinical trials reported that patients treated with PSK and radiation therapy with or without chemotherapy lived longer.
+Six randomized clinical trials in patients with lung cancer studied chemotherapy with or without PSK. The studies showed that patients who received PSK improved in one or more ways, including immune function, body weight, well-being, tumor-related symptoms, or longer survival.
+Have any side effects or risks been reported from turkey tail or PSK?
+There have been few side effects reported in studies of PSK in Japan.
+Is turkey tail or PSK approved by the FDA
+for use as a cancer treatment in the United States?
+The FDA has not approved the use of turkey tail or its active compound PSK as a treatment for cancer or any other medical condition.
+The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of mushroom supplements may not be the same.
+Questions and Answers About Reishi
+What is reishi?
+Reishi is a type of mushroom that grows on live trees. Scientists may call it either Ganoderma lucidum or Ganoderma sinense. In traditional Chinese medicine, this group of mushrooms is known as Ling Zhi. In Japan, they are known as Reishi. In China, G. lucidum is known as Chizhi and G. sinense is known as Zizhi.
+There are many other types of Ganoderma mushrooms and it is hard to tell the medicinal mushrooms from the other types.
+Reishi has been used as medicine for a very long time in East Asia. It was thought to prolong life, prevent aging, and increase energy. In China, it is being used to strengthen the immune system of cancer patients who receive chemotherapy or radiation therapy.
+How is reishi given or taken?
+Reishi is usually dried and taken as an extract in the form of a liquid, capsule, or powder.
+Have any laboratory or animal studies
+been conducted using reishi?
+In laboratory studies, tumor cells are used to test a new substance and find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people.
+Laboratory and animal studies have tested the effects of the active ingredients in reishi mushrooms, triterpenoids and polysaccharides, on tumors, including lung cancer. For information on laboratory and animal studies done using reishi, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Medicinal Mushrooms.
+Have any studies
+of reishi mushrooms been done in people?
+Studies using products made from reishi have been done in China and Japan.
+Lung cancer
+Studies suggest that the use of products made from reishi as adjuvant therapy may help strengthen the immune system in patients with lung cancer.
+Studies in patients with lung cancer include the following:
+In an open-label trial done in China, 36 patients with advanced lung cancer were given an over-the-counter product made from reishi called Ganopoly. The patients were being treated with chemotherapy or radiation therapy, along with other complementary therapies. Some patients had marked changes in the immune responses being studied, such as lymphocyte count and natural killer cell activity, and some patients had no change in immune response.
+In China, a study was done with 12 lung cancer patients. Their blood was tested to see if taking a product made from reishi could help improve immune response. The study found that the polysaccharides in reishi mushrooms may help cancer-fighting immune cells, called lymphocytes, stay active.
+Colorectal cancer
+The following study looked at reishi for the prevention of colorectal cancer:
+In Japan, 225 patients with benign colorectal tumors were studied. For 12 months, 123 of the patients were given an extract of the mushroom G. lucidum mycelia (MAK), while 102 patients did not receive treatment with MAK. At 12 months, a follow-up colonoscopy was done on all the patients. The number and the size of the tumors decreased in the group that received MAK, but not in the group that did not receive MAK. The researchers suggest that MAK may help stop benign colorectal tumors from forming.
+Is reishi approved by the FDA
+for use as a cancer treatment in the United States?
+The FDA has not approved the use of reishi as a treatment for cancer or any other medical condition.
+The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of mushroom supplements may not be the same.

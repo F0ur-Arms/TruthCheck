@@ -1,0 +1,35 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Eye Conditions and Complementary Health Approaches
+URL: https://www.nccih.nih.gov/health/eye-conditions-and-complementary-health-approaches
+────────────────────────────────────────────────────────────
+
+Eye Conditions and Complementary Health Approaches
+Vision problems affect many Americans. More than 3.4 million aged 40 and older are blind or visually impaired. However, some estimates suggest that as many as 21 million Americans have vision problems and that 80 million have potentially blinding eye diseases. Age-related macular degeneration, cataract, diabetic retinopathy, and glaucoma are the main causes of visual impairment and blindness in older Americans. Conventional treatments, such as surgery, are available for some eye conditions, but some people turn to dietary supplements to prevent them or to delay their progression.
+What the Science Says
+Age-Related Macular Degeneration
+Age-Related Macular Degeneration (AMD) is a leading cause of vision loss in people aged 50 and older. It destroys the macula, the part of the eye that provides sharp, central vision needed for clearly seeing objects directly in front of you. No treatments exist for early AMD, but conventional treatment is available for advanced AMD, which may help stop further vision loss. The National Institutes of Health sponsored a major study with almost 4,800 adults (2001) called the Age-Related Eye Disease Study (AREDS), which looked at the effects of a dietary supplement on the progression of AMD, and a second study (2013), Age-Related Eye Disease Study 2 (AREDS2), which tested changes to this dietary supplement. More than 4,000 people aged 50–85 years participated in AREDS2.
+AREDS showed that a dietary supplement containing high doses of vitamins C and E, beta-carotene, zinc, and copper can help slow the progression of AMD. However, during the period when this study was performed, other research showed that taking beta-carotene supplements increases the risk of lung cancer in people who smoke cigarettes.
+AREDS2 investigated several modifications of the original AREDS supplement formula in people with AMD who were at risk for progressing to the advanced stage of the disease. Participants were randomly assigned to groups that received the original formula or various modified versions. The modifications included removing beta-carotene, reducing the amount of zinc, adding omega-3 fatty acids (fish oil), and adding lutein and zeaxanthin (two carotenoids that are found in the eye). Current smokers were not assigned to groups that received beta-carotene because of the known risk of lung cancer, but some nonsmokers and former smokers did receive beta-carotene.
+Adding omega-3 fatty acids (fish oil) did not improve the effectiveness of the supplement combination.
+Reducing the amount of zinc from the supplement combination did not decrease its effectiveness.
+People who took beta-carotene were more likely to develop lung cancer than those who did not take it. Most of the cases of lung cancer occurred in former smokers. Lutein and zeaxanthin did not increase lung cancer risk.
+After 10 years of follow-up, lutein and zeaxanthin proved to be more effective than beta-carotene in reducing the risk of progression to advanced AMD.
+A 2015 systematic review of two randomized controlled trials involving 2,343 participants found that omega-3 fatty acid supplementation in people with AMD for periods up to 5 years does not reduce the risk of progression to advanced AMD or the development of moderate to severe visual loss.
+Several studies conducted in the United States, Europe, or Australia have shown associations between dietary patterns and AMD. In general, Mediterranean dietary patterns or other dietary patterns high in vegetables and fruits and low in red meat have been linked with lower rates of advanced AMD. Dietary patterns have not been consistently associated with early AMD.
+Cataracts
+A cataract occurs when the lens of the eye becomes clouded, causing blurring or discoloration of vision. If vision loss from a cataract becomes severe enough to interfere with normal activities, surgery to remove the lens and replace it with an artificial one often helps.
+Findings from a 2015 randomized controlled trial of 11,267 men from the Selenium and Vitamin E Cancer Prevention Trial (SELECT) Eye Endpoints Study indicate that long-term daily supplementation with selenium and/or vitamin E is unlikely to have a large beneficial effect on age-related cataract.
+A 2014 Swedish epidemiologic study that included about 30,600 women looked at potential associations between antioxidant consumption and cataract formation. The study concluded that consuming antioxidants through diet may lower the risk of cataract formation.
+However, a 2012 review article that included 9 clinical trials with almost 117,300 people determined that supplementing with the antioxidants vitamins C and E and beta-carotene does not prevent cataracts or slow their progression.
+Results from AREDS2 showed that none of the modified formulations helped reduce the risk of progression to cataract surgery, although a subgroup of participants with low dietary lutein and zeaxanthin gained some protection.
+Diabetic Retinopathy
+In diabetic retinopathy, an eye disease that occurs as a complication of diabetes, the blood vessels of the retina become damaged. This can cause vision distortion or loss.
+A 2011 literature review stated that no dietary supplements have been shown to be helpful for diabetic retinopathy.
+Glaucoma
+Glaucoma can damage the optic nerve, resulting in a loss of vision, starting with peripheral (side) vision. Early detection and treatment of glaucoma are important. There is little evidence to support using megavitamins, special diets, acupuncture, relaxation techniques, or therapeutic touch for glaucoma.
+Side Effects and Risks
+It’s important to follow your eye care professional’s instructions for treating eye conditions. Don’t use unproven approaches to replace conventional medical treatments.
+Supplements containing certain antioxidants and zinc are recommended only for some people with AMD. For example, they are not recommended for those with early-stage AMD. If you have AMD, ask your eye care professional whether taking supplements is advisable.
+Beta-carotene (which is in AREDS but not AREDS2 formulations) may increase the risk of lung cancer in current and former smokers and those who have been exposed to asbestos.
+Keep in mind that dietary supplements can cause health problems if not used correctly or if used in large amounts, and some may interact with medications you take.
+For more information on eye health, visit the National Eye Institute (NEI) website.

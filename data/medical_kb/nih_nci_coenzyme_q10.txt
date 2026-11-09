@@ -1,0 +1,50 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Coenzyme Q10 (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/coenzyme-q10-pdq
+────────────────────────────────────────────────────────────
+
+Coenzyme Q10 (known as CoQ10) is a compound that is made in the body. The body uses it for cell growth and to protect cells from damage (see Question 1).
+Clinical trials have been limited to small sizes. It is not clear if the benefits reported were from the CoQ10 therapy (see Question 4).
+CoQ10 may not mix safely with other drugs. It is important that patients tell their health care providers about all drugs they are taking (see Question 5).
+CoQ10 is sold as a dietary supplement rather than a drug and is not regulated by the U.S. Food and Drug Administration (FDA) (see Question 6).
+Questions and Answers About Coenzyme Q10 (CoQ10)
+What is CoQ10?
+CoQ10 is a compound that is made in the body. The Q and the 10 in coenzyme Q10 refer to the groups of chemicals that make up the product. CoQ10 is also known by the following names:
+Q10.
+Vitamin Q10.
+Ubiquinone.
+Ubidecarenone.
+A coenzyme helps an enzyme do its job. An enzyme is a protein that speeds up
+the rate at which chemical reactions take place in cells of the body. The body's cells use CoQ10 to make energy needed for the cells to grow and stay healthy. The body also uses CoQ10 as an antioxidant. An antioxidant protects cells from chemicals called free radicals.
+CoQ10 is found in most body tissues. The highest amounts are found in the heart, liver, kidneys, and pancreas. The lowest amounts are found in the lungs. CoQ10 decreases in the body as people get older.
+How is CoQ10 given?
+CoQ10 is taken by mouth as a tablet or capsule. It may also be given by injection into a vein (IV).
+Have any laboratory or animal studies been done using CoQ10?
+In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people.
+Laboratory and animal studies have tested the effects of coenzyme Q10. See the Laboratory/Animal/Preclinical Studies section of the health professional version of Coenzyme Q10 for information on laboratory and animal studies done using CoQ10.
+Have any studies of CoQ10 been done in people?
+There have been few clinical trials that study the use of CoQ10 in patients with cancer.
+A trial of 236 breast cancer patients were randomized to receive either CoQ10 or placebo, each combined with vitamin E, for 24 weeks. The study found that levels of fatigue and quality of life were not improved in patients who received CoQ10 compared to patients who received the placebo.
+A randomized trial of 20 children treated for acute lymphoblastic leukemia or non-Hodgkin lymphoma looked at whether CoQ10 would protect the heart from the damage caused by doxorubicin. The results reported that CoQ10 decreased the harmful effects of doxorubicin on the heart.
+Clinical trials have been limited to small numbers of people, and it is not clear if the benefits reported were from the CoQ10 therapy, other dietary supplements, or standard treatments used before or during the CoQ10 therapy.
+Have any side effects or risks been reported from CoQ10?
+Reported side effects from the use of CoQ10 include the following:
+High levels of liver enzymes.
+Nausea.
+Heartburn.
+Headache.
+Pain in the upper part of the abdomen.
+Dizziness.
+Rashes.
+Unable to fall sleep or stay asleep.
+Feeling very tired.
+Feeling irritable.
+Sensitive to light.
+Importantly, clinical trials that studied the use of CoQ10 to prevent toxic side effects during cancer treatments (for example, chemotherapy and radiation therapy) have not followed patients over the long term to find whether CoQ10 made the treatments less effective.
+A recent observational study in patients with breast cancer suggested that the use of antioxidant supplements, including CoQ10, before and during cancer treatment may be linked with increased recurrence rates and decreased survival.
+It is important to check with health care providers to find out if CoQ10 can be safely used with other drugs. Certain drugs, such as those that are used to lower cholesterol, blood pressure, or blood sugar levels, may decrease the effects of CoQ10. CoQ10 may change the way the body uses warfarin (a drug that prevents the blood from clotting) and insulin.
+Is CoQ10 approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of CoQ10 as a treatment for cancer.
+The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of CoQ10 supplements may not be the same.
+Current Clinical Trials
+Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available.

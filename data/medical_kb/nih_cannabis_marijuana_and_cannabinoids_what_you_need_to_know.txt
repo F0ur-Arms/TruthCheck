@@ -1,0 +1,100 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Cannabis (Marijuana) and Cannabinoids: What You Need To Know
+URL: https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Cannabis (Marijuana) and Cannabinoids: What You Need To Know
+Is marijuana the same thing as cannabis?
+People often use the words “cannabis” and “marijuana” interchangeably, but they don’t mean exactly the same thing.
+The word “cannabis” refers to all products derived from the plant Cannabis sativa.
+The cannabis plant contains about 540 chemical substances.
+The word “marijuana” refers to parts of or products from the plant Cannabis sativa that contain substantial amounts of tetrahydrocannabinol (THC). THC is the substance that’s primarily responsible for the effects of marijuana on a person’s mental state. Some cannabis plants contain very little THC. Under U.S. law, these plants are considered “industrial hemp” rather than marijuana.
+Throughout the rest of this fact sheet, we use the term “cannabis” to refer to the plant Cannabis sativa.
+What are cannabinoids?
+Cannabinoids are a group of substances found in the cannabis plant.
+What are the main cannabinoids?
+The main cannabinoids are THC and cannabidiol (CBD).
+How many cannabinoids are there?
+Besides THC and CBD, more than 100 other cannabinoids have been identified.
+Has the U.S. Food and Drug Administration (FDA) approved cannabis or cannabinoids for medical use?
+The FDA has not approved the cannabis plant for any medical use. However, the FDA has approved several drugs that contain individual cannabinoids.
+Epidiolex, which contains a purified form of CBD derived from cannabis, was approved for the treatment of seizures associated with Lennox-Gastaut syndrome or Dravet syndrome, two rare and severe forms of epilepsy.
+Marinol and Syndros, which contain dronabinol (synthetic THC), and Cesamet, which contains nabilone (a synthetic substance similar to THC), are approved by the FDA. Dronabinol and nabilone are used to treat nausea and vomiting caused by cancer chemotherapy. Dronabinol is also used to treat loss of appetite and weight loss in people with HIV/AIDS.
+Is it legal for dietary supplements or foods to contain THC or CBD?
+The FDA has determined that products containing THC or CBD cannot be sold legally as dietary supplements. Foods to which THC or CBD has been added cannot be sold legally in interstate commerce. Whether they can be sold legally within a state depends on that state’s laws and regulations.
+Are cannabis or cannabinoids helpful in treating health conditions?
+Drugs containing cannabinoids may be helpful in treating certain rare forms of epilepsy, nausea and vomiting associated with cancer chemotherapy, and loss of appetite and weight loss associated with HIV/AIDS. In addition, some evidence suggests modest benefits of cannabis or cannabinoids for chronic pain and multiple sclerosis symptoms. Cannabis isn’t helpful for glaucoma. Research on cannabis or cannabinoids for other conditions is in its early stages.
+The following sections summarize the research on cannabis or cannabinoids for specific health conditions.
+Pain
+Research has been done on the effects of cannabis or cannabinoids on chronic pain, particularly neuropathic pain (pain associated with nerve injury or damage).
+A 2018 review looked at 47 studies (4,743 participants) of cannabis or cannabinoids for various types of chronic pain other than cancer pain and found evidence of a small benefit. Twenty-nine percent of people taking cannabis/cannabinoids had a 30 percent reduction in their pain whereas 26 percent of those taking a placebo (an inactive substance) did. The difference may be too small to be meaningful to patients. Adverse events (side effects) were more common among people taking cannabis/cannabinoids than those taking placebos.
+A 2018 review of 16 studies of cannabis-based medicines for neuropathic pain, most of which tested a cannabinoid preparation called nabiximols (brand name Sativex; a mouth spray containing both THC and CBD that is approved in some countries but not in the United States), found low- to moderate-quality evidence that these medicines produced better pain relief than placebos did. However, the data could not be considered reliable because the studies included small numbers of people and may have been biased. People taking cannabis-based medicines were more likely than those taking placebos to drop out of studies because of side effects.
+A 2015 review of 28 studies (2,454 participants) of cannabinoids in which chronic pain was assessed found the studies generally showed improvements in pain measures in people taking cannabinoids, but these did not reach statistical significance in most of the studies. However, the average number of patients who reported at least a 30 percent reduction in pain was greater with cannabinoids than with placebo.
+Helping To Decrease Opioid Use
+There’s evidence from studies in animals that administering THC along with opioids may make it possible to control pain with a smaller dose of opioids.
+A 2017 review looked at studies in people in which cannabinoids were administered along with opioids to treat pain. These studies were designed to determine whether cannabinoids could make it possible to control pain with smaller amounts of opioids. There were 9 studies (750 total participants), of which 3 (642 participants) used a high-quality study design in which participants were randomly assigned to receive cannabinoids or a placebo. The results were inconsistent, and none of the high-quality studies indicated that cannabinoids could lead to decreased opioid use.
+Researchers have looked at statistical data on groups of people to see whether access to cannabis (for example, through “medical marijuana laws”—state laws that allow patients with certain medical conditions to get access to cannabis)—is linked with changes in opioid use or with changes in harm associated with opioids. The findings have been inconsistent.
+States with medical marijuana laws were found to have lower prescription rates both for opioids and for all drugs that cannabis could substitute for among people on Medicare. However, data from a national survey (not limited to people on Medicare) showed that users of medical marijuana were more likely than nonusers to report taking prescription drugs.
+An analysis of data from 1999 to 2010 indicated that states with medical marijuana laws had lower death rates from overdoses of opioid pain medicines, but when a similar analysis was extended through 2017, it showed higher death rates from this kind of overdose.
+An analysis of survey data from 2004 to 2014 found that passing of medical marijuana laws was not associated with less nonmedical prescription opioid use. Thus, people with access to medical marijuana did not appear to be substituting it for prescription opioids.
+Anxiety
+A small amount of evidence from studies in people suggests that cannabis or cannabinoids might help to reduce anxiety. One study of 24 people with social anxiety disorder found that they had less anxiety in a simulated public speaking test after taking CBD than after taking a placebo. Four studies have suggested that cannabinoids may be helpful for anxiety in people with chronic pain; the study participants did not necessarily have anxiety disorders.
+Epilepsy
+Cannabinoids, primarily CBD, have been studied for the treatment of seizures associated with forms of epilepsy that are difficult to control with other medicines. Epidiolex (oral CBD) has been approved by the FDA for the treatment of seizures associated with two epileptic encephalopathies: Lennox-Gastaut syndrome and Dravet syndrome. (Epileptic encephalopathies are a group of seizure disorders that start in childhood and involve frequent seizures along with severe impairments in cognitive development.) Not enough research has been done on cannabinoids for other, more common forms of epilepsy to allow conclusions to be reached about whether they’re helpful for these conditions.
+Glaucoma
+Glaucoma is a group of diseases that can damage the eye’s optic nerve, leading to vision loss and blindness. Early treatment can often prevent severe loss of vision. Lowering pressure in the eye can slow progression of the disease.
+Studies conducted in the 1970s and 1980s showed that cannabis or substances derived from it could lower pressure in the eye, but not as effectively as treatments already in use. One limitation of cannabis-based products is that they only affect pressure in the eye for a short period of time.
+A recent animal study showed that CBD, applied directly to the eye, may cause an undesirable increase in pressure in the eye.
+HIV/AIDS Symptoms
+Unintentional weight loss can be a problem for people with HIV/AIDS. In 1992, the FDA approved the cannabinoid dronabinol for the treatment of loss of appetite associated with weight loss in people with HIV/AIDS. This approval was based primarily on a study of 139 people that assessed effects of dronabinol on appetite and weight changes.
+There have been a few other studies of cannabis or cannabinoids for appetite and weight loss in people with HIV/AIDS, but they were short and only included small numbers of people, and their results may have been biased. Overall, the evidence that cannabis/cannabinoids are beneficial in people with HIV/AIDS is limited.
+Inflammatory Bowel Disease
+Inflammatory bowel disease is the name for a group of conditions in which the digestive tract becomes inflamed. Ulcerative colitis and Crohn’s disease are the most common types. Symptoms may include abdominal pain, diarrhea, loss of appetite, weight loss, and fever. The symptoms can range from mild to severe, and they can come and go, sometimes disappearing for months or years and then returning.
+A 2018 review looked at 3 studies (93 total participants) that compared smoked cannabis or cannabis oil with placebos in people with active Crohn’s disease. There was no difference between the cannabis/cannabis oil and placebo groups in clinical remission of the disease. Some people using cannabis or cannabis oil had improvements in symptoms, but some had undesirable side effects. It was uncertain whether the potential benefits of cannabis or cannabis oil were greater than the potential harms.
+A 2018 review examined 2 studies (92 participants) that compared smoked cannabis or CBD capsules with placebos in people with active ulcerative colitis. In the CBD study, there was no difference between the two groups in clinical remission, but the people taking CBD had more side effects. In the smoked cannabis study, a measure of disease activity was lower after 8 weeks in the cannabis group; no information on side effects was reported.
+Irritable Bowel Syndrome
+Irritable bowel syndrome (IBS) is defined as repeated abdominal pain with changes in bowel movements (diarrhea, constipation, or both). It’s one of a group of functional disorders of the gastrointestinal (GI) tract that relate to how the brain and gut work together.
+Although there’s interest in using cannabis/cannabinoids for symptoms of IBS, there’s been little research on their use for this condition in people. Therefore, it’s unknown whether cannabis or cannabinoids can be helpful.
+Movement Disorders Due to Tourette Syndrome
+A 2015 review of 2 small placebo-controlled studies with 36 participants suggested that synthetic THC capsules may be associated with a significant improvement in tic severity in patients with Tourette syndrome.
+Multiple Sclerosis
+Several cannabis/cannabinoid preparations have been studied for multiple sclerosis symptoms, including dronabinol, nabilone, cannabis extract, nabiximols (brand name Sativex; a mouth spray containing THC and CBD that is approved in more than 25 countries outside the United States), and smoked cannabis.
+A review of 17 studies of a variety of cannabinoid preparations with 3,161 total participants indicated that cannabinoids caused a small improvement in spasticity (as assessed by the patient), pain, and bladder problems in people with multiple sclerosis, but cannabinoids didn’t significantly improve spasticity when measured by objective tests.
+A review of 6 placebo-controlled clinical trials with 1,134 total participants concluded that cannabinoids (nabiximols, dronabinol, and THC/CBD) were associated with a greater average improvement on the Ashworth scale for spasticity in multiple sclerosis patients compared with placebo, although this did not reach statistical significance.
+Evidence-based guidelines issued in 2014 by the American Academy of Neurology concluded that nabiximols is probably effective for improving subjective spasticity symptoms, probably ineffective for reducing objective spasticity measures or bladder incontinence, and possibly ineffective for reducing multiple sclerosis–related tremor. Based on two small studies, the guidelines concluded that the data are inadequate to evaluate the effects of smoked cannabis in people with multiple sclerosis.
+A 2010 analysis of 3 studies (666 participants) of nabiximols in people with multiple sclerosis and spasticity found that nabiximols reduced subjective spasticity, usually within 3 weeks, and that about one-third of people given nabiximols as an addition to other treatment would have at least a 30 percent improvement in spasticity. Nabiximols appeared to be reasonably safe.
+Nausea and Vomiting Related to Cancer Chemotherapy
+A 2015 review of 23 studies (1,326 participants) on the cannabinoids dronabinol or nabilone for treating nausea and vomiting related to cancer chemotherapy found that they were more helpful than a placebo and similar in effectiveness to other medicines used for this purpose. More people had side effects such as dizziness or sleepiness, though, when taking the cannabinoid medicines.
+The research on dronabinol and nabilone for treating nausea and vomiting related to cancer chemotherapy was done primarily in the 1980s and 1990s and reflects the types of chemotherapy treatments and choices of antinausea medicines available at that time rather than current ones.
+Posttraumatic Stress Disorder (PTSD)
+Some people with PTSD have used cannabis or products made from it to try to relieve their symptoms and believe that it can help, but there’s been little research on whether it’s actually useful.
+In one very small study (10 people), the cannabinoid nabilone was more effective than a placebo at relieving PTSD-related nightmares.
+Observational studies (studies that collected data on people with PTSD who made their own choices about whether to use cannabis) haven’t provided clear evidence on whether cannabis is helpful or harmful for PTSD symptoms.
+Sleep Problems
+Many studies of cannabis or cannabinoids in people with health problems (such as multiple sclerosis, PTSD, or chronic pain) have looked at effects on sleep. Often, there’s been evidence of better sleep quality, fewer sleep disturbances, or decreased time to fall asleep in people taking cannabis/cannabinoids. However, it’s uncertain whether the cannabis products affected sleep directly or whether people slept better because the symptoms of their illnesses had improved. The effects of cannabis/cannabinoids on sleep problems in people who don’t have other illnesses are uncertain.
+Are cannabis and cannabinoids safe?
+Several concerns have been raised about the safety of cannabis and cannabinoids:
+The use of cannabis has been linked to an increased risk of motor vehicle crashes.
+Smoking cannabis during pregnancy has been linked to lower birth weight.
+Some people who use cannabis develop cannabis use disorder, which has symptoms such as craving, withdrawal, lack of control, and negative effects on personal and professional responsibilities.
+Adolescents using cannabis are four to seven times more likely than adults to develop cannabis use disorder.
+Cannabis use is associated with an increased risk of injury among older adults.
+The use of cannabis, especially frequent use, has been linked to a higher risk of developing schizophrenia or other psychoses (severe mental illnesses) in people who are predisposed to these illnesses.
+Marijuana may cause orthostatic hypotension (head rush or dizziness on standing up), possibly raising danger from fainting and falls.
+The FDA has warned the public not to use vaping products that contain THC. Products of this type have been implicated in many of the reported cases of serious lung injuries linked to vaping.
+There have been many reports of unintentional consumption of cannabis or its products by children, leading to illnesses severe enough to require emergency room treatment or admission to a hospital. Among a group of people who became ill after accidental exposure to candies containing THC, the children generally had more severe symptoms than the adults and needed to stay in the hospital longer.
+Some long-term users of high doses of cannabis have developed a condition involving recurrent severe vomiting.
+There have been reports of contamination of cannabis/cannabinoid products with microorganisms, pesticides, or other substances.
+Some cannabis/cannabinoid products contain amounts of cannabinoids that differ substantially from what’s stated on their labels.
+Can CBD be harmful?
+Unlike Epidiolex (the purified CBD product sold as an FDA-approved prescription drug), over-the-counter CBD products may contain more or less CBD than stated on their labels, and because of less rigorous regulatory oversight than prescription drugs, they may also contain contaminants, such as THC.
+CBD may have side effects, including decreases in alertness, changes in mood, decreased appetite, and gastrointestinal symptoms such as diarrhea. CBD may also produce psychotic effects or cognitive impairment in people who also regularly use THC. In addition, CBD use has been associated with liver injury, male reproductive harm, and interactions with other drugs. Some side effects, such as diarrhea, sleepiness, abnormalities on tests of liver function, and drug interactions, appear to be due to CBD itself rather than contaminants in CBD products; these effects were observed in some of the people who participated in studies of Epidiolex before its approval as a drug.
+Research Funded by the National Center for Complementary and Integrative Health (NCCIH)
+Several NCCIH-funded studies are investigating the potential pain-relieving properties and mechanisms of action of substances in cannabis, including minor cannabinoids (those other than THC) and terpenes (substances in cannabis that give the plant its strain-specific properties such as aroma and taste). The goal of these studies is to strengthen the evidence regarding cannabis components and whether they have potential roles in pain management.
+NCCIH is also supporting other studies on cannabis and cannabinoids, including:
+An observational study of the effects of edible cannabis and its constituents on pain, inflammation, and thinking in people with chronic low-back pain.
+Studies to develop techniques to synthesize cannabinoids in yeast (which would cost less than obtaining them from the cannabis plant).
+Research to evaluate the relationship between cannabis smoking and type 2 diabetes.
+More To Consider
+Don’t use cannabis or cannabinoids to postpone seeing a health care provider about a medical problem.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.

@@ -1,0 +1,11 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Placebo Effect
+URL: https://www.nccih.nih.gov/health/placebo-effect
+────────────────────────────────────────────────────────────
+
+Placebo Effect
+The “gold standard” for testing interventions in people is the “randomized, placebo-controlled” clinical trial, in which volunteers are randomly assigned to a test group receiving the experimental intervention or a control group receiving a placebo (an inactive substance that looks like the drug or treatment being tested). Comparing results from the two groups suggests whether changes in the test group result from the treatment or occur by chance.
+The placebo effect is a beneficial health outcome resulting from a person’s anticipation that an intervention will help. How a health care provider interacts with a patient also may bring about a positive response that’s independent of any specific treatment.
+Research supported by NCCIH has explored several aspects of the placebo effect. One study identified a genetic marker that may predict whether someone will respond to a placebo, another supported the idea that placebo responses may occur outside of conscious awareness, and a third suggested that placebos may be helpful even if patients know they’re receiving placebos.
+Spotlighted Research Results
+What Is a Placebo? Q and A with Ted Kaptchuk

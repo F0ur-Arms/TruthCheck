@@ -1,0 +1,51 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: S-Adenosyl-L-Methionine (SAMe): In Depth
+URL: https://www.nccih.nih.gov/health/sadenosyllmethionine-same-in-depth
+────────────────────────────────────────────────────────────
+
+S-Adenosyl-L-Methionine (SAMe): In Depth
+What’s the Bottom Line?
+How much do we know about SAMe?
+Research has evaluated several potential uses of SAMe, and a substantial number of studies on depression and liver diseases have been completed. However, some of the studies used injected SAMe, which may not have the same effects as SAMe taken as a dietary supplement.
+What do we know about the effectiveness of SAMe?
+SAMe has been studied primarily for depression, osteoarthritis, and liver diseases. Although there are hints that it might be helpful for these conditions, the evidence is not conclusive.
+What do we know about the safety of SAMe?
+Data on the long-term safety of SAMe and its safety for use during pregnancy are too limited to draw any conclusions.
+SAMe may not be safe for people with bipolar disorder.
+SAMe may interact with some medicines or other dietary supplements.
+There’s theoretical reason to believe that taking SAMe may promote Pneumocystis infection in people who are immunocompromised, such as those who are HIV-positive.
+What Is SAMe?
+S-Adenosyl-L-methionine (also called S-adenosyl methionine, S-adenosylmethionine, SAMe, or SAM-e in the United States or ademetionine in Europe, and also often abbreviated as SAM and AdoMet) is a chemical that is found naturally in the body. SAMe is sold in the United States as a dietary supplement.
+SAMe was discovered in the early 1950s. It’s made in the body from methionine, an amino acid found in foods. It has been found to regulate key functions in living cells.
+Abnormal levels of SAMe in the body have been reported in liver diseases and depression. This prompted researchers to investigate whether SAMe might be helpful in treating these conditions. The idea that SAMe might be helpful for osteoarthritis came from studies of SAMe for depression. Some of the participants in the depression studies who also had osteoarthritis said their joint symptoms improved when they took SAMe.
+What the Science Says About the Effectiveness of SAMe
+SAMe has been investigated most extensively for depression, osteoarthritis, and liver diseases. For all three conditions, research has not conclusively shown that SAMe is helpful.
+Depression
+Overall, the evidence that oral SAMe may be helpful for depression is not conclusive.
+At least 40 studies in people have evaluated SAMe for depression, and many of them showed evidence of beneficial effects. However, most of these trials lasted only a few weeks, included a small number of participants, and were not of the highest scientific quality. Also, some studies used injected SAMe rather than an oral form (taken by mouth).
+Osteoarthritis
+The results of research on SAMe for osteoarthritis are mixed.
+Studies in people have compared oral SAMe with nonsteroidal anti-inflammatory drugs (NSAIDs; medicines used to relieve osteoarthritis pain) or placebos (inactive substances) in patients with osteoarthritis of the knee or hip.
+In general, studies that compared SAMe with NSAIDs showed that each had similar pain relief and improvement in joint function, with fewer side effects in the patients taking SAMe.
+The smaller number of studies that compared SAMe with placebo did not consistently show SAMe to be beneficial.
+Liver Diseases
+There’s some evidence linking decreased levels of SAMe in the body with the development of liver diseases, and animal studies have suggested that SAMe may be of value for liver problems. However, whether SAMe is beneficial for liver diseases in people has not been established.
+Cholestasis is a condition in which the flow of bile from the liver is slowed or blocked. Several studies have evaluated SAMe for a type of cholestasis called intrahepatic cholestasis of pregnancy (ICP). ICP usually occurs during the third trimester of pregnancy and has itching as a characteristic symptom. The studies had conflicting results, and current data are insufficient to show whether SAMe is helpful for ICP.
+SAMe has also been studied for other liver diseases, including alcoholic liver cirrhosis, hepatitis C, various types of cholestasis, and nonalcoholic steatohepatitis, as well as for the prevention of liver cancer, but research is inconclusive.
+Other Conditions
+SAMe has also been studied for other conditions, including fibromyalgia, migraine, schizophrenia, Alzheimer’s disease, and attention-deficit hyperactivity disorder, but there isn’t enough evidence to reach conclusions about its effects in these conditions. A trial of SAMe as a quit-smoking aid showed that it didn’t increase the quit rate or reduce withdrawal symptoms.
+Safety and Side Effects of SAMe
+Information on the long-term safety of SAMe is limited because the participants in most studies took it only for short periods of time. However, in one study of alcohol-related liver disease, participants took SAMe for 2 years; in that study, no serious side effects were reported.
+People with bipolar disorder (an illness characterized by mood swings, from depression to mania) should not take SAMe for their depressive symptoms except under the supervision of a health care provider because SAMe may worsen symptoms of mania.
+Although SAMe has been used to treat cholestasis during pregnancy, its safety during pregnancy has not been established.
+SAMe may decrease the effects of levodopa (L-dopa), a drug used to treat Parkinson’s disease. It’s also possible that SAMe might interact with drugs and dietary supplements that increase levels of serotonin (a chemical produced by nerve cells), such as antidepressants, L-tryptophan, and St. John’s wort.
+There’s a theoretical concern about the use of SAMe by people who are immunocompromised (such as those who are HIV-positive). Immunocompromised people are at risk for Pneumocystis carinii infection, and SAMe enhances the growth of this microorganism.
+Side effects of SAMe are uncommon, and when they do occur they are usually minor problems such as nausea or digestive upsets.
+NCCIH-Funded Research
+Current studies supported by the National Center for Complementary and Integrative Health (NCCIH) are investigating:
+The role of SAMe in nonalcoholic fatty liver disease
+The possible roles of SAMe and an enzyme involved in its formation for colon cancer.
+More To Consider
+Don’t use SAMe to postpone seeing a health care provider about a medical problem.
+Consult your health care provider about using SAMe supplements. If you’re pregnant or nursing a child, if you take medicine or other dietary supplements, if you have bipolar disorder or Parkinson’s disease, if you’re HIV-positive, or if you’re considering giving SAMe to a child, it’s especially important to consult your (or your child’s) health care provider.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together you can make shared, well-informed decisions.

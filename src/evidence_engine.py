@@ -79,6 +79,11 @@ class EvidenceEngine:
 
     def make_lanes(self, canonical_claim: str, subject: Optional[str] = None,
                    outcome: Optional[str] = None) -> Dict[str, str]:
+        # TRUTHCHECK_QUERY_LANES: v1 (default, templated lanes) or v2 (claim, subject, subject+outcome,
+        # content words; see MultiLaneQueryGenerator.generate_plain_lanes).
+        if os.environ.get("TRUTHCHECK_QUERY_LANES", "v1").lower() == "v2" and hasattr(
+                self.query_generator, "generate_plain_lanes"):
+            return self.query_generator.generate_plain_lanes(canonical_claim, subject=subject, outcome=outcome)
         return self.query_generator.generate_query_lanes(canonical_claim, subject=subject, outcome=outcome)
 
     def retrieve(self, canonical_claim: str, lanes: Dict[str, str], top_per_lane: int = 5) -> List[Dict[str, Any]]:
@@ -135,7 +140,43 @@ class EvidenceEngine:
                 "rerank_score": item.get("rerank_score"),
             })
             nli_support_probs.append(nli_result["supports_probability"])
+        combined = self._judge_combined(canonical_claim, scored_passages)
+        if combined:
+            scored_passages.append(combined)
+            nli_support_probs.append(combined["supports_probability"])
         return scored_passages, nli_support_probs, self.evidence_scorer.summarize_evidence(scored_passages)
+
+    def _judge_combined(self, canonical_claim: str, scored: List[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
+        """TRUTHCHECK_NLI_COMBINE=k: when every passage alone was NEI, judge the k most relevant together.
+
+        A page is split into passages, so the answer can be spread over neighbouring chunks that each
+        look inconclusive. The extra judgment is added only when it is SUPPORTS or REFUTES, so claims
+        with no usable evidence are unchanged. It cites the most relevant of the passages it read and
+        lists all of them in combined_from.
+        """
+        k = int(os.environ.get("TRUTHCHECK_NLI_COMBINE", "0") or 0)
+        if k < 2 or len(scored) < 2 or any(p["nli_verdict"] != "NEI" for p in scored):
+            return None
+        top = sorted(scored, key=lambda p: p.get("rerank_score") or 0.0, reverse=True)[:k]
+        budget = 3000 // len(top)  # the judge reads at most 3,000 characters
+        text = "\n\n".join(p["passage"][:budget] for p in top)
+        result = self.nli_judge.verify(canonical_claim, text)
+        if result["verdict"] == "NEI":
+            return None
+        lead = top[0]
+        return {
+            "passage": text,
+            "passage_index": lead["passage_index"],
+            "source_tier": lead["source_tier"],
+            "source_file": lead["source_file"],
+            "source_url": lead["source_url"],
+            "nli_verdict": result["verdict"],
+            "quality_score": sum(p["quality_score"] for p in top) / len(top),
+            "supports_probability": result["supports_probability"],
+            "refutes_probability": result["refutes_probability"],
+            "rerank_score": lead.get("rerank_score"),
+            "combined_from": [p["source_file"] for p in top],
+        }
 
     def gather(self, canonical_claim: str, subject: Optional[str] = None, outcome: Optional[str] = None,
                population: Optional[str] = None, top_per_lane: int = 5) -> EvidenceResult:

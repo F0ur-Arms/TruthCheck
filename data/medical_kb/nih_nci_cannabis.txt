@@ -1,0 +1,97 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Cannabis and Cannabinoids (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq
+────────────────────────────────────────────────────────────
+
+Cannabis, also known as marijuana, is a plant grown in many parts of the world. It makes a resin (thick substance) that contains compounds called cannabinoids (see Question 1).
+By federal law, possessing Cannabis is illegal in the United States outside of approved research settings. However, a growing number of states, territories, and the District of Columbia have passed laws to legalize medical and/or recreational marijuana (see Question 1).
+Cannabinoids are chemicals in Cannabis that cause drug-like effects in the body, including the central nervous system and the immune system (see Question 2).
+The main psychoactive cannabinoid in Cannabis is delta-9-THC. Another active cannabinoid is cannabidiol (CBD), which may relieve pain, lower inflammation, and decrease anxiety without causing the "high" of delta-9-THC (see Question 2).
+Cannabinoids can be taken by mouth, inhaled, or sprayed under the tongue (see Question 4).
+Cannabis and cannabinoids have been studied for relief of pain, nausea and vomiting, anxiety, and loss of appetite caused by cancer or the side effects of cancer therapies (see Question 6).
+Two cannabinoid drugs (dronabinol and nabilone) are approved by the U.S. Food and Drug Administration (FDA) for the prevention or treatment of nausea and vomiting caused by chemotherapy (see Question 6 and Question 8).
+The FDA has not approved Cannabis or cannabinoids for use as a cancer treatment (see Question 8).
+Questions and Answers About Cannabis and Cannabinoids
+What is Cannabis?
+Cannabis, also known as marijuana, is a plant first grown in Central Asia that is now grown in many parts of the world. The Cannabis plant makes a resin (thick substance) that contains compounds called cannabinoids. Some cannabinoids are psychoactive (affects your mind or mood). In the United States, Cannabis is a controlled substance and has been classified as a Schedule I agent (a drug with a high potential for abuse and no accepted medical use).
+Hemp is a mixture of the Cannabis plant with very low levels of psychoactive compounds. Hemp oil or cannabidiol (CBD) are made from extracts of industrial hemp, while hemp seed oil is an edible fatty oil that contains few or no cannabinoids. Hemp is not a controlled substance.
+For information on medicinal Cannabis products, see the General Information section in the health professional version of Cannabis and Cannabinoids.
+Clinical trials that study Cannabis for cancer treatment are limited. To start a clinical trial with Cannabis in the United States, researchers must file an Investigational New Drug (IND) application with the FDA, have a Schedule I license from the U.S. Drug Enforcement Administration, and have approval from the National Institute on Drug Abuse.
+By federal law, possessing Cannabis (marijuana) is illegal in the United States unless it is used in approved research settings. However, a growing number of states, territories, and the District of Columbia have passed laws to legalize medical and/or recreational marijuana. (See Question 3).
+What are cannabinoids?
+Cannabinoids, also known as phytocannabinoids, are chemicals in Cannabis that cause drug-like effects in the body, including the central nervous system and the immune system. Over 100 cannabinoids have been found in Cannabis. The main psychoactive cannabinoid in Cannabis is delta-9-THC. Another active cannabinoid is cannabidiol (CBD).
+Cannabinoids may help treat the side effects of cancer and cancer treatment.
+If Cannabis is illegal, how do some patients with cancer in the United States use it?
+Although federal law prohibits the use of Cannabis, the map below shows the states and territories that have legalized Cannabis for medical use. Some other states have legalized only one ingredient in Cannabis, such as cannabidiol (CBD), and these states are not included in the map. Medical marijuana laws vary from state to state.
+How is Cannabis given or taken?
+Cannabis may be taken by mouth (in baked goods or as an herbal tea) or may be inhaled. When taken by mouth, the main psychoactive part of Cannabis (delta-9-THC) goes through the liver and is changed into a different psychoactive chemical (11-OH-THC).
+When Cannabis is smoked and inhaled, cannabinoids quickly enter the bloodstream. The psychoactive chemical (11-OH-THC) is made in smaller amounts than when taken by mouth.
+Clinical trials are studying a medicine made from an extract of Cannabis that contains specific amounts of cannabinoids. This medicine is sprayed under the tongue.
+Have any laboratory or animal studies
+been done using Cannabis or cannabinoids?
+In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people.
+For information on laboratory and animal studies done using cannabinoids, see the Laboratory/Animal/Preclinical Studies section in the health professional version of Cannabis and Cannabinoids.
+Have any studies of Cannabis or cannabinoids been done in people with cancer?
+No ongoing studies of Cannabis as a treatment for cancer in people have been found in the CAM on PubMed database maintained by the National Institutes of Health.
+Small studies have been done, but the results have not been reported or suggest a need for larger studies.
+An oral spray of Cannabis extract given with temozolomide to treat recurrent glioblastoma multiforme.
+CBD taken by mouth to treat acute graft-versus-host disease in patients who have undergone allogeneic hematopoietic stem cell transplantation.
+Cannabis and cannabinoids have been studied as ways to manage side effects of cancer and cancer therapies.
+Nausea and vomiting
+Cannabis and cannabinoids have been studied in the treatment of nausea and vomiting caused by cancer or cancer treatment:
+Delta-9-THC taken by mouth: Two cannabinoid drugs, dronabinol and nabilone, approved by the U.S. Food and Drug Administration (FDA), are given to treat nausea and vomiting caused by chemotherapy in patients who have not responded to standard antiemetic therapy. Clinical trials have shown that both dronabinol and nabilone work as well as or better than other drugs to relieve nausea and vomiting.
+Oral spray with delta-9-THC and CBD: Nabiximols, a Cannabis extract given as a mouth spray, was shown in a small randomized, placebo-controlled, double-blinded clinical trial in Spain to treat nausea and vomiting caused by chemotherapy.
+Inhaled Cannabis: Small trials have studied inhaled Cannabis for the treatment of nausea and vomiting caused by chemotherapy.
+Newer drugs given for nausea caused by chemotherapy have not been compared with Cannabis or cannabinoids in patients with cancer.
+There is growing interest in treating children for symptoms such as nausea with Cannabis and cannabinoids, but studies are limited. The American Academy of Pediatrics has not endorsed Cannabis and cannabinoid use because of concerns about its effect on brain development.
+Appetite
+The ability of cannabinoids to increase appetite has been studied:
+Delta-9-THC taken by mouth: A clinical trial compared delta-9-THC (dronabinol) and a standard drug (megestrol, an appetite stimulant) in patients with advanced cancer and loss of appetite. Results showed that delta-9-THC did not help increase appetite or weight gain in patients with advanced cancer compared with megestrol.
+Inhaled Cannabis: There are no published studies of the effect of inhaled Cannabis on patients with cancer who have loss of appetite.
+Pain relief
+Cannabis and cannabinoids have been studied in the treatment of pain:
+Vaporized Cannabis with opioids: In a study of 21 patients with chronic pain, vaporized Cannabis given with morphine relieved pain better than morphine alone, while vaporized Cannabis given with oxycodone did not give greater pain relief. Further studies are needed.
+Inhaled Cannabis: Randomized controlled trials of inhaled Cannabis in patients with peripheral neuropathy or other nerve pain found that inhaled Cannabis relieved pain better than inhaled placebo. A retrospective study of patients who received an anticancer drug for gastrointestinal cancers found that those who also inhaled Cannabis had less nerve pain, including those who took Cannabis before they began the anticancer drug.
+Cannabis plant extract: A study of Cannabis extract that was sprayed under the tongue found it helped patients with advanced cancer whose pain was not relieved by strong opioids alone. In another study, patients who were given lower doses of cannabinoid spray showed better pain control and less sleep loss than patients who received a placebo. Control of cancer-related pain in some patients was better without the need for higher doses of Cannabis extract spray or higher doses of their other pain medicines. Adverse events were related to high doses of cannabinoid spray.
+Delta-9-THC taken by mouth: Two small clinical trials of oral delta-9-THC showed that it relieved cancer pain. In the first study, patients had good pain relief, less nausea and vomiting, and better appetite. A second study showed that delta-9-THC could relieve pain as well as codeine. An observational study of nabilone also reported less cancer pain along with less nausea, anxiety, and distress when compared with no treatment. Neither dronabinol nor nabilone is approved by the FDA for pain relief.
+Non-specific Cannabis products: A randomized controlled trial studied patients with advanced cancer who used Cannabis in addition to opioids early in treatment compared to patients who added Cannabis later in treatment. Patients who were given Cannabis later showed an increase in opioid use during the 3-month study. Opioid use was stable in patients who began Cannabis use earlier. There were no changes in symptoms or adverse effects between the two groups. Over 100 different Cannabis products were given during the study.
+Anxiety and sleep
+Cannabis and cannabinoids have been studied in the treatment of anxiety.
+Inhaled Cannabis: A small case series found that patients who inhaled Cannabis had improved mood, improved sense of well-being, and less anxiety. In another study, 74 patients newly diagnosed with head and neck cancer who were Cannabis users were matched to 74 nonusers. The Cannabis users had lower anxiety or depression and less pain or discomfort than the nonusers. The Cannabis users were also less tired, had more appetite, and reported greater feelings of well-being.
+Oral Cannabis oil: A randomized controlled trial studied two different doses of oral Cannabis oil in patients with brain cancer that could not be removed by surgery or had come back. Physical side effects such as sleep were noted to be better in the 1:1 ratio dose group. Both doses were well tolerated without any adverse effects.
+Relief of cancer symptoms with cannabidiol oil
+Cannabidiol (CBD) is a Cannabis compound that does not produce a "high" linked to Cannabis, but is felt to have possible health benefits.
+CBD oil has been studied for relief of cancer symptoms. A randomized, placebo-controlled, double-blinded trial of 144 patients studied the effect of oral CBD oil on cancer symptoms. All patients were treated by palliative care specialists. No difference was found in relief of cancer symptoms between the oral CBD group and the placebo group after 14 and 28 days. This trial has several limiting factors involving patients who participated, low levels of symptoms, and high levels of patients who did not complete the study.
+Have any side effects or risks been reported from Cannabis and cannabinoids?
+Side effects of Cannabis and cannabinoids can include:
+Fast heartbeat.
+Low blood pressure.
+Muscle relaxation.
+Bloodshot eyes.
+Slow digestion.
+Dizziness.
+Drowsiness.
+Depression.
+Hallucinations.
+Paranoia.
+Both Cannabis and cannabinoids may be addictive. Symptoms of withdrawal from cannabinoids include:
+Being easily annoyed or angered.
+Trouble sleeping.
+Unable to stay still.
+Hot flashes.
+Nausea and cramping (rare).
+These symptoms are mild compared with symptoms of withdrawal from opiates and usually go away after a few days.
+Studies on cancer risk from Cannabis use
+Studies on the risk of various cancers linked to Cannabis smoking have shown the following:
+Lung cancer: Because Cannabis smoke contains many of the same substances as tobacco smoke, there are concerns about how inhaled Cannabis affects the lungs. A cohort study of men in Africa found that there was an increased risk of lung cancer in tobacco smokers who also inhaled Cannabis. A population study of patients with lung cancer found that low Cannabis use was not linked to an increased risk of lung cancer or other aerodigestive tract cancers.
+Testicular cancer: A 1970 study interviewed over 49,000 Swedish men aged 19 to 21 years about their personal history of using Cannabis at the time they enlisted in the military and then followed them for up to 42 years. The study did not find a link between those who had "ever" used Cannabis and testicular cancer, but did find that "heavy" use of Cannabis (more than 50 times in a lifetime) was linked to more than twice the risk of testicular cancer. The study was limited by the way data was gathered and did not note whether the testicular cancers were seminoma or nonseminoma types or whether Cannabis use also occurred after enlistment.
+Bladder cancer: A review of bladder cancer rates in Cannabis users and non-users was done in over 84,000 men who took part in the California Men's Health Study. After more than 16 years of follow-up and adjusting for age, race, ethnic group, and body mass index, rates of bladder cancer were found to be 45% lower in Cannabis users than in men who did not report Cannabis use.
+Larger studies that follow patients over time are needed to find if there is a link between Cannabis use and a higher risk of testicular germ cell tumors.
+Studies on Cannabis use and impact on cancer treatment
+Few studies have been done to find out how Cannabis interacts with conventional treatment. A retrospective observational study in Israel showed that Cannabis reduced the effect of immunotherapy. A prospective observational study of immunotherapy and Cannabis in patients with metastatic cancer reported that the Cannabis users did not benefit from immunotherapy as much as those who did not use Cannabis.
+Are Cannabis or cannabinoids approved by the U.S. Food and Drug Administration for use as a cancer treatment or treatment for cancer-related symptoms or side effects of cancer therapy?
+The U.S. Food and Drug Administration (FDA) has not approved Cannabis or cannabinoids for use as a cancer treatment.
+Cannabis is not approved by the FDA for the treatment of any cancer-related symptom or side effect of cancer therapy.
+Two cannabinoids (dronabinol and nabilone) are approved by the FDA for the treatment of nausea and vomiting caused by chemotherapy in patients who have not responded to antiemetic therapy.
+Current Clinical Trials
+Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available.

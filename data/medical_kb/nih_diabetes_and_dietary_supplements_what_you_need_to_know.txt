@@ -1,0 +1,113 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Diabetes and Dietary Supplements: What You Need To Know
+URL: https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Diabetes and Dietary Supplements: What You Need To Know
+What’s the Bottom Line?
+How much do we know about dietary supplements for diabetes?
+Many studies have investigated dietary supplements for preventing or treating type 2 diabetes or its complications. This fact sheet focuses on type 2 diabetes.
+What do we know about the effectiveness of dietary supplements for diabetes?
+For a few dietary supplements, there is weak evidence of a possible benefit. For example, some studies suggest that chromium, cinnamon, or berberine might help with blood sugar control and that alpha-lipoic acid might be helpful for reducing pain associated with diabetic neuropathy (nerve problems). But most of these studies have limitations in size and differ from each other in participant characteristics, supplement formulations and dosing, length of study, and results, leading to no clear conclusions. For most supplements, there isn’t evidence to support a beneficial effect on diabetes or its complications.
+What do we know about the safety of dietary supplements for diabetes?
+Some dietary supplements may have side effects, and some of these side effects, such as kidney damage, can be serious.
+The U.S. Food and Drug Administration (FDA) is warning consumers about products for diabetes that seem too good to be true, such as those that claim to be a “natural diabetes cure” or to “replace your diabetes medicine.” These products are marketed illegally. Some are harmful in themselves, and all are harmful if people use them in place of effective diabetes treatment.
+It’s very important not to replace medical treatment for diabetes with an unproven health product or practice.
+About Diabetes
+Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Over time, having too much glucose in your blood can cause health problems, such as heart disease, nerve damage, eye problems, and kidney disease.
+About 11.3 percent of the people in the United States have diabetes, but about one in four adults who have diabetes don’t know it.
+Although diabetes has no cure, people with diabetes can take steps to manage their condition and stay healthy. Taking insulin or other diabetes medicines is often part of treating diabetes, along with healthy food choices, physical activity, adequate sleep, and stress management.
+According to research on a long-term dietary and lifestyle intervention, remission may be possible for some people with type 2 diabetes. For people with prediabetes—defined as blood sugar levels higher than normal but not high enough for a diagnosis of type 2 diabetes—sustained dietary and lifestyle change programs can help to reverse prediabetes and prevent diabetes.
+More About Diabetes
+The most common type of diabetes is type 2 diabetes, in which your body does not make or use insulin well. This type of diabetes occurs most often in middle-aged and older people, but it can develop at any age, even in childhood.
+You are more likely to develop type 2 diabetes if you are 45 years old or older, have a family history of diabetes, or are overweight or have obesity. Physical inactivity, race, certain health problems such as high blood pressure, having prediabetes, or having had gestational diabetes while pregnant also affect your likelihood of developing type 2 diabetes.
+For more information about diabetes and related conditions, see the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) website.
+Kidney disease has been linked to using some dietary supplements. This is of particular concern for people with diabetes, since diabetes is the leading cause of kidney disease. If you have or are at risk for kidney disease, a health care provider should closely monitor your use of supplements.
+What the Science Says About the Effectiveness and Safety of Dietary Supplements for Diabetes
+Alpha-Lipoic Acid
+Alpha-lipoic acid has been studied for its effect on improving blood sugar and lipid (fat) levels in people with diabetes as well as on complications of diabetes, including diabetic macular edema (an eye condition that can cause vision loss), diabetic neuropathy (nerve damage caused by diabetes), and diabetic nephropathy (kidney damage caused by diabetes).
+In terms of managing type 2 diabetes, a 2019 review of 10 studies (553 participants) showed that alpha-lipoic acid was no better than placebo at reducing levels of blood sugar, cholesterol, or triglycerides.
+In a 2011 study of 467 people with type 2 diabetes, participants received either alpha-lipoic acid (600 mg/day for 2 years) or placebo. There was no statistically significant difference between the treatment or placebo group in the outcome of developing clinically significant diabetic macular edema.
+A 2022 review that evaluated 8 studies (1,500 participants) indicated inconsistent findings of alpha-lipoic acid’s effectiveness in treating diabetic neuropathy: 3 studies found improvements in symptoms, and 5 studies did not. All 8 studies found alpha-lipoic acid to be safe, with no reported adverse effects. Another 2022 review of 9 studies (2,062 participants) found that alpha-lipoic acid might help reduce pain in people with diabetic neuropathy.
+A 2022 review of 12 studies (653 participants) found that alpha-lipoic acid supplementation did not improve kidney dysfunction in people with diabetes (diabetic nephropathy). Some of the studies evaluated alpha-lipoic acid on its own, and the other studies looked at alpha-lipoic acid combined with pharmaceuticals or vitamin supplementation. The authors indicated that the evidence was limited because of the small number of studies and participants.
+Safety
+A 2020 review of 71 studies (4,749 participants) found alpha-lipoic acid supplementation was safe in healthy individuals and in patients affected by certain diseases, including cardiovascular disease, neurological disorders, and diabetes.
+The most common side effects of alpha-lipoic acid supplementation are headache, heartburn, nausea, and vomiting.
+Berberine
+Berberine is found in certain plants such as barberry, goldenseal, goldthread, Oregon grape, and tree turmeric. Plants with berberine have been used medicinally in Ayurvedic medicine and traditional Chinese medicine for thousands of years.
+A 2021 review of 46 studies (4,158 participants) showed that berberine may have beneficial effects on lowering blood glucose levels, reducing insulin resistance, and improving lipid metabolism in people with type 2 diabetes.
+The authors of the review indicated that there is some evidence that berberine might be helpful for diabetes, especially as an adjunctive therapy. However, the review was limited to mostly studies conducted among Chinese patients, there was wide variability in berberine’s effect on some of the outcomes, and some of the studies were of poor quality.
+Safety
+Berberine is considered safe at doses used in clinical situations (200 to 1,000 mg two to three times daily).
+Common side effects reported with use of berberine supplements include mild-to-moderate nausea, diarrhea, bloating, and constipation.
+Berberine may interact with some medicines, possibly causing unwanted side effects. People who take medicines should talk with their health care providers before taking berberine.
+Berberine should not be used during pregnancy or while breastfeeding, and it should not be given to infants. Exposure to berberine has been linked to a harmful buildup of bilirubin in infants, which can cause brain damage.
+Chromium
+Found in many foods, chromium is an essential trace mineral. If you have too little chromium in your diet, your body can’t use glucose efficiently.
+A 2022 review of 16 studies (868 participants) suggested that chromium supplementation may help improve glycosylated hemoglobin (HbA1c, which measures the average blood glucose over the prior few months), fasting blood glucose, and insulin resistance in people with type 2 diabetes.
+Safety
+Chromium supplements may cause stomach pain and bloating, and there have been a few reports of kidney damage, liver damage, muscular problems, and skin reactions following large doses. The effects of taking chromium long term haven’t been well investigated.
+Herbal Supplements
+We don’t have reliable evidence that any herbal supplements can help to control diabetes or its complications.
+Cinnamon:
+According to a 2019 review of 16 studies (1,098 participants), cinnamon supplementation helped reduce fasting blood glucose and insulin resistance in people with prediabetes and type 2 diabetes. However, the studies differed in strength of dose, length of treatment, and type of participants included. The review authors said that more research with standard cinnamon formulations is needed to understand cinnamon’s effect.
+A 2020 review of 9 studies (623 participants) found that cinnamon supplementation helped to decrease blood pressure in people with type 2 diabetes, but it did not affect body mass index, body weight, or waist circumference. The authors noted that the studies did not have many participants and that other factors capable of affecting blood pressure, such as smoking, physical activity, and diet, were not assessed in the studies.
+A second 2020 review, which looked at 16 studies involving 1,025 participants, found that cinnamon supplementation decreased levels of triglycerides, total cholesterol, and low-density lipoprotein (LDL) cholesterol in people with type 2 diabetes. These reductions were not as prominent in studies conducted in Western countries, as well as in studies of higher quality and those lasting longer than 2 months.
+Other Herbal Supplements:
+Other herbal supplements studied for diabetes include bitter melon, various Chinese herbal medicines, fenugreek, ginseng, and milk thistle. Overall, research has been limited in the number, size, and quality of studies and hasn’t proven that any of these herbal supplements are effective.
+Safety
+We have little conclusive information on the safety of herbal supplements for people with diabetes, and some herbal supplements may have side effects.
+Cinnamon supplementation at doses below 6 grams per day does not appear to pose a health risk. The most common side effects at higher doses are allergic skin reactions and digestive problems.
+Cassia cinnamon, the most common type of cinnamon sold in the United States and Canada, contains varying amounts of a chemical called coumarin, which might cause or worsen liver disease. In most cases, cassia cinnamon doesn’t have enough coumarin to make you sick. However, for some people, such as those with liver disease, taking a large amount of cassia cinnamon might worsen their condition.
+Using herbal supplements such as cinnamon, St. John’s wort, or aloe with conventional diabetes drugs can cause unwanted side effects. People who take diabetes drugs should tell their health care providers about any herbal supplements they are taking.
+Magnesium
+Found in many foods, including in high amounts in legumes, seeds, nuts, whole grains, and spinach, magnesium is essential to the body’s ability to process glucose.
+People with higher amounts of magnesium in their diets tend to have a lower risk of developing diabetes.
+A 2021 review looked at 13 studies of 957 participants who were at high risk of diabetes and found that magnesium supplementation may improve insulin sensitivity.
+A 2022 review of 18 studies and 1,097 participants with diabetes indicated that magnesium supplementation might have an effect on blood sugar control, but the authors said that the research so far is insufficient for providing any clinical guidelines.
+Safety
+Magnesium in dietary supplements should not be consumed in amounts above the upper limit, unless recommended by a health care provider. (The daily upper limit for magnesium intake from supplements and medications for adults is 350 mg.)
+Large doses of magnesium in supplements can cause diarrhea and abdominal cramping. Very large doses—more than 5,000 mg per day—can be deadly.
+For more information on magnesium, see the Office of Dietary Supplements (ODS) Magnesium: Fact Sheet for Consumers.
+Omega-3s
+There are conflicting findings on the effects of omega-3s on diabetes and related cardiovascular problems.
+In a 2022 review of 30 studies with 2,459 participants, 70 percent of the studies showed at least one significant positive effect of omega-3 supplementation on measures related to diabetes. Omega-3 supplementation had no significant effect on HbA1c (which measures the average blood glucose over the prior few months) but had a significant effect on reducing fasting blood glucose and insulin resistance. The review authors said that more studies are needed to confirm these findings.
+A 2022 review of 46 studies (4,991 participants) found that omega-3 interventions (primarily supplements) significantly improved total cholesterol, triglycerides, HDL cholesterol, HbA1c, and C-reactive protein. In contrast to the prior review, this one found no significant effect of omega-3s on fasting blood glucose or insulin resistance. The authors said that limitations included differences in omega-3 type, treatment duration, and dose among the studies.
+Safety
+Any side effects from taking omega-3 supplements are usually mild. They include an unpleasant taste in the mouth, bad breath, heartburn, nausea, stomach discomfort, headache, and smelly sweat.
+Omega-3 supplements may interact with drugs that affect blood clotting.
+For more information on omega-3 supplements, see NCCIH’s Omega-3 Fatty Acids webpage.
+Selenium
+A 2019 review of 4 studies with 241 participants showed no evidence that selenium helps with diabetes.
+Safety
+Long-term intake of too much selenium can have harmful effects, including nausea, diarrhea, skin rashes, hair and nail loss, and nervous system abnormalities. Extremely high intakes of selenium can cause severe problems, including difficulty breathing, tremors, kidney failure, heart attacks, and heart failure.
+Selenium may interact with some medications, including the chemotherapy drug cisplatin.
+For more information on selenium, see ODS’s Selenium: Fact Sheet for Consumers.
+Vitamins
+A 2022 review analyzed 178 studies of different supplements, including vitamins C, D, and E, and their effect on adults with diabetes. An initial analysis showed that vitamins C, D, and E reduced HbA1c, but with low certainty, and none of the vitamins were effective in reducing insulin or insulin resistance. After excluding the poor-quality studies, only vitamin D was significantly effective in helpful reductions. When the analysis was restricted to studies lasting at least 12 weeks, vitamin D reduced HbA1c, fasting blood glucose, and insulin resistance. However, the authors said that the improvements seen with vitamin D were small and less than the minimal amount needed for a clinical difference and also came with a low certainty of evidence. The authors concluded that the available evidence supports current recommendations that nutritional supplements may not be helpful for blood glucose control.
+Having low levels of vitamin D is associated with an increased risk of developing type 2 diabetes. A 2020 review of 9 studies (43,559 participants) found that vitamin D supplementation at moderate-to-high doses (at least 1,000 IU/day) significantly reduced the risk of type 2 diabetes in people with prediabetes. However, the review found that studies of lower doses of vitamin D among the general population showed no reduction in diabetes risk. Another 2020 review, which included 8 studies with 4,896 participants, also indicated that vitamin D supplementation reduces the risk of type 2 diabetes in people with prediabetes but suggested that the benefit may be limited to people who do not have obesity.
+Safety
+Getting too much vitamin D can be harmful. Very high levels of vitamin D in your blood (greater than 375 nmol/L or 150 ng/mL) can cause nausea, vomiting, muscle weakness, confusion, pain, loss of appetite, dehydration, excessive urination and thirst, and kidney stones. Extremely high levels of vitamin D can cause kidney failure, irregular heartbeat, and even death. (High levels of vitamin D are almost always caused by consuming excessive amounts of vitamin D from dietary supplements.)
+For more information on vitamin D, see ODS’s Vitamin D: Fact Sheet for Consumers.
+Other Supplements
+Polyphenols are antioxidants found in foods and beverages such as tea, soy, coffee, cocoa, fruits, grains, and vegetables. Growing evidence indicates that various dietary polyphenols may influence blood glucose and help control and prevent diabetes complications, but the evidence is still preliminary on how supplements or foods rich in polyphenols might affect diabetes.
+Nutrition and Physical Activity for People With Diabetes
+Nutrition and physical activity are important parts of a healthy lifestyle for people with diabetes. Eating well and being physically active can help you do the following:
+Keep your blood glucose level, blood pressure, and cholesterol in your target ranges
+Lose weight or stay at a healthy weight
+Prevent or delay diabetes problems
+Feel good and have more energy.
+For more information, see NIDDK’s webpage Diabetes Diet, Eating, & Physical Activity.
+Prevention of Diabetes by Lifestyle Changes
+A 2019 review of 7 studies and 4,090 participants found that the risk for developing diabetes was reduced by lifestyle interventions aimed at reducing weight, increasing physical activity, and following a diet relatively low in saturated fat and high in fiber. The authors of the review concluded that type 2 diabetes is preventable by certain lifestyle changes and that the reduction in risk is sustained for many years after the active intervention.
+To learn more about preventing diabetes through a lifestyle change program, visit the National Diabetes Prevention Program.
+NCCIH-Funded Research
+NCCIH is supporting research on the possible effects of:
+Chelation therapy on heart health in people who have diabetes and have had a heart attack
+Marijuana on the body’s metabolism and risk of developing type 2 diabetes
+Vitamin D and omega-3 supplementation in preventing diabetes.
+More To Consider
+The FDA is warning consumers not to buy illegally marketed, potentially dangerous products claiming to prevent, treat, or cure diabetes. These products make claims like “lowers your blood sugar naturally” or “inexpensive therapy to fight and eliminate type II diabetes.” They may contain harmful ingredients and the label may not tell you what you’re actually taking.
+Fraudulent diabetes products can be especially dangerous if you use them instead of proven treatments for diabetes. Without proper disease management, people with diabetes are at greater risk of developing serious complications.
+Keep in mind that dietary supplements may interact with medications or other dietary supplements. To learn more, visit NCCIH’s Know the Science: How Medications and Supplements Can Interact.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.

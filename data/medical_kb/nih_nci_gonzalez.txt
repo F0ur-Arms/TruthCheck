@@ -1,0 +1,52 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Gonzalez Regimen (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/gonzalez-pdq
+────────────────────────────────────────────────────────────
+
+NOTE: There is either no new research on this topic or the recent published research is weak and not appropriate for inclusion in the summary. Therefore, the information in this summary is no longer being updated and is provided for reference purposes only.
+The Gonzalez regimen, developed by Dr. Nicholas Gonzalez, involves taking pancreatic enzymes thought to have anticancer activity. The regimen also includes prescribed diets, nutritional supplements, and coffee enemas (see Question 1).
+The Gonzalez regimen is based on the theory that pancreatic enzymes help the body get rid of toxins (harmful substances) that lead to cancer (see Question 3).
+A few studies have examined the effect of pancreatic enzymes in animals with implanted cancers, but it is not possible to test many other parts of the Gonzalez regimen this way. (see Question 5).
+In an early small study of Dr. Gonzalez's patients with advanced pancreatic cancer, he reported that patients on his regimen lived longer than most people with the same type of cancer (see Question 6).
+A later nonrandomized, controlled clinical trial compared the effectiveness of standard treatment with that of the Gonzalez regimen in patients whose pancreatic cancer could not be removed by surgery. Patients treated with standard chemotherapy survived an average of 14 months and patients treated with the Gonzalez regimen survived only an average of 4.3 months. In addition, patients treated with chemotherapy reported a better quality of life than those treated with the Gonzalez regimen (see Question 6).
+The US Food and Drug Administration has not approved the Gonzalez regimen or any of its components as a cancer treatment (see Question 8).
+Questions and Answers About the Gonzalez Regimen
+What is the Gonzalez regimen?
+The Gonzalez regimen is a complex treatment plan based on the role of enzymes, vitamins, minerals, and other dietary factors. The developer of the regimen, Dr. Nicholas Gonzalez, promoted it as a treatment for advanced pancreatic cancer. The Gonzalez regimen is currently available only to patients in one clinical practice. Supporters of the Gonzalez regimen say it fights cancer in these ways:
+Helping the body get rid of cancer-causing toxins taken in from the environment and processed foods.
+Balancing the part of the nervous system that controls automatic body functions such as heartbeat, blood pressure, digestion, and breathing.
+Keeping the immune system healthy.
+Some key parts of the regimen include the following:
+Taking a freeze-dried pancreatic enzyme that is made from pigs. This is said to be the main cancer-fighter in the regimen.
+Taking a large number of nutritional supplements, including magnesium citrate, papaya, vitamins, and other minerals.
+Eating a special diet of mainly organic foods.
+Taking coffee enemas twice a day.
+What is the history of the discovery and use of the Gonzalez regimen as a complementary and alternative treatment for cancer?
+In 1902, James Beard, a Scottish physician, suggested that pancreatic enzymes might control and kill cancer cells. Later, William Kelley, a dentist, further developed Dr. Beard’s ideas and published the results of his own practice. Impressed by these findings, Dr. Gonzalez began working closely with Dr. Kelley. The Gonzalez regimen combines the work of Dr. Gonzalez and Dr. Kelley with the theories and practice of Dr. Max Gerson. Dr. Gerson also treated cancer with diet and nutritional supplements.
+What is the theory behind the claim that the Gonzalez regimen is useful in treating cancer?
+Supporters of the Gonzalez regimen believe that toxins (harmful substances) in the environment and in processed foods cause cancer to form in the body. These toxins are said to build up in tissues of the body, preventing important body processes from working correctly and letting cancer develop. The theory is that if these toxins could be destroyed and removed from the body, cancer would stop growing.
+The pancreas secretes enzymes, proteins that help digest food. The Gonzalez regimen is based on the theory that pancreatic enzymes also help the body get rid of toxins that lead to cancer. The coffee enemas are added because they are believed to improve the liver’s ability to remove toxins from the body.
+The diets used in the Gonzalez regimen are planned for each patient’s metabolic type. Metabolic typing is a theory that people fall into one of three groups based on the main type of food (protein, carb, or mixed) that their bodies need to stay healthy. Certain tests, including looking at the patient’s hair under a microscope, are used to decide a patient’s metabolic type. The theory is that a diet that is correct for the patient’s metabolic type will keep the body healthy and better able to prevent or fight cancer.
+How is the Gonzalez regimen administered?
+The pancreatic enzyme is taken by mouth, in a capsule. Between 130 and 160 doses of other nutritional supplements are taken by mouth each day. The patients also eat a special diet and have coffee enemas twice a day.
+Have any preclinical (laboratory or animal) studies been conducted using the Gonzalez regimen?
+Research in a laboratory or using animals is done to find out if a drug, procedure, or treatment is likely to be useful in humans. These preclinical studies are done before any testing in humans is begun. Animal studies of the Gonzalez regimen looked at the effect of pancreatic enzymes in cancer treatment, but did not study the regimen as a whole. There has been preclinical testing on the effects of pancreatic enzymes in several cancers:
+In 1999, an animal study tested the effect of different doses of pancreatic enzymes taken by mouth on the growth and metastasis (spread) of breast cancer in rats. Some of the rats received magnesium citrate in addition to the enzymes. Rats receiving the enzymes were compared to rats that did not receive the enzymes.
+Results showed that the enzyme did not affect growth of the primary tumor (where the cancer started).
+The cancer spread to the most places in the rats that received the highest dose of enzymes.
+The cancer spread to the fewest places in the rats that received the lowest dose of enzymes plus magnesium citrate.
+Another animal study looked at the effects of pancreatic enzymes on survival rates and tumor growth in rats with pancreatic cancer. Rats receiving the enzyme treatment lived longer, had smaller tumors and fewer signs of disease, and were more active than the rats in the control group, which did not receive the enzyme.
+Have any clinical trials (research studies with people) of the Gonzalez regimen been conducted?
+Nicholas Gonzalez, a New York physician, first studied his regimen in 11 patients who had advanced pancreatic cancer. In 1993, he reported selected results of the study to the National Cancer Institute (NCI). Patients treated with the Gonzalez regimen lived a median of 17 months, which is longer than usual for patients with this disease. Most patients with advanced pancreatic cancer live less than a year.
+Because of the small number of patients in the study, and for other reasons, the NCI and the Office of Alternative Medicine (OAM) decided that the results were not clear and prospective studies were encouraged. In prospective studies, patients are followed forward in time. The NCI and the National Center for Complementary and Integrative Health (NCCIH) sponsored a second study with a much larger number of patients. This was a 7-year clinical study that included patients who had stage II, stage III, or stage IV pancreatic cancer that could not be removed by surgery.
+In this study, one group of patients followed the Gonzalez regimen while another group was given standard treatment (chemotherapy). Results in the two groups were compared to see if the Gonzalez regimen works better than the standard treatment and if it has bad side effects. Results of the study were reported in the peer-reviewed Journal of Clinical Oncology in April 2010. Patients treated with standard chemotherapy survived a median of 14 months and patients treated with the Gonzalez regimen survived a median of 4.3 months. Patients treated with chemotherapy reported a better quality of life than those treated with the Gonzalez regimen. Dr. Gonzalez published comments on his website to express concerns about how the trial was conducted. One concern was how well patients in the Gonzalez regimen group actually followed the regimen.
+Have any side effects or risks been reported from the Gonzalez regimen?
+The reported side effects of treatment with the Gonzalez regimen are the following:
+Gas, bloating, and digestion problems.
+Flu-like symptoms.
+Low-grade fever.
+Muscle aches.
+Skin rashes.
+There is no information on the side effects of the coffee enemas taken twice a day. Taking too many enemas of any kind can cause changes in normal blood chemistry, chemicals that occur naturally in the body and keep the muscles, heart, and other organs working properly.
+Is the Gonzalez regimen approved by the US Food and Drug Administration (FDA) for use as a cancer treatment in the United States?
+The FDA has not approved the Gonzalez regimen or any of its components as a cancer treatment.

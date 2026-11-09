@@ -1,0 +1,79 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Magnets For Pain: What You Need To Know
+URL: https://www.nccih.nih.gov/health/magnets-for-pain-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Magnets For Pain: What You Need To Know
+What kind of magnets are used for pain?
+Magnets and magnetic therapy have been used to treat different types of pain, such as arthritis or headaches, for hundreds of years. Magnetic therapy devices are marketed widely, and they are most commonly used for pain, inflammatory conditions, and wound healing. Different types of magnets have been studied for pain:
+Static or permanent magnets: Made from metal or alloys, static magnets can be weak, moderate, or strong, but their magnetic fields are always on and do not change. Magnetic therapy using static magnets involves placing magnets near or on the body for the purpose of pain relief or healing. Static magnets marketed for pain are often encased in a wrap, such as a wristband, that is placed against the skin near where pain is felt. They are also sold in products such as jewelry, mats, pillows, and bed pads. The existing research on the use of static magnets for pain is extremely limited, and no conclusive evidence of static magnets’ effectiveness for any form of pain has been found.
+Electromagnets: The magnetic fields in electromagnets can change in intensity and are created when an electric current passes through a wire coil containing magnetic material. Devices with electromagnets in them are marketed for health purposes. Among the types of electromagnets studied for pain or healing are pulsed electromagnetic field therapy (PEMF) and its subtypes, including repetitive peripheral magnetic stimulation. Current research suggests that electromagnetic field therapy can relieve pain and improve function in patients with various musculoskeletal pain conditions and some osteoarthritis conditions, although the data is mixed. Electromagnetics appear to be safe for treating pain.
+Is magnetic therapy approved by the U.S. Food and Drug Administration (FDA)?
+Magnetic therapy using PEMF has been approved by the FDA for specific conditions, including treatment of fractures that do not heal with standard medical treatment and post-operative pain and edema in superficial soft tissues. For severe migraines, depression, and obsessive-compulsive disorder, the FDA has approved a specific type of magnetic therapy known as transcranial magnetic stimulation, which uses magnetic fields to stimulate brain cells. The use of FDA-approved magnetic therapy for these conditions is considered conventional medicine and is beyond the scope of this fact sheet.
+Do magnets help with pain?
+Research studies do not conclusively support the use of static magnets for pain relief. There is some evidence that electromagnetic therapy may be helpful for pain.
+Electromagnetic therapy
+A 2020 review of 21 studies (1,101 participants) that focused on electromagnetic therapy for musculoskeletal pain conditions reported that electromagnetic therapy reduced pain and improved function in people with different musculoskeletal diseases, including knee osteoarthritis (8 studies), shoulder impingement syndrome (2 studies), chronic mechanical neck pain (1 study), low-back pain (4 studies), fibromyalgia (3 studies), patellofemoral (knee) pain (1 study), plantar fasciitis (heel pain, 1 study), and hand osteoarthritis (1 study). Although most of the studies in the review compared electromagnetic therapy with a sham (i.e., fake) treatment, a few looked at it in combination with other forms of therapy. The review concluded that pain relief was not further increased when electromagnetic therapy was used along with other physical therapies such as hot packs, therapeutic ultrasound, or transcutaneous electric nerve stimulation (TENS).
+Static magnet therapy
+A 2021 review of 7 studies (576 participants) on the use of static magnets for various types of pain—including diabetic neuropathy, sciatica, fibromyalgia, plantar heel pain, pelvic pain, neck and shoulder pain, or forearm and wrist pain—had mixed results. Four studies showed improvements in pain and three did not. Different studies used different static magnet strengths or dosing times, which may have contributed to the inconsistency in the results.
+Osteoarthritis
+Electromagnetic therapy
+Electromagnetic therapy may be a beneficial complementary therapy for treating osteoarthritis in certain joints, although the evidence on specific symptom relief is mixed.
+A 2020 review of 15 studies (985 participants) found that electromagnetic therapy reduced pain and improved stiffness and physical function but not overall quality of life in people with osteoarthritis in their knees, hands, neck, or ankles.
+A 2018 review of 12 studies (385 participants) that looked at people with osteoarthritis in various areas of the body, including knees (10 studies), neck (2 studies), and hands (1 study), found that treatment with electromagnetic therapy reduced pain and improved function in people with knee and hand osteoarthritis but not neck osteoarthritis. Short sessions (less than 30 minutes) were more effective than longer sessions.
+Static magnet therapy
+There is no conclusive evidence that static magnet therapy is beneficial for osteoarthritis pain.
+Fibromyalgia
+The evidence on magnetic therapy for fibromyalgia pain is very limited and weak. A 2021 narrative review of four studies (312 participants) on electromagnetic and static magnet therapy for fibromyalgia reported that there is not enough evidence to know if magnetic therapy is helpful for reducing pain in people with fibromyalgia. The two smallest studies (93 participants) in the review found evidence of pain reduction using 30 minutes of electromagnetic therapy two to three times per week for 3 to 4 weeks. However, the largest study of electromagnetic therapy for fibromyalgia pain (108 participants) found no reduction in pain in women with fibromyalgia after PEMF. The one study of static magnet therapy (111 participants) included in the review found that 6 months of sleeping on mattress pads containing static magnets did not improve pain significantly in people with fibromyalgia.
+Low-Back Pain
+Electromagnetic therapy
+There is some evidence that electromagnetic therapy may help improve low-back pain. A 2022 review of 14 studies (618 participants) found that 1 to 12 weeks of PEMF therapy, 2 to 7 days per week, is beneficial for reducing pain in people with chronic low-back pain. In addition, the researchers found that PEMF may provide additional pain relief even when used along with usual care, physical therapy, or pain medicines.
+Static magnet therapy
+Very little evidence is available on static magnet therapy for low-back pain. A small 2021 pilot study (22 participants) reported that when magnetic tape was applied to their backs, participants with low-back pain had improved blood flow and reported reduced pain.
+Shoulder Pain
+Electromagnetic therapy
+The small amount of research that has been done on electromagnetic therapy for shoulder pain has not shown that this therapy is helpful.
+A 2016 review of 4 studies (168 study participants) of PEMF for shoulder pain from rotator cuff disease reported that PEMF therapy was not effective for reducing shoulder pain either alone or when added to a physical therapy exercise program.
+A 2021 study (40 participants) of people with a shoulder tendon/rotator cuff tear found that combining PEMF with conventional physical therapy did not reduce pain or improve function any more than physical therapy alone.
+Static magnet therapy
+No recent research is available on static magnet therapy for shoulder pain.
+Complex Regional Pain Syndrome
+Electromagnetic therapy
+A small amount of research has reported mixed results on the effectiveness of PEMF for people with complex regional pain syndrome (CRPS). CRPS is a broad term describing excess and prolonged pain and inflammation that follows an injury to an arm or leg.
+In a 2021 review of 2 studies (70 participants) on PEMF therapy for people with CRPS, 1 study found that PEMF did not reduce pain or swelling. However, the other smaller study found that people with CRPS had less pain and improved function in their upper and lower limbs after 10 consecutive days of a type of PEMF therapy known as bio-electro-magnetic-energy-regulation (BEMER).
+Static magnet therapy
+No recent research is available on static magnet therapy for CRPS.
+Mouth and Jaw Pain
+Electromagnetic therapy
+No recent research is available on electromagnetic therapy for mouth and jaw pain.
+Static magnet therapy
+Very little research is available on magnetic therapy for pain in and around the mouth and jaw. A small 2012 study (79 participants) found that 5 minutes of static magnetic therapy reduced pain in people with jaw pain (temporomandibular disorders) but not dry socket (alveolitis) or mouth ulcers. This study only looked at pain levels immediately after using the magnets. No information is available about whether magnetic therapy is effective for reducing pain over any length of time.
+Carpal Tunnel Syndrome Pain
+Electromagnetic therapy
+No recent research is available on electromagnetic therapy for carpal tunnel syndrome pain.
+Static magnet therapy
+Not much research is available on magnetic therapy for carpal tunnel syndrome pain. A small 2018 study (22 participants) concluded that 6 weeks of static magnets did not reduce pain significantly in people with carpal tunnel syndrome.
+Menstrual Pain
+Electromagnetic therapy
+There is a small amount of recent research on electromagnetic therapy for dysmenorrhea (menstrual pain). A 2020 study (40 participants) that compared PEMF therapy with aerobic exercise in adolescents and young women diagnosed with dysmenorrhea found that 4 weeks of PEMF therapy, received for 15 to 25 minutes per session, three times per week, reduced menstrual pain significantly more than 20 to 25 minutes of aerobic exercise performed three times per week for 4 weeks. The participants who received PEMF also reported better quality of life than those who exercised.
+Static magnet therapy
+No recent research is available on static magnet therapy for menstrual pain.
+Cancer and Pain from Chemotherapy
+The small amount of research that has been done on electromagnetic and static magnet therapy for pain related to cancer and chemotherapy treatments has not shown a beneficial effect. The quality of the reviewed studies was low due to their small sizes and short durations.
+Electromagnetic therapy
+A 2018 review of 2 studies (64 participants) of PEMF therapy for peripheral neuropathic pain caused by chemotherapy in people with cancer did not find a significant effect.
+Static magnet therapy
+A 2020 study (60 participants) of people with advanced lung cancer found that receiving 21 days of rotating static magnetic therapy (2 hours per day) did not reduce pain from chemotherapy.
+Multiple Sclerosis and Paresthesia Pain
+Electromagnetic therapy
+One small 2016 study (63 participants) on electromagnetic therapy for multiple sclerosis–related paresthesia pain (i.e., an abnormal itching, prickling, tingling, burning, or numbness in the limbs) found that 60 days of twice weekly PEMF therapy for 20 minutes per session was effective in reducing pain in people with multiple sclerosis. A smaller reduction in pain was also found after 30 days of PEMF treatment.
+Static magnet therapy
+No recent research is available on static magnet therapy for paresthesia pain from multiple sclerosis.
+Are magnets safe to use for pain?
+Both static and electromagnetic therapy appear to be safe for treating pain. Many studies have reported minimal or no negative side effects in people following magnetic therapy, including people with chronic diseases and pain.
+Magnets and magnetic therapy devices should be kept out of reach of children, as children may swallow or accidentally inhale small magnets, which can be deadly.
+You should keep the following safety concerns in mind before trying and while using magnetic therapy:
+Some magnets may interfere with medical devices, such as pacemakers and insulin pumps.
+If you’re pregnant or you have a health condition, talk with your health care provider before using magnetic therapy.
+Magnetic bracelets, necklaces, braces, or other devices should be removed from the body before you have an imaging procedure such as magnetic resonance imaging (MRI).
+Do not use static magnets or electromagnets that you can buy without a prescription to postpone seeing a health care provider about pain or any other medical problem.

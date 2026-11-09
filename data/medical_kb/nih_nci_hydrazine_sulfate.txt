@@ -1,0 +1,66 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Hydrazine Sulfate (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/hydrazine-sulfate-pdq
+────────────────────────────────────────────────────────────
+
+NOTE: There is either no new research on this topic or the recent published research is weak and not appropriate for inclusion in the summary. Therefore, the information in this summary is no longer being updated and is provided for reference purposes only.
+Hydrazine sulfate is a chemical compound that has been studied as a treatment for cancer and certain side effects caused by cancer (see Question 1).
+Hydrazine sulfate may block the tumor from taking in glucose, which is a type of sugar that tumor cells need to grow (see Question 3).
+In randomized clinical trials (a type of research study), hydrazine sulfate did not make tumors shrink or go away. In some randomized trials, however, hydrazine sulfate was reported to be helpful in treating anorexia and cachexia caused by cancer. (See Question 6.)
+Hydrazine sulfate is sold as a dietary supplement in the United States. The US Food and Drug Administration has not approved the use of hydrazine sulfate as a cancer treatment, except in clinical trials (see Question 8).
+Questions and Answers About Hydrazine Sulfate
+What is hydrazine sulfate?
+Hydrazine sulfate is a compound that has been studied as a treatment for cancer and for cancer-related anorexia (loss of appetite) and cachexia (loss of muscle mass and body weight).
+What is the history of the discovery and use of hydrazine sulfate as a complementary or alternative treatment for cancer?
+It has been known since the early 1900s that hydrazine compounds are toxic to animals and to humans. More than 400 hydrazine-related compounds have been tested for their ability to kill cancer cells. One of these compounds, procarbazine, has been used to treat Hodgkin disease, melanoma, and lung cancer since the 1960s.
+In view of procarbazine’s anticancer activity, hydrazine sulfate (a compound similar to procarbazine) was studied for its effectiveness in fighting cancer beginning in the 1970s. Studies of hydrazine sulfate as a treatment for cancer-related cachexia also began during this time.
+Hydrazine compounds have also been used to make rocket fuel, as herbicides (chemicals that kill plants), and as chemical agents in boiler and cooling-tower water systems. Many scientists consider hydrazine sulfate and other similar substances to be cancer-causing agents and are concerned about the safety of using these compounds.
+What is the theory behind the claim that hydrazine sulfate is useful in treating cancer?
+Two theories have been suggested to explain how hydrazine sulfate acts against cancer and cachexia:
+Hydrazine sulfate may prevent the body from making sugar that cancer cells need to grow. It has been suggested that cachexia occurs because the cancer is using too much of the body's sugar, preventing healthy cells from getting what they need to live. This causes tissues to die and muscle to waste away, and the patient loses weight.
+Hydrazine sulfate may block tumor necrosis factor-alpha (TNF-alpha). This is a substance made by the body’s white blood cells to fight infection and tissue damage. High levels of TNF-alpha have been found in cancer patients. These high levels of TNF-alpha may cause loss of appetite, tiredness, and the breakdown of muscle tissue. As muscle breaks down, it makes sugar that the cancer cells use to grow. Blocking the TNF-alpha might stop tumor growth and prevent cachexia.
+How is hydrazine sulfate administered?
+Hydrazine sulfate is taken by mouth in pills or capsules. There is no standard dose or length of treatment time.
+Have any preclinical (laboratory or animal) studies been conducted using hydrazine sulfate?
+Research in a laboratory or using animals is done to find out if a drug, procedure, or treatment is likely to be safe and useful in humans. These preclinical studies are done before any testing in humans is begun. The following has been learned from preclinical studies of hydrazine sulfate:
+In most studies with rats, mice, and hamsters, hydrazine sulfate caused an increase in lung, liver, and breast cancers.
+When used alone against certain types of cancer (including melanoma, leukemia, bladder, breast, and prostate), hydrazine sulfate slowed tumor growth in some animal studies and showed no effect in others. In cases where tumor growth was slowed the most, the animals lost large amounts of weight. This finding does not support the proposed use of hydrazine sulfate to treat cachexia caused by cancer.
+When hydrazine sulfate was combined with an anticancer drug, it seemed to improve the anticancer effects in rats and mice. When hydrazine sulfate was combined with an anticancer drug that affects the way cells use sugar, however, it helped in some studies and did not help in others.
+Preclinical studies by the National Cancer Institute (NCI) found that hydrazine sulfate showed no anticancer activity except in one type of cancer in rats. The NCI decided not to continue studying the compound as a treatment for cancer. Studies of hydrazine sulfate as a treatment for cancer-related anorexia and cachexia continued.
+For more information on the preclinical studies, see the PDQ health professional version of Hydrazine Sulfate.
+Have any clinical trials (research studies with people) of hydrazine sulfate been conducted?
+Clinical trials are a type of research study that tests how well new drugs or other treatments work in people. There have been many studies of hydrazine sulfate in patients with advanced cancer. Researchers looked at the following:
+Tumor response and/or survival among patients with various types of cancer.
+Changes in body weight.
+Quality of life.
+Changes in nutritional status and metabolism (chemical changes that take place in cells and make energy needed for life).
+Clinical trials of hydrazine sulfate have reported the following:
+In the mid 1970s, clinical trials by a drug company found that a small number of patients who were treated with hydrazine sulfate for advanced cancer reported having a better appetite, losing less weight, feeling stronger, or having less pain. In some patients, the tumor got smaller or did not grow, or there was improvement in a cancer-related symptom. These clinical trials do not prove that hydrazine sulfate is effective for advanced cancer, however, because of weaknesses in study design. There was no control group (a group of patients who did not receive hydrazine sulfate) and half of the patients in the trial could not be counted in the results for reasons that include missing information, short treatment times, and receiving other treatment along with the hydrazine sulfate.
+From the 1970s to the mid 1990s, Russian studies with hydrazine sulfate had mixed results. Little information was reported about the patients and their treatment and about the study design and methods. All of the patients in these studies also received standard treatment with surgery, chemotherapy, and/or radiation therapy. Therefore, it is not known if results were caused by hydrazine sulfate or one of the standard treatments, or both.
+Clinical studies funded by the NCI in the 1970s found that hydrazine sulfate did not cause tumors to shrink or go away. Some patients reported small improvements in appetite, pain, and weight, but they did not last. These studies did not include control groups.
+Four randomized controlled trials were done in the 1990s. A randomized trial is a study in which the patients are assigned by chance to separate groups to compare different treatments; neither the researchers nor the patients can choose which group. These trials compared hydrazine sulfate with a placebo (an inactive substance that looks like the treatment being tested). The results showed that hydrazine sulfate was not effective in treating cancer. In some cases, it was found to be harmful.
+In three of the trials, lung cancer patients received either hydrazine sulfate or a placebo, along with anticancer drugs. The patients who received hydrazine sulfate did not live longer or have their tumors shrink any more than the placebo group. In one of the studies, patients who took hydrazine sulfate showed better nutritional status than patients in the placebo group, although the increase in body weight was small. In another of the studies, patients who received hydrazine sulfate had a worse quality of life than patients who received the same anticancer drugs plus the placebo. 1
+A fourth trial found that patients with colorectal cancer who received only hydrazine sulfate lived for a shorter time than patients who received only a placebo.
+Four other randomized controlled trials studied the effects of hydrazine sulfate on nutritional status and metabolism. The studies showed some benefit from hydrazine sulfate.
+In 2 of the studies2, patients receiving hydrazine sulfate showed improvement in metabolism, appetite, and in either gaining weight or not losing weight.
+In the other 2 clinical trials3, lung and colon cancer patients receiving hydrazine sulfate had less cancer-related muscle wasting.
+Have any side effects or risks been reported from hydrazine sulfate?
+In general, the reported side effects of hydrazine sulfate treatment have been mild to moderate. Most side effects are reported to end when treatment with hydrazine sulfate is stopped. Some animal studies, however, suggest that hydrazine sulfate may be highly toxic (harmful) when combined with either alcohol or barbiturates (drugs with sedative and hypnotic effects).
+Most of the side effects caused by hydrazine sulfate have involved the nervous system and gastrointestinal tract. These side effects include the following:
+Nausea and/or vomiting.
+Dizziness.
+Abnormal feelings in the arms and legs (such as burning or prickling).
+Nerve inflammation.
+Impaired fine motor function (such as trouble writing).
+Dry skin and/or itching.
+Being unable to sleep.
+Abnormally low blood sugar.
+One case of fatal liver and kidney failure and one case of severe injury to the brain have been linked to the use of hydrazine sulfate.
+Is hydrazine sulfate approved by the U.S. Food and Drug Administration (FDA) for use as a cancer treatment in the United States?
+The FDA has not approved hydrazine sulfate for use as a cancer treatment in the United States.
+The FDA has approved the study of hydrazine sulfate in clinical trials. Information about ongoing clinical trials can be found on the NCI website.
+Dietary supplements are products meant to be added to the diet. They are not drugs and are not meant to treat, prevent, or cure diseases. The manufacturer is responsible for ensuring that the product is safe and that the label claims are truthful and not misleading. The FDA does not approve dietary supplements as safe or effective before they are sold.
+References
+Loprinzi CL, Goldberg RM, Su JQ, et al.: Placebo-controlled trial of hydrazine sulfate in patients with newly diagnosed non-small-cell lung cancer. J Clin Oncol 12 (6): 1126-9, 1994. [PUBMED Abstract]
+Chlebowski RT, Bulcavage L, Grosvenor M, et al.: Hydrazine sulfate in cancer patients with weight loss. A placebo-controlled clinical experience. Cancer 59 (3): 406-10, 1987. [PUBMED Abstract]
+Tayek JA, Heber D, Chlebowski RT: Effect of hydrazine sulphate on whole-body protein breakdown measured by 14C-lysine metabolism in lung cancer patients. Lancet 2 (8553): 241-4, 1987. [PUBMED Abstract]

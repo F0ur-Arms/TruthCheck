@@ -1,0 +1,45 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Intravenous Vitamin C (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq
+────────────────────────────────────────────────────────────
+
+Vitamin C is a nutrient found in food and dietary supplements. It is an antioxidant and also plays a key role in making collagen (see Question 1).
+Vitamin C may be taken by mouth or given by an intravenous (IV) infusion. When taken by IV infusion, vitamin C can reach higher levels in the blood than when the same amount is taken by mouth (see Question 2).
+Some studies of IV vitamin C use in people with cancer showed it improved quality of life and reduced cancer-related side effects (see Question 4).
+In general, vitamin C given by IV infusion has caused very few side effects in clinical trials. However, IV vitamin C may cause serious side effects in people with kidney disease, G6PD deficiency, or hemochromatosis (see Question 5).
+The U.S. Food and Drug Administration (FDA) has not approved the use of IV vitamin C as a treatment for cancer (see Question 7).
+Questions and Answers About Intravenous Vitamin C
+What is vitamin C?
+Vitamin C is a nutrient that is found in food, such as oranges, grapefruit, kiwi, peppers, and broccoli, and in dietary supplements. Vitamin C is an antioxidant and helps prevent damage to cells caused by free radicals. It also works with enzymes to play a key role in making collagen. Vitamin C is also called L-ascorbic acid or ascorbate.
+How is vitamin C given or taken?
+Vitamin C may be given by intravenous (IV) infusion or taken by mouth. When given by IV infusion, vitamin C can reach much higher levels in the blood than when it is taken by mouth.
+Have any laboratory or animal studies
+been done using IV vitamin C?
+In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies, tests are done to see if a drug, procedure, or treatment is safe and effective. Laboratory and animal studies are done in animals before a substance is tested in people.
+Laboratory and animal studies have tested the effects of IV vitamin C. Laboratory studies suggest that high levels of vitamin C may kill cancer cells. For information on laboratory and animal studies done using intravenous vitamin C, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Intravenous Vitamin C.
+Have any studies of IV vitamin C been done in people with cancer?
+Several studies of IV vitamin C given alone or in combination with other drugs in people with cancer include the following:
+Studies of IV vitamin C alone
+One study found that people with cancer who received IV vitamin C had better quality of life and fewer cancer-related side effects than those who did not receive it.
+In a single-arm pilot study of people with castration-resistant prostate cancer, IV vitamin C did not lower prostate-specific antigen levels or stop tumors from growing.
+In a study of healthy volunteers and people with cancer, vitamin C was shown to be safe at doses up to 1.5 g/kg in people who do not have kidney stones, other kidney diseases, or G6PD deficiency. Studies have also shown that vitamin C levels in the blood are higher when given by IV than when taken by mouth, and last for more than 4 hours.
+Studies of IV vitamin C combined with other drugs
+Studies of IV vitamin C given with other drugs have shown mixed results.
+In a small study of 14 people with advanced pancreatic cancer, IV vitamin C was given along with chemotherapy and targeted therapy (erlotinib). Five study participants did not complete the vitamin C treatment because the tumor continued to grow during treatment. The nine participants who completed the treatment had stable disease as shown by imaging studies. Very few side effects were reported from the vitamin C treatment.
+In a study of people newly diagnosed with pancreatic cancer, IV vitamin C did not interfere with gemcitabine.
+In another small study, 9 people with advanced pancreatic cancer were given chemotherapy once a week for 3 weeks along with IV vitamin C twice a week for 4 weeks during each treatment cycle. The cancer did not progress over an average of 6 months in these patients. No serious side effects were reported with the combined treatment.
+In a study of 27 people with advanced ovarian cancer, chemotherapy alone was compared with chemotherapy and IV vitamin C. IV vitamin C was given during chemotherapy and for 6 months after chemotherapy ended. Those who received IV vitamin C had fewer side effects from the chemotherapy.
+People with refractory metastatic colorectal cancer or metastatic melanoma were treated with IV vitamin C given along with arsenic trioxide and other drugs. The treatment had no anticancer effect, the tumor continued to grow during treatment, and patients had serious side effects. These studies did not have a comparison group, so it is unclear how much the IV vitamin C affected the side effects.
+In two pilot trials, people with non-small cell lung cancer or glioblastoma multiforme were given standard therapy plus IV vitamin C. Those who received standard therapy plus IV vitamin C had better overall survival and fewer side effects than the control groups.
+More studies of combining IV vitamin C with other drugs are being done. These include a number of clinical trials combining IV vitamin C with arsenic trioxide, showing mixed results.
+Have any side effects or risks been reported from IV vitamin C?
+IV vitamin C has caused very few side effects in clinical trials. However, IV vitamin C may be harmful in people with certain risk factors.
+In people with a history of kidney disease, kidney failure has been reported after treatment with IV vitamin C. People who are likely to develop kidney stones should not be treated with IV vitamin C.
+One study reported too much fluid in the body (fluid overload) related to IV vitamin C. This may have been caused by the IV delivery method and not the vitamin C.
+Case reports have shown that people with an inherited disorder called G6PD deficiency should not be given high doses of vitamin C because it may cause hemolysis.
+Because vitamin C may make iron more easily absorbed and used by the body, high doses of vitamin C are not recommended for people with hemochromatosis (a condition in which the body takes up and stores more iron than it needs).
+Have any drug interactions been reported from adding IV vitamin C to treatment with anticancer drugs?
+A drug interaction is a change in the way a drug acts in the body when taken with certain other drugs. When IV vitamin C is combined with certain anticancer drugs, the anticancer drugs may not work as well. So far, these effects have been seen only in some laboratory and animal studies. For information on drug interactions while using IV vitamin C, see the Adverse Effects section of the health professional version of Intravenous Vitamin C.
+Is IV vitamin C approved by the FDA for use as a cancer treatment in the United States?
+The FDA has not approved the use of IV vitamin C as a treatment for cancer.
+The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of IV vitamin C may not be the same.

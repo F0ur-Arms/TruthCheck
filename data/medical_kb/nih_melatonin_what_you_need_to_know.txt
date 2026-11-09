@@ -1,0 +1,100 @@
+SOURCE: NCCIH, U.S. National Institutes of Health (public domain)
+TITLE: Melatonin: What You Need To Know
+URL: https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know
+────────────────────────────────────────────────────────────
+
+Melatonin: What You Need To Know
+What is melatonin and how does it work?
+Melatonin is a hormone that your brain produces in response to darkness. It helps with the timing of your circadian rhythms (24-hour internal clock) and with sleep. Being exposed to light at night can block melatonin production.
+Research suggests that melatonin plays other important roles in the body beyond sleep. However, these effects are not fully understood.
+Melatonin dietary supplements can be made from animals or microorganisms, but most often they’re made synthetically. The information below is about melatonin dietary supplements.
+What are the health benefits of taking melatonin?
+Melatonin supplements may help with certain conditions, such as jet lag, delayed sleep-wake phase disorder, some sleep disorders in children, and anxiety before and after surgery.
+Jet lag
+Jet lag affects people when they travel by air across multiple time zones. With jet lag, you may not feel well overall and you may have disturbed sleep, daytime tiredness, impaired functioning, and digestive problems.
+Research suggests that melatonin supplements may help with jet lag. This is based on medium-sized reviews from 2010 and 2014.
+Four studies that included a total of 142 travelers showed that melatonin may be better than a placebo (an inactive substance) in reducing overall symptoms of jet lag after eastward flights. Another study of 234 travelers on eastward flights looked at only sleep quality and found low-quality evidence that melatonin may be better than placebo for improving sleep quality.
+Two studies that included a total of 90 travelers showed that melatonin may be better than a placebo in reducing symptoms of jet lag after westward flights.
+Delayed sleep-wake phase disorder (DSWPD)
+People with DSWPD have trouble falling asleep at the usual times and waking up in the morning. They typically have difficulty getting to sleep before 2 to 6 a.m. and would prefer to wake up between 10 a.m. and 1 p.m.
+Melatonin supplements appear to help with sleep in people with DSWPD, but it’s uncertain whether the benefits outweigh the possible harms. This is based on a clinical practice guideline, a small review, and a more recent study.
+In 2015, the American Academy of Sleep Medicine recommended melatonin supplements given at specific times for DSWPD. The recommendation was a weak one, and it came with uncertainty about whether the benefits of melatonin outweigh its potential harms.
+A 2016 review that looked at a small number of people (52) from two studies showed that melatonin supplements reduced the time it took for people with DSWPD to fall asleep when compared to placebo. On average, it took about 22 minutes less for them to fall asleep.
+A 2018 randomized controlled trial that lasted 4 weeks and included 307 people with DSWPD found that taking melatonin 1 hour before the desired bedtime combined with going to bed at a set time led to several improvements. Those improvements included falling asleep an average of 34 minutes earlier, better sleep during the first third of the night, and better daytime functioning.
+Some sleep disorders in children
+Sleep problems in children can have undesirable effects on their behavior, daytime functioning, and quality of life. Children with certain conditions, such as atopic dermatitis, asthma, attention-deficit hyperactivity disorder (ADHD), or autism spectrum disorder (ASD), are more prone to sleep problems than other children.
+There are no overall guidelines on the best approach to improving sleep in children. However, guidelines for specific conditions recommend behavioral treatments, such as good bedtime habits and parent education, as an initial treatment that may be supplemented with medicines.
+A 2019 review looked at 18 studies of melatonin supplements that included a total of 1,021 children. Most of the studies were small, and all were relatively brief (1 to 13 weeks). Overall, the studies showed that melatonin was better than placebo for improving both the time to fall asleep and total sleep. The effects of melatonin on behavior and daytime functioning, however, weren’t clear because the studies used different ways to measure these outcomes.
+The list below shows the review’s results on melatonin’s short-term effects for children with specific conditions.
+Children with ASD fell asleep 37 minutes earlier and slept 48 minutes longer.
+Children with ADHD fell asleep 20 minutes earlier and slept 33 minutes longer.
+Children with atopic dermatitis fell asleep 6.8 minutes earlier and slept 35 minutes longer.
+Children with chronic sleep-onset insomnia fell asleep 24 minutes earlier and slept 25 minutes longer.
+Because there aren’t many studies on children and melatonin supplements, there is a lot we don’t know about the use of melatonin in children. For example, there are uncertainties about what dose to use and when to give it, the effects of melatonin use over long periods of time, and whether melatonin’s benefits outweigh its possible risks. Because melatonin is a hormone, it’s possible that melatonin supplements could affect hormonal development, including puberty, menstrual cycles, and overproduction of the hormone prolactin, but we don’t know for sure.
+Because of these uncertainties, it’s best to work with a health care provider if you’re considering giving a child melatonin for sleep problems.
+Anxiety before and after surgery
+Anxiety before and after surgery happens in up to 80 percent of patients.
+Melatonin supplements appear to be helpful in reducing anxiety before surgery, but it’s unclear if it helps to lower anxiety after surgery. This is a based on a 2015 review.
+The 2015 review looked at 12 studies that involved 774 people and assessed melatonin supplements for treating anxiety before surgery, anxiety after surgery, or both. The review found strong evidence that melatonin is better than placebo at reducing anxiety before surgery. Melatonin supplements may be as effective as standard treatment (the antianxiety medicine midazolam). However, the results on melatonin’s benefits for reducing anxiety after surgery were mixed.
+Is melatonin helpful for preventing or treating COVID-19?
+Current research looking at the effects of melatonin on COVID-19 is only in the early stages. There are a few randomized controlled trials (studies evaluating melatonin in people) in progress. At this point, it is too soon to reach conclusions on whether melatonin is helpful for COVID-19.
+Does melatonin help with cancer symptoms?
+Studies of the effect of melatonin supplements on cancer symptoms or treatment-related side effects have been small and have had mixed results.
+Keep in mind that unproven products should not be used to replace or delay conventional medical treatment for cancer. Also, some products can interfere with standard cancer treatments or have special risks for people who’ve been diagnosed with cancer. Before using any complementary health approach, including melatonin, people who’ve been diagnosed with cancer should talk with their health care providers to make sure that all aspects of their care work together.
+Can melatonin help with insomnia?
+People with insomnia have trouble falling asleep, staying asleep, or both. When symptoms last a month or longer, it’s called chronic insomnia.
+According to practice guidelines from the American Academy of Sleep Medicine (2017) and the American College of Physicians (2016), there’s not enough strong evidence on the effectiveness or safety of melatonin supplementation for chronic insomnia to recommend its use. The American College of Physicians guidelines strongly recommend the use of cognitive behavioral therapy for insomnia (CBT-I) as an initial treatment for insomnia.
+Does melatonin work for shift workers?
+Shift work that involves night shifts may cause people to feel sleepy at work and make it difficult to sleep during the daytime after a shift ends.
+According to two 2014 research reviews, studies on whether melatonin supplements help shift workers were generally small or inconclusive.
+The first review looked at 7 studies that included a total of 263 participants. The results suggested that (1) people taking melatonin may sleep about 24 minutes longer during the daytime, but (2) other aspects of sleep, such as time needed to fall asleep, may not change. The evidence, however, was considered to be of low quality.
+The other review looked at 8 studies (5 of which were also in the first review), with a total of 300 participants, to see whether melatonin helped promote sleep in shift workers. Six of the studies were high quality, and they had inconclusive results. The review did not make any recommendations for melatonin use in shift workers.
+Is it safe to take melatonin?
+For melatonin supplements, particularly at doses higher than what the body normally produces, there’s not enough information yet about possible side effects to have a clear picture of overall safety. Short-term use of melatonin supplements appears to be safe for most people, but information on the long-term safety of supplementing with melatonin is lacking.
+Also keep in mind:
+Interactions with medicines
+As with all dietary supplements, people who are taking medicine should consult their health care providers before using melatonin. In particular, people with epilepsy and those taking blood thinner medications need to be under medical supervision when taking melatonin supplements.
+Possible allergic reaction risk
+There may be a risk of allergic reactions to melatonin supplements.
+Safety concerns for pregnant and breastfeeding women
+There’s been a lack of research on the safety of melatonin use in pregnant or breastfeeding women.
+Safety concerns for older people
+The 2015 guidelines by the American Academy of Sleep Medicine recommend against melatonin use by people with dementia.
+Melatonin may stay active in older people longer than in younger people and cause daytime drowsiness.
+Melatonin is regulated as a dietary supplement
+In the United States, melatonin is considered a dietary supplement. This means that it’s regulated less strictly by the Food and Drug Administration (FDA) than a prescription or over-the-counter drug would be. In several other countries, melatonin is available only with a prescription and is considered a drug.
+Products may not contain what’s listed on the label
+Some melatonin supplements may not contain what’s listed on the product label. A 2017 study tested 31 different melatonin supplements bought from grocery stores and pharmacies. For most of the supplements, the amount of melatonin in the product didn’t match what was listed on the product label. Also, 26 percent of the supplements contained serotonin, a hormone that can have harmful effects even at relatively low levels.
+Is melatonin safe for children?
+In addition to issues mentioned above, there are some things to consider regarding melatonin’s safety in children.
+Parents considering giving their children melatonin should first speak with a health care provider about melatonin use in children.
+A 2023 study found that 22 out of 25 over-the-counter melatonin gummy products were inaccurately labeled. One product did not contain detectable levels of melatonin. In the remaining products, the melatonin levels ranged from 74 to 347 percent of the labeled quantity (i.e., up to almost 3.5 times more melatonin than reported on the label). Most had more than the label said, with the majority containing between 1.2 to 1.7 times more melatonin than the amount listed.
+Parents need to ensure safe storage and appropriate use of melatonin supplements. Based on case surveillance data, a 2024 report by the U.S. Centers for Disease Control and Prevention (CDC) estimated that from 2019 to 2022, 11,000 emergency department visits were for unsupervised melatonin ingestion by children 5 years and younger. The report noted that many of the incidents involved ingestion of flavored products such as gummies and emphasized the importance of keeping medications and supplements out of children’s reach and sight.
+Use of over-the-counter melatonin might place children and teenagers at risk for accidental or intentional overdose.
+A 2022 study indicated that U.S. sales of melatonin—which is widely available in tablet, capsule, liquid, and gummy formulations—increased by about 150 percent between 2016 and 2020. The study authors said that the increase in sales, availability, and widespread use of melatonin in the United States has likely resulted in increased access to melatonin among children in the home.
+The 2022 study also showed that the number of reports to U.S. poison control centers about people 19 years and younger who took melatonin increased from 8,337 in 2012 to 52,563 in 2021. Over the 10-year period, the number of reports increased each year. Hospitalizations and serious outcomes from melatonin ingestion by people 19 years and younger also increased over the 10 years. Most hospitalizations involved teenagers who had intentionally taken melatonin overdoses, and the largest increase in hospitalizations occurred in children 5 years and younger.
+More Information
+Most of the calls to poison control centers—94.3 percent—were for children 5 years and younger who accidentally consumed melatonin products in their homes.
+Data from the calls show that most of the people who had taken melatonin—82.8 percent—did not have any symptoms. Among those who did have symptoms, gastrointestinal, cardiovascular, or symptoms related to the central nervous system were the most common.
+Of the 4,097 people who were hospitalized over the 10-year period, 287 needed intensive care.
+Five individuals required mechanical ventilation, and two children younger than age 2 died, but the data from the poison control centers did not show whether the two deaths were caused by a melatonin overdose or another cause.
+Melatonin supplements at normal doses appear to be safe for most children for short-term use, but there aren’t many studies on children and melatonin. Also, there’s little information on the long-term effects of melatonin use in children. Because melatonin is a hormone, it’s possible that melatonin supplements could affect hormonal development, including puberty, menstrual cycles, and overproduction of the hormone prolactin, but we don’t know for sure.
+Possible melatonin supplement side effects reported in children have usually been mild and have included:
+Drowsiness
+Increased bedwetting or urination in the evening
+Headache
+Dizziness
+Agitation
+What are the side effects of melatonin?
+A 2015 review on the safety of melatonin supplements indicated that only mild side effects were reported in various short-term studies that involved adults, surgical patients, and critically ill patients. Some of the mild side effects that were reported in the studies included:
+Headache
+Dizziness
+Nausea
+Sleepiness
+The possible long-term side effects of melatonin use are unclear.
+Tips To Consider
+Remember that even though the FDA regulates dietary supplements, such as melatonin, the regulations for dietary supplements are different and less strict than those for prescription or over-the-counter drugs.
+Some dietary supplements may interact with medicines or pose risks if you have medical problems or are going to have surgery.
+If you’re pregnant or nursing a child, it’s especially important to see your health care provider before taking any medicine or supplement, including melatonin.
+If you use dietary supplements, such as melatonin, read and follow label instructions. “Natural” doesn’t always mean “safe.” For more information, see Using Dietary Supplements Wisely.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.

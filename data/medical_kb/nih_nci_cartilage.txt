@@ -1,0 +1,100 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Cartilage (Bovine and Shark) (PDQ®)–Patient Version
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/cartilage-pdq
+────────────────────────────────────────────────────────────
+
+NOTE: There is either no new research on this topic or the recent published research is weak and not appropriate for inclusion in the summary. Therefore, the information in this summary is no longer being updated and is provided for reference purposes only.
+Cartilage is a type of tough, flexible connective tissue (see Question 1).
+Cartilage from cows (bovine cartilage) and sharks has been studied as a treatment for people with cancer and other medical conditions for more than 30 years (see Question 2).
+Laboratory and animal studies have looked at whether bovine and shark cartilage products can kill cancer cells, make the immune system more active against cancer, and prevent the body from making the new blood vessels that a tumor needs to grow (see Question 5).
+The results have been mixed in the human studies of cartilage as a treatment for cancer reported to date (see Question 6).
+The US Food and Drug Administration (FDA) has not approved cartilage as a treatment for cancer (see
+Question 8).
+Questions and Answers About Cartilage (Bovine and Shark)
+What is cartilage?
+Cartilage is a type of tough, flexible connective tissue that forms parts of the skeleton in many animals. Cartilage contains cells called chondrocytes, which are surrounded by collagen (a fibrous protein) and proteoglycans, which are made of protein and carbohydrate.
+Products containing cartilage are sold in the United States as dietary supplements. Companies that make cartilage products may not have a process in place to check that all batches they make are exactly the same. This means different batches of a cartilage product may contain different amounts or strengths of ingredients. Different binding agents (substances that make loose mixtures stick together) and fillers may be used in different batches. Therefore, the results of a particular clinical trial may be true only for the batch that was used in the study.
+What is the history of the discovery and use of cartilage as a complementary or alternative treatment for cancer?
+Cartilage from cows (bovine cartilage) and sharks has been studied as a treatment for cancer and other medical conditions for more than 30 years. It was once believed that sharks, whose skeletons are made mostly from cartilage, do not develop cancer. This caused interest in cartilage as a possible treatment for cancer. Although malignant tumors are rare in sharks, cancers have been found in these animals.
+Early studies used extracts of bovine cartilage.
+In the 1960s, it was first reported that bovine cartilage decreased inflammation (redness, swelling, pain, and feeling of heat).
+In the 1970s, it was first reported that bovine cartilage contains a substance that blocks angiogenesis (the forming of new blood vessels). If blood vessel growth into a tumor can be blocked, the tumor will stop growing or shrink.
+In the 1980s, researchers first described laboratory and animal studies and clinical trials (research studies in people) testing bovine cartilage
+as a treatment for cancer.
+Interest in using shark cartilage grew because it was believed that shark cartilage may be more active than bovine cartilage in preventing new blood vessels from being formed. Since a shark's skeleton is made mostly of cartilage, shark cartilage is more plentiful than bovine cartilage.
+In the 1980s, it was first published that shark cartilage contains a substance that blocks blood vessel growth.
+In 1998 and 2005, there were published reports of clinical trials of shark cartilage as a treatment for cancer.
+(See Question 5 for more information about the laboratory and animal studies. See Question 6 for more information about the clinical trials.)
+What is the theory behind the claim that cartilage is useful in treating cancer?
+Three theories have been suggested to explain how cartilage acts against cancer:
+As cartilage is broken down by the body, it releases products that kill cancer cells.
+Cartilage increases the action of the body’s immune system to kill cancer cells.
+Cartilage makes substances that block tumor angiogenesis (the growth of new blood vessels that feed a tumor and help it grow).
+Based on laboratory and animal studies, the third theory may be most likely. Cartilage does not contain blood vessels, so cancer cannot easily grow in it. It is suggested that a cancer treatment using cartilage may keep blood vessels from forming in a tumor, causing the tumor to stop growing or shrink.
+How is cartilage administered?
+In animal studies, cartilage products have been given by mouth; injected into a vein or the abdomen; applied to the skin; or placed in slow-release plastic pellets that were surgically implanted (put into the body).
+In studies with people, cartilage products have been given by mouth; applied to the skin; injected under the skin; or given by enema (injected as a liquid into the rectum). The dose and length of time the cartilage treatment was given was different for each study, in part because different types of products were used.
+Have any preclinical (laboratory or animal) studies been conducted using cartilage?
+A number of preclinical studies have been done with cartilage. Preclinical studies in a laboratory or using animals are done to find out if a drug, procedure, or treatment is likely to be safe and useful in humans. These preclinical studies are done before testing in humans is begun. Some research studies are published in scientific journals. Most scientific journals have experts who review research reports before they are published, to make sure that the evidence and conclusions are sound.
+Preclinical studies of cartilage looked at whether bovine and shark cartilage products can kill cancer cells in the laboratory, make the immune system more active against cancer, and prevent blood vessels from forming.
+Powdered cartilage
+The following have been reported from preclinical studies of the effect of powdered cartilage on cancer cells in vitro (outside of the body):
+In a published laboratory study, a powdered form of bovine cartilage called Catrix slowed the growth of human cancer cells by half or more. It is not clear if Catrix had this effect only on cancer cells, because its effect the growth of normal cells was not tested. It is also not known if the dose used in the laboratory study could safely be used in people.
+In a published laboratory study of powdered shark cartilage, there was no effect on the growth of human astrocytoma cells (cancer cells that begin in the brain or spinal cord).
+The following have been reported from preclinical studies of the effect of powdered cartilage on the immune system:
+One published study reported that Catrix injected into mice caused their immune systems to be more active. This effect did not happen when Catrix was given by mouth.
+A laboratory study on the effect of shark cartilage on a tumor model reported an increase in tumor-fighting immune cells in the tumor but not in the blood.
+A study on the effect of shark cartilage on immune system response in mice reported a number of different effects, both helpful and harmful. It increased antibody response but decreased the activity of natural killer cells (tumor-fighting white blood cells). The study also reported a decrease in blood vessel growth.
+A large number of laboratory and animal studies on the effect of powdered cartilage on angiogenesis have been published. The following have been reported from these studies:
+Powdered shark cartilage given by mouth to rats decreased the growth of abdominal tissue cells.
+Powdered shark cartilage given by mouth to rats decreased the growth of gliosarcomas, a type of brain cancer.
+Two powdered shark cartilage products (Sharkilage and MIA Shark Powder) given by mouth to mice did not stop the growth or spread of squamous cell skin cancer.
+Three substances that prevent blood vessel growth were found in bovine cartilage. These substances have not shown an effect on the growth of normal cells or tumor cells.
+Two substances that prevent blood vessel growth were found in shark cartilage. These substances have not shown an effect on the growth of normal cells or tumor cells.
+Liquid cartilage
+The following have been reported from preclinical studies of liquid cartilage products:
+In a laboratory study, a liquid form of shark cartilage called AE-941/Neovastat was reported to stop the growth of a number of cancer cell types. The results have not been published in a scientific journal.
+Several studies have shown that AE-941/Neovastat blocks the growth of new blood vessels.
+AE-941/Neovastat given by mouth to mice slowed the growth of breast cancer cells and the spread of lung cancer. In the lung cancer study, AE-941/Neovastat increased the effect of the anticancer drug cisplatin.
+A substance made from human cartilage slowed the spread of pancreatic cancer cells in an animal study and prevented blood vessel growth in both animal and laboratory studies.
+Have any clinical trials (research studies with people) been conducted using cartilage?
+Clinical trials are a type of research study that tests how well new drugs or other treatments work in people. Since the 1970s, there have been at least a dozen clinical studies of cartilage as a treatment for cancer.
+There has been one randomized clinical trial of cartilage as cancer treatment published in a peer-reviewed scientific journal. This trial compared treatment using a form of shark cartilage to treatment using a placebo (an inactive substance that looks the same as, and is given the same way as, the substance being tested). Patients also received standard care. In 83 patients having either advanced breast or advanced colon cancer, there was no difference in the quality of life or survival rate between the group that received the shark cartilage product and the group that received the placebo.
+Powdered cartilage
+The following have been reported from clinical trials of powdered cartilage products:
+Case series (a collection of detailed information about individual patients) of 31 patients who were treated with Catrix by injection and/or by mouth:
+The cancer went into remission (signs and symptoms of cancer went away) in 19 patients and then recurred (came back) in about half of them. Some of these patients also received standard cancer treatment and there was no control group (a group of patients who do not receive the treatment being studied, to show if the treatment being studied makes a difference). For these reasons, the effectiveness of cartilage as a cancer treatment is not proven by this case series.
+A clinical trial of Cartilade by mouth in 60 patients with advanced cancer:
+All but 1 patient had been treated with standard therapy before the trial. The cancer stopped growing in 10 of the patients for 12 weeks or more and then began to grow again. The cancer did not shrink or go into remission in any of the patients.
+Liquid cartilage
+The following have been reported from clinical trials of liquid cartilage products:
+A clinical trial of Catrix in 9 patients whose cancers did not respond to radiation therapy and/or chemotherapy:
+Catrix was given by injection. One patient's cancer went into remission for more than 39 weeks and the other 8 patients did not respond to treatment with Catrix.
+Clinical studies on the safety of the liquid shark cartilage product AE-941/Neovastat have reported that it has little harmful effect.
+A randomized clinical trial studied the effect of AE-941/Neovastat on blood vessel growth related to wound healing after surgery. This study reported that one of the ingredients that prevents blood vessel growth can be absorbed and used by the body when taken by mouth.
+A clinical trial of oral AE-941/Neovastat in 379 patients with advanced non-small cell lung cancer reported that there was no difference in how long patients lived between the group receiving the shark cartilage product and chemoradiotherapy compared to the group receiving the placebo and chemoradiotherapy. Both kinds of treatment were well tolerated.
+For more detailed information about these clinical trials and others that are ongoing or have not fully reported, see the health professional version.
+Have any side effects or risks been reported from cartilage?
+The side effects of cartilage treatment are usually mild or moderate.
+The most common side effects of treatment with the bovine cartilage product Catrix include the following:
+Inflammation at the injection location.
+A bad taste in the mouth.
+Feeling very tired.
+Nausea.
+Upset stomach.
+Fever.
+Feeling dizzy.
+Swelling of the scrotum (the sac that contains the testicles).
+The most common side effects of treatment with the shark cartilage include the following:
+Nausea.
+Vomiting.
+Abdominal cramps and/or bloating.
+Constipation.
+Lower than normal blood pressure.
+Higher than normal blood sugar.
+General weakness.
+A higher than normal level of calcium in the blood.
+Nausea, vomiting, and upset stomach are the side effects reported most often from treatment with the shark cartilage product AE–941/Neovastat.
+There has been one report of hepatitis occurring in a person who used shark cartilage.
+Is cartilage approved by the US Food and Drug Administration (FDA) for use as a cancer treatment in the United States?
+The US Food and Drug Administration (FDA) has not approved cartilage as a treatment for cancer. A number of cartilage products are sold in the United States as dietary supplements. Dietary supplements are products meant to be added to the diet. They are not drugs and are not meant to treat, prevent, or cure diseases. The manufacturer is responsible for ensuring that the product is safe and that the label claims are truthful and not misleading. The FDA does not approve dietary supplements as safe or effective before they are sold.
