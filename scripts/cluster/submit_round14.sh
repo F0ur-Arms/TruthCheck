@@ -21,6 +21,8 @@
 #        qsub -v PROJECT_DIR=$PWD scripts/cluster/embed_medical_kb.pbs
 #      and wait for it to finish (the cluster runs one job per queue, two per user).
 #   3. Start the 32B server if it is not running: qsub scripts/cluster/vllm_32b.pbs
+# Round 13 ran as 6 shards on Gpu7-80g (the 80 GB card); a 40 GB slice ran out of memory on 617 claims
+# in the team's v3+pool run, so keep Gpu7-80g (QUEUE=... overrides).
 # Run on the master node from the checkout that holds the new knowledge base, one round at a time,
 # then merge:  python evaluation/merge_shards.py evaluation/baselines/<round>/graph_public_32b_gate01
 # A final combined round: EXTRA_ENV="TRUTHCHECK_QUERY_LANES=v2,TRUTHCHECK_NLI_COMBINE=3" ... 14
@@ -54,5 +56,5 @@ ENV="$COMMON,TRUTHCHECK_MIN_RELEVANCE=$GATE,TRUTHCHECK_NLI_PROMPT=$PROMPT"
 OUT=${OUT_NAME:-$OUT}
 
 echo "round $ROUND -> evaluation/baselines/$OUT  ($ENV)"
-qsub -q Gpu4-40g -v "MODE=graph,N=6,OUT_DIR=evaluation/baselines/$OUT/graph_public_32b_gate01,EXTRA=--public+--details,$ENV" $PBS
+qsub -q ${QUEUE:-Gpu7-80g} -v "MODE=graph,N=6,OUT_DIR=evaluation/baselines/$OUT/graph_public_32b_gate01,EXTRA=--public+--details,$ENV" $PBS
 qstat -u "$USER"

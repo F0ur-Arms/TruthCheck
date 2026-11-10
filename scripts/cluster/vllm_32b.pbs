@@ -12,8 +12,14 @@
 #PBS -e /storage/home/bagler/vllm_32b.err
 #PBS -o /storage/home/bagler/vllm_32b.out
 
-# Gpu4-40g's MIG slice UUID (see docs/LOCAL_LLM_DEPLOYMENT.md for the queue -> UUID mapping).
-export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef
+# The 32B model needs a 40 GB slice. Gpu4-40g by default; when it is busy, qsub -q Gpu5-40g or
+# Gpu6-40g picks that queue's slice (UUIDs from docs/LOCAL_LLM_DEPLOYMENT.md, as in eval_baseline.pbs).
+case "${PBS_QUEUE:-Gpu4-40g}" in
+  Gpu4-40g) export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef ;;
+  Gpu5-40g) export CUDA_VISIBLE_DEVICES=MIG-4889f421-8c3c-57fc-9adf-707c476a0d63 ;;
+  Gpu6-40g) export CUDA_VISIBLE_DEVICES=MIG-eaefa1a1-5eab-5722-8962-e24791557a79 ;;
+  *) echo "the 32B server needs a 40 GB queue, not $PBS_QUEUE"; exit 1 ;;
+esac
 
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
