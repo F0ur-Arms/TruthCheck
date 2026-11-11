@@ -4,6 +4,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import json 
 from config import EMBEDDING_MODEL, FACTS_JSON, KB_PATH
+from src.RAGpipeline.kb_chunking import file_title, line_passages, window_passages
 
 CACHE_FILE = "processed_cache.txt"   # tracks which files are already embedded
 INDEX_FILE = "kb_index.faiss"        # saved FAISS index on disk
@@ -22,6 +23,11 @@ class KnowledgeManager:
         self.kb_loaded = False
         self.folder_path = None  # set during load_and_index
         self.cache_key = "".join(c if c.isalnum() else "_" for c in model_name.lower()).strip("_")
+        # TRUTHCHECK_KB_CHUNKING: lines (default) or window (see src/RAGpipeline/kb_chunking.py).
+        # Window passages get their own index files, so switching never mixes the two.
+        self.chunking = os.environ.get("TRUTHCHECK_KB_CHUNKING", "lines").lower()
+        if self.chunking == "window":
+            self.cache_key += "__window"
 
     # ─────────────────────────────────────────────────────────────────────────
     # CACHE HELPERS
@@ -175,15 +181,11 @@ class KnowledgeManager:
                 with open(filepath, "r", encoding="utf-8") as f:
                     lines = [line.strip() for line in f.readlines()]
 
-                filtered = [
-                    line for line in lines
-                    if len(line) >= 20
-                    and not line.isupper()          # skip ALL-CAPS section headers
-                    and not line.startswith("SOURCE:")
-                    and not line.startswith("URL:")
-                    and not line.startswith("TITLE:")
-                    and "─" not in line             # skip separator lines
-                ]
+                if self.chunking == "window":
+                    filtered = window_passages(lines, file_title(lines))
+                else:
+                    # One passage per line; skips short lines, ALL-CAPS headers and the file header.
+                    filtered = line_passages(lines)
 
                 print(f"      ✅ {len(filtered)} passages extracted")
                 new_passages.extend(filtered)
