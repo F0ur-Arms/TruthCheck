@@ -56,5 +56,6 @@ ENV="$COMMON,TRUTHCHECK_MIN_RELEVANCE=$GATE,TRUTHCHECK_NLI_PROMPT=$PROMPT"
 OUT=${OUT_NAME:-$OUT}
 
 echo "round $ROUND -> evaluation/baselines/$OUT  ($ENV)"
-qsub -q ${QUEUE:-Gpu7-80g} -v "MODE=graph,N=6,OUT_DIR=evaluation/baselines/$OUT/graph_public_32b_gate01,EXTRA=--public+--details,$ENV" $PBS
+# REPO: the eval job cd's here; without it it would run the old ~/FoodFactCheck/TruthCheck_eval code and KB.
+qsub -q ${QUEUE:-Gpu7-80g} -v "MODE=graph,REPO=$PWD,N=${N:-6},OUT_DIR=evaluation/baselines/$OUT/graph_public_32b_gate01,EXTRA=--public+--details,$ENV" $PBS
 qstat -u "$USER"
