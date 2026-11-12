@@ -56,6 +56,14 @@ Target: 300-500 claims. Work on your own branch (`golden-set-v1`) and open a PR;
 
 The second person independently labels at least 20% of rows (every 5th id) **without seeing** the first label: copy the `claim_text` into a separate sheet, label it, and the first annotator merges only `second_annotator` and `second_verdict` afterwards. Disagreements are discussed and the agreed verdict goes in `expected_verdict`, with the reason in `notes`. We compute Cohen's kappa on the shared rows.
 
+`second_annotation.py` does the mechanics:
+
+1. `python evaluation/golden_set/second_annotation.py make` writes `second_annotation_sheet.csv`: every 5th row (115 of 574) with only `id`, `claim_text` and `language`. Give the second annotator that file and these guidelines, not `golden_v1.csv` (its notes hold publisher ratings and source summaries). The second annotator fills `second_verdict`, `second_evidence_source`, `second_evidence_quote` and `second_annotator`.
+2. `python evaluation/golden_set/second_annotation.py merge SHEET --dry-run`, then without `--dry-run`, copies `second_verdict` and `second_annotator` into `golden_v1.csv` by id. It changes nothing if any id is unknown or repeated, a verdict is not one of the 8, a verdict has no annotator name, the second annotator is the first annotator, or it would replace a different second verdict already merged.
+3. `python evaluation/golden_set/second_annotation.py kappa` reports agreement and Cohen's kappa on rows both have labelled (first-annotator rows still in `draft` are not counted).
+
+Do not run `build_golden_v1.py` once labelling has started: it rebuilds `golden_v1.csv` from the source files and would discard the labels.
+
 ## Done checklist
 
 - [ ] 300+ rows, mix above met (a short count table in the PR description)
