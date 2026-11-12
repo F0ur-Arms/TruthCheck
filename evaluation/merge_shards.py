@@ -33,10 +33,12 @@ print(f"answered balanced accuracy: {(recall[0] + recall[1]) / 2:.3f}  "
 errors = sum(1 for r in recs if str(r["verdict"]).startswith("ERROR"))
 if errors:
     print(f"WARNING: {errors} claims ended in an error and count as abstentions")
-if any("origin" in r for r in recs):
-    print("by origin:")
-    for origin in sorted({r.get("origin") for r in recs}):
-        rows = [r for r in recs if r.get("origin") == origin]
+for key in ("origin", "language"):
+    if not any(key in r for r in recs):
+        continue
+    print(f"by {key}:")
+    for origin in sorted({str(r.get(key)) for r in recs}):
+        rows = [r for r in recs if str(r.get(key)) == origin]
         ans = [r for r in rows if r["pred"] is not None]
         acc = sum(r["pred"] == r["true"] for r in ans) / len(ans) if ans else 0.0
         print(f"  {origin:20} n={len(rows):5} coverage={len(ans) / len(rows):.3f} answered_acc={acc:.3f}")

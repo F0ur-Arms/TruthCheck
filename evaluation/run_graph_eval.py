@@ -2,7 +2,10 @@
 
 Default set: data/final_health_claims.csv (label 1 = fake). With --public, the TRUE/FALSE rows of
 golden_v1.csv from the cleaner public datasets are used instead (FALSE = 1). --details writes the
-sub-claim verdicts and the passages behind each answer for error analysis.
+sub-claim verdicts and the passages behind each answer for error analysis. With --golden PATH, a
+golden set in the GUIDELINES.md format is scored instead: SUPPORTED / SUPPORTED_WITH_CAVEATS rows count
+as true and FALSE / MOSTLY_FALSE / MISLEADING rows as false; rows that expect an abstention are left
+out. --languages hi,hinglish keeps only those languages, and each record keeps its language.
 """
 
 import argparse
@@ -27,8 +30,23 @@ PUBLIC_CSV = "evaluation/golden_set/golden_v1.csv"
 PUBLIC_ORIGINS = "scifact_dataset,healthver_dataset,pubhealth_dataset,ai4bharat_dataset"
 
 
+# Golden-set verdicts with a true/false meaning; INSUFFICIENT_EVIDENCE, MIXED_EVIDENCE and
+# NOT_A_FACT_CHECK rows expect an abstention and are not part of the binary score.
+GOLD_FAKE = {"FALSE", "MOSTLY_FALSE", "MISLEADING"}
+GOLD_REAL = {"SUPPORTED", "SUPPORTED_WITH_CAVEATS"}
+
+
 def load(args) -> pd.DataFrame:
-    if args.public:
+    if args.golden:
+        # keep_default_na=False: the file uses the string "NA" for empty fields, not missing values.
+        df = pd.read_csv(args.golden, keep_default_na=False, encoding="utf-8-sig")
+        df = df[df["expected_verdict"].isin(GOLD_FAKE | GOLD_REAL)]
+        if args.languages:
+            df = df[df["language"].str.lower().isin(re.split(r"[,:]", args.languages.lower()))]
+        df = pd.DataFrame({"claim": df["claim_text"], "label": df["expected_verdict"].isin(GOLD_FAKE).astype(int),
+                           "origin": df["claim_origin"], "language": df["language"].str.lower(),
+                           "row_id": df["id"]})
+    elif args.public:
         df = pd.read_csv(PUBLIC_CSV)
         df = df[df["expected_verdict"].isin(["TRUE", "FALSE"]) & df["claim_origin"].isin(re.split(r"[,:]", args.origins))]
         df = pd.DataFrame({"claim": df["claim_text"], "label": (df["expected_verdict"] == "FALSE").astype(int),
@@ -63,6 +81,8 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--public", action="store_true")
     ap.add_argument("--origins", default=PUBLIC_ORIGINS)
+    ap.add_argument("--golden", help="golden-set CSV with the 8 verdicts (GUIDELINES.md); scores its true/false rows")
+    ap.add_argument("--languages", help="with --golden: only these languages, e.g. hi,hinglish")
     ap.add_argument("--details", action="store_true")
     args = ap.parse_args()
     i, n = (int(x) for x in args.shard.split("/"))
@@ -102,8 +122,9 @@ def main():
         rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held,
                "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before,
                "decomposition_fallbacks": nodes.claims_processor.fallback_count - decomp_before}
-        if "origin" in row:
-            rec["origin"] = row["origin"]
+        for key in ("origin", "language"):
+            if key in row:
+                rec[key] = row[key]
         if args.details:
             rec["claim_text"] = str(row["claim"])
             rec.update(details(out))
