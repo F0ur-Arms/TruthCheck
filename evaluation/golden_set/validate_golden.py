@@ -1,8 +1,8 @@
 """Check golden_v1.csv against GUIDELINES.md. Exits non-zero if the hard rules fail."""
 
 import json
-import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import pandas as pd
@@ -14,7 +14,13 @@ LANGS = {"en", "hi", "hinglish", "other"}
 
 
 def norm(text) -> str:
-    return re.sub(r"[^a-z0-9]+", " ", str(text).lower()).strip()
+    """Lowercase text without punctuation, keeping letters of any script.
+
+    The old [^a-z0-9] pattern turned every Devanagari claim into an empty string, so all Hindi rows
+    counted as duplicates of each other.
+    """
+    kept = "".join(" " if unicodedata.category(c)[0] in "PSZ" else c for c in str(text).lower())
+    return " ".join(kept.split())
 
 
 def reference_claims() -> dict:

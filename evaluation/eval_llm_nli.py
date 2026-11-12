@@ -28,7 +28,7 @@ def judge(item):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--csv", default="evaluation/golden_set/golden_v1.csv")
+    ap.add_argument("--csv", default="evaluation/external/public_candidates_v1.csv")
     ap.add_argument("--out", required=True)
     ap.add_argument("--workers", type=int, default=8)
     args = ap.parse_args()

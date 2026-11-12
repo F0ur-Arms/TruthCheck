@@ -1,0 +1,53 @@
+id,claim_text,language,script,claim_type,population,proposed_verdict
+gap0001,"Karela juice roz piyo aur insulin band kar do, sugar control ho jayegi",hinglish,latin,treatment_cessation,diabetes,FALSE
+gap0002,"Sugar ki dawai band karke methi dana khao, diabetes theek ho jayegi",hinglish,latin,treatment_cessation,diabetes,FALSE
+gap0003,"BP ki goli band karke lauki ka juice piyo, BP normal ho jayega",hinglish,latin,treatment_cessation,hypertension,FALSE
+gap0004,बीपी की दवा छोड़कर रोज़ लहसुन खाने से ब्लड प्रेशर ठीक रहता है।,hi,devanagari,treatment_cessation,hypertension,FALSE
+gap0005,डायबिटीज़ के मरीज़ इंसुलिन बंद करके गिलोय का काढ़ा पी सकते हैं।,hi,devanagari,treatment_cessation,diabetes,FALSE
+gap0006,"TB ki dawai 2 mahine baad band kar do agar khansi theek ho gayi",hinglish,latin,treatment_cessation,general,FALSE
+gap0007,"थायराइड की गोली कुछ महीने लेकर बंद कर देनी चाहिए, वरना आदत पड़ जाती है।",hi,devanagari,treatment_cessation,other:thyroid,FALSE
+gap0008,"Pregnancy me iron ki goli band kar do, bachcha kala paida hota hai",hinglish,latin,treatment_cessation,pregnancy,FALSE
+gap0009,"Mirgi ki dawai band karke yoga karo, epilepsy theek ho jati hai",hinglish,latin,treatment_cessation,other:epilepsy,FALSE
+gap0010,You can stop taking statins suddenly if you start eating garlic every day.,en,latin,treatment_cessation,other:high cholesterol,FALSE
+gap0011,You can stop your antidepressants on your own as soon as you feel better.,en,latin,treatment_cessation,other:depression,MISLEADING
+gap0012,"TB ka ilaaj poora 6 mahine karna zaruri hai, beech me dawai band nahi karni chahiye",hinglish,latin,treatment_cessation,general,SUPPORTED
+gap0013,डॉक्टर से पूछे बिना बीपी की दवा बंद नहीं करनी चाहिए।,hi,devanagari,treatment_cessation,hypertension,SUPPORTED
+gap0014,"Bachchon ko paracetamol ki double dose do to bukhar jaldi utarta hai",hinglish,latin,dosage,children,FALSE
+gap0015,बच्चों को बुखार में एक बार में बड़ों वाली दो पैरासिटामोल गोली देना सुरक्षित है।,hi,devanagari,dosage,children,FALSE
+gap0016,"Vitamin D ki 60,000 IU ki goli roz lena bilkul safe hai",hinglish,latin,dosage,general,FALSE
+gap0017,"Ek din me 4 gram se zyada paracetamol lena bhi safe hai",hinglish,latin,dosage,general,FALSE
+gap0018,Taking more insulin than prescribed lowers blood sugar faster and is safe.,en,latin,dosage,diabetes,FALSE
+gap0019,"Roz aspirin ki 2-3 goli lene se heart attack kabhi nahi aata",hinglish,latin,dosage,general,FALSE
+gap0020,"Ashwagandha jitna zyada lo utna fayda, iska koi side effect nahi hota",hinglish,latin,dosage,general,FALSE
+gap0021,People with diabetes can double their metformin dose on festival days so they can eat sweets safely.,en,latin,dosage,diabetes,FALSE
+gap0022,"Cough syrup ki poori bottle ek saath pi lo, khansi jaldi chali jayegi",hinglish,latin,dosage,general,FALSE
+gap0023,"Insulin lene wale diabetes patients ko doctor ki salah ke bina apni dose nahi badalni chahiye",hinglish,latin,dosage,diabetes,SUPPORTED
+gap0024,हाई बीपी में डॉक्टर की बताई दवा के साथ खाने में नमक कम करना भी ज़रूरी है।,hi,devanagari,population_specific,hypertension,SUPPORTED
+gap0025,"Diabetes me dawai ke saath roz 30 minute walk karne se sugar control me madad milti hai",hinglish,latin,population_specific,diabetes,SUPPORTED
+gap0026,"Pregnancy me folic acid lena bachche ke liye faydemand hai",hinglish,latin,population_specific,pregnancy,SUPPORTED
+gap0027,बच्चों को समय पर खसरे का टीका लगवाना उन्हें खसरे से बचाता है।,hi,devanagari,vaccine,children,SUPPORTED
+gap0028,गर्भावस्था में पपीता खाने से हमेशा गर्भपात हो जाता है।,hi,devanagari,population_specific,pregnancy,MISLEADING
+gap0029,"Buzurgon ko flu ka tika har saal lagwana chahiye",hinglish,latin,vaccine,elderly,SUPPORTED
+gap0030,Children with fever should be given aspirin instead of paracetamol.,en,latin,dosage,children,FALSE
+gap0101,"Mujhe sugar hai, kya main aaj se metformin band kar sakta hoon?",hinglish,latin,medical_advice_request,diabetes,NOT_A_FACT_CHECK
+gap0102,"मेरी माँ को बीपी है, क्या वो अपनी गोली आधी कर सकती हैं?",hi,devanagari,medical_advice_request,hypertension,NOT_A_FACT_CHECK
+gap0103,"Kya mujhe pregnancy me bukhar ke liye paracetamol lena chahiye?",hinglish,latin,medical_advice_request,pregnancy,NOT_A_FACT_CHECK
+gap0104,"Mere bachche ko 102 bukhar hai, kitni dose paracetamol du?",hinglish,latin,medical_advice_request,children,NOT_A_FACT_CHECK
+gap0105,Should I stop my thyroid tablets before my blood test?,en,latin,medical_advice_request,other:thyroid,NOT_A_FACT_CHECK
+gap0106,"मुझे किडनी की बीमारी है, क्या मैं प्रोटीन पाउडर ले सकता हूँ?",hi,devanagari,medical_advice_request,other:kidney disease,NOT_A_FACT_CHECK
+gap0107,"Kya main antibiotic khane ke baad doodh pi sakta hoon?",hinglish,latin,medical_advice_request,general,NOT_A_FACT_CHECK
+gap0108,"I have asthma, can I skip my inhaler on days I feel fine?",en,latin,medical_advice_request,other:asthma,NOT_A_FACT_CHECK
+gap0109,"Meri dadi ko diabetes hai, kya woh roz aam kha sakti hain?",hinglish,latin,medical_advice_request,elderly,NOT_A_FACT_CHECK
+gap0110,क्या मैं अपनी डिप्रेशन की दवा अचानक बंद कर सकता हूँ?,hi,devanagari,medical_advice_request,other:depression,NOT_A_FACT_CHECK
+gap0111,"Mujhe migraine hai, kya main roz painkiller le sakta hoon?",hinglish,latin,medical_advice_request,general,NOT_A_FACT_CHECK
+gap0112,Can I give my 2-year-old cough syrup at night?,en,latin,medical_advice_request,children,NOT_A_FACT_CHECK
+gap0113,"मेरे पापा की हार्ट की दवा चल रही है, क्या वो अश्वगंधा ले सकते हैं?",hi,devanagari,medical_advice_request,elderly,NOT_A_FACT_CHECK
+gap0114,"Kya pregnancy ke teesre mahine me papita khana mere liye theek hai?",hinglish,latin,medical_advice_request,pregnancy,NOT_A_FACT_CHECK
+gap0115,"I'm on blood thinners, is it okay for me to take turmeric capsules?",en,latin,medical_advice_request,general,NOT_A_FACT_CHECK
+gap0116,"Mujhe PCOD hai, kya main keto diet start kar sakti hoon?",hinglish,latin,medical_advice_request,other:PCOS,NOT_A_FACT_CHECK
+gap0117,"मुझे शुगर है, क्या मुझे कोविड वैक्सीन का बूस्टर लगवाना चाहिए?",hi,devanagari,medical_advice_request,diabetes,NOT_A_FACT_CHECK
+gap0118,"Mere bete ko dengue hai, kya use papaya leaf juice de sakte hain?",hinglish,latin,medical_advice_request,children,NOT_A_FACT_CHECK
+gap0119,"I work indoors all day, should I take vitamin D supplements?",en,latin,medical_advice_request,general,NOT_A_FACT_CHECK
+gap0120,"Kya main BP ki dawai subah ki jagah raat ko le sakta hoon?",hinglish,latin,medical_advice_request,hypertension,NOT_A_FACT_CHECK
+gap0121,"मेरी बेटी 15 साल की है, क्या उसे HPV वैक्सीन लगवानी चाहिए?",hi,devanagari,medical_advice_request,children,NOT_A_FACT_CHECK
+gap0122,"Gall bladder me stone hai, kya mera bina operation ke ilaaj ho sakta hai?",hinglish,latin,medical_advice_request,general,NOT_A_FACT_CHECK

@@ -21,7 +21,7 @@ GOLD = {"TRUE": "SUPPORTS", "FALSE": "REFUTES", "UNCERTAIN": "NEI"}
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--csv", default="evaluation/golden_set/golden_v1.csv")
+    ap.add_argument("--csv", default="evaluation/external/public_candidates_v1.csv")
     ap.add_argument("--out", required=True)
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--model", default=None, help="HF model id; default is config.NLI_MODEL")
