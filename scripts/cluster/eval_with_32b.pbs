@@ -1,7 +1,8 @@
 #!/bin/bash
 # One job that runs the 32B judge server AND a graph evaluation on the same 40 GB slice, for when
 # every other GPU queue is taken (the cluster allows one job per queue). vLLM gets VLLM_UTIL of
-# the slice (default 0.55, about 21.6 GB: 19 GB of weights plus a small KV cache) and the evaluation
+# the slice (default 0.60, about 23.5 GB: 18 GB of weights plus KV cache; requests capped at 4,096
+# tokens, since at 0.55 the cache could not hold one 8,192-token request and vLLM refused to start) and the evaluation
 # shards use the rest, about 6 GB each, so keep N at 2. At 0.70 with two shards the server ran out of
 # memory two minutes in (round 21, 12 Nov) and every later claim was judged by the fallbacks; a
 # watchdog now stops the evaluation and fails the job if the server dies. The evaluation itself is scripts/cluster/eval_baseline.pbs,
@@ -32,7 +33,7 @@ echo "vLLM 32B starting $(date) on $(hostname)"
 python -m vllm.entrypoints.openai.api_server \
   --model Qwen/Qwen2.5-32B-Instruct-AWQ --served-model-name qwen2.5-32b-awq \
   --host 127.0.0.1 --port 8001 --tensor-parallel-size 1 \
-  --gpu-memory-utilization ${VLLM_UTIL:-0.55} --max-model-len 8192 --quantization awq \
+  --gpu-memory-utilization ${VLLM_UTIL:-0.60} --max-model-len ${VLLM_MAXLEN:-4096} --quantization awq \
   > $OUT/vllm.log 2>&1 &
 VLLM_PID=$!
 trap 'kill $VLLM_PID 2>/dev/null' EXIT
