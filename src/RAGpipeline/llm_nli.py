@@ -48,6 +48,25 @@ SYSTEM_V3 = (
     "Return JSON: {\"label\": \"SUPPORTS|REFUTES|NEI\"}."
 )
 
+# v3 + two rules from the round 19 error analysis (wrong answers on named events and yes/no questions).
+SYSTEM_V4 = (
+    "You judge whether an evidence passage supports or refutes a health claim. Use only the passage.\n"
+    "Read the claim as a reasonable person would and decide from what the passage says about its main point.\n"
+    "SUPPORTS: the passage says the same as the claim's main point, even in different words, or it clearly follows "
+    "from the passage.\n"
+    "REFUTES: the passage says the opposite of the claim's main point, or what it says cannot be true at the same "
+    "time as the claim.\n"
+    "NEI: only if the passage is about something else or says nothing on the claim's main point. Do not answer NEI "
+    "merely because the passage lacks the exact wording, a specific detail or a caveat.\n"
+    "Specific events: when the claim is about a particular person, quote, organisation's action, product, place, "
+    "date or number (who said or did what, what happened where or when, how many), answer SUPPORTS or REFUTES only "
+    "if the passage is about that same person, event, product or number. General information on the topic does "
+    "not settle such a claim: answer NEI.\n"
+    "Questions: when the claim is a yes/no question, judge the statement it asks about: SUPPORTS if the passage "
+    "says the answer is yes, REFUTES if it says no.\n"
+    "Return JSON: {\"label\": \"SUPPORTS|REFUTES|NEI\"}."
+)
+
 
 def _result(label: str, claim: str, evidence_text: str) -> Dict[str, Any]:
     conf = LABEL_PRECISION[label]

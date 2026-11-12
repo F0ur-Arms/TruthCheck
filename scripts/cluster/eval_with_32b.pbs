@@ -41,8 +41,16 @@ conda deactivate
 
 export TRUTHCHECK_LLM_BASE_URL=http://127.0.0.1:8001/v1 TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq
 export MODE=${MODE:-graph} N=${N:-2}
-# eval_baseline.pbs waits up to 20 minutes for the server; loading 32B takes about 5.
-bash scripts/cluster/eval_baseline.pbs &
+if [ -n "${CMD:-}" ]; then
+  # CMD: any command to run against the local server instead of an evaluation (e.g. a re-judge test),
+  # with + for spaces as in EXTRA. It starts once the server answers.
+  for t in $(seq 1 80); do curl -s -m 5 $TRUTHCHECK_LLM_BASE_URL/models | grep -q '"id"' && break; sleep 15; done
+  source ~/anaconda3/etc/profile.d/conda.sh; conda activate ~/FoodFactCheck/.conda/truthcheck-eval
+  bash -c "$(echo $CMD | tr '+' ' ')" > $OUT/cmd.log 2>&1 &
+else
+  # eval_baseline.pbs waits up to 20 minutes for the server; loading 32B takes about 5.
+  bash scripts/cluster/eval_baseline.pbs &
+fi
 EVAL_PID=$!
 # The engine can crash while the HTTP server keeps answering with errors, so probe with a real
 # one-token request once the server is up; two failures in a row stop the evaluation.
