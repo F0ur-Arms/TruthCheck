@@ -1,0 +1,33 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Radon and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/radon/radon-fact-sheet
+────────────────────────────────────────────────────────────
+
+Radon and Cancer
+What is radon?
+Radon is a radioactive gas released from the normal decay of the elements uranium, thorium, and radium in rocks and soil. It is an invisible, odorless, tasteless gas that seeps up through the ground and diffuses into the air. In a few areas, depending on local geology, radon dissolves into ground water and can be released into the air when the water is used. Radon gas usually exists at very low levels outdoors. However, in areas without adequate ventilation, such as underground mines, radon can accumulate to levels that substantially increase the risk of lung cancer.
+How is the general population exposed to radon?
+Radon is present in nearly all air. Everyone breathes in radon every day, usually at very low levels. However, people who inhale high levels of radon are at an increased risk of developing lung cancer.
+Radon can enter homes through cracks in floors, walls, or foundations, and collect indoors. It can also be released from building materials, or from water obtained from wells that contain radon. Radon levels can be higher in homes that are well insulated, tightly sealed, and/or built on soil rich in the elements uranium, thorium, and radium. Basement and first floors typically have the highest radon levels because of their closeness to the ground.
+How does radon cause cancer?
+Radon decays quickly, giving off tiny radioactive particles. When inhaled, these radioactive particles can damage the cells that line the lung. Long-term exposure to radon can lead to lung cancer, the only cancer proven to be associated with inhaling radon. There has been a suggestion of increased risk of leukemia associated with radon exposure in adults and children; however, the evidence is not conclusive.
+How many people develop lung cancer because of exposure to radon?
+Cigarette smoking is the most common cause of lung cancer. Radon represents a far smaller risk for this disease, but it is the second leading cause of lung cancer in the United States. Scientists estimate that 15,000 to 22,000 lung cancer deaths in the United States each year are related to radon.
+Exposure to the combination of radon gas and cigarette smoke creates a greater risk of lung cancer than exposure to either factor alone. The majority of radon-related cancer deaths occur among smokers. However, it is estimated that more than 10 percent of radon-related cancer deaths occur among nonsmokers.
+How did scientists discover that radon plays a role in the development of lung cancer?
+Radon was identified as a health problem when scientists noted that underground uranium miners who were exposed to it died of lung cancer at high rates. The results of miner studies have been confirmed by experimental animal studies, which show higher rates of lung tumors among rodents exposed to high radon levels.
+What have scientists learned about the relationship between radon and lung cancer?
+Scientists agree that radon causes lung cancer in humans. Recent research has focused on specifying the effect of residential radon on lung cancer risk. In these studies, scientists measure radon levels in the homes of people who have lung cancer and compare them to the levels of radon in the homes of people who have not developed lung cancer.
+Researchers have combined and analyzed data from all radon studies conducted in Canada and the United States. By combining the data from these studies, scientists were able to analyze data from thousands of people. The results of this analysis demonstrated a slightly increased risk of lung cancer for individuals with elevated exposure to household radon. This increased risk was consistent with the estimated level of risk based on studies of underground miners.
+Techniques to measure a person’s exposure to radon over time have become more precise, thanks to a number of studies carried out in the 1990s and early 2000s.
+How can people know if they have an elevated level of radon in their homes?
+Testing is the only way to know if a person’s home has elevated radon levels. Indoor radon levels are affected by the soil composition under and around the house, and the ease with which radon enters the house. Homes that are next door to each other can have different indoor radon levels, making a neighbor’s test result a poor predictor of radon risk. In addition, rain or snow, barometric pressure, and other influences can cause radon levels to vary from month to month or day to day, which is why both short- and long-term tests are available.
+Short-term detectors measure radon levels for 2 days to 90 days, depending on the device. Long-term tests determine the average concentration for more than 90 days. Because radon levels can vary from day to day and month to month, a long-term test is a better indicator of the average radon level. Both tests are relatively easy to use and inexpensive. A state or local radon official can explain the differences between testing devices and recommend the most appropriate test for a person’s needs and conditions.
+The U.S. Environmental Protection Agency (EPA) recommends taking action to reduce radon in homes that have a radon level at or above 4 picocuries per liter (pCi/L) of air. About 1 in 15 U.S. homes is estimated to have radon levels at or above this EPA action level. Scientists estimate that lung cancer deaths could be reduced by 2 to 4 percent, or about 5,000 deaths, by lowering radon levels in homes exceeding the EPA’s action level.
+The EPA has more information about residential radon exposure and what people can do about it in the Consumer’s Guide to Radon Reduction.
+Where can people find more information about radon?
+The National Radon Program Services at Kansas State University is funded by the EPA and aimed at promoting public awareness of radon, increased testing, and the reduction of radon in homes, schools, and buildings. It provides a variety of resources, including the National Radon Hotlines, referrals to state radon programs, radon test kit orders, radon mitigation promotion, and other technical assistance and outreach activities.
+Consumers can contact the National Radon Hotline at:
+1–800–SOS–RADON (1–800–767–7236) to reach an automated system for ordering materials and listen to informational recordings
+1–800–55–RADON (1–800–557–2366) to contact an information specialist, or by sending an e-mail
+More information is also available online from the EPA.

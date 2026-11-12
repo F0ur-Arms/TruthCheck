@@ -1,0 +1,74 @@
+SOURCE: National Institute on Drug Abuse, NIH (public domain)
+TITLE: COVID-19 and Substance Use
+URL: https://nida.nih.gov/research-topics/comorbidity/covid-19-substance-use
+────────────────────────────────────────────────────────────
+
+COVID-19 and Substance Use
+En español
+Highlights
+Image
+©Getty Images/FG Trade Latin
+The drug overdose and addiction crisis collided with the COVID-19 pandemic, with the potential to worsen the negative impacts of each for individuals. People who use drugs are more vulnerable to acquiring the virus that can cause COVID-19 and more likely to have worse health outcomes.
+However, the pandemic also led to opportunities for health care providers, substance use disorder recovery support systems, and other services to reach more people. For example, the U.S. government allowed flexibility for remote prescribing of buprenorphine and take-home dosing of methadone, medications used to treat opioid use disorder.
+NIDA conducts and supports research on the impacts of the COVID-19 pandemic on substance use and related health outcomes, and how the pandemic impacted adolescent health and brain development, including mental health and substance use. The institute is also researching sustainable, evidence-based strategies to overcome structural barriers to care.
+Expand All
+Are people who have substance use disorders at greater risk for COVID-19?
+Research shows that substance use, substance use disorders, and non-fatal overdoses are associated with an increased risk for developing COVID-19 and for related negative health outcomes. This association is particularly strong among people with opioid or tobacco use disorder.1
+An analysis of electronic health records from more than 73 million patients at 360 U.S. hospitals in June 2020 found that while people with substance use disorders made up only 10.3% of the study sample, they accounted for 15.6% of patients diagnosed with COVID-19. Overall, people with a previous diagnosis of a substance use disorder were 1.5 times more likely to have COVID-19 than those without a diagnosis. The study also found people with such a diagnosis were more likely to experience severe outcomes of COVID-19 than those without, including hospitalization (41% versus 30%) and death (9.6% versus 6.6%).
+How might drug use and addiction contribute to worse health outcomes from a COVID-19 infection?
+Drug misuse and addiction can affect the body in ways that can increase the likelihood of worse health outcomes from COVID-19. For example, both COVID-19 and substance use can affect heart and lung function, amplifying the negative health effects of each.
+Smoking or vaping drugs—including tobacco/nicotine, marijuana, heroin, or crack cocaine—has been shown to worsen lung conditions like chronic obstructive pulmonary disease (COPD) and asthma. Chronic lung diseases can make a person more likely to get severely ill from COVID-19.
+High doses of opioids can slow breathing and lead to low levels of oxygen in the blood, which can also lead to heart, brain, and lung complications. Because COVID-19 affects the lungs, people who use opioids at high doses may have more severe illness when infected.
+Stimulants such as methamphetamine, cocaine, and amphetamine constrict the blood vessels and may increase the risk for stroke, heart attacks, abnormal heart rhythm, seizures, and other conditions that may lead to more severe heart or lung damage in someone with COVID-19.
+Did drug use increase during the COVID-19 pandemic?
+Limited data indicate there were significant increases in many kinds of drug use in the United States since the national emergency was declared in March 2020.2 Researchers found the number of positive drug screens for fentanyl, cocaine, heroin, and methamphetamine increased from previous years.3 Based on one online survey, adults who used cannabis prior to the pandemic monthly or less than weekly showed greater odds of increased non-medical use during the pandemic.4
+Studies also suggest many people increased their use of alcohol and other substances in the early stages of the pandemic, especially people with clinical anxiety and depression and those experiencing COVID-19-related stress.5
+However, according to the Monitoring the Future survey, which measures drug and alcohol use among adolescents and young adults, the percentage of adolescents reporting substance use decreased significantly in 2021. The findings represent the largest one-year decrease in overall illicit drug use reported since the survey began in 1975. These numbers generally held steady through 2022.
+NIDA continues to study the effects of the COVID-19 pandemic on substance use. Read more about current research.
+Did the COVID-19 pandemic affect the frequency of drug overdose?
+Drug overdoses increased during the COVID-19 pandemic. However, other factors beyond the pandemic itself, such as proliferation of illicit, potent fentanyl in the drug supply, also occurred during the pandemic years, making it difficult to determine the exact cause of the increase.
+More than 110,000 people died from drug overdose in the U.S. in 2022 according to the Centers for Disease Control and Prevention, the most in any year to that point. This increase follows a steady rise in overdose deaths in the United States that has been occurring since at least the 1980s. Fentanyl and other synthetic opioids have been the main drivers of overdose deaths since 2016.
+Factors related to the pandemic may have exacerbated these trends. These include social isolation, stress, people using drugs alone and an increase in rates of drug use. People also faced decreased access to substance use treatment, harm reduction services, and emergency services. Along with partners at the National Institutes of Health (NIH), NIDA researchers are assessing the impact of COVID-19 policies on mental health, suicide, substance use, and drug overdoses in adults.
+What’s the relationship between health disparities, drug use, and COVID-19 outcomes?
+The COVID-19 pandemic highlighted issues underlying health inequities that contribute to drug use and related poor health outcomes. In many cases, the pandemic worsened these disparities, potentially increasing people’s vulnerability to developing substance use disorders. These disparities also played a role in health outcomes related to COVID-19.
+Racial inequities. The COVID-19 pandemic has highlighted the large racial and other health equity disparities in the United States that play a role in addiction. Systemic issues like poverty and residential segregation affected access to testing, insurance, and medical care.6 Black, Latino/a, and American Indian people have been hospitalized and died at a higher rate than White people throughout the pandemic.7 Further, children from communities of color have had the greatest burden of caregiver loss to COVID-19-related deaths.
+Economic and environmental disadvantages. Issues that have been related to substance use disorders and poor health outcomes became even more pressing during the pandemic.
+Among frontline workers (those who generally can’t work from home), Black, Latino, and American Indian/Alaska Native people are more likely than White people to occupy low-income positions with a higher risk of exposure to the virus that causes COVID-19 and lower level of protection.8
+Limited employment and transportation opportunities and a lack of healthcare resources, particularly in rural areas, became even more pressing during the COVID-19 pandemic, worsening mental health and increasing the risk of overdose.9
+A high percentage of individuals with substance use disorders experience homelessness or housing instability, which puts them at increased risk for COVID-19 among other infectious diseases, because of higher rates of underlying health conditions and community spread in homeless shelters.10
+How did the COVID-19 pandemic impact substance use treatment and recovery services?
+Physical distancing and other public health measures at the onset of the pandemic disrupted access to medication and other support services for many people. For example, many treatment centers and syringe service programs faced challenges providing in-person services in response to COVID-19 social distancing policies.
+However, the pandemic also led to opportunities for health care providers, recovery support systems and other services to reach more people. For example, the U.S. government allowed flexibility for remote prescribing of buprenorphine and take-home dosing of methadone, medications used to treat opioid use disorder. Studies found that the flexibilities were effective in engaging and retaining patients and were not associated with harms.
+In fact, one study found that expanded availability of opioid use disorder-related telehealth services and medications during the COVID-19 pandemic was associated with a reduced likelihood of fatal drug overdose among Medicare beneficiaries.
+To help expand evidence-based treatment interventions, NIDA’s small business innovation research (SBIR) and small business technology transfer (STTR) programs are supporting the development of digital and telehealth tools. These include apps that help providers find treatment for patients and monitor their medications, and that help people in recovery connect with peers and coaches.
+How did NIDA support research on the intersection of substance use disorders and COVID-19?
+Along with other NIH partners, NIDA supported research on the intersection of COVID-19 and substance use disorders. Studies, some of which are ongoing, have included:
+Children and Adolescents. The HEALthy Brain and Child Development (HBCD) study is looking at the impact of COVID-19 on maternal health and substance use, and infant development. The Adolescent Brain Cognitive DevelopmentSM (ABCD) study is investigating the impact of the COVID-19 pandemic on adolescent health and brain development, including mental health and substance use. Read about findings related to COVID-19.
+Epidemiology. Under an NIH-wide program, NIDA has led research to detect SARS-CoV-2 in wastewater, a project that takes advantage of expertise NIDA developed to detect the presence of drugs in wastewater. Studies have shown that concentrations in wastewater correlated with new diagnoses of COVID-19. The Population Assessment of Tobacco and Health (PATH) study is collecting additional data on the relationship between COVID-related stressors, mental health, and substance use.
+Mental Health. Research is assessing the impact of COVID-19 outcomes and policies on mental health, suicide, substance use, and drug overdoses in adults. This includes examining the effects of the pandemic on substance use, mental health, and treatment access in both caregiving adults and their young adult children.
+Treatment Policy. Clinical trials characterize the impact of COVID-19 related policy changes on drug use, drug supply, and access to medicines for opioid use disorder (MOUD) in rural primary and American Indian/Alaskan Native communities, and on access to buprenorphine across the entire U.S. For example, researchers assessed how MOUD providers are using telemedicine, COVID-19-related changes in how they treat opioid use disorder, and the impact of telemedicine on MOUD care.
+Health Inequities. Researchers leveraged the Justice Community Opioid Innovation Network (JCOIN) infrastructure to implement and evaluate a COVID-19 testing approach in justice settings, for non-incarcerated individuals with previous involvement in the legal system, and low-income Latino/a people.
+HIV-related Health. Researchers examined COVID-19 related changes in substance use, SUD treatment, and HIV prevention and care among those at high risk for HIV.
+Latest from NIDA
+Image
+News Release
+Reported drug use among adolescents continued to hold below pre-pandemic levels in 2023
+December 13, 2023
+|
+New data show relatively low use of illicit substances, and yet overdose death rates among teens have risen
+Image
+News Release
+Overdose deaths involving buprenorphine did not proportionally increase with new flexibilities in prescribing
+January 20, 2023
+|
+Federal study findings help understand effects of expanding access to treatment for opioid use disorder
+Image
+Testimony
+The Federal Responses to the Drug Overdose Epidemic
+July 20, 2021
+|
+The twin addiction and overdose crises have collided with the COVID-19 pandemic, each exacerbating the deleterious effects of the other
+Find More Resources on COVID-19 and Substance Use Disorders
+Find a COVID-19 vaccine near you at Vaccines.gov.
+Read more information on COVID-19 risk and severity among people who use substances from the Centers for Disease Control and Prevention (CDC).
+Researchers: Find coronavirus COVID-19 information for NIH applicants and recipients of NIH funding.

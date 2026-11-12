@@ -1,0 +1,15 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Arsenic
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/arsenic
+────────────────────────────────────────────────────────────
+
+Arsenic
+What is Arsenic?
+Arsenic is a naturally occurring substance that can be found in air, water, and soil. It can also be released into the environment by certain agricultural and industrial processes, such as mining and metal smelting. Arsenic comes in two forms (organic and inorganic); the inorganic form is more toxic than the organic form.
+How are people exposed to arsenic?
+People in the general population may be exposed to arsenic by smoking tobacco, being around tobacco smoke, drinking contaminated water, or eating food from plants that were irrigated with contaminated water. Inorganic arsenic is naturally present at high levels in the groundwater of certain countries, including the United States. Exposure to arsenic in contaminated drinking water is generally thought to be more harmful to human health than exposure to arsenic in contaminated foods.
+In the past, people were exposed to arsenic during certain medical treatments and through contact with pesticides. Inorganic arsenic compounds were widely used as pesticides until the mid-1900s and were found in some medicines until the 1970s. In the 1990s, research showed that an arsenic compound, arsenic trioxide, was effective in the treatment of acute promyelocytic leukemia.
+Which cancers are associated with exposure to arsenic?
+Prolonged ingestion of arsenic-containing drinking water is associated with an increased risk of bladder cancer and skin cancer, and medical exposure to arsenic has been clearly associated with skin cancer in epidemiological studies. In addition, cancers of the lung, digestive tract, liver, kidney, and lymphatic and hematopoietic systems have been linked to arsenic exposure.
+How can exposures be reduced?
+Access to a safe water supply for drinking, food preparation, and irrigation of food crops is the most important way to prevent exposures to arsenic.

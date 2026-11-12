@@ -1,0 +1,9 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Chronic Inflammation
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/chronic-inflammation
+────────────────────────────────────────────────────────────
+
+Chronic Inflammation
+Inflammation is a normal physiological response that causes injured tissue to heal. An inflammatory process starts when chemicals are released by the damaged tissue. In response, white blood cells make substances that cause cells to divide and grow to rebuild tissue to help repair the injury. Once the wound is healed, the inflammatory process ends.
+In chronic inflammation, the inflammatory process may begin even if there is no injury, and it does not end when it should. Why the inflammation continues is not always known. Chronic inflammation may be caused by infections that don’t go away, abnormal immune reactions to normal tissues, or conditions such as obesity. Over time, chronic inflammation can cause DNA damage and lead to cancer. For example, people with chronic inflammatory bowel diseases, such as ulcerative colitis and Crohn disease, have an increased risk of colon cancer.
+Many studies have investigated whether anti-inflammatory medications, such as aspirin or non-steroidal anti-inflammatory drugs, reduce the risk of cancer. However, a clear answer is not yet available. For more information, see Aspirin to Reduce Cancer Risk.

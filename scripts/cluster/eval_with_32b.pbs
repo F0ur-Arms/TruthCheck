@@ -1,0 +1,43 @@
+#!/bin/bash
+# One job that runs the 32B judge server AND a graph evaluation on the same 40 GB slice, for when
+# every other GPU queue is taken (the cluster allows one job per queue). vLLM gets VLLM_UTIL of
+# the slice (default 0.70, about 28 GB: 19 GB of weights plus KV cache) and the evaluation shards
+# use the rest, so keep N small (2). The evaluation itself is scripts/cluster/eval_baseline.pbs,
+# run inside this job against the local server; pass its variables and the TRUTHCHECK_* settings
+# with -v as for a normal round, e.g.
+#   qsub -q Gpu5-40g -v "REPO=$PWD,N=2,OUT_DIR=evaluation/baselines/x/graph_public_32b_gate01,
+#        EXTRA=--public+--details,TRUTHCHECK_MIN_RELEVANCE=0.05,..." scripts/cluster/eval_with_32b.pbs
+# Stop any separate 32B server first: only one job runs per queue.
+#PBS -N TRUTHCHECK-EVAL32
+#PBS -l select=1:ncpus=10
+#PBS -l walltime=30:00:00
+#PBS -q Gpu5-40g
+
+case "${PBS_QUEUE:-Gpu5-40g}" in
+  Gpu4-40g) export CUDA_VISIBLE_DEVICES=MIG-a2f0dfd1-875c-58ee-8928-3963fa6bceef ;;
+  Gpu5-40g) export CUDA_VISIBLE_DEVICES=MIG-4889f421-8c3c-57fc-9adf-707c476a0d63 ;;
+  Gpu6-40g) export CUDA_VISIBLE_DEVICES=MIG-eaefa1a1-5eab-5722-8962-e24791557a79 ;;
+  *) echo "needs a 40 GB queue, not $PBS_QUEUE"; exit 1 ;;
+esac
+cd ${REPO:?set REPO to the checkout to evaluate}
+OUT=${OUT_DIR:?set OUT_DIR}
+mkdir -p $OUT
+
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
+export HF_HUB_OFFLINE=1
+echo "vLLM 32B starting $(date) on $(hostname)"
+python -m vllm.entrypoints.openai.api_server \
+  --model Qwen/Qwen2.5-32B-Instruct-AWQ --served-model-name qwen2.5-32b-awq \
+  --host 127.0.0.1 --port 8001 --tensor-parallel-size 1 \
+  --gpu-memory-utilization ${VLLM_UTIL:-0.70} --max-model-len 8192 --quantization awq \
+  > $OUT/vllm.log 2>&1 &
+VLLM_PID=$!
+trap 'kill $VLLM_PID 2>/dev/null' EXIT
+conda deactivate
+
+export TRUTHCHECK_LLM_BASE_URL=http://127.0.0.1:8001/v1 TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq
+export MODE=${MODE:-graph} N=${N:-2}
+# eval_baseline.pbs waits up to 20 minutes for the server; loading 32B takes about 5.
+bash scripts/cluster/eval_baseline.pbs
+echo "EVAL32 done $(date)"

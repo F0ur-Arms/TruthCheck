@@ -1,0 +1,100 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Obesity and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet
+────────────────────────────────────────────────────────────
+
+Obesity and Cancer
+What is obesity?
+Obesity is a disease in which a person has an unhealthy amount and/or distribution of body fat (1). Compared with people of healthy weight, those with overweight or obesity are at greater risk for many diseases, including diabetes, high blood pressure, cardiovascular disease, stroke, and at least 13 types of cancer, as well as having an elevated risk of death from all causes (2–5).
+To determine someone’s level of body fat, doctors commonly use a measure known as the body mass index (BMI). BMI is calculated by dividing a person’s weight (in kilograms) by their height (in meters) squared (commonly expressed as kg/m2). BMI is not a direct measure of body fat, but it provides a more accurate assessment of obesity than weight alone. It is a useful estimate of body fatness in populations but cannot be used on its own to indicate obesity-related disease risks in individuals (6).
+The National Heart Lung and Blood Institute has a BMI calculator for adults. The standard weight categories based on BMI for adults ages 20 years or older are:
+BMI in kg/m2 Weight category
+Below 18.5Underweight
+18.5 to 24.9Healthy
+25.0 to 29.9Overweight
+30.0 to 39.9Obese
+40.0 or higherSeverely obese
+The Centers for Disease Control and Prevention (CDC) has a BMI percentile calculator for children and teens. Overweight and obesity for people younger than 20 years old, whose BMI can change significantly as they grow, are based on CDC’s BMI-for-age growth charts.
+BMIWeight category
+BMI-for-age below the sex-specific 5th percentile Underweight
+BMI-for-age at or above the sex-specific 5th percentile, but less than the 85th percentileHealthy
+BMI-for-age at or above the sex-specific 85th percentile, but less than the 95th percentile Overweight
+BMI-for-age at or above the sex-specific 95th percentileObese
+BMI-for-age at or above 120% of the sex-specific 95th percentile*Severe obesity
+*Based on recommendations from experts (7)
+Measurements that reflect the distribution of body fat are sometimes used along with BMI as indicators of obesity and disease risks. These measurements include waist circumference, waist-to-hip ratio (the waist circumference divided by the hip circumference), waist-to-height ratio, and fat distribution as measured by dual energy X-ray absorptiometry (DXA or DEXA), imaging with CT or PET, or measurements of body shape (8).
+These measures are used because the distribution of fat is increasingly understood to be relevant to disease risks. In particular, visceral fat—fat that surrounds internal organs—seems to be more dangerous, in terms of disease risks, than overall fat or subcutaneous fat (the layer just under the skin).
+How common are overweight and obesity?
+Obesity has become more common in the United States in recent years—so common that it is sometimes referred to as an obesity epidemic. According to the CDC (9),
+In 2011, 27.4% of adults ages 18 or older had obesity.
+In 2023, 32.8% of adults ages 18 or older had obesity.
+The prevalence of obesity in the United States differs among racial and ethnic groups (9). In 2023, according to the CDC, the proportions of adults ages 18 years or older with obesity were:
+Non-Hispanic Black, 42.0%
+American Indian/Alaska Native, 39.6%
+Hawaiian/Pacific Islander, 31.8%
+Hispanic, 35.1%
+Non-Hispanic White, 32.2%
+Asian, 13.4%
+An analysis of changes in the prevalence of overweight and obesity combined in the United States from 1990 to 2021 found that it has increased in all age groups examined (10). For example,
+Among adults ages 25 or older
+49.1% of females and 60.5% of males had overweight or obesity in 1990
+72.6% of females and 75.9% of males had overweight or obesity in 2021
+Among adolescents ages 15–24 years
+26.0% of females and 31.4% of males had overweight or obesity in 1990
+50.8% of females and 46.7% of males had overweight or obesity in 2021
+Among children ages 10–14 years
+22.3% of females and 23% of males had overweight or obesity in 1990
+41.7% of females and 41.9% of males had overweight or obesity in 2021
+What is known about the relationship between overweight and obesity and cancer?
+The best evidence linking overweight and obesity to cancer risk comes from large cohort studies, a type of observational study.
+An International Agency for Research on Cancer (IARC) Working Group concluded, based on a review of more than 1000 such studies, that there is consistent evidence that higher amounts of body fat are associated with an increased risk of a number of cancers. Cancers that have been found to be linked to obesity or overweight include
+View and Print Infographic
+endometrial (11, 12)
+esophageal (13)
+upper stomach (14)
+liver (15, 16)
+kidney (17, 18)
+multiple myeloma (19)
+meningioma (20)
+pancreatic (21)
+colorectal (22)
+gallbladder (23, 24)
+breast (postmenopausal) (25, 26)
+ovarian (27, 28)
+thyroid (29)
+The risk increases associated with obesity are highest for endometrial and esophageal cancers.
+For type 1 endometrial cancers (those linked to excess estrogen), people with severe obesity have about seven times the risk and those with overweight or obesity have two to four times the risk, compared with people of healthy weight.
+For esophageal cancer, those with severe obesity have nearly five times the risk and those with obesity have more than twice the risk, compared with people of healthy weight.
+For the other obesity-associated cancer types, risk increases in people with obesity range from about a 10% increase in risk to a doubling of risk.
+A recent study of more than 2 million people in Spain who were followed for a median of 9 years found evidence that overweight and obesity are linked to 18 cancers, including some not yet considered to be related to obesity (30).
+People who have a higher BMI at the time of cancer diagnosis have higher risks of developing a second primary cancer (a cancer not related to the first cancer) in the future (31–34).
+How might obesity increase the risk of cancer?
+Several possible mechanisms have been suggested to explain how obesity might increase the risks of some cancers (35, 36).
+Fat tissue (also called adipose tissue) produces excess amounts of estrogen, which is known to cause cancer. High levels of estrogen have been associated with increased risks of breast, endometrial, ovarian, and some other cancers.
+People with obesity often have increased blood levels of insulin and insulin-like growth factor-1 (IGF-1). High levels of insulin, a condition known as hyperinsulinemia, is due to insulin resistance and precedes the development of type 2 diabetes, another known cancer risk factor. High levels of insulin and IGF-1 are associated with increased risks of colorectal, thyroid, breast, prostate, ovarian, and endometrial cancers (37, 38).
+People with obesity often have chronic inflammation, which directly promotes tumor growth by several mechanisms (39).
+Fat cells produce hormones called adipokines, which can stimulate or inhibit cell growth (40). For example, the blood level of an adipokine called leptin increases with increasing body fat, and high levels of leptin can promote aberrant cell proliferation. Another adipokine, adiponectin, which may have antiproliferative effects that protect against tumor growth, is less abundant in people with obesity than in people with a healthy weight.
+Fat cells may also have direct and indirect effects on other cell growth and metabolic regulators. These include mammalian target of rapamycin (mTOR) and AMP-activated protein kinase, both of which are involved in regulating autophagy, which when impaired can lead to cancer (41).
+Other possible mechanisms by which obesity could affect cancer risk include a mechanical effect on the lower esophageal sphincter that induces gastroesophageal reflux disease (a risk factor for esophageal adenocarcinoma); impaired tumor immunity; and changes in the structure of the tissue that surrounds developing tumors (42, 43).
+In addition to its biological effects, obesity can lead to challenges in screening and management. For example, women with overweight or obesity have a higher risk of cervical cancer than women of healthy weight, likely because cervical cancer screening is less effective in these individuals (44).
+How many cancer cases may be due to excess body weight?
+A study that used nationally representative data on cancer incidence and mortality and risk factor prevalence estimated that in 2019 among people ages 30 and older in the United States, about 43,720 new cancer cases in men (4.8%) and 92,200 new cancer cases in women (10.6%) were due to excess body weight (overweight and obesity) (45). The percentage of cases attributed to excess body weight varied widely across cancer types and was as high as 34.9% for liver cancer and 53.1% for endometrial cancer in women and 37.1% for gallbladder cancer and 37.8% for esophageal adenocarcinoma in men.
+A 2024 study examined whether the increasing incidence of early-onset cancers over the period 2000 to 2012 worldwide could be explained by increasing rates of obesity among young adults over this period (46). Six of nine obesity-related cancers increased in incidence among young adults during this period, and for four of these cancers (colon, rectal, pancreatic, and kidney), this rise was associated with increases in body weight. This finding suggests a possible link between the obesity epidemic and the rising incidence in these early-onset cancers worldwide (46). Obesity has also been linked to increased risks of early-onset breast cancer in Black women (47, 48).
+Does losing weight lower the risk of cancer?
+Most of the data about whether losing weight reduces cancer risk comes from observational studies such as cohort and case–control studies. Randomized controlled studies of weight loss diets have been done, but they sometimes failed to produce substantial weight change, and did not appear to reduce cancer risk (49). Observational studies of weight loss and cancer risk should be interpreted with caution because other differences between people who lose weight and those who don’t may account for their different cancer risks.
+Some of these studies have found lower risks of breast, endometrial, colon, and prostate cancers among people with obesity who had lost weight. For example, in one large prospective study of postmenopausal women, those who intentionally lost more than 5% of body weight had a lower risk of obesity-related cancers, especially endometrial cancer (50).
+And among postmenopausal women in the Women’s Health Initiative Observational Study, those who lost at least 5% of their body weight during study follow up had a lower risk of invasive breast cancer than those whose weight was stable (51). Also, results of a study that pooled data from 10 cohorts suggested that sustained weight loss was associated with lower breast cancer risk among women 50 years and older (52).
+Weight loss through bariatric surgery (surgery performed on the stomach or intestines to provide maximum and sustained weight loss) has also been found to be associated with reduced cancer risks (53). Studies have found that people with obesity, particularly women, who had bariatric surgery had lower risks of cancer overall (54); of hormone-related cancers, such as breast (55), endometrial, and prostate cancers (56); and of obesity-related cancers, such as postmenopausal breast cancer, endometrial cancer, esophageal, gastric, and colon cancer (57–59).
+Weight loss through medications approved to treat obesity (including the GLP-1 receptor agonists tirzepatide, semaglutide, and liraglutide) has also been found to be associated with reduced risks of some obesity-related cancers. For example, in a large nationwide retrospective cohort study, people with type 2 diabetes with no prior diagnosis of an obesity-related cancer who were prescribed GLP-1 receptor agonists had lower risks of 10 of 13 obesity-related cancers, including esophageal, colorectal, kidney, pancreatic, gallbladder, ovarian, endometrial, and liver cancers as well as meningioma and multiple myeloma (60). However, a meta-analysis of randomized controlled trials with an average of 3 years of follow-up per participant found no association between GLP-1 receptor agonists and the risk of any gastrointestinal cancer, including colorectal, pancreatic, liver, or gallbladder cancers (61).
+How does obesity affect cancer survivors?
+Most of the evidence about obesity in cancer survivors comes from people who were diagnosed with breast, prostate, or colorectal cancer. Research indicates that obesity may worsen several aspects of cancer survivorship, including quality of life, cancer recurrence, cancer progression, prognosis (survival), and risk of certain second primary cancers (31, 32, 34, 62, 63).
+For example, obesity is associated with increased risks of treatment-related lymphedema in breast cancer survivors (64) and of incontinence in prostate cancer survivors treated with radical prostatectomy (65). In a large clinical trial of patients with stage II and stage III rectal cancer, those with a higher baseline BMI (particularly men) had an increased risk of local recurrence (66). In a large analysis that included 1.5 million people with multiple myeloma, those with the highest levels of obesity were 50% more likely to die from their disease than those at healthy weight (67).
+Is weight loss after a cancer diagnosis beneficial for people with overweight or obesity?
+Most studies of how weight loss affects outcomes in people with cancer have focused on breast cancer. Several randomized clinical trials in breast cancer survivors have reported that weight loss interventions resulted in both weight loss and beneficial changes in biomarkers that have been linked to the association between obesity and prognosis (68, 69).
+However, there is little evidence about whether weight loss reduces the risk of breast cancer recurrence or death (70). The NCI-sponsored Breast Cancer WEight Loss (BWEL) Study, an ongoing randomized phase 3 trial, is examining whether participating in a weight loss program after breast cancer diagnosis lowers the risk of recurrence among overweight and obese women (71).
+What research is being done on obesity and cancer?
+In addition to studies of the mechanisms by which obesity influences cancer risk, researchers are exploring whether associations vary by race or ethnicity (72). Also, researchers are investigating whether different cutoffs for overweight and obesity should be used for different racial/ethnic groups. For example, the World Health Organization (WHO) has suggested the alternate thresholds of 23.0 and 27.5 kg/m2 for overweight and obesity for people of Asian ancestry (73).
+The NCI Cohort Consortium is an extramural–intramural partnership that combines more than 50 prospective cohort studies from around the world with more than 7 million participants. The studies are gathering information on diet and physical activity and body mass index, waist circumference, and other measures of adiposity from each cohort. The large size of the consortium will allow researchers to get a better sense of how obesity-related factors relate to less common cancers, such as cancers of the thyroid, gallbladder, head and neck, and kidney.
+Another area of study is focused on developing more precise and effective interventions to prevent weight gain and weight regain after weight loss. This area of research includes two NIH-based initiatives—the Accumulating Data to Optimally Predict Obesity Treatment (ADOPT) Core Measures (74) and the Trans-NIH Consortium of Randomized Controlled Trials of Lifestyle Weight Loss Interventions (75)—both of which aim to identify predictors of successful weight loss and maintenance and to incorporate information on genetic, psychosocial, behavioral, biological, and environmental factors into predictive profiles to enable more precise and, ultimately, more effective weight loss interventions.
+NCI supports research on obesity and cancer risk through a variety of activities, including large cooperative initiatives, web and data resources, epidemiologic and basic science studies, and dissemination and implementation resources. For example, the Transdisciplinary Research on Energetics and Cancer (TREC) initiative supports ongoing training workshops for postdocs and early career investigators to enhance the ability to produce innovative and impactful transdisciplinary research in energetics and cancer and clinical care. The NCI Metabolic Dysregulation and Cancer Risk Program supports research into the biological mechanisms underlying the development of obesity-related cancers and identifies potential markers to enhance cancer risk prediction, improve screening for high-risk individuals, and identify targets for preventive and therapeutic interventions of obesity-related cancers.
+The Exercise and Nutrition Interventions to Improve Cancer Treatment-Related Outcomes (ENICTO) in Cancer Survivors consortium is a collaborative NCI-funded research program whose goal is to improve the future of cancer care through exercise and dietary approaches.

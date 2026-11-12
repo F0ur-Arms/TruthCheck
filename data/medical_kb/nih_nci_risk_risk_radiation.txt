@@ -1,0 +1,14 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Radiation
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation
+────────────────────────────────────────────────────────────
+
+Radiation
+Radiation of certain wavelengths, called ionizing radiation, has enough energy to damage DNA and cause cancer. Ionizing radiation includes radon, x-rays, gamma rays, and other forms of high-energy radiation. Lower-energy, non-ionizing forms of radiation, such as visible light and the energy from cell phones, have not been found to cause cancer in people.
+Radon
+Radon is a radioactive gas given off by rocks and soil. Radon is formed when the radioactive element radium breaks down. Radium in turn is formed when the radioactive elements uranium and thorium break down. People who are exposed to high levels of radon have an increased risk of lung cancer.
+If you live in an area of the country that has high levels of radon in its rocks and soil, you may wish to test your home for this gas. Home radon tests are easy to use and do not cost much. Most hardware stores sell test kits. There are many ways to lessen the amount of radon in a home to a safe level. For more information on radon, see the Radon page and the Radon and Cancer fact sheet.
+X-Rays and Other Sources of Radiation
+High-energy radiation, such as x-rays, gamma rays, alpha particles, beta particles, and neutrons, can damage DNA and cause cancer. These forms of radiation can be released in accidents at nuclear power plants and when atomic weapons are made, tested, or used.
+Certain medical procedures, such as chest x-rays, computed tomography (CT) scans, positron emission tomography (PET) scans, and radiation therapy can also cause cell damage that leads to cancer. However, the risks of cancer from these medical procedures are very small, and the benefit from having them is almost always greater than the risks.
+Talk with your doctor if you think you may be at risk for cancer because you were exposed to radiation. People considering CT scans should talk with their doctors about whether the procedure is necessary for them and about its risks and benefits. Cancer patients may want to talk with their doctors about how radiation treatment could increase their risk for a second cancer later on.

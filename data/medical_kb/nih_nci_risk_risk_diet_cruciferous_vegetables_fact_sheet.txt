@@ -1,0 +1,46 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Cruciferous Vegetables and Cancer Prevention
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cruciferous-vegetables-fact-sheet
+────────────────────────────────────────────────────────────
+
+Cruciferous Vegetables and Cancer Prevention
+What are cruciferous vegetables?
+Cruciferous vegetables are part of the Brassica genus of plants. They include the following vegetables, among others:
+Arugula
+Bok choy
+Broccoli
+Brussels sprouts
+Cabbage
+Cauliflower
+Collard greens
+Horseradish
+Kale
+Radishes
+Rutabaga
+Turnips
+Watercress
+Wasabi
+Why are cancer researchers studying cruciferous vegetables?
+Cruciferous vegetables are rich in nutrients, including several carotenoids (beta-carotene, lutein, zeaxanthin); vitamins C, E, and K; folate; and minerals. They also are a good fiber source.
+In addition, cruciferous vegetables contain a group of substances known as glucosinolates, which are sulfur-containing chemicals. These chemicals are responsible for the pungent aroma and bitter flavor of cruciferous vegetables.
+During food preparation, chewing, and digestion, the glucosinolates in cruciferous vegetables are broken down to form biologically active compounds such as indoles, nitriles, thiocyanates, and isothiocyanates (1). Indole-3-carbinol (an indole) and sulforaphane (an isothiocyanate) have been most frequently examined for their anticancer effects.
+Indoles and isothiocyanates have been found to inhibit the development of cancer in several organs in rats and mice, including the bladder, breast, colon, liver, lung, and stomach (2, 3). Studies in animals and experiments with cells grown in the laboratory have identified several potential ways in which these compounds may help prevent cancer:
+They help protect cells from DNA damage.
+They help inactivate carcinogens.
+They have antiviral and antibacterial effects.
+They have anti-inflammatory effects.
+They induce cell death (apoptosis).
+They inhibit tumor blood vessel formation (angiogenesis) and tumor cell migration (needed for metastasis).
+Studies in humans, however, have shown mixed results.
+Is there evidence that cruciferous vegetables can help reduce cancer risk in people?
+Researchers have investigated possible associations between intake of cruciferous vegetables and the risk of cancer. The evidence has been reviewed by various experts. Key studies regarding four common forms of cancer are described briefly below.
+Prostate cancer: Cohort studies in the Netherlands (4), United States (5), and Europe (6) have examined a wide range of daily cruciferous vegetable intakes and found little or no association with prostate cancer risk. However, some case-control studies have found that people who ate greater amounts of cruciferous vegetables had a lower risk of prostate cancer (7, 8).
+Colorectal cancer: Cohort studies in the United States and the Netherlands have generally found no association between cruciferous vegetable intake and colorectal cancer risk (9-11). The exception is one study in the Netherlands—the Netherlands Cohort Study on Diet and Cancer—in which women (but not men) who had a high intake of cruciferous vegetables had a reduced risk of colon (but not rectal) cancer (12).
+Lung cancer: Cohort studies in Europe, the Netherlands, and the United States have had varying results (13-15). Most studies have reported little association, but one U.S. analysis—using data from the Nurses’ Health Study and the Health Professionals’ Follow-up Study—showed that women who ate more than 5 servings of cruciferous vegetables per week had a lower risk of lung cancer (16).
+Breast cancer: One case-control study found that women who ate greater amounts of cruciferous vegetables had a lower risk of breast cancer (17). A meta-analysis of studies conducted in the United States, Canada, Sweden, and the Netherlands found no association between cruciferous vegetable intake and breast cancer risk (18). An additional cohort study of women in the United States similarly showed only a weak association with breast cancer risk (19).
+A few studies have shown that the bioactive components of cruciferous vegetables can have beneficial effects on biomarkers of cancer-related processes in people. For example, one study found that indole-3-carbinol was more effective than placebo in reducing the growth of abnormal cells on the surface of the cervix (20).
+In addition, several case-control studies have shown that specific forms of the gene that encodes glutathione S-transferase, which is the enzyme that metabolizes and helps eliminate isothiocyanates from the body, may influence the association between cruciferous vegetable intake and human lung and colorectal cancer risk (21-23).
+Are cruciferous vegetables part of a healthy diet?
+The federal government’s Dietary Guidelines for Americans 2010 recommend consuming a variety of vegetables each day. Different vegetables are rich in different nutrients.
+Vegetables are categorized into five subgroups: dark-green, red and orange, beans and peas (legumes), starchy, and other vegetables. Cruciferous vegetables fall into the “dark-green vegetables” category and the “other vegetables” category. More information about vegetables and diet, including how much of these foods should be eaten daily or weekly, is available from the U.S. Department of Agriculture website Choose My Plate.
+Higher consumption of vegetables in general may protect against some diseases, including some types of cancer. However, when researchers try to distinguish cruciferous vegetables from other foods in the diet, it can be challenging to get clear results because study participants may have trouble remembering precisely what they ate. Also, people who eat cruciferous vegetables may be more likely than people who don’t to have other healthy behaviors that reduce disease risk. It is also possible that some people, because of their genetic background, metabolize dietary isothiocyanates differently. However, research has not yet revealed a specific group of people who, because of their genetics, benefit more than other people from eating cruciferous vegetables.

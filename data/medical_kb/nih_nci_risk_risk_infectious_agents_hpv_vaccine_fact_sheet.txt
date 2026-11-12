@@ -1,0 +1,21 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Human Papillomavirus (HPV) Vaccine
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet
+────────────────────────────────────────────────────────────
+
+Human Papillomavirus (HPV) Vaccine
+What is the HPV vaccine?
+The HPV vaccine, brand name Gardasil 9, protects against infection with human papillomaviruses (HPV). HPV is a group of more than 200 related viruses, of which more than 40 are spread through direct sexual contact. Among these, two HPV types cause most genital warts, and about a dozen HPV types can cause certain types of cancer—cervical, anal, oropharyngeal, penile, vulvar, and vaginal (1).
+Gardasil 9 (2), the HPV vaccine used in the U.S., prevents infection with the following nine types:
+• HPV types 6 and 11, which cause 90% of genital warts
+• HPV types 16 and 18, two high-risk types that cause about 70% of cervical cancers and an even higher percentage of some of the other HPV-caused cancers
+• HPV types 31, 33, 45, 52, and 58, high-risk HPVs that account for an additional 10% to 20% of cervical cancers
+Who should get HPV vaccination?
+The Centers for Disease Control and Prevention (CDC) establishes recommendations regarding all vaccination in the United States, including HPV vaccination. CDC recommends the HPV vaccine for (3):
+Children and adults ages 9 through 26 years. HPV vaccination is routinely recommended at age 11 or 12 years; vaccination can be started at age 9. HPV vaccination is recommended for all persons through age 26 for those who were not adequately vaccinated earlier.
+Adults ages 27 through 45. Although the HPV vaccine is approved by the U.S. Food and Drug Administration (FDA) to be given through age 45, HPV vaccination is not recommended for routine administration to adults ages 27 through 45. Instead, clinicians can consider discussing with patients in this age group who were not adequately vaccinated earlier whether HPV vaccination is right for them. HPV vaccination in this age range provides less benefit because more people have already been exposed to the virus.
+Pregnant women. HPV vaccination should be delayed until after pregnancy, but pregnancy testing is not required before vaccination. There is no evidence that HPV vaccination will affect a pregnancy or harm a fetus.
+How many doses of the HPV vaccine are needed?
+In the U.S., the HPV vaccine was licensed for two doses in younger recipients and three doses in older recipients.
+Researchers have reported evidence that one dose results in protection from infection with the HPV types in the vaccine that is not inferior to the protection obtained through two doses (4).
+How effective is the HPV vaccine?

@@ -1,0 +1,156 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Diethylstilbestrol (DES) Exposure and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+────────────────────────────────────────────────────────────
+
+Diethylstilbestrol (DES) Exposure and Cancer
+What is DES?
+Diethylstilbestrol (DES) is a synthetic form of the female hormone estrogen. It was prescribed to pregnant women between 1940 and 1971 to prevent miscarriage, premature labor, and related complications of pregnancy (1). The use of DES declined after studies in the 1950s showed that it was not effective in preventing these problems, although it continued to be used to stop lactation, for emergency contraception, and to treat menopausal symptoms in women (2).
+In 1971, researchers linked prenatal (while in the womb, or in utero) DES exposure to a type of cancer of the cervix and vagina called clear cell adenocarcinoma in a small group of women (3). Soon after, the Food and Drug Administration (FDA) notified health care providers throughout the country that DES should not be prescribed to pregnant women (4). The drug continued to be prescribed to pregnant women in Europe until 1978 (5).
+DES is now known to be an endocrine-disrupting chemical, one of a number of substances that interfere with the endocrine system to potentially cause cancer, birth defects, and other developmental abnormalities.
+What is the cancer risk of people who were exposed to DES in utero?
+The overall risk of cancer is not elevated in people whose mothers used DES while pregnant compared with the general population (6–8). However, females exposed to DES in utero, commonly called DES daughters, are at increased risk of several specific cancers, including:
+Clear cell adenocarcinoma. DES daughters have about 40 times the risk of developing clear cell adenocarcinoma of the lower genital tract as unexposed women (women who were not exposed to DES prenatally). However, this type of cancer is still rare; approximately 1 in 1,000 DES daughters developed it. The first DES daughters with clear cell adenocarcinoma were very young at the time of their diagnoses (3). Subsequent research has shown that the risk of developing this disease remained elevated as these individuals aged into their 40s and 50s, but it continued to be rare (8, 9).
+Breast cancer. DES daughters may have a slightly increased risk of breast cancer after age 40. A 2006 study from the United States suggested that breast cancer risk is not increased in DES daughters overall but that after age 40, DES daughters have approximately twice the risk of breast cancer as unexposed women of the same age and with similar risk factors (6). A 2011 study also found that a large cohort of DES daughters had nearly twice the risk of developing breast cancer at 40 years or older as unexposed women (10), but a 2019 follow-up study showed that their breast cancer risk has lessened over time (7). It is therefore possible that risk was increased for a limited time at middle age. However, a 2010 study from Europe found no difference in breast cancer risk between DES daughters and women not exposed to DES in utero (8).
+Pancreatic cancer. A 2021 study found that DES daughters had about two times the risk of pancreatic cancer as women in the general population (11). Research is ongoing to determine if the increased risk persists as these individuals get older.
+Cervical precancers. Studies show that DES daughters were about 2 times more likely to have high-grade cell changes in the cervix than females not exposed to DES in utero. Approximately 4% of DES daughters developed these conditions because of their exposure (10).
+Males exposed to DES in utero, referred to as DES sons, have been studied for their risk of testicular and prostate cancers. There is no evidence to date that DES exposure in utero increases the risk of prostate cancer (12, 13). However, the evidence around testicular cancer is mixed.
+Do the children of women who took DES have problems with fertility and pregnancy?
+Several studies have found increased risks of premature birth, miscarriage, and ectopic pregnancy in females exposed to DES in utero. An analysis of updated data published in 2011 (10) determined the cumulative risk of various fertility complications in DES daughters as follows:
+Fertility, pregnancy, or birth complicationCumulative risk* to age 45
+DES-exposed women Unexposed women
+Infertility33%15%
+Ectopic pregnancy15% 3%
+Miscarriage (second trimester)16% 2%
+Preeclampsia26%14%
+Premature delivery53%18%
+Stillbirth 9% 3%
+Neonatal death 8% 1%
+*The total risk (probability) that a certain problem will occur. For example, a DES daughter has a 53% risk of premature delivery to the age of 45 years and the risk in unexposed women is 18%.
+Some studies suggest that the increased risk of infertility in DES daughters is due mainly to uterine or fallopian tube problems (14).
+Males exposed to DES in utero have an increased risk of testicular abnormalities, including undescended testicles or development of cysts in the epididymis (15). There is also some evidence of increased risks of inflammation or infection of the testicles (15). However, DES sons do not have an increased risk of infertility, even when they have genital abnormalities (15).
+What other health issues or characteristics might DES daughters and DES sons have?
+People who were exposed to DES in utero may have other health issues or characteristics, including:
+Autoimmune conditions. Concerns have been raised that individuals exposed to DES in utero may have problems with their immune system. However, research thus far suggests that DES daughters do not have an increased risk of autoimmune diseases. Researchers found no difference in the rates of lupus, rheumatoid arthritis, optic neuritis, and idiopathic thrombocytopenia purpura between women who were and were not exposed to DES in utero (16).
+Cardiovascular disease. Individuals exposed to DES have an increased risk of high cholesterol, hypertension, coronary artery disease, and heart attack but not of stroke (17, 18). The associations between prenatal DES exposure and coronary artery disease and heart attack appear to be stronger in DES daughters than DES sons (17).
+Pancreatic disorders. One study found a higher risk of pancreatic disorders and pancreatitis (inflammation of the pancreas) in both DES daughters and DES sons compared with unexposed females and males (11).
+Early menopause. DES daughters have more than twice the risk of early menopause (menopause that begins before age 45) as unexposed women. Scientists estimate that 3% of DES-exposed women have experienced early menopause due to their exposure (10).
+Depression. One study found a 40% higher risk of depression in DES daughters than in unexposed women (19), but other studies have not found increased risks (20, 21). Prenatal exposure of men to DES was not associated with the risk of depression (21).
+Psychosexual characteristics. Findings from animal studies have raised the possibility that prenatal exposure to DES may influence certain psychological and sexual characteristics of adult men and women. However, a 2003 study found little evidence that such exposure is associated with the likelihood of ever having been married, age at first sexual intercourse, number of sexual partners, or having had a same-sex sexual partner in adulthood (20).
+A study published in 2020 found that DES daughters were about 40% less likely to identify as gay/lesbian or bisexual compared with unexposed women (22). There were indications that DES-exposed men were more likely to be gay or bisexual, but these associations were not statistically significant (22).
+What health issues might DES grandchildren have?
+Researchers are also studying possible health effects among the children of DES daughters. These groups are called DES granddaughters and DES grandsons, or the third generation. Researchers are studying these groups because studies in animal models suggest that DES may cause DNA changes (i.e., altered patterns of methylation) in mice exposed to the chemical during early development (23). These changes can be heritable and have the potential to affect subsequent generations.
+A comparison of the results of DES granddaughters’ pelvic exams with those of their mothers’ first pelvic exams found none of the changes that had been associated with prenatal DES exposure in their mothers (14). However, another analysis showed that DES granddaughters began their menstrual periods later and were more likely to have menstrual irregularities than unexposed women of the same age (that is, women whose mothers were not exposed to DES before birth) (24). The data also suggested that infertility was greater among DES granddaughters than among unexposed women of the same age (25) and that they may have an increased risk of preterm delivery (24). However, this association is based on small numbers of events and was not statistically significant. Researchers will continue to follow these individuals to study the risk of infertility.
+Recent studies have found that DES granddaughters and DES grandsons may have a slightly higher risk of cancer (26) and birth defects (27), including hypospadias in DES grandsons (28). However, because each of these associations is based on small numbers of events, researchers will continue to study these groups to clarify the findings.
+What health issues might women who took DES during pregnancy have?
+The women who used DES are now in their 70s and older. These women have already experienced the slight increase in risks of developing (29) and dying from (30) breast cancer documented in follow-up studies in which they participated. No evidence exists to suggest that women who took DES are at higher risk for any other type of cancer (5).
+How can people find out if they took DES during pregnancy or were exposed to DES in utero?
+It is estimated that 5 to 10 million Americans—pregnant women and the children born to them—were exposed to DES between 1940 and 1971 (5). DES was given widely to pregnant women between 1940 and 1971 to prevent complications during pregnancy. DES was provided under many different product names and also in various forms, such as pills, creams, and vaginal suppositories (31). The table below includes examples of products that contained DES.
+DES Product Names
+Nonsterodial estrogens:
+Benzestrol
+Chlorotrianisene
+Comestrol
+Cyren A.
+Cyren B.
+Delvinal
+DES
+Desplex
+Dibestil
+Diestryl
+Dienostrol
+Dienoestrol
+Diethylsteilbestrol dipalmitate
+Diethylstilbestrol diphosphate
+Diethylstilbestrol dipropionate
+Diethylstilbenediol
+Digestil
+Dinestrol
+Domestrol
+Estilben
+Estrobene
+Estrobene DP
+Estrosyn
+Fonatol
+Gynben
+Gyneben
+Hexestrol
+Hexoestrol
+Hi-Bestrol
+Menocrin
+Meprane
+Mestilbol
+Microest
+Methallenestril
+Mikarol
+Mikarol forti
+Milestrol
+Monomestrol
+Neo-Oestranol I
+Neo-Oestranol II
+Nulabort
+Oestrogenine
+Oestromenin
+Oestromon
+Orestol
+Pabestrol D
+Palestrol
+Restrol
+Stil-Rol
+Stilbal
+Stilbestrol
+Stilbestronate
+Stilbetin
+Stilbinol
+Stilboestroform
+Silboestrol
+Stilboestrol DP
+Stilestrate
+Stilpalmitate
+Stilphostrol
+Stilronate
+Stilrone
+Stils
+Synestrin
+Synestrol
+Synthosestrin
+Tace
+Vallestril
+Willestrol
+Nonsterodial estrogen-androgen combinations:
+Amperone
+Di-Erone
+Estan
+Metystil
+Teserene
+Tylandril
+Tylostereone
+Nonsteroidal estrogen-progesterone combinations:
+Progravidium
+Vaginal cream suppositories with nonsteroidal estrogens:
+AVC cream with dienestrol
+Dienestrol cream
+Women who think they used DES during pregnancy, or people who think that their mother used DES during pregnancy, can try contacting the health care provider or institution where they received their care to request a review of their medical records. If any medications were taken during pregnancy, obstetrical records could be checked to determine the name of the drug.
+However, finding medical records many decades later can be difficult. If the health care provider has retired or died, another provider may have taken over the practice as well as the records. The county medical society or health department may know where the records have been stored. Some pharmacies keep records for a long time and can be contacted regarding prescription dispensing information. Military medical records are kept for 25 years. In most cases, however, it may be impossible to confirm whether DES was used. Although records may not be available, some anatomic features that may be visible during a pelvic exam can lead a health care provider to suspect DES exposure.
+What should DES daughters do?
+Women who know or believe they were exposed to DES before birth should be aware of the health effects of DES and inform their health care provider about their possible exposure.
+Several major organizations publish guidelines about routine medical examinations and screening for women, but none of them address the needs of DES daughters specifically. These individuals have generally been advised to have an annual medical examination to check for adverse health effects of DES, including abnormal cervical cells and clear cell adenocarcinoma. In the past, that medical examination may have included a pelvic examination (in which the health care provider checks the vulva, vagina, cervix, ovaries, uterus, and rectum for any abnormalities) with a Pap test that collected cells from the cervix and the vagina; colposcopy (examination of the cervix with magnification) has been recommended to follow up on any abnormal findings.
+However, now that the population of DES daughters has become older (the youngest having been born in 1972), the relative benefits and harms of this approach compared with what is recommended for DES-unexposed individuals is unclear. For example, no guidelines address the age at which screening exams can end for these individuals.
+It is generally recommended that DES daughters follow the routine breast cancer screening recommendations for their age group.
+What should DES sons do?
+Men whose mothers took DES while pregnant should inform their health care provider of their exposure and be examined periodically. Although the risk of developing testicular cancer among DES sons is unclear, males with undescended or unusually small testicles have an increased risk of testicular cancer whether or not they were exposed to DES. Most men diagnosed with testicular cancer are younger, with less than 9% diagnosed over age 55, so the risk among DES sons, the youngest of whom are now 50, is likely to be low.
+What should women who used DES while pregnant do?
+Women who used DES during pregnancy (DES mothers) should follow recommendations for their age group regarding breast cancer screenings, pelvic exams, and annual medical check-ups.
+Is it safe for DES daughters to use menopausal hormone therapy?
+Each woman should discuss this question with her health care provider. There is no evidence that menopausal hormone therapy is unsafe for DES daughters. However, some clinicians believe that DES daughters should avoid these medications because they contain estrogen (32).
+What is the focus of current research on DES exposure?
+In 1992, NCI, together with collaborators at five research centers, began a long-term study of individuals prenatally exposed to DES, the DES Follow-up Study. Participants were initially drawn from eight different medical centers and consisted of five individual cohorts of people. And in 2000, NCI began following the daughters of the DES daughters, or third-generation women, through the DES Follow-up Study. For the study findings to be valid, enrollment is limited to participants who have been part of existing cohorts. For that reason, the DES Follow-up Study does not accept new participants.
+Researchers continue to study DES daughters as they move through their menopausal years. In a pilot study, postmenopausal DES daughters had altered estrogen metabolism, suggesting that prenatal exposure to this endocrine disruptor may influence estrogen metabolism many years later (33). The cancer risks for exposed sons are also being studied. In addition, researchers are studying possible health effects on the DES grandchildren.
+The National Institute of Environmental Health Sciences (NIEHS) is leading animal studies to investigate DES exposure and its effects on health. NIEHS researchers developed a rodent model of prenatal DES exposure that has been useful in replicating and predicting adverse health effects. This experimental model has been used worldwide to study mechanisms involved in DES-related toxicity and the adverse effects of less potent environmental estrogens.
+Where can DES-exposed people get additional information?
+Resources for people who were exposed to DES either while pregnant or in utero include the following:
+NCI's DES Follow-up Study
+Since 1992, NCI, in collaboration with research centers throughout the United States, has been conducting the DES Follow-up Study of more than 21,000 mothers, daughters, and sons, to better understand the long-term health effects of exposure to DES.
+Registry for Research on Hormonal Transplacental Carcinogenesis
+(Clear Cell Cancer Registry)
+The Registry for Research on Hormonal Transplacental Carcinogenesis (also called the Clear Cell Cancer Registry) is a worldwide registry for individuals diagnosed with clear cell adenocarcinoma of the vagina and/or cervix. Staff members also answer questions from the public.

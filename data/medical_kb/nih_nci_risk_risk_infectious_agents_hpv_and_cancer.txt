@@ -1,0 +1,82 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: HPV and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer
+────────────────────────────────────────────────────────────
+
+HPV and Cancer
+What is HPV (human papillomavirus)?
+HPV is a group of more than 200 related viruses, some of which are spread through vaginal, anal, or oral sex. Sexually transmitted HPV types fall into two groups: low risk and high risk.
+High-risk HPVs can cause several types of cancer. There are 12 high-risk HPV types: HPV 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, and 59. Two of these, HPV 16 and HPV 18, are responsible for most HPV-related cancers.
+Low-risk HPV types rarely cause cancer, although a few low-risk HPV types can cause warts on or around the genitals, anus, mouth, or throat. When warts form in the larynx or respiratory tract, you may have a condition called respiratory papillomatosis, which can cause breathing problems.
+Facts about HPV
+HPV infection is common: Nearly all sexually active people are infected with HPV within months to a few years of becoming sexually active. Around half of these infections are with a high-risk HPV type.
+Most HPV infections go away on their own without causing cancer: Your immune system usually controls HPV infections so they are cleared by your body, within a year or two.
+High-risk HPV infections that persist can cause cancer: Sometimes HPV infections are not successfully controlled by your immune system. When a high-risk HPV infection persists for many years, it can lead to cell changes that, if untreated, may get worse over time and become precancerous and then cancerous.
+HPV can cause six types of cancer: These include anal cancer, cervical cancer, oropharyngeal cancer, penile cancer, vaginal cancer, and vulvar cancer.
+HPV vaccination can prevent cancer: HPV vaccines can prevent infection with disease-causing HPV types, preventing many HPV-related cancers and cases of genital warts.
+What cancers are caused by HPV Infection?
+Long-lasting infections with high-risk HPVs can cause cancer in parts of the body where HPV infects cells. HPV infects the thin, flat cells (squamous cells) that line the inner surfaces of these organs. Most HPV-related cancers are called squamous cell carcinomas. Some cervical cancers come from HPV infection of glandular cells in the cervix and are called adenocarcinomas.
+HPV-related cancers include:
+Statistical Summaries for Specific Types of Cancer
+Learn about incidence, survival, mortality, and lifetime risk for many types of cancer.
+Anal cancer: Over 90% of anal cancer is caused by HPV. Both new cases and deaths from anal cancer are increasing. Learn about trends in diagnosis and survival rates for anal cancer.
+Cervical cancer: Virtually all cervical cancer is caused by HPV. Routine screening with an HPV test or Pap test can prevent most cervical cancer by allowing health care providers to find and remove precancerous cells before they develop into cervical cancer. Cervical cancer is most common in rarely or never screened women. Learn about trends in diagnosis and survival rates for cervical cancer.
+Oropharyngeal cancers: (also called throat cancer): This cancer forms in tissues of the oropharynx (the middle part of the throat, behind the mouth). Most oropharyngeal cancer (70%) is caused by HPV. Learn more about trends in diagnosis and survival rates of oral cavity and pharynx cancer. Oropharyngeal cancer is different than oral cavity cancer, which forms in the mouth; both are types of head and neck cancer.
+Penile cancer: Most penile cancers (63%) is caused by HPV. Penile cancer is a rare form of cancer that usually forms on or under the foreskin.
+Vaginal cancer: Most vaginal cancer (75%) is caused by HPV. Learn about treatment for vaginal cancer.
+Vulvar cancer: Most vulvar cancer (69%) is caused by HPV. Learn about trends in diagnosis and survival rates for vulvar cancer.
+HPV-related cancers in the United States: Each year in the United States there are over 47,900 new cases of cancer in parts of the body where HPV is often found. HPV is estimated to cause about 37,800 of these cancers, according to data from the Centers for Disease Control and Prevention.
+HPV-related cancers worldwide: Every year HPV causes an estimated 690,000 cancers worldwide and 350,000 women die from cervical cancer.
+How is HPV transmitted?
+HPV infection passes easily between sexual partners. It can be transmitted through any intimate skin-to-skin contact, including vaginal–penile sex, penile–anal sex, penile–oral sex, and vaginal–oral sex. Correctly using condoms can lower the chance of HPV transmission, but does not prevent it completely.
+Does HPV infection cause symptoms?
+Infection with low-risk HPV: Infection with low-risk HPV may cause warts on or around the genitals, anus, mouth, or throat.
+Infection with high-risk HPV: Infection with high-risk HPV does not cause symptoms. However, depending on the site of infection, the precancers and cancers caused by a high-risk HPV infection that persists for many years may cause symptoms such as lumps, bleeding, and pain.
+Normal cells may become cancer cells. Before cancer cells form in tissues of the body, the cells go through abnormal changes called hyperplasia and dysplasia. Hyperplasia and dysplasia may or may not become cancer.
+Learn about signs and symptoms for anal cancer, cervical cancer, oropharyngeal cancer, penile cancer, vaginal cancer, and vulvar cancer.
+HPV vaccine: Preventing HPV infection
+The HPV vaccine Gardasil 9 protects against infection from nine HPV types, including the seven types that cause most HPV-related cancers (types 16, 18, 31, 33, 45, 52, and 58) and the two low-risk types that cause most genital warts (types 6 and 11).
+Key facts about the efficacy and safety of the HPV vaccine:
+The HPV vaccine is estimated to prevent up to 90% of cancers caused by HPV infection and genital warts.
+HPV vaccination is recommended by the Centers for Disease Control and Prevention (CDC)’s Advisory Committee on Immunizations Practices to prevent new HPV infections and HPV-associated cancers and other diseases.
+HPV vaccination offers the most protection when given to girls and boys at ages 9–12.
+HPV Vaccination and Parents: What Message Works Best?
+Emphasizing cancer prevention is the best choice, study finds.
+Who should get the HPV vaccine?
+The HPV vaccine series is recommended for girls and boys at the age of 11 or 12, and the series can be started at age 9. It is important for everyone to get vaccinated, because anyone, regardless of their sex, can develop HPV-related cancers. Vaccination can also reduce the spread of HPV that causes cancer to other people.
+In the United States, those who start the vaccine series before age 15 should receive two vaccine doses, and those who receive their first dose at age 15 or older should receive three doses. For young people who weren’t vaccinated within the age recommendations, HPV vaccination is recommended up to age 26.
+Can the HPV vaccine be given at older ages?
+Yes, the vaccine has FDA approval to be given through age 45 years. However, it is not routinely recommended for most people ages 27 to 45. People in this age group are unlikely to benefit from the vaccine because they have likely been exposed to HPV already. If you are concerned that you are at risk for a new HPV infection, talk with your health care provider about whether HPV vaccination may be right for you. Learn more about Human Papillomavirus (HPV) Vaccines.
+Screening to detect cell changes caused by HPV
+Screening tests are used to check for a disease or condition when there are no symptoms. The goal of screening is to find health problems early, when they may be easier to treat. Cervical cancer is currently the only HPV-caused cancer for which FDA-approved screening tests are available. Because there are not effective screening tests to find HPV-related cancers other than cervical cancer, it’s important to follow up with your health care provider about unusual symptoms. When caught early, many of these cancers can be successfully treated.
+Cervical cancer screening: Cervical cancer screening is an important part of routine health care. Cervical cancer screening tests include the HPV test that checks cervical cells for high-risk HPV, the Pap smear that checks for cervical cell changes that can be caused by high-risk HPV, and the HPV/Pap cotest that checks for both high-risk HPV and cervical cell changes. Learn more about cervical cancer screening.
+Anal cancer screening: Although there are no standard anal cancer screening tests for the general public, among populations at higher risk for anal HPV infection (men who have sex with men, women who have had cervical or vulvar cancer, people who are HIV positive, and organ transplant recipients), an anal Pap test (also called an anal Pap smear) is sometimes used to find precancerous anal lesions. A recent clinical trial found that treating precancerous anal lesions (called high-grade squamous intraepithelial lesions, or HSIL) in people living with HIV cut their risk of developing anal cancer by more than half.
+Oropharyngeal cancer screening: There are no standard screening tests for oropharyngeal cancer (also called throat cancer). The oral cancer exam that your dentist may conduct as part of a routine dental check-up checks the oral cavity, which is a different part in the mouth.
+Penile cancer screening: There are no standard screening tests for penile cancer.
+Vaginal cancer and vulvar cancer screening: There are no standard screening tests for vaginal or vulvar cancer. Although the Pap smear does not check for these cancers, vaginal cancer may sometimes be found on a Pap test or during a colposcopy.
+Screening and early detection clinical trials for HPV
+These databases include clinical trials that are currently available for HPV-related screening and treatment:
+ClinicalTrials.gov has clinical research studies that are available to the public, researchers, and health care professionals. Before participating in a study, talk with your health care provider and learn more about participating in clinical studies.
+NCI-supported clinical trials are sponsored or supported by NCI. Learn more about steps to find a clinical trial.
+Dysplasia and precancers caused by HPV
+Dysplasia is the abnormal growth of cells within a tissue or organ. Abnormal changes to epithelial cells caused by HPV infection can lead to dysplasia of the cervix, anus, oropharynx, penis, vagina, and vulva. Epithelial cell dysplasia is also known as intraepithelial neoplasia.
+Dysplasia is a condition that is categorized (graded) as mild, moderate, or high grade.
+HPV infection can cause mild, or low-grade, dysplasia. Low-grade dysplasia usually goes away on its own as the viral infection clears.
+HPV infections that persist can cause precancers (moderate dysplasia and high-grade dysplasia) that need to be treated to prevent them from becoming cancer. Since not all precancers go on to become cancer, researchers are working to discover biomarkers that predict which precancers will become cancerous.
+Treatment of dysplasia
+If you have been diagnosed with moderate or high-grade dysplasia, your health care provider will talk with you about your treatment options.
+Moderate and high-grade cervical dysplasia
+Cervical dysplasia is referred to as cervical intraepithelial neoplasia (CIN). Most people with moderate cervical dysplasia (CIN 2) or high-grade cervical dysplasia (CIN 3) are treated with loop electrosurgical excision procedure (LEEP) or cold knife conization. Talk with your health care provider to learn about the best treatment option for you.
+Moderate and high-grade anal, penile, vaginal, and vulvar dysplasia
+These types of moderate or high-grade dysplasia may be treated with surgery (such as wide local excision) or topical treatments: anal dysplasia (also called anal intraepithelial neoplasia, or AIN), penile dysplasia (also called penile intraepithelial neoplasia, or PeIN), vaginal dysplasia (also called vaginal intraepithelial neoplasia, or VAIN), and vulvar dysplasia (also called vulvar intraepithelial neoplasia, or VIN).
+How does HPV cause cancer?
+Once high-risk HPV infects cervical cells, it interferes with the ways in which these cells replicate, divide, and communicate with one another, causing infected cells to multiply in an uncontrolled manner. These infected cells are usually recognized and controlled by the immune system. However, sometimes the infected cells remain and continue to grow, eventually forming an area of precancerous cells that, if not treated, can become cancer. Although research has focused on how high-risk HPV causes cancer in the cervix, HPV-caused cancers at other sites are likely to arise through similar mechanisms.
+Research has found that it can take 5 to 10 years for HPV-infected cervical cells to develop into precancers and about 20 years to develop into cancer.
+When cervical cells are infected with high-risk HPV, several factors increase the chance that the HPV infection will be long-lasting and lead to precancerous cervical cells:
+having a very aggressive HPV type, particularly HPV 16 or HPV 18
+smoking
+having a weakened immune system or being immunocompromised
+being infected with HIV
+taking medicines that suppress your immune system, such as after an organ transplant, to treat an autoimmune disease, or to treat cancer
+Because smoking may increase the chance that high-grade dysplasia progresses to cancer, it’s important to quit. All states have quitlines with counselors who are trained to help smokers quit. Call 1-800-QUIT-NOW (800-784-8669) to talk with a counselor today. Find tools and tips to help you stop smoking.
+NCI and HPV-related research

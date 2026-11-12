@@ -1,0 +1,200 @@
+SOURCE: National Institute of Mental Health, NIH (public domain)
+TITLE: Brain Stimulation Therapies
+URL: https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
+────────────────────────────────────────────────────────────
+
+Brain Stimulation Therapies
+What are brain stimulation therapies?
+Brain stimulation therapies can play an important role in treating mental disorders. These therapies work by activating or inhibiting the brain with electricity. The electricity can be given directly through electrodes implanted in the brain or indirectly through electrodes placed on the scalp. The electricity can also be induced by applying magnetic fields to the head.
+This video from the National Institute of Mental Health (NIMH) provides an overview of brain stimulation therapies and how they can be used to treat mental disorders.
+This page provides basic information about brain stimulation therapies. It does not cover all forms of therapy or all mental disorders for which a therapy might be used. The information should not be used as a guide for making medical decisions. Research is ongoing to determine the best use of these therapies and if they are effective treatments for other disorders and conditions.
+The page is divided into therapies that are authorized by the U.S. Food and Drug Administration (FDA) to treat specific mental disorders, including depression, bipolar disorder, and obsessive-compulsive disorder (OCD), versus therapies that are newer and still considered experimental.
+The authorized therapies covered on this page are:
+Electroconvulsive therapy
+Repetitive transcranial magnetic stimulation
+Vagus nerve stimulation
+The experimental therapies covered on this page are:
+Magnetic seizure therapy
+Deep brain stimulation
+Other brain stimulation therapies not discussed here may also hold promise for treating mental disorders. Information about these therapies is updated frequently. See the FDA website for the latest information, warnings, and guidance on brain stimulation devices and announcements about new ones.
+How do brain stimulation therapies work?
+In most cases, brain stimulation therapy is used only after other treatments have been tried. Although less frequently used than psychotherapy or medication, brain stimulation therapies hold promise for people with certain mental disorders who have not responded to other treatments.
+Brain stimulation therapies should be prescribed and monitored by a health care provider with specific training and expertise. A trained medical team performs the procedures. Most involve using anesthesia to sedate the patient and a muscle relaxant to prevent them from moving. If so, an anesthesiologist will monitor breathing, heart rate, and blood pressure throughout the procedure.
+A treatment plan involving brain stimulation therapy is based on a person's individual needs and medical situation. It usually also includes psychotherapy, medication, or both. Patients will likely be advised to continue these other treatments during and after therapy. Patients should not stop a treatment unless specifically advised by a health care provider.
+Brain stimulation therapies treat serious mental illnesses. They are often used when a person is experiencing dangerous circumstances, such as not responding to the outside world or is at risk of harming themselves.
+If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide and Crisis Lifeline at 988 or chat at 988lifeline.org . In life-threatening situations, call 911.
+Authorized therapies
+The FDA determines whether foods, drugs, medical devices, and other products are safe to use. The FDA commonly gives two types of authorization to devices like brain stimulation therapies.
+Approved means that the FDA has decided that the benefits of the device outweigh the known risks, as demonstrated by the results of clinical testing. Approval is usually required for devices that might have a significant risk of injury or illness, including devices implanted in the body.
+Cleared means that the device is substantially equivalent to a similar device that the FDA has already cleared or approved. Clearance is usually given to lower-risk devices used outside the body.
+What is electroconvulsive therapy?
+Electroconvulsive therapy (ECT) is a noninvasive procedure that treats serious mental disorders by using an electric current to induce seizure activity in the brain. It has the longest history of use for depression and is one of the most widely used brain stimulation therapies.
+ECT: Why it’s done
+The FDA has cleared ECT to treat severe depressive episodes in people 13 years and older with depression or bipolar disorder. In some cases, ECT has also been used to treat schizophrenia, schizoaffective disorder, and mania.
+ECT is usually considered only if a person’s illness has not improved after trying other treatments like psychotherapy or medication. To be eligible for ECT, a person must meet one of two criteria.
+They have severe, treatment-resistant depression.
+They require a rapid response due to life-threatening circumstances. For instance, they are catatonic (unable to move or respond to the outside world), suicidal, or malnourished.
+ECT can be effective when medications have not worked, cannot be tolerated, or are undesirable due to physical illness, which is often the case in older adults. ECT also begins working more rapidly than antidepressant medications, usually taking effect within the first week of treatment.
+ECT: How it works
+Before a doctor performs ECT, the patient is sedated with a short-acting general anesthetic and given an intravenous muscle relaxant to prevent movement.
+During the procedure:
+Electrodes are placed at precise locations on the patient’s head.
+An electric current is sent through the electrodes into the brain, causing seizure activity that lasts under a minute. Anesthesia ensures the patient does not experience pain or feel the electrical pulses. Often, a blood pressure cuff is used on an arm or leg to block the muscle relaxant and allow movement of that limb to confirm the seizure activity is adequate.
+The patient wakes up 5–10 minutes after the procedure ends. They may feel groggy at first as the anesthesia wears off, but after about an hour, they are usually alert and can resume normal activities.
+A typical course of ECT is administered three times a week until a patient's symptoms improve (usually within 6–12 treatments). Frequently, a patient who undergoes ECT also takes antidepressant or mood-stabilizing medication.
+Although ECT is effective in treating depressive episodes, follow-up treatment—antidepressant medication, maintenance ECT , or both—is usually required to sustain the clinical improvement and reduce the chances that symptoms return. Maintenance ECT varies depending on the patient’s needs and may range from one session per week to one session every few months.
+ECT: Side effects
+The most common side effects associated with ECT include:
+Headaches
+Upset stomach
+Muscle aches
+Memory loss
+Disorientation or confusion
+Some patients may experience memory loss, especially of memories around the time of treatment. Sometimes the memory problems are more severe, but usually they improve over the days and weeks following the end of an ECT course.
+The risk of memory loss is affected by how the ECT procedure is performed. Two important aspects of ECT are electrode placement and pulse width.
+The placement of electrodes on the head determines where in the brain the electric field is induced. Research has found that memory problems are more common with the older form of ECT (bilateral ECT), in which electrodes are placed on both sides of the head. In comparison, unilateral ECT has a lower risk of memory loss. Unilateral ECT involves placing an electrode on only one side of the head, typically the right side because it is opposite the brain's learning and memory areas, and the other electrode on top of the head.
+Pulse width describes how long, in milliseconds, each electric pulse lasts. Modern ECT devices can deliver electrical signals using brief or ultra-brief pulses. These short pulses are as effective as the traditional form of ECT but given at a lower dose, helping further reduce cognitive side effects like memory loss.
+It is important to talk to a doctor about these key aspects of ECT (electrode placement and pulse width) before starting treatment.
+What is repetitive transcranial magnetic stimulation?
+Repetitive transcranial magnetic stimulation (rTMS) is a noninvasive therapy that uses an electromagnet to stimulate the brain using repeated low-intensity pulses. The magnetic field it creates is about the same strength as an MRI scanner. The magnetic field is turned on and off very rapidly, inducing weak electrical currents that stimulate neurons and neural circuits in the brain.
+rTMS: Why it’s done
+rTMS is FDA-cleared for treatment-resistant depression, OCD, migraines, anxiety with depression, and smoking dependence. However, it does not match the therapeutic effects of ECT, and it is not approved for youth under 15 years old.
+The FDA cleared the first rTMS device in 2008 for depression in people who did not respond to at least one antidepressant medication in the current depressive episode. Although ECT is still considered the "gold standard" for treatment-resistant depression, strong clinical evidence supports the effectiveness of rTMS in reducing depressive symptoms. rTMS is now used to treat moderate-to-severe depression in cases where medications have proven ineffective or intolerable.
+Since 2008, rTMS has been cleared to treat several types of depression, including depression with comorbid anxiety and depression with suicidality. In 2018, the FDA cleared rTMS for severe OCD . In 2020, the FDA granted breakthrough device designation to rTMS for bipolar depression, given to medical devices with preliminary evidence of clinical effectiveness compared to available treatments.
+More recently, the FDA cleared a rapid-acting form of rTMS for treatment-resistant depression . Accelerated protocols that act more quickly than standard rTMS show similar effectiveness while shortening treatment length. Thus, patients benefit from receiving an entire course of treatment in much less time and getting relief from their symptoms more rapidly. In March 2024, the FDA also cleared rTMS for the adjunctive treatment of depression in adolescents 15 years and older.
+Newer forms of rTMS involving magnetic pulses with other parameters are also being investigated to treat depression, OCD, and other mental disorders.
+rTMS: How it works
+Rather than applying electricity directly to the head as with ECT, rTMS uses low-intensity magnetic pulses to stimulate the brain. Unlike ECT, in which stimulation is generalized, in rTMS, magnetic stimulation is targeted to a specific brain site. Also in contrast to ECT, the procedure does not require anesthesia and can be performed in a clinical or office setting.
+A typical rTMS session usually lasts anywhere from 3–40 minutes. A typical course of rTMS treatment consists of daily sessions 5 days per week for 4–6 weeks.
+Accelerated rTMS protocols work much faster (often within a week). In this case, multiple sessions are delivered on a single day, with short breaks in between.
+During the procedure:
+An electromagnetic coil is held against the head near an area of the brain thought to be involved in mood regulation, cognitive control, or both. These brain areas include the left prefrontal cortex (for depression) and the dorsomedial prefrontal cortex or anterior cingulate cortex (for OCD). In deep TMS, two coils may be used to deliver more stimulation to the region and target larger structures deep in the brain.
+Short electromagnetic pulses are repeatedly administered through the coil or coils. The patient usually feels a slight knocking or tapping on the head as the pulses are administered.
+The electromagnetic pulses pass easily through the skull and cause small electric currents that stimulate nerve cells in the targeted brain region.
+There is not consensus on the best way to position the coil on the head or deliver the electromagnetic pulses. It has also yet to be determined if rTMS works best when delivered as a single treatment or when combined with psychotherapy, medication, or both. Research is underway to establish the safest and most effective uses of rTMS, the optimal brain sites to target, and the best follow-up approach to sustain clinical improvement.
+rTMS: Side effects
+Overall, rTMS is safe and well tolerated But, like all therapies described here, it can have side effects. These include:
+Discomfort at the site on the head where the magnet is placed
+Contraction or tingling of scalp, jaw, or face muscles during the procedure
+Mild headaches or brief lightheadedness
+Dizziness
+Using magnetic pulses and targeting a specific brain site results in milder stimulation than in ECT, avoiding most seizure activity. Although it is possible for the procedure to cause seizures, a comprehensive review found that the risk is low. Most side effects appear to be mild and short-term when expert guidelines are followed.
+Long-term side effects have not been determined, and more research is needed to establish the long-term safety of rTMS.
+What is vagus nerve stimulation?
+Vagus nerve stimulation (VNS) is a surgical procedure that involves a device implanted under the skin. The device sends electrical pulses through the left vagus nerve that runs from the brainstem through the neck and down the side of the chest and abdomen. The nerve carries messages from the brain to the body's major organs, including the heart, lungs, and intestines, and between areas of the brain that control mood, sleep, and other functions.
+More recently, this therapy has been simplified by the introduction of noninvasive VNS (known as transcutaneous VNS [tVNS] ). tVNS uses a portable device to send electrical stimulation through the skin to activate the vagus nerve. Although tVNS is still experimental, the approach may offer advantages over surgical VNS, such as greater accessibility and affordability, while avoiding surgical complications.
+VNS: Why it’s done
+VNS was initially developed as a treatment for epilepsy. Research using brain scans showed that the procedure also can be used to improve depression symptoms.
+In 2005, the FDA approved surgical VNS for depression when the following conditions are met.
+The patient is 18 years or older.
+The depression has lasted 2 or more years.
+The depression is severe or recurrent.
+The depression has not eased after trying at least four other treatments.
+Despite FDA approval for depression, VNS is not intended as a first-line treatment and remains infrequently used. The results of studies examining its effectiveness for depression have been mixed. Whereas a review of clinical trials of VNS for treatment-resistant depression found a sustained reduction in depression symptoms and enhanced quality of life, other studies did not report meaningful improvements.
+Although noninvasive forms of VNS have shown antidepressant effects , tVNS is not currently authorized by the FDA as a treatment for depression. However, a portable VNS device has been cleared by the FDA to treat post-traumatic stress disorder (PTSD) under a breakthrough device designation. Research is ongoing to test the efficacy and safety of tVNS for depression, PTSD, and other mental disorders.
+VNS: How it works
+VNS is traditionally a surgical procedure.
+A device about the size of a stopwatch called a pulse generator is implanted in the upper left side of the chest while the patient is under anesthesia.
+Connected to the pulse generator is an electrical lead wire, which goes from the generator to the left vagus nerve.
+Typically, 30-second electrical pulses are sent every 5 minutes from the generator to the vagus nerve. The duration and frequency of the pulses may vary depending on how the generator is programmed.
+The vagus nerve, in turn, delivers those electrical signals to the brain.
+The pulse generator, which operates continuously, is powered by a battery that lasts around 10 years, after which it must be replaced. Patients usually do not feel pain or discomfort as the device operates.
+It may be several months before noticing benefits, and not all people respond to VNS. Some patients have no improvement in symptoms, and some may get worse.
+The device can be temporarily deactivated by placing a magnet over the chest where the generator is implanted. A patient may want to deactivate the device if side effects become intolerable or before engaging in strenuous activity or exercise because it can interfere with breathing. The device reactivates when the magnet is removed.
+Noninvasive forms of VNS consist of a device worn around the neck or ears or a handheld device. There are many questions about the most effective stimulation sites, parameters, and protocols for tVNS, and research is ongoing to determine the optimal conditions to achieve the greatest clinical benefits.
+VNS: Side effects
+VNS is not without risk. There may be complications, such as infection or pain from the implant surgery, or the device may come loose, move around, or malfunction, all of which can require additional surgery to correct.
+Other potential side effects include:
+Discomfort or tingling in the area where the device is implanted
+Voice changes or hoarseness
+Cough or sore throat
+Neck pain or headaches
+Breathing problems, especially during exercise
+Difficulty swallowing
+Nausea or vomiting
+If cleared by the FDA, tVNS devices may help overcome some of these surgical issues. Nonetheless, mild side effects of tVNS have been reported, including:
+Tingling, pain, or itchiness around the stimulation site
+Nausea or vomiting
+Dizziness
+The long-term side effects of all forms of VNS are unknown.
+Experimental therapies
+Other brain stimulation therapies are actively being explored for specific mental disorders. The following therapies are still considered experimental and have not yet been authorized by the FDA to treat mental disorders.
+What is magnetic seizure therapy?
+Magnetic seizure therapy (MST) is a noninvasive procedure that uses high-powered magnetic stimulation to induce seizures. The seizures are targeted to a specific site in the brain.
+In the United States, MST is available only as part of a clinical trial or research study. NIMH has information on joining a clinical trial of MST or another brain stimulation therapy.
+MST: How it works
+MST combines aspects of both ECT and rTMS. Like rTMS, MST uses magnetic pulses to stimulate a specific brain site. The pulses are given at a higher intensity and frequency than in rTMS to induce a seizure. But the strength of the stimulation is less than in ECT and is also more focused in the brain. Like in ECT, the patient is anesthetized and given a muscle relaxant to prevent movement during the procedure. The goal is to retain the effectiveness of ECT while reducing the risk of cognitive side effects.
+During the procedure:
+An electromagnetic coil is held against the head, typically targeting the brain’s prefrontal area.
+Rapidly alternating strong magnetic pulses pass through the coil into the brain to induce a seizure. Anesthesia is used to ensure the patient does not experience pain or feel the electrical pulses. A muscle relaxant is used to prevent the patient from moving during the procedure.
+The magnetic dosage is individualized for each patient by finding the patient-specific seizure threshold.
+There is not agreement on MST's optimal dosing, coil size, and stimulation site, and researchers are actively conducting studies to determine those specifications.
+MST: Why it’s done
+Introduced in 2001, MST is currently in the early stages of investigation and clinical use for treating mental disorders. A review of randomized clinical trials examining MST for treatment-resistant depression showed promising results. A recent multicenter clinical study of people with severe depression also showed significant and sustained antidepressant effects of MST and that it was as effective as ECT in treating the disorder, while leading to fewer cognitive side effects.
+However, more confirmatory evidence is needed to draw conclusions about MST’s effectiveness in treating depression and other mental disorders.
+MST: Side effects
+Like ECT, MST carries the risk of side effects caused by anesthesia and the induction of a seizure. These side effects can include:
+Headaches or scalp pain
+Dizziness
+Nausea or vomiting
+Muscle aches or fatigue
+A systematic review and meta-analysis found that MST produced fewer memory problems and other cognitive side effects and caused less confusion and shorter seizures compared to ECT.
+What is deep brain stimulation?
+Deep brain stimulation (DBS) is a surgical procedure that uses electricity to directly stimulate sites in the brain.
+DBS can be used to treat severe OCD or depression in patients who have not responded to other treatments. It is available for other mental disorders only as part of a clinical trial.
+DBS: How it works
+DBS works by sending electrical pulses to specific brain areas. It requires surgery to implant electrodes in the brain. Although it is unclear exactly how DBS works, researchers believe it uses electrical pulses to help "reset" malfunctioning networks in the brain.
+Prior to the procedure, scans of the brain are taken using MRI, which the surgeon uses as a guide to determine where to place the electrodes during surgery.
+Once a patient is ready for surgery:
+The head is numbed with a local anesthetic so they do not feel pain.
+The surgeon drills one or two small holes into the patient’s head; threads a thin insulated wire, usually a pair of wires, through the hole(s) and into the brain; and places electrodes in a specific brain area.
+The patient is awake while the electrodes are implanted to provide feedback on their placement but does not feel pain because the head is numbed and the brain itself does not register pain.
+After the electrodes are implanted, the patient is put under general anesthesia.
+The electrodes are attached to wires that run inside the body from the head, through the neck and shoulder, and down to the chest, where a small battery-operated generator (about the size of a pacemaker) is implanted. The generator is placed under the skin in the upper chest. Whereas early DBS devices used two pulse generators, one wired to each of the implanted electrodes, most newer devices use a single pulse generator to stimulate both electrodes.
+From the generator, electrical pulses are delivered through the wires to the electrodes in the brain. Stimulation is applied continuously, and its frequency and level are customized to each patient.
+After the procedure, the patient may be given a device-based tool (like a hand-held controller or smart phone app) to help them monitor and manage their symptoms at home or provide feedback to their care team.
+DBS: Why it's done
+DBS was first developed to treat movement disorders , including tremor and Parkinson's disease.
+The FDA has since cleared DBS for severe, treatment-resistant OCD under a Humanitarian Device Exemption , which is a provision for rare diseases or conditions experienced by relatively few patients among whom it has been difficult to gather evidence to demonstrate effectiveness. However, there is still much to be learned about optimizing DBS treatment. Although a systematic review found that DBS improves OCD symptoms, other review articles have called for more confirmatory evidence before drawing conclusions about its effectiveness.
+Similarly, DBS received Breakthrough Device Designation from the FDA in 2022 to investigate its use for treatment-resistant depression. A systematic review and meta-analysis showed favorable effects of DBS in treating depression symptoms. Nonetheless, it remains an experimental treatment for depression until more data from high-quality studies are available.
+DBS: Side effects
+DBS carries risks associated with any brain surgery. For example, the procedure may lead to:
+Bleeding in the brain or stroke
+Device-related discomfort, pain, or infection around the incision
+Infection near the incision site
+Headaches
+Disorientation or confusion
+Cognitive impairment
+Lightheadedness, dizziness, nausea, or vomiting
+Trouble sleeping, agitation, or restlessness
+Because the procedure is still being studied, other side effects not yet identified are possible. Long-term benefits and side effects are unknown.
+Are there other types of brain stimulation therapy?
+Other types of brain stimulation therapy are in development. Most are used in combination with other therapies or treatments to optimize clinical outcomes.
+One emerging therapy that shows promise for treating mental disorders is trigeminal nerve stimulation (TNS) . The FDA has approved TNS to treat attention-deficit/hyperactivity disorder (ADHD) in children, but it has not yet been approved to treat other conditions or for adults.
+Other noninvasive brain stimulation therapies include, but are not limited to:
+Temporal interference (TI)
+Transcranial alternating current stimulation (tACS)
+Transcranial direct current stimulation (tDCS)
+Transcranial random noise stimulation (tRNS)
+Transcranial ultrasound stimulation (TUS)
+Several groups at NIMH conduct research on brain stimulation therapies. The Neuromodulation and Neurostimulation Program and Multimodal Neurotherapeutics Program support research to develop new therapies and refine existing therapies to treat mental disorders and conditions. The Noninvasive Neuromodulation Unit examines the mechanisms of action of treatments for brain-based disorders to develop safer, more effective, and personalized interventions for serious mental health conditions.
+How can I find a clinical trial for brain stimulation therapy?
+NIMH supports a wide range of research, including clinical trials that look at new ways to prevent, detect, or treat diseases and conditions. The goal of a clinical trial is to determine if a new test or treatment works and is safe. Although people may benefit from being part of a clinical trial, they should know that the primary purpose is to gain new scientific knowledge so that others can be better helped in the future.
+Researchers at NIMH and around the country conduct many studies with people with and without mental disorders. We have new and better treatment options today because of what clinical trials have uncovered. Talk to a health care provider about clinical trials, their benefits and risks, and whether one is right for you.
+To learn more or find a study, visit:
+Research Conducted at NIMH: Join a Study
+NIMH Clinical Trials – Information for Participants
+ClinicalTrials.gov: Brain Stimulation Therapies
+To learn more about the mental disorders discussed on this page, visit NIMH’s health topic webpages.
+Where can I learn more about brain stimulation therapies?
+Federal resources
+Brain Stimulation Therapies (NIMH Facebook Live)
+Electroconvulsive Therapy (MedlinePlus Medical Encyclopedia)
+Deep Brain Stimulation (MedlinePlus Medical Encyclopedia)
+Brain Stimulation Therapies for Epilepsy (National Institute of Neurological Disorders and Stroke)
+Deep Brain Stimulation (DBS) for the Treatment of Parkinson’s Disease and Other Movement Disorders (National Institute of Neurological Disorders and Stroke)
+Research
+Journal articles : References and abstracts from MEDLINE/PubMed (National Library of Medicine)
+Magnetic Seizure Therapy as Effective as Electroconvulsive Therapy for Treating Depression (NIMH Research Highlight)
+New Approach Allows Magnetic Brain Stimulation to Target Deep Brain Structures (NIMH Research Highlight)
+Personalizing Deep Brain Stimulation for Treatment-Resistant Depression (NIMH Research Highlight)

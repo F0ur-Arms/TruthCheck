@@ -1,0 +1,16 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Thorium
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/thorium
+────────────────────────────────────────────────────────────
+
+Thorium
+What is thorium?
+Thorium is a naturally occurring radioactive metal that is found in soil, rock, and water. It is formed by the radioactive decay of uranium. Minerals such as monazite, thorite, and thorianite are rich in thorium and may be mined for the metal.
+Thorium has coloring properties that have made it useful in ceramic glazes. Thorium also has been widely used in lantern mantles for the brightness it imparts (though alternatives are replacing it), and in welding rods, which burn better with small amounts of added thorium. Until the 1950s, thorium dioxide was used as a contrast agent (called Thorotrast) in medical radiology.
+How are people exposed to thorium?
+The primary ways people are exposed to thorium are inhalation, intravenous injection, ingestion, and absorption through the skin. More than 2.5 million people worldwide were exposed to thorium in Thorotrast between 1930 and 1950. Once injected, Thorotrast remains in the body, resulting in lifelong exposure to thorium.
+Although thorium is widespread in the environment, most people are not exposed to dangerous levels of the metal. However, people who live near thorium-mining areas or facilities that manufacture products with thorium may have increased exposure, especially if their water comes from a private well. Analytical laboratories can test water for thorium content.
+Which cancers are associated with exposure to thorium?
+Studies of patients who received intravascular injections of Thorotrast found an increased risk of liver tumors among these individuals. And there is research evidence that inhaling thorium dust increases the risk of lung and pancreatic cancer. Individuals exposed to thorium also have an increased risk of bone cancer because thorium may be stored in bone.
+How can exposures be reduced?
+Occasionally, household items may be found to contain thorium, such as some older ceramic wares in which uranium was used in the glaze, or gas lantern mantles. Although these exposures generally do not pose serious health risks, such household items should be retired from use to avoid unnecessary exposures. A radiation counter is required to confirm if ceramics contain thorium.

@@ -1,0 +1,53 @@
+SOURCE: National Institute on Drug Abuse, NIH (public domain)
+TITLE: Drug Overdose Deaths: Facts and Figures
+URL: https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
+────────────────────────────────────────────────────────────
+
+Drug Overdose Deaths: Facts and Figures
+En español
+Highlights
+Image
+The National Center for Health Statistics (NCHS) at the U.S. Centers for Disease Control and Prevention (CDC) reports data on fatalities involving drugs commonly associated with fatal overdose. NIDA analyzes NCHS data to create the figures and descriptions on this page. For more information or to contact CDC, please visit the CDC’s Drug Overdose Deaths web page.
+Timely data related to unintentional and undetermined intent drug overdose deaths by participating jurisdiction is also available from the CDC’s State Unintentional Drug Overdose Reporting System (SUDORS) system.
+Data related to nonfatal drug overdoses are reported through the CDC’s Drug Overdose Surveillance and Epidemiology (DOSE) system.
+Expand All
+U.S. Overdose Deaths by Sex, 1999-2023
+Image
+Over 105,000 persons in the U.S. died from drug-involved overdose in 2023, including from illicit or prescription drugs (Source: CDC WONDER).
+U.S. Overdose Deaths, ​ Select Drugs or Drug Categories, 1999-2023
+Image
+Overall, drug overdose deaths rose from 2019 to 2022 with 107,941 drug overdose deaths reported in 2022. Overdose deaths declined to 105,007 in 2023. Deaths involving synthetic opioids other than methadone (primarily illicitly manufactured fentanyl or IMF) decreased from 73,838 overdose deaths reported in 2022, to 72,776 in 2023. Those involving cocaine continued to increase with 29,449 deaths in 2023 (Source: CDC WONDER).
+U.S. Overdose Deaths Involving Any Opioid by Sex, 1999-2023
+Image
+Any opioid includes prescription opioids (natural and semi-synthetic opioids and methadone), heroin, opium, and other synthetic opioids other than methadone (primarily IMF) and other unspecified narcotics. Opioid-involved overdose deaths rose from 49,860 in 2019 to 81,806 in 2022 with a significant decrease to 79,358 in 2023 (Source: CDC WONDER).
+U.S. Overdose Deaths Involving Prescription Opioids, 1999-2023
+Image
+Drug overdose deaths involving prescription opioids rose from 3,442 in 1999 to 17,029 in 2017. From 2017 to 2023, there was an overall decline to 13,026. IMF involvement in overdose deaths that also involved prescription opioid drugs steadily increased from 2014 through 2021 becoming the main driver of deaths involving prescription opioids. This data shows that commonly prescribed opioids are no longer driving the overdose epidemic (Source: CDC WONDER).
+U.S. Overdose Deaths Involving Heroin, 1999-2023
+Image
+Drug overdose deaths involving heroin rose from 3,036 in 2010 to 15,469 in 2016. Since 2016, the number of deaths has trended down with 3,984 reported deaths in 2023. While the overall number of heroin involved overdose deaths decreased, the proportion of these deaths co-involving heroin and IMF increased to 80% in 2022 and remained high through 2023 (Source: CDC WONDER).
+Overdose Deaths Involving Stimulants (Cocaine or Psychostimulants with Abuse Potential), 1999-2023
+Image
+Drug overdose deaths rose from 12,122 in 2015 to 59,725 in 2023. Nearly 70% of stimulant involved overdose deaths in 2023 also involved IMF (Source: CDC WONDER).
+Overdose Deaths Involving Psychostimulants with Abuse Potential, 1999-2023
+Image
+Drug overdose deaths involving psychostimulants with abuse potential rose from 5,716 in 2015 to 34,855 deaths in 2023. The number of deaths involving psychostimulants has increased steadily since 2014 regardless of opioid involvement; however, those with IMF are the main driver of these deaths (Source: CDC WONDER).
+U.S. Drug Overdose Deaths Involving Cocaine, by Opioid Involvement, 1999-2023
+Image
+Drug overdose deaths involving cocaine rose steadily from 6,784 in 2015 to 15,883 in 2019. From 2019 to 2023, cocaine-involved deaths rose 85% to 29,449 deaths. The number of deaths with IMF increased significantly since 2015 and is the main driver of cocaine-involved overdose deaths (Source: CDC WONDER).
+U.S. Drug Overdose Deaths Involving Benzodiazepines, 1999-2023
+Image
+In 2023, there were 10,870 drug overdose deaths involving benzodiazepines. Nearly 70% of overdose deaths involving benzodiazepines also involved IMF (Source: CDC WONDER).
+U.S. Drug Overdose Deaths Involving Antidepressants, 1999-2023
+Image
+Drug overdose deaths involving antidepressants steadily rose from 1,749 in 1999 to 5,863 in 2022 and remained steady in 2023 with 5,783 deaths (Source: CDC WONDER).
+Download Links
+Download graphs in PowerPoint – National Drug Involved Overdose Deaths 1999-2023.pptx
+Download the data used to create these figures – Overdose_data_1999-2023 1.16.25.xlsx
+Frequently Asked Questions
+Does NIDA collect and release the data on this webpage?
+No. The National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention collects and reports these data, which are available to the public and can be accessed from an ad-hoc query system called CDC WONDER—Wide-ranging Online Data for Epidemiologic Research. NIDA does not fund or assist in the collection of these data but does analyze NCHS data to create the figures and descriptions on this page.
+Why are the statistics displayed not more recent? Where can I find more recent estimates of overdose death rates?
+This webpage is regularly updated to display the most recent final drug overdose death data published annually by NCHS. NCHS systems receive and analyze data from death certificates, including cause-of-death information reported by state and local medical examiners and coroners. Because drug overdose deaths often require lengthy investigations, data are updated as new information is received.
+For more recent provisional data, please see Provisional Drug Overdose Death Counts from NCHS. Timely data related to unintentional and undetermined intent drug overdose deaths by participating jurisdiction is also available from the CDC’s State Unintentional Drug Overdose Reporting System (SUDORS). Similar data related to nonfatal drug overdoses are reported through CDC’s Drug Overdose Surveillance and Epidemiology (DOSE) system.
+Where can I find more information about the data displayed on this webpage?

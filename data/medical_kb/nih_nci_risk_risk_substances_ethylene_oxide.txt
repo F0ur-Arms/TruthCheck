@@ -1,0 +1,15 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Ethylene Oxide
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/ethylene-oxide
+────────────────────────────────────────────────────────────
+
+Ethylene Oxide
+What is ethylene oxide?
+At room temperature, ethylene oxide is a flammable colorless gas with a sweet odor. It is used primarily to produce other chemicals, including antifreeze. In smaller amounts, ethylene oxide is used as a pesticide and a sterilizing agent. The ability of ethylene oxide to damage DNA makes it an effective sterilizing agent but also accounts for its cancer-causing activity.
+How are people exposed to ethylene oxide?
+The primary routes of human exposure to ethylene oxide are inhalation and ingestion, which may occur through occupational, consumer, or environmental exposure. Because ethylene oxide is highly explosive and reactive, the equipment used for its processing generally consists of tightly closed and highly automated systems, which decreases the risk of occupational exposure.
+Despite these precautions, workers and people who live near industrial facilities that produce or use ethylene oxide may be exposed to ethylene oxide through uncontrolled industrial emissions. The general population may also be exposed through tobacco smoke and the use of products that have been sterilized with ethylene oxide, such as medical products, cosmetics, and beekeeping equipment.
+Which cancers are associated with exposure to ethylene oxide?
+Lymphoma and leukemia are the cancers most frequently reported to be associated with occupational exposure to ethylene oxide. Stomach and breast cancers may also be associated with ethylene oxide exposure.
+How can exposures be reduced?
+The U.S. Occupational Safety and Health Administration has information about limiting occupational exposure to ethylene oxide.

@@ -1,0 +1,51 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Secondhand Smoke and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet
+────────────────────────────────────────────────────────────
+
+Secondhand Smoke and Cancer
+What is secondhand smoke?
+Secondhand smoke (sometimes called passive smoke, environmental tobacco smoke, or involuntary smoke) is a mixture of sidestream smoke (the smoke from the burning tip of a cigarette or other smoked tobacco product) and mainstream smoke (smoke exhaled by a smoker that is diluted by the surrounding air) (1–3).
+Major settings of exposure to secondhand smoke include workplaces, public places such as bars, restaurants and recreational settings, and homes (4). Workplaces and homes are especially important sources of exposure because of the length of time people spend in these settings. The home is a particularly important source of exposure for infants and young children. Children and nonsmoking adults can also be exposed to secondhand smoke in vehicles, where levels of exposure can be high. Exposure levels can also be high in enclosed public places where smoking is allowed, such as restaurants, bars, and casinos, resulting in substantial exposures for both workers and patrons (3).
+In the United States, most secondhand smoke comes from cigarettes, followed by pipes, cigars, and other smoked tobacco products.
+How is secondhand smoke exposure measured?
+Secondhand smoke exposure can be measured by testing indoor air for respirable (breathable) suspended particles (particles small enough to reach the lower airways of the human lung) or individual chemicals such as nicotine or other harmful and potentially harmful constituents of tobacco smoke (3, 5).
+Exposure to secondhand smoke can also be evaluated by measuring the level of biomarkers such as cotinine (a byproduct of nicotine metabolism) in a nonsmoker’s blood, saliva, or urine (1). Nicotine, cotinine, and other chemicals present in secondhand smoke have been found in the body fluids of nonsmokers exposed to secondhand smoke.
+Does secondhand smoke contain harmful chemicals?
+Yes. Many of the harmful chemicals that are in the smoke inhaled by smokers are also found in secondhand smoke (1, 3, 6, 7), including some that cause cancer (1, 3, 7, 8).
+These include:
+Benzene
+Tobacco-specific nitrosamines
+Benzo[α]pyrene
+1,3–butadiene (a hazardous gas)
+Cadmium (a toxic metal)
+Formaldehyde
+Acetaldehyde
+Many factors affect which chemicals and how much of them are found in secondhand smoke. These factors include the type of tobacco used in manufacturing a specific product, the chemicals (including flavorings such as menthol) added to the tobacco, the way the tobacco product is smoked, and—for cigarettes, cigars, little cigars, and cigarillos—the material in which the tobacco is wrapped (1–3, 7).
+Does secondhand smoke cause cancer?
+Yes. The U.S. Environmental Protection Agency, the U.S. National Toxicology Program, the U.S. Surgeon General, and the International Agency for Research on Cancer have all classified secondhand smoke as a known human carcinogen (a cancer-causing agent) (1, 3, 7, 9). In addition, the National Institute for Occupational Safety and Health (NIOSH) has concluded that secondhand smoke is an occupational carcinogen (3).
+The Surgeon General estimates that, during 2005-2009, secondhand smoke exposure caused more than 7,300 lung cancer deaths among adult nonsmokers each year (10).
+Some research also suggests that secondhand smoke may increase the risk of breast cancer, nasal sinus cavity cancer, and nasopharyngeal cancer in adults (10) and the risk of leukemia, lymphoma, and brain tumors in children (3). Additional research is needed to determine whether a link exists between secondhand smoke exposure and these cancers.
+What are the other health effects of exposure to secondhand smoke?
+Secondhand smoke is associated with disease and premature death in nonsmoking adults and children (3, 7). Exposure to secondhand smoke irritates the airways and has immediate harmful effects on a person’s heart and blood vessels. It increases the risk of heart disease by about 25 to 30% (3). In the United States, secondhand smoke is estimated to cause nearly 34,000 heart disease deaths each year (10). Exposure to secondhand smoke also increases the risk of stroke by 20 to 30% (10).
+Secondhand smoke exposure during pregnancy has been found to cause reduced fertility, pregnancy complications, and poor birth outcomes, including impaired lung development, low birth weight, and preterm delivery (11).
+Children exposed to secondhand smoke are at increased risk of sudden infant death syndrome, ear infections, colds, pneumonia, bronchitis, and more severe asthma. Being exposed to secondhand smoke slows the growth of children’s lungs and can cause them to cough, wheeze, and feel breathless (3, 7, 10).
+There is no safe level of exposure to secondhand smoke. Even low levels of secondhand smoke can be harmful.
+How can you protect yourself and your family from secondhand smoke?
+The only way to fully protect nonsmokers from secondhand smoke is to eliminate smoking in indoor workplaces and public places and by creating smokefree policies for personal spaces, including multiunit residential housing. Opening windows, using fans and ventilation systems, and restricting smoking to certain rooms in the home or to certain times of the day does not eliminate exposure to secondhand smoke (3, 4).
+Steps you can take to protect yourself and your family include:
+not allowing smoking in your home
+not allowing anyone to smoke in your car, even with the windows down
+making sure the places where your children are cared for are tobacco free
+teaching children to avoid secondhand smoke
+seeking out restaurants, bars, and other places that are smokefree (if your state still allows smoking in public areas)
+protecting your family from secondhand smoke and being a good role model by not smoking or using any other type of tobacco product. For help to quit see smokefree.gov or call 1-877-44U-QUIT.
+Do electronic cigarettes emit secondhand smoke?
+Electronic cigarettes (also called e-cigarettes, vape pens, vapes, and pod mods) are battery-powered devices designed to heat a liquid, which typically contains nicotine, into an aerosol for inhalation by a user. Following inhalation, the user exhales the aerosol (12).
+The use of electronic cigarettes results in exposure to secondhand aerosols (rather than secondhand smoke). Secondhand aerosols contain harmful and potentially harmful substances, including nicotine, heavy metals like lead, volatile organic compounds, and cancer-causing agents. More information about these devices is available on CDC’s Electronic Cigarettes page.
+What is being done to reduce nonsmokers’ exposure to secondhand smoke?
+On the federal level, several policies restricting smoking in public places have been implemented. Federal law prohibits smoking on airline flights, interstate buses, and most trains. Smoking is also prohibited in most federal buildings by Executive Order 13058 of 1997. The Pro-Children Act of 1994 prohibits smoking in facilities that routinely provide federally funded services to children. The Department of Housing and Urban Development published a final rule in December 2016, which was fully implemented in July 2018, that prohibits the use of cigarettes, cigars, pipes, and hookah (waterpipes) in public housing authorities, including all living units, indoor common areas, and administrative offices, as well as outdoor areas within 25 feet of buildings.
+Many state and local governments have enacted laws that prohibit smoking in workplaces and public places, including restaurants, bars, schools, hospitals, airports, bus terminals, parks, and beaches. These smokefree policies have substantially decreased exposure to secondhand smoke in many U.S. workplaces (13). More than half of all states have implemented comprehensive smokefree laws that prohibit smoking in indoor areas of workplaces, restaurants, and bars, and some states and communities also have enacted laws regulating smoking in multi-unit housing and cars (14). The American Nonsmokers' Rights Foundation provides a list of state and local smokefree air policies.
+To highlight the health risks from secondhand smoke, the National Cancer Institute requires that meetings and conferences organized or primarily sponsored by NCI be held in a state, county, city, or town that has adopted a comprehensive smokefree policy, unless specific circumstances justify an exception to this policy.
+Healthy People 2020, a comprehensive nationwide health promotion and disease prevention framework established by the U.S. Department of Health and Human Services (HHS), includes several objectives addressing the goal of reducing illness, disability, and death caused by tobacco use and secondhand smoke exposure. For 2020, the Healthy People goal is to reduce the proportion of nonsmokers exposed to secondhand smoke by 10%. To assist with achieving this goal, Healthy People 2020 includes ideas for community interventions, such as encouraging the introduction of smokefree policies in all workplaces and other public gathering places, such as public parks, sporting arenas, and beaches.
+Because of these policies and other actions, the percentage of nonsmokers who are exposed to secondhand smoke declined from 52.5% during 1999–2000 to 25.3% during 2011–2014 (15). Exposure to secondhand smoke declined among all population subgroups, but disparities still exist. During 2011–2014, 38% of children ages 3–11 years, 50% of non-Hispanic blacks, 48% of people living below the poverty level, and 39% of people living in rental housing were exposed to secondhand smoke (15).

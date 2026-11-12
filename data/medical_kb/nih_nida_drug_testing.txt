@@ -1,0 +1,104 @@
+SOURCE: National Institute on Drug Abuse, NIH (public domain)
+TITLE: Drug Testing
+URL: https://nida.nih.gov/research-topics/drug-testing
+────────────────────────────────────────────────────────────
+
+Drug Testing
+En español
+Highlights
+Image
+NIDA Image
+Drug testing looks for the presence or absence of specific drugs in a biological sample, such as urine, blood, or hair. Drug testing cannot diagnose a substance use disorder. As a tool in substance use treatment programs, drug testing can monitor a patient’s progress and inform their treatment. Substance use treatment programs should not use drug testing results alone to discharge patients from treatment. Drug testing is also used in workplace and justice settings.
+While multiple test options are available, urine drug screening is most common. An initial urine drug screen can deliver rapid results but can be affected by factors, such as certain medications, that can cause incorrect results (called a false positive or a false negative). If an initial test is positive, health care providers can order a sensitive and specific confirmatory test. For all testing methods, accurate interpretation may require consultations with specialists such as Medical Review Officers (MRO) and medical toxicologists.
+NIDA supports and conducts research to improve drug testing by investigating more accurate and accessible technologies and applying drug testing in new ways to support individual and public health. NIDA does not administer drug testing programs, assist in interpreting drug test results, or manufacture, regulate, or distribute drug screening products. Learn more about drug testing regulation from the U.S. Food and Drug Administration (FDA) and about workplace drug testing from the Substance Abuse and Mental Health Services Administration (SAMSHA).
+Expand All
+What is a drug test?
+A drug test looks for the presence or absence of a drug in a biological sample, such as urine, blood, or hair. Drug tests may also look for drug metabolites in the sample. A drug metabolite is a substance made or used when the body breaks down (or “metabolizes”) a drug.
+Drug tests target only specific drugs or drug classes above a predetermined cutoff level.1 A cutoff level is a point of measurement at or above which a result is considered positive and below which a result is considered negative. For example, in workplace drug testing the federal cutoff level for a cannabis drug test in urine is 50ng/mL. A test result below 50ng/mL will be reported as negative even if the result is above 0. This cutoff level helps to limit false positives.2
+Drug testing is different than “drug checking,” which helps people who use drugs determine which chemicals are found in the substance they intend to take. Drug checking is a type of harm reduction.
+What is the difference between a drug screen and a confirmatory drug test?
+Usually, drug testing involves a two-step process: an initial drug screen and a confirmatory test.
+Initial drug screens or presumptive drug tests are used to identify possible use of a drug or drug class. These tools are also called point-of-care testing and are useful because they can produce rapid results. Initial urine drug screens use the immunoassay method for analysis, which uses antibodies to detect drugs at the molecular level.
+Confirmatory or definitive tests either verify or refute the result of an initial screen. These tests are more specific, more sensitive, and results take longer because they are sent to a laboratory. These tests use methods called gas chromatography/mass spectrometry or liquid chromatography/mass spectrometry to analyze samples. The results can indicate specific drugs and provide more exact information about how much of a drug is present.1,3
+If an initial drug screen is positive, a second round of more precise confirmatory testing is done to confirm or rule out that positive result.
+What substances do drug tests detect?
+Drug tests are commonly used to detect five categories of drugs as defined by the federally mandated workplace drug testing guidelines, although health care providers can order additional tests, if needed.2,3 This list may also change as new drugs enter the drug supply.4
+These drug tests are usually urine tests, though other biological samples can also be used:2
+Amphetamines, including methamphetamine
+Cannabis (marijuana), which tests for cannabinoid metabolites, including THC metabolites
+Cocaine, which tests for benzoylecgonine, a cocaine metabolite
+Opioids, a class of drugs that includes heroin, synthetic opioids such as fentanyl, and pain relievers like oxycodone (OxyContin®), hydrocodone (Vicodin®), codeine, and morphine. This category will have separate tests depending on which opioid is being tested. There is currently no drug test that tests for all opioids.
+Phencyclidine (PCP)
+Drug tests can also detect additional categories of drugs:
+Barbiturates
+Benzodiazepines
+Alcohol
+MDMA/MDA (Ecstasy/Molly)
+Methadone
+How is NIDA advancing research on drug testing?
+NIDA supports and conducts research to improve drug testing methods by investigating more accurate and accessible technologies and applying drug testing in new ways to support individual and public health. This research includes efforts to develop new highly specific and sensitive tests for urine, breath, and sweat. It also includes the development of innovative technologies such as wearable sensors that can test for drugs in real time.
+NIDA also supports the National Drug Early Warning System, which helps collect and share information on emerging drugs that may inform the development of drug tests.
+NIDA does not administer drug testing programs, assist in interpreting drug test results, or manufacture, regulate, or distribute drug screening products. Learn more about drug testing regulation from the U.S. Food and Drug Administration (FDA) and about workplace drug testing from the Substance Abuse and Mental Health Services Administration (SAMSHA).
+What is drug testing used for?
+Drug testing is used to find out whether a person has used a substance in the recent past. Drug testing can sometimes also detect passive exposure to drugs, such as secondhand smoke or prenatal exposure. The length of time following exposure that a drug can be detected during testing can vary.
+Drug testing cannot diagnose a substance use disorder.2
+A drug test may be used for different reasons, including:
+Supporting the clinical aims of substance use disorder treatment.
+A medical assessment, such as during emergency department visits for unintentional poisoning, attempts at self-harm, or environmental exposures. In these cases, point-of-care testing is used to help diagnose and manage patients whose symptoms may be related to drug use.5,6 Newborns can also be tested for possible prenatal exposure to illicit drugs using urine, blood, meconium (an infant’s first bowl movement), hair, or umbilical cord samples.7
+Preventing prescription drug misuse. Some health care providers will schedule or order random urine drug testing while prescribing controlled substances, such as opioids, stimulants, and depressants. However, this practice is not standardized.8,9
+Employment. Employers may require drug testing as part of a drug-free workplace program. Drug testing is required by federal law in some workplaces, including safety and security-sensitive industries like transportation, law enforcement, and national security.
+Legal evidence. Drug testing may be part of a criminal or motor vehicle accident investigation or ordered as part of a court case.
+Athletics. Professional and other athletes are tested for drugs that are used to improve performance (sometimes referred to as “doping”). The U.S. Anti-Doping Agency conducts this testing.
+Recovery residences. Communities of people in recovery from substance use disorders may use drug testing to monitor abstinence of residents.10
+How are drug tests performed?
+Urine is the preferred and most used biological sample for drug testing, as it is available in large amounts, contains higher concentrations of drugs and metabolites than blood, and does not require needles.11 Urine drug tests are also available during point-of-care, or outside the laboratory (e.g., doctor’s office, hospital, ambulance, at home).12
+Less commonly, drug testing may use blood or serum, oral fluid (saliva), breath, sweat, hair, or fingernails.1
+There are FDA-approved at-home drug tests (urine or saliva) readily available at pharmacies. It is important to follow specific instructions and send a urine sample to a laboratory for confirmation.
+How is drug testing used during treatment for substance use disorders?
+Urine drug screening can be an important tool for substance use disorder treatment.13 Health care providers can use urine drug screens to follow a patient’s progress. Test results are used to determine whether dosing adjustments or other treatment interventions are needed. After unexpected results, patients and health care providers can speak openly about treatment and progress to better tailor the treatment to the patient’s needs.10,13
+Federal guidelines for Opioid Treatment Programs require drug testing. Urine drug tests are often administered as part of the intake process to confirm substance use history and as a routine part of therapy.14
+Understanding the limits of urine drug screening and other toxicology testing is an important part of making treatment decisions. Drug testing is never the sole determinant when making patient care decisions.10
+Contingency management is a behavioral therapy that uses motivational incentives including tangible rewards for drug-negative urine specimens. Contingency management has been demonstrated to be highly effective in the treatment of substance use disorders including addiction to stimulants.15
+What happens if a drug test result is positive during substance use disorder treatment?
+If a drug test result is positive during substance use disorder treatment, health care providers may prescribe additional or alternative treatments. Drug test results should not be used as the sole factor when making patient care decisions, including discharge decisions.10,13 It is best practice for addiction treatment providers to avoid responding punitively to a positive drug test or using it as the basis for expelling someone from treatment. However, actual consequences of a positive drug test during substance use treatment may depend on state laws and the individual program.
+Recovery residences (e.g., sober living homes) may also use drug testing to monitor the abstinence of residents, and residents may be expelled on the basis of positive drug tests. However, it is important that expulsion should not prevent or interfere with the individual continuing to receive outpatient addiction treatment.10
+What are the limitations of drug testing?
+Urine drug tests do not provide information regarding the length of time since last ingestion, overall duration of use, or state of intoxication.16
+Sometimes urine can be difficult to obtain due to dehydration, urinary retention (the person is unable to empty their bladder), or other reasons.17
+Drug testing can be a useful tool, but it should not be the only tool for making decisions. Drug testing results should be considered alongside a patient’s self-reports, treatment history, psychosocial assessment, physical examination, and a practitioner’s clinical judgment.2,18
+Drug testing can also produce false positives and false negatives.
+How accurate are drug tests? Can a drug test result in a false positive or false negative?
+All tests have limitations, and false positives or false negatives can occur.1
+A false positive is when a drug test shows the presence of a substance that isn’t there. This can happen during the initial urine drug screening, which uses the immunoassay method (antibodies to detect drugs at the molecular level). Immunoassays are the most commonly available method of testing for drugs in urine.2 Immunoassays rely on a chemical reaction between an antibody and a drug the test is designed to identify. Sometimes the antibodies can react to other chemicals that are similar to the drug—called cross-reactivity. Cross-reactivity can occur with some over-the-counter medicines, prescription medicines, and certain foods, like poppy seeds. For example, some cough and cold medicines, antidepressants, and antibiotics can cause false positive results.19,3
+A false negative is when a drug test does not show the presence of a substance that is there. This can happen during the initial urine drug screening. A false negative result can happen when the cutoff level used was set too high, so small amounts of the drug or drug metabolites were missed.2 False negatives can also happen when contaminants are deliberately ingested or added to urine to interfere with a test’s ability to detect a drug’s presence.20
+Laboratory errors can also result in false positives or false negatives.
+A confirmatory test can be performed to confirm the initial screening test results. A medical review officer can also interview the patient and review the lab results to help resolve any discrepancies.1,14
+How are drug test results confirmed?
+An essential component of any drug testing program is a comprehensive final review of laboratory results.18 In federally mandated drug testing programs, this role is often filled by a medical review officer, who will review, verify, and interpret positive test results. Medical review officers provide quality assurance and evaluate medical explanations for certain drug test results. The medical review officer should be a licensed physician with a knowledge of substance use disorders.21
+To avoid misinterpreting drug test results, health care providers can use experts in the field. This includes clinical chemists or medical toxicologists at hospitals, clinics, or poison control centers. Expert assistance with toxicology interpretations can improve the accuracy of drug test results.
+Can NIDA assist me with interpreting or disputing the results of a drug screen?
+NIDA is a biomedical research organization and does not provide personal medical advice, legal consultation, or medical review services to the public. While NIDA-supported research may inform the development and validation of drug-screening technologies, NIDA does not manufacture, regulate, or distribute laboratory or at-home drug screening products. The U.S. Food and Drug Administration (FDA) regulates most of these products in the United States. Those with concerns about drug screening results may consider reaching out to the drug-screening program or a qualified health care professional. For more information on workplace drug screening, please visit the Substance Abuse and Mental Health Services Administration (SAMSHA) Division of Workplace Programs website.
+Latest from NIDA
+Image
+NIDA Asks
+What do drug tests really tell us?
+October 27, 2023
+|
+Stephanie Weiss’s research helps labs use drug screening tools appropriately and interpret results correctly
+Image
+News Release
+NIH and FDA leaders call for more research, lower barriers to improve and implement drug- checking tools amid overdose epidemic
+June 12, 2023
+|
+Tools such as fentanyl test strips hold promise to reduce drug-related harms and save lives
+Image
+Nora's Blog
+NIH Invests in a New Harm Reduction Research Network
+December 16, 2022
+|
+Enabling people to access treatment is critical, but first people need to survive long enough to have that choice
+Find More Resources on Drug Testing
+Learn more about drug test regulation from the U.S. Food and Drug Administration (FDA).
+Learn more about workplace drug-testing programs from the Substance Abuse and Mental Health Services Administration (SAMHSA).
+Find basic drug testing information from MedlinePlus, a service of NIH’s National Library of Medicine (NLM).
+Find information about drug testing in child welfare from the National Center on Substance Abuse and Child Welfare.

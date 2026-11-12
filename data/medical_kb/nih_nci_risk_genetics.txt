@@ -1,0 +1,31 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: The Genetics of Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/genetics
+────────────────────────────────────────────────────────────
+
+The Genetics of Cancer
+Is cancer a genetic disease?
+Enlarge Image
+Yes, cancer is a genetic disease. It is caused by changes in genes that control the way cells grow and multiply. Cells are the building blocks of your body. Each cell has a copy of your genes, which act like an instruction manual.
+Genes are sections of DNA that carry instructions to make a protein or several proteins. Scientists have found hundreds of DNA and genetic changes (also called variants, mutations, or alterations) that help cancer form, grow, and spread.
+Cancer-related genetic changes can occur because:
+random mistakes in our DNA happen as our cells multiply
+our DNA is altered by carcinogens in our environment, such as chemicals in tobacco smoke, UV rays from the sun, and the human papillomavirus (HPV)
+they were inherited from one of our parents
+DNA changes, whether caused by a random mistake or by a carcinogen, can happen throughout our lives and even in the womb. While most genetic changes aren’t harmful on their own, an accumulation of genetic changes over many years can turn healthy cells into cancerous cells. The vast majority of cancers occur by chance as a result of this process over time.
+Is cancer hereditary?
+Cancer itself can’t be passed down from parents to children. And genetic changes in tumor cells can’t be passed down. But a genetic change that increases the risk of cancer can be passed down (inherited) if it is present in a parent's egg or sperm cells.
+For example, if a parent passes a mutated BRCA1 or BRCA2 gene to their child, the child will have a much higher risk of developing breast and several other cancers.
+That’s why cancer sometimes appears to run in families. Up to 10% of all cancers may be caused by inherited genetic changes.
+Inheriting a cancer-related genetic change doesn’t mean you will definitely get cancer. It means that your risk of getting cancer is increased.
+What is a family cancer syndrome?
+A family cancer syndrome, also called a hereditary cancer syndrome, is a rare disorder in which family members have a higher-than-average risk of developing a certain type or types of cancer. Family cancer syndromes are caused by inherited genetic variants in certain cancer-related genes.
+With some family cancer syndromes, people tend to develop cancer at an early age or have other noncancer health conditions.
+For example, familial adenomatous polyposis (FAP) is a family cancer syndrome caused by certain inherited changes in the APC gene. People with FAP have a very high chance of developing colorectal cancer at an early age and are also at risk of developing other kinds of cancer.
+But not all cancers that appear to “run in families” are caused by family cancer syndromes. A shared environment or habits, such as exposure to air pollution or tobacco use, may cause the same kind of cancer to develop among family members.
+Also, multiple family members may develop common cancers, such as prostate cancer, just by chance. Cancer can also run in a family if family members have a combination of many genetic variants that each have a very small cancer risk.
+Should I get genetic testing for cancer risk?
+Certain genetic tests can show if you’ve inherited a genetic change that increases your risk of cancer. This testing is usually done with a small sample of blood, but it can sometimes be done with saliva, cells from inside the cheek, or skin cells.
+Not everyone needs to get genetic testing for cancer risk. Your doctor or health care provider can help you decide if you should get tested for genetic changes that increase cancer risk. They will likely ask if you have certain patterns in your personal or family medical history, such as cancer at an unusually young age or several relatives with the same kind of cancer.
+If your doctor recommends genetic testing, talking with a genetic counselor can help you consider the potential risks, benefits, and drawbacks of genetic testing in your situation. After testing, a genetic counselor, doctor, or other health care professional trained in genetics can help you understand what the test results mean for you and for your family members.
+Although it’s possible to order an at-home genetic test on your own, these tests have many drawbacks and are not generally recommended as a way to see whether you have inherited a genetic change that increases cancer risk.

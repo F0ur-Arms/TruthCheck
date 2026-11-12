@@ -1,0 +1,60 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Physical Activity and Cancer
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/physical-activity-fact-sheet
+────────────────────────────────────────────────────────────
+
+Physical Activity and Cancer
+What is physical activity?
+Physical activity is defined as any movement that uses skeletal muscles and requires more energy than resting. Physical activity can include walking, running, dancing, biking, swimming, performing household chores, exercising, and engaging in sports activities.
+A measure called the metabolic equivalent of task, or MET, is used to characterize the intensity of physical activity. One MET is the rate of energy expended by a person sitting at rest. Light-intensity activities expend less than 3 METs, moderate-intensity activities expend 3 to 6 METs, and vigorous activities expend 6 or more METs (1).
+Sedentary behavior is any waking behavior characterized by an energy expenditure of 1.5 or fewer METs while sitting, reclining, or lying down (1). Examples of sedentary behaviors include most office work, driving a vehicle, and sitting while watching television.
+A person can be physically active and yet spend a substantial amount of time being sedentary.
+What is known about the relationship between physical activity and cancer risk?
+Evidence linking higher physical activity to lower cancer risk comes mainly from observational studies, in which individuals report on their physical activity and are followed for years for diagnoses of cancer. Although observational studies cannot prove a causal relationship, when studies in different populations have similar results and when a possible mechanism for a causal relationship exists, this provides evidence of a causal connection.
+There is strong evidence that higher levels of physical activity are linked to lower risk of several types of cancer (2–4).
+Bladder cancer: In a 2014 meta-analysis of 11 cohort studies and 4 case-control studies, the risk of bladder cancer was 15% lower for individuals with the highest level of recreational or occupational physical activity than in those with the lowest level (5). A pooled analysis of over 1 million individuals found that leisure-time physical activity was linked to a 13% reduced risk of bladder cancer (6).
+Breast cancer: Many studies have shown that physically active women have a lower risk of breast cancer than inactive women. In a 2016 meta-analysis that included 38 cohort studies, the most physically active women had a 12–21% lower risk of breast cancer than those who were least physically active (7). Physical activity has been associated with similar reductions in risk of breast cancer among both premenopausal and postmenopausal women (7, 8). Women who increase their physical activity after menopause may also have a lower risk of breast cancer than women who do not (9, 10).
+Colon cancer: In a 2016 meta-analysis of 126 studies, individuals who engaged in the highest level of physical activity had a 19% lower risk of colon cancer than those who were the least physically active (11).
+Endometrial cancer: Several meta-analyses and cohort studies have examined the relationship between physical activity and the risk of endometrial cancer (cancer of the lining of the uterus) (12–15). In a meta-analysis of 33 studies, highly physically active women had a 20% lower risk of endometrial cancer than women with low levels of physical activity (12). There is some evidence that the association is indirect, in that physical activity would have to reduce obesity for the benefits to be observed. Obesity is a strong risk factor for endometrial cancer (12–14).
+Esophageal cancer: A 2014 meta-analysis of nine cohort and 15 case–control studies found that the individuals who were most physically active had a 21% lower risk of esophageal adenocarcinoma than those who were least physically active (16).
+Kidney (renal cell) cancer: In a 2013 meta-analysis of 11 cohort studies and 8 case–control studies, individuals who were the most physically active had a 12% lower risk of renal cancer than those who were the least active (17). A pooled analysis of over 1 million individuals found that leisure-time physical activity was linked to a 23% reduced risk of kidney cancer (6).
+Stomach (gastric) cancer: A 2016 meta-analysis of 10 cohort studies and 12 case–control studies reported that individuals who were the most physically active had a 19% lower risk of stomach cancer than those who were least active (18).
+There is some evidence that physical activity is associated with a reduced risk of lung cancer (2, 4). However, it is possible that differences in smoking, rather than in physical activity, are what explain the association of physical activity with reduced risk of lung cancer. In a 2016 meta-analysis of 25 observational studies, physical activity was associated with reduced risk of lung cancer among former and current smokers but was not associated with risk of lung cancer among never smokers (19).
+For several other cancers, there is more limited evidence of an association. These include certain cancers of the blood, as well as cancers of the pancreas, prostate, ovaries, thyroid, liver, and rectum (2, 6).
+How might physical activity be linked to reduced risks of cancer?
+Exercise has many biological effects on the body, some of which have been proposed to explain associations with specific cancers. These include:
+Lowering the levels of sex hormones, such as estrogen, and growth factors that have been associated with cancer development and progression (20) [breast, colon]
+Preventing high blood levels of insulin, which has been linked to cancer development and progression (20) [breast, colon]
+Reducing inflammation
+Improving immune system function
+Altering the metabolism of bile acids, decreasing exposure of the gastrointestinal tract to these suspected carcinogens (21, 22) [colon]
+Reducing the time it takes for food to travel through the digestive system, which decreases gastrointestinal tract exposure to possible carcinogens [colon]
+Helping to prevent obesity, which is a risk factor for many cancers
+What is known about the relationship between being sedentary and the risk of cancer?
+Although there are fewer studies of sedentary behavior and cancer risk than of physical activity and cancer risk, sedentary behavior—sitting, reclining, or lying down for extended periods of time (other than sleeping)—is a risk factor for developing many chronic conditions and premature death (4, 23, 24). It may also be associated with increased risk for certain cancers (23, 25).
+How much physical activity is recommended?
+The U.S. Department of Health and Human Services Physical Activity Guidelines for Americans, 2nd edition, released in 2018 (1), recommends that, for substantial health benefits and to reduce the risk of chronic diseases, including cancer, adults engage in
+150 to 300 minutes of moderate-intensity aerobic activity, 75 to 100 minutes of vigorous aerobic activity, or an equivalent combination of each intensity each week. This physical activity can be done in episodes of any length.
+muscle-strengthening activities at least 2 days a week
+balance training, in addition to aerobic and muscle-strengthening activity
+Is physical activity beneficial for cancer survivors?
+Yes. A report of the 2018 American College of Sports Medicine International Multidisciplinary Roundtable on Physical Activity and Cancer Prevention and Control (26) concluded that exercise training and testing are generally safe for cancer survivors and that every survivor should maintain some level of physical activity.
+The Roundtable also found
+strong evidence that moderate-intensity aerobic training and/or resistance exercise during and after cancer treatment can reduce anxiety, depressive symptoms, and fatigue and improve health-related quality of life and physical function
+strong evidence that exercise training is safe in persons who have or might develop breast-cancer-related lymphedema
+some evidence that exercise is beneficial for bone health and sleep quality
+insufficient evidence that physical activity can help prevent cardiotoxicity or chemotherapy-induced peripheral neuropathy or improve cognitive function, falls, nausea, pain, sexual function, or treatment tolerance
+In addition, research findings have raised the possibility that physical activity may have beneficial effects on survival for patients with breast, colorectal, and prostate cancers (26, 27).
+Breast cancer: In a 2019 systematic review and meta-analysis of observational studies, breast cancer survivors who were the most physically active had a 42% lower risk of death from any cause and a 40% lower risk of death from breast cancer than those who were the least physically active (28).
+Colorectal cancer: Evidence from multiple epidemiologic studies suggests that physical activity after a colorectal cancer diagnosis is associated with a 30% lower risk of death from colorectal cancer and a 38% lower risk of death from any cause (4).
+Prostate cancer: Limited evidence from a few epidemiologic studies suggests that physical activity after a prostate cancer diagnosis is associated with a 33% lower risk of death from prostate cancer and a 45% lower risk of death from any cause (4).
+There is very limited evidence for beneficial effects of physical activity on survival for other cancers, including non-Hodgkin lymphoma, stomach cancer, and malignant glioma (4).
+What additional research is under way on the relationship between physical activity and cancer?
+Findings from observational studies provide much evidence for a link between higher levels of physical activity and lower risk of cancer. However, these studies cannot fully rule out the possibility that active people have lower cancer risk because they engage in other healthy lifestyle behaviors. For this reason, clinical trials that randomly assign participants to exercise interventions provide the strongest evidence because they eliminate bias caused by pre-existing illness and attendant physical inactivity.
+To confirm the observational evidence and define the potential magnitude of the effect, several large clinical trials are examining physical activity and/or exercise interventions in cancer patients and survivors. These include the Breast Cancer Weight Loss (BWEL) trial in newly diagnosed breast cancer patients, the CHALLENGE trial in colon cancer patients who have recently completed chemotherapy (29), and the INTERVAL-GAP4 trial in men with metastatic, castrate-resistant prostate cancer (30).
+Many additional questions have yet to be answered in several broad areas of research on physical activity and cancer:
+What are the mechanisms by which physical activity reduces cancer risk?
+What is the optimal time in life, intensity, duration, and/or frequency of physical activity needed to reduce the risk of cancer, both overall and for specific sites?
+Is sedentary behavior associated with increased risk of cancer?
+Does the association between physical activity and cancer differ by age or race/ethnicity?
+Does physical activity reduce the risk of cancer in people who have inherited a genetic variant that increases cancer risk?

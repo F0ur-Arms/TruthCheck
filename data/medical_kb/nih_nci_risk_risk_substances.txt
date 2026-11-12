@@ -1,0 +1,36 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Cancer-Causing Substances in the Environment
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances
+────────────────────────────────────────────────────────────
+
+Cancer-Causing Substances in the Environment
+Cancer is caused by changes to certain genes that alter the way our cells function. Some of these genetic changes occur naturally when DNA is replicated during the process of cell division. But others are the result of environmental exposures that damage DNA. These exposures may include substances, such as the chemicals in tobacco smoke, or radiation, such as ultraviolet rays from the sun.
+People can avoid some cancer-causing exposures, such as tobacco smoke and the sun’s rays. But other ones are harder to avoid, especially if they are in the air we breathe, the water we drink, the food we eat, or the materials we use to do our jobs. Scientists are studying which exposures may cause or contribute to the development of cancer. Understanding which exposures are harmful, and where they are found, may help people to avoid them.
+The National Toxicology Program (NTP) has identified the chemical substances listed below as known human carcinogens in the NTP's 15th Report on Carcinogens. Simply because a substance has been designated as a carcinogen, however, does not mean that the substance will necessarily cause cancer. Many factors influence whether a person exposed to a carcinogen will develop cancer, including the amount and duration of the exposure and the individual’s genetic background. Learn more about Environmental Carcinogens and Cancer Risk.
+Aflatoxins
+Aristolochic Acids
+Arsenic
+Asbestos
+Benzene
+Benzidine
+Beryllium
+1,3-Butadiene
+Cadmium
+Coal Tar and Coal-Tar Pitch
+Coke-Oven Emissions
+Crystalline Silica (respirable size)
+Erionite
+Ethylene Oxide
+Formaldehyde
+Hexavalent Chromium Compounds
+Indoor Emissions from the Household Combustion of Coal
+Mineral Oils: Untreated and Mildly Treated
+Nickel Compounds
+Radon
+Secondhand Tobacco Smoke (Environmental Tobacco Smoke)
+Soot
+Strong Inorganic Acid Mists Containing Sulfuric Acid
+Thorium
+Trichloroethylene
+Vinyl Chloride
+Wood Dust

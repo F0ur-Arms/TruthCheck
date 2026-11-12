@@ -1,0 +1,9 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: Immunosuppression
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/immunosuppression
+────────────────────────────────────────────────────────────
+
+Immunosuppression
+Many people who receive organ transplants take medications to suppress the immune system so the body won’t reject the organ. These "immunosuppressive" drugs make the immune system less able to detect and destroy cancer cells or fight off infections that cause cancer. Infection with HIV also weakens the immune system and increases the risk of certain cancers.
+Research has shown that transplant recipients are at increased risk of a large number of different cancers. Some of these cancers can be caused by infectious agents, whereas others are not. The four most common cancers among transplant recipients and that occur more commonly in these individuals than in the general population are non-Hodgkin lymphoma (NHL) and cancers of the lung, kidney, and liver. NHL can be caused by Epstein-Barr virus (EBV) infection, and liver cancer by chronic infection with the hepatitis B (HBV) and hepatitis C (HCV) viruses. Lung and kidney cancers are not generally thought to be associated with infection.
+People with HIV/AIDS also have increased risks of cancers that are caused by infectious agents, including EBV; human herpesvirus 8, or Kaposi sarcoma-associated virus; HBV and HCV, which cause liver cancer; and human papillomavirus, which causes cervical, anal, oropharyngeal, and other cancers. HIV infection is also associated with increased risks of cancers that are not thought to be caused by infectious agents, such as lung cancer.

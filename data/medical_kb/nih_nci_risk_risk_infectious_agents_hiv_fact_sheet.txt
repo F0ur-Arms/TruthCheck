@@ -1,0 +1,47 @@
+SOURCE: National Cancer Institute, NIH (public domain)
+TITLE: HIV Infection and Cancer Risk
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hiv-fact-sheet
+────────────────────────────────────────────────────────────
+
+HIV Infection and Cancer Risk
+Does human immunodeficiency virus (HIV) infection increase the risk of cancer?
+Yes. People living with HIV have a higher risk of some types of cancer compared with the general population (1). These are called “HIV-associated cancers.”
+The risk of some HIV-associated cancers is strongly associated with HIV-related immunosuppression. In particular, Kaposi sarcoma and certain aggressive non-Hodgkin lymphomas are much more likely to develop in people whose immune systems are severely damaged by HIV than in those whose immune function is only slightly reduced. With other HIV-associated cancers, risk is increased in people with HIV even if their immune function is nearly normal. For example, cervical cancer risk is increased in women with HIV even if they have minimal immunosuppression.
+In the past, Kaposi sarcoma, aggressive non-Hodgkin lymphoma, and cervical cancer were considered “AIDS-defining cancers,” meaning that they conferred a diagnosis of AIDS when they occurred in someone living with HIV. However, this terminology is being abandoned, in part because of the weak association between cervical cancer and HIV-related immunosuppression.
+According to recent research (2), during 2015–2019, compared with the general population, people living with HIV were more likely to be diagnosed with
+Kaposi sarcoma (more than 200 times as likely as the general population)
+Anal cancer (nearly 20 times as likely)
+Burkitt lymphoma (about 15 times as likely)
+Diffuse large B-cell lymphoma (about 6 times as likely)
+Hodgkin lymphoma (about 6 times as likely)
+Cervical cancer (3-4 times as likely)
+Liver cancer (twice as likely)
+Lung cancer (1.6 times as likely). However, because lung cancer is relatively common in the general population, it represents the second-most-common cancer in people living with HIV.
+HIV infection is also associated with an increased risk of dying from cancer after a cancer diagnosis (3–6).
+Why do people living with HIV have a higher risk of some types of cancer?
+Most of the cancers with increased incidence in people living with HIV are caused by viruses. That is because infection with HIV weakens the immune system, reducing the body's ability to fight viral infections or viral-infected cancer precursor cells that may lead to cancer (7–10). The viruses that are most likely to cause cancer in people living with HIV are (11)
+Kaposi sarcoma-associated herpesvirus (KSHV), also known as human herpesvirus 8 (HHV-8), which causes Kaposi sarcoma and some subtypes of lymphoma
+Epstein-Barr virus (EBV), which causes some subtypes of non-Hodgkin and Hodgkin lymphoma
+Human papillomaviruses (HPV), certain types of which cause cervical, anal, oropharyngeal, penile, vaginal, and vulvar cancers
+Hepatitis B virus (HBV) and hepatitis C virus (HCV), which both cause liver cancer
+People with HIV may be more likely to be infected with these viruses because of shared routes of transmission with HIV. Also, because of their weakened immune systems, people living with HIV are less able to clear or suppress the infections (12–15).
+Both immunosuppression and inflammation may also have other direct or indirect roles in the development of some cancers that are elevated in people living with HIV (7, 11).
+In addition, people living with HIV are more likely than those in the general population to smoke or use alcohol heavily, both of which increase the risk of cancer (14, 16).
+The poorer cancer survival of HIV-infected people may result, at least in part, from their weakened immune systems. The increased risk of death could also result from the cancer being more advanced at diagnosis (5), delays in cancer treatment, or poorer access to appropriate cancer treatment. For example, in a study that looked at cancer treatment disparities during 2001 to 2019, people living with HIV were less likely than those without HIV to receive cancer treatment for lymphoma or cancers of the lung, cervix, prostate, colon, or breast (17).
+Has the introduction of antiretroviral therapy changed the cancer risk of people infected with HIV?
+The introduction of combination antiretroviral therapy (cART) starting in the mid-1990s greatly reduced the incidence of certain cancers, especially Kaposi sarcoma and non-Hodgkin lymphoma, in people living with HIV (7).
+However, people living with HIV continue to have a much higher risk of these cancers than the general population (18). This persistently high risk may reflect the fact that cART does not completely restore immune system functioning. Also, many people living with HIV are not receiving adequate antiretroviral therapy because they are not aware they are infected, have had difficulty in accessing medical care, or for other reasons.
+The number of cases for many cancers has increased over time in people living with HIV, which reflects the aging and growth of this population, as cART has reduced deaths from AIDS. The fastest growing proportion of the HIV population is the over-40 age group. These individuals are also now developing cancers that are commonly seen in the general population as people age (19).
+What can people living with HIV do to reduce their risk of cancer or to find cancer early?
+People living with HIV can reduce their risk of cancer by
+Taking cART as recommended. Based on current HIV treatment guidelines, cART lowers the risk of Kaposi sarcoma and non-Hodgkin lymphoma and increases overall survival.
+Quitting smoking. The risk of lung, oral, and other cancers can be reduced by quitting smoking. Because HIV-infected people have a higher risk of lung cancer, it is especially important that they do not smoke.
+Getting tested and treated for hepatitis virus infection. The higher incidence of liver cancer among people living with HIV appears to be related to more frequent infection with hepatitis virus (particularly HCV in the United States) (14, 20). Therefore, people living with HIV should be tested for hepatitis virus infection. Those who are found to have a hepatitis virus infection should discuss with their health care provider whether antiviral treatment is an option for them (21, 22). Some drugs may be used for both HBV-suppressing therapy and cART (20).
+Getting screened for cervical cancer. Because HIV infection increases the risk of cervical cancer, it is important that women living with HIV be screened regularly for this disease. National guidelines call for screening with cytology (Pap test) at the time of initial HIV diagnosis and throughout a woman’s lifetime. As in the general population, co-testing with both cytology and testing for high-risk types of human papillomavirus (HPV) can be performed starting at age 30; co-testing may also be considered for women ages 25 to 29 who are living with HIV.
+Getting screened for anal cancer. People living with HIV have a high incidence of anal cancer and a high prevalence of anal high-grade squamous intraepithelial lesion (HSIL), the precursor to anal cancer. The Department of Health and Human Services recommends that people living with HIV have anal cancer screening beginning at age 35 for men who have sex with men and certain other high-risk groups, and beginning at age 45 for all others. Methods used for anal cancer screening include digital anorectal examination, standard anoscopy, and high-resolution anoscopy. Laboratory tests include anal cytology done alone or in combination with HPV testing. The NCI-sponsored ANCHOR trial found that treating anal HSIL in people living with HIV reduces their risk of anal cancer (23).
+HPV vaccination. People living with HIV are more likely to develop persistent HPV infections, which can lead to several kinds of cancer, than those who are not HIV infected. The Centers for Disease Control and Prevention (CDC) recommends three doses of the human papillomavirus (HPV) vaccine for people ages 9 through 26 years who are living with HIV or are immunocompromised. Vaccination is approved but not routinely recommended for people living with HIV who are ages 27 to 45; however, such people may want to discuss with their doctor whether vaccination is appropriate for them.
+Avoiding heavy alcohol consumption. People living with HIV are already at increased risk for liver cancer. Consumption of alcohol further increases this risk.
+Reducing contact with saliva. Because KSHV is secreted in saliva, the virus may be transmitted through deep kissing, the use of saliva as a lubricant in sex, or oral–anal sex.
+How does NCI support research on HIV/AIDS-related cancers?
+The Office of HIV and AIDS Malignancy (OHAM) coordinates and oversees NCI-sponsored research on AIDS-related cancers and HIV/AIDS. OHAM also acts as a point of contact for the National Institutes of Health (NIH) Office of AIDS Research (OAR).
+The two intramural divisions of NCI, the Center for Cancer Research (CCR) and the Division of Cancer Epidemiology and Genetics (DCEG), conduct research on both HIV and HIV/AIDS-associated cancers. For example, DCEG is conducting the HIV/AIDS Cancer Match Study, which uses data previously collected by public health agencies to examine cancer risk in people with HIV. Nearly all other NCI divisions, offices, and centers also support HIV/AIDS research.

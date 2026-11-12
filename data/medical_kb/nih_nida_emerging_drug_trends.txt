@@ -1,0 +1,64 @@
+SOURCE: National Institute on Drug Abuse, NIH (public domain)
+TITLE: Emerging Drug Trends
+URL: https://nida.nih.gov/research-topics/emerging-drug-trends
+────────────────────────────────────────────────────────────
+
+Emerging Drug Trends
+En español
+Highlights
+Image
+©Getty images/doble.d
+Emerging drugs, which include designer drugs and new psychoactive substances, are substances that have appeared or become more popular in the drug market in recent years.
+Emerging drugs have unpredictable health effects. They may be as powerful or more powerful than existing drugs, and may be fatal.
+Because drug markets change quickly, NIDA supports the National Drug Early Warning System (NDEWS), which tracks emerging substances. NIDA also advances the science on emerging drugs by supporting research on their use and on their health effects.
+Expand All
+What are emerging drugs?
+Emerging drugs are mind-altering substances that have become more common in recent years. They may be sold in drug markets or at convenience stores and online. Since 2013, the United Nations Office on Drugs and Crime has identified more than 1,000 emerging drugs worldwide.1
+These substances, which include designer drugs and new psychoactive substances, come from many sources. Some were first developed as potential treatments or research chemicals. Others originate in illicit labs and are created to mimic the effects of drugs regulated under the Controlled Substances Act. These emerging substances often produce similar effects and/or are chemically similar to illegal or prescription opioids, stimulants, benzodiazapines (“benzos”), or other existing types of drugs.
+People may seek out these drugs for recreation or use them to self-medicate without medical supervision. They may also be added to other drugs without a buyer knowing it. As a result, the health effects of emerging drugs are largely unknown, potentially posing a public health threat and contributing to the overdose crisis.2,3
+NIDA conducts research on specific emerging drugs through its Designer Drug Research Unit and through support for the National Drug Early Warning System (NDEWS), which detects early signals of potential drug epidemics. NDEWS uses traditional surveillance methods like drug-related emergency calls, and newer tools like wastewater analysis and tracking of social media trends.
+What are the effects of emerging drugs?
+An emerging drug’s effects depend on the type of substance it is—for instance, if it is a new type of opioid, depressant, synthetic cannabinoid, psychedelic, or stimulant. Its effects may be unpredictable and unwanted, especially if it is an unknown ingredient in another drug. A person may not know what substance or substances they have really taken. And because these substances are new to the drug market, clinicians or researchers may not know their effects or how potent (powerful) they are until people begin to visit emergency departments or clinics with symptoms of negative health effects.4
+In addition, emerging substances are usually not included in emergency department drug tests and are not routinely included in the toxicology tests used after a fatal overdose. The delay in this data means there is also a delay in understanding how widespread use of the drug is, why and how these drugs have their effects, and how to care for people who experience negative effects of those substances.
+NIDA researchers and grantees collaborate to identify how these emerging drugs work and their potential health effects, including those that have the potential to impact the overdose crisis. NIDA also supports the National Drug Early Warning System (NDEWS) to track emerging substances and their impact on drug-related emergency calls.
+What are nitazenes?
+Nitazenes are a class of lab-made (synthetic) opioids that may be as powerful or more powerful than fentanyl.4 They were developed in research labs in the 1950s as potential pain relievers but never marketed. Nitazenes are most often sold as a white powder or tablets. People may not be aware that they have taken nitazenes, as they may be added to other substances, including fentanyl, heroin, and benzodiazepines.5
+Nitazenes began to re-emerge in the drug supply in 2019, after the U.S. Drug Enforcement Administration banned fentanyl-related substances.6,7 Researchers and authorities are monitoring nitazenes, including isotonitazene, protonitazene, etonitazene, N-piperidinyl etonitazene, and metonitazene. Many nitazenes are listed as Schedule 1 drugs under the Controlled Substances Act.
+Like all opioids, nitazenes can slow breathing, blood pressure, and heart rate to dangerously low levels, potentially contributing to overdose. Preliminary NIDA-supported research shows that the opioid overdose reversal medication naloxone is effective with isonitazene, metonitazene, and N-piperidinyl etonitazene, though it may require repeated doses.8 More research is needed to confirm these findings with additional nitazenes and in larger groups of people. Fentanyl test strips do not detect nitazenes.
+What is tianeptine?
+Tianeptine is an opioid that is not approved by the U.S. Food and Drug Administration for any medical use. NIDA-funded research suggests that most people take tianeptine in dietary supplements marketed as cognitive enhancers or nootropics, often sold in convenience stores and online. It may be blended with or taken at the same time as other nootropics (like phenibut and racetams) and is also used with substances such as kratom, kava, and gabapentin.
+Like other opioids, tianeptine can cause dangerous drops in blood pressure, heart rate, or breathing rate. Research shows that other effects include problems with brain, heart, and digestive function.9
+Research has shown that tianeptine can cause symptoms of an opioid use disorder, including tolerance—which is when you need to take more of a drug for it to have the same level of effect—and withdrawal. Withdrawal from tianeptine has been associated with pain and problems with brain, heart, and digestive function.9,10,11 Early evidence suggests that tianeptine-related substance use disorder can be treated with medications for opioid use disorder, such as buprenorphine.12
+What are new psychoactive substances?
+“New psychoactive substances” is a term used to describe lab-made compounds created for research purposes or for illicit drug markets, sometimes by slightly modifying an existing drug in an effort to skirt existing drug laws. The category may include medications created by pharmaceutical companies or researchers that were never meant to reach the public.
+These substances belong to a number of drug classes:
+Synthetic opioids. These drugs are chemically different from existing lab-made opioids like fentanyl. They include brorphine and U-47700. Researchers first identified brorphine in the unregulated drug supply in 2018. New synthetic opioids may slow breathing, blood pressure, and heart rate to dangerously low levels, potentially contributing to overdose. Emerging opioids can be as powerful or more powerful than fentanyl, which itself is 50 to 100 times more powerful than morphine.
+Synthetic cannabinoids, sometimes called “K2” or “Spice.” Lab-made cannabinoids are chemically similar to the cannabis plant but may have very different effects. Newer synthetic cannabinoids include ADMB-5,Br-BUTINACA and MDMB-4en-PINACA. MDMB-4en-PINACA has been associated with hallucinations, paranoia, and confusion. These substances have been found in people who died from accidental overdose.13
+Synthetic cathinones, also known as “Bath Salts.” Lab-made cathinones are stimulants that are chemically related to, but not derived from, the khat plant. People sometimes take synthetic cathinones as a less expensive alternative to other stimulants, but cathinones have also been found as an added ingredient in other recreational drugs. Emerging cathinones include eutylone, N,N-dimethylpentylone (dipentylone), and pentylone. These substances have been found in people who died from overdose.14
+Synthetic benzodiazapines. Benzodiazapenes are a class of lab-made depressants that include prescription medications such as diazepam (sometimes sold as Valium), alprazolam (sometimes sold as Xanax), and clonazepam (sometimes sold as Klonopin). Recent data show that new versions of recreationally manufactured bezodiazapines include bromazolam, disalkylgidazepam, and flubromazepam.15
+How does NIDA support research into emerging drugs?
+NIDA supports research tracking the emergence of new drugs into the unregulated drug supply, including via the National Drug Early Warning System (NDEWS), collaboration with other researchers and partners around the world.
+The Institute studies or supports research on changes in the lab-made drug supply and how these emerging substances work in the brain, as well as their health effects and potential as therapeutic treatments.
+NIDA also supports research that is developing and testing approaches to prevent substance use and misuse studies investigating whether and how harm reduction methods may prevent, reverse, or reduce rates of overdose.
+Latest from NIDA
+Image
+News Release
+Federal study examines care following nonfatal overdose among medicare beneficiaries; identifies effective interventions and gaps in care
+June 17, 2024
+|
+Receiving gold-standard care after a non-fatal overdose was associated with a decreased risk of subsequent overdose.
+Image
+News Release
+More than 321,000 U.S. children lost a parent to drug overdose from 2011 to 2021
+May 8, 2024
+|
+Federal study shows overdose deaths are felt across generations, emphasizing need to support children and families
+Image
+News Release
+Law enforcement seizures of psilocybin mushrooms rose dramatically between 2017-2022
+February 6, 2024
+|
+NIH-supported research highlights need to better understand psilocybin in context of growing psychedelic use
+Find More Resources on Emerging Drugs
+See recent data on Overdose Rates from the Centers for Disease Control and Prevention (CDC).
+Stay up to date on new and emerging substances at the National Drug Early Warning System website

@@ -1,0 +1,75 @@
+SOURCE: National Institute on Drug Abuse, NIH (public domain)
+TITLE: Co-Occurring Disorders and Health Conditions
+URL: https://nida.nih.gov/research-topics/co-occurring-disorders-health-conditions
+────────────────────────────────────────────────────────────
+
+Co-Occurring Disorders and Health Conditions
+En español
+Highlights
+Image
+©Getty Images/sorrapong
+Co-occurring conditions are mental disorders or other health conditions that a person has at the same time. These may interact with each other, affecting a person’s symptoms and health outcomes.
+People who have substance use disorders often have other mental disorders. Common risk factors related to a person’s genes, individual characteristics, social environment, and other life circumstances can contribute to both substance use and other mental disorders. Other health conditions that commonly occur with substance use disorders are HIV, hepatitis C, and chronic pain.
+When someone has a co-occurring disorder or health condition, it is usually better to treat these health issues at the same time rather than separately. Research suggests that this can make all the treatments more effective and improve health outcomes.
+Expand All
+What are co-occurring disorders or health conditions?
+Co-occurring disorders or health conditions are health issues that a person has at the same time. These issues may interact with each other, affecting a person’s symptoms, treatment, and health outcomes. People who have substance use disorders often have other mental disorders.1,2 Other health conditions that commonly occur with substance use disorders are HIV, hepatitis C, and chronic pain.3,4
+In addition to increasing the likelihood of some illnesses, substance use disorders can influence a person’s treatment for medical conditions. Patients with substance use disorders and other co-occurring mental disorders typically have a harder time staying in treatment,5 and following treatment guidelines,6 which leads to worse health outcomes. Substance use can also lessen the effectiveness of medications for some conditions.7
+How many people have both a substance use disorder and another mental disorder?
+Many people who develop substance use disorders are also diagnosed with other mental health disorders, and vice versa.2 According to the 2023 National Survey on Drug Use and Health, 35% of adults aged 18 and over in the U.S. who have a another mental disorder also have a substance use disorder.
+Mental disorders commonly co-occurring with substance use disorders include anxiety, depression, post-traumatic stress disorder, disorders of psychosis, borderline and antisocial personality disorders, and others.8,9,10,11,12
+Adolescents with substance use disorders have especially high rates of other co-occurring mental disorders, including mood and anxiety disorders, conduct disorder, and attention deficit/hyperactivity disorder.13,14
+Why do substance use problems often occur along with other mental disorders?
+Substance use disorders and other mental disorders have common risk factors. Common risk factors, including inherited characteristics, adverse social environments, trauma, and stress, can contribute to substance use and other mental disorders. For example, childhood trauma increases the risk for substance use, other mental disorders, suicidality, and physical health conditions.15,16 One analysis of existing studies estimated that over 30% of adults with substance use disorder had childhood trauma including emotional abuse, sexual abuse, emotional neglect, or physical neglect.17
+Other mental disorders can contribute to substance use and to substance use disorders. Patients with mental disorders are at greater risk for substance misuse.18 There are many interrelated factors that can contribute to this. First, people who experience anxiety, stress, depression, or pain may use drugs to try to feel better, especially if they lack access to mental health care.19 Although some substances may temporarily reduce symptoms of a mental disorder, they can also make symptoms worse, both immediately and in the long run.1
+Substance use problems may involve similar changes to brain circuitry as some mental disorders. For example, research suggests that attention-deficit/hyperactivity disorder (ADHD) is associated with the same brain changes as those associated with drug cravings.20,21 This may explain why patients with both substance use disorders and ADHD often report greater drug cravings.22,23,24
+Substance use can contribute to the development of mental disorders and make them worse. Substance use can lead to changes in some of the same brain areas that are disrupted in other mental disorders, such as schizophrenia, anxiety, mood, or impulse-control disorders.2 For example, evidence suggests that cocaine use may worsen the symptoms of bipolar disorder and contribute to progression of this illness).25 Some evidence has linked cannabis use to earlier onset of psychosis in people with genetic risk factors for psychotic disorders, including schizophrenia, as well as worse symptoms in people who already have these conditions.26
+Can a person have more than one substance use disorder?
+Yes. People can have substance use disorders related to more than one drug. For example, a person may have problems with alcohol, cannabis, and tobacco use. In fact, scientists have identified genes commonly inherited across addiction disorders, regardless of the substance being used. In one study, researchers combed through genomic data from over 1 million people and found nearly 20 gene variants associated with substance use disorders.27 Use of more than one substance, sometimes called polysubstance use, is a growing factor in health risks related to substance use, including fatal overdose.
+NIDA’s Clinical Trials Network (CTN) is investigating whether team-based collaborative care in primary healthcare settings—a common approach to managing chronic conditions—can help reduce polysubstance use and overdose risk.
+Other health conditions often co-occur with substance use disorders
+Cancer. Most lung cancer and about one-third of all cancer deaths are attributable to smoking.28 Smoking is also an important co-occurring condition among people with other substance use disorders and contributes to their physical health problems.29 Research has also shown a strong association between alcohol use and some types of cancer.30
+Chronic pain. There are many interrelated factors between chronic pain and substance use disorders.
+Research shows that taking prescription opioids long-term for chronic pain is associated with the likelihood of developing an opioid use disorder (OUD).31
+Almost half of people who have OUD also experience chronic pain.32
+People with chronic pain commonly have other mental disorders, particularly depression.33
+Chronic pain and related emotional distress may change how a person’s brain processes both stressful and rewarding experiences, increasing the likelihood that a person may develop OUD.34
+Chronic opioid use also may increase a person’s sensitivity to pain, a condition called opioid-induced hyperalgesia.35
+NIDA plays a leading role in the National Institutes of Health HEAL (Helping to End Addiction Long-term®) Initiative, an effort to develop new scientific solutions to the national opioid addiction and overdose public health crisis and to improve pain management.
+Heart disease. Using alcohol, heroin, prescription stimulants, methamphetamine, or cocaine is associated with an increased risk of cardiovascular problems and heart disease.36
+HIV and other infectious diseases. Drug use also increases the risk of infectious disease transmission, including HIV and viral hepatitis. This increased risk is related to injection drug use, as these viruses are transmitted through contact with infected blood and body fluids. Also, drugs can affect judgment and inhibition, and using them can lead people to engage in impulsive and unsafe behaviors. In addition, drug use plays a role in the spread of HIV by increasing the likelihood of unprotected sex with partners who have HIV.37
+Sleep problems. Drug use can lead to sleep problems, which can in turn increase the risk of drug withdrawal, craving, and relapse. The circadian system, the body’s internal clock that controls sleep and wake cycles, also plays and important role in regulating reward processes involved in substance use and addiction.38,39 In turn, most substances alter the sleep-wake cycle,40 and studies show that this disruption may occur at the level of circadian-clock gene expression.41,42
+Treatment for co-occurring disorders
+The high rate of co-occurring substance use and other mental disorders shows the need for an integrated approach to identify and treat these disorders at the same time. Patients entering treatment for mental disorders such as post-traumatic stress disorder can be screened for substance use disorders, and vice versa. Research shows that integrated treatment leads to better health outcomes for people with substance use and other mental disorders.43
+Such treatments may include medications, psychosocial interventions, or a combination, depending on the needs of the individual and the substance or substances involved. If the individual’s substance use disorder involves opioids, medications are available and are effective.44
+However, diagnosing and treating co-occurring substance use and other mental disorders is complex, because people may have overlapping symptoms. People who have co-occurring disorders often have symptoms that are more persistent, severe, and resistant to treatment compared with patients who have either disorder alone. Comprehensive assessment tools can reduce the chance of a missed diagnosis. Read more on the NIDA website about screening tools for health professionals.
+How is NIDA researching co-occurring disorders and other health conditions?
+NIDA supports the following research areas:
+Understanding brain and behavioral factors related to both substance use and other mental disorders.
+Developing new treatments for people with co-occurring disorders and other health conditions, including mobile- and telehealth-based interventions.
+Discovering ways to prevent health conditions related to drug use, including infectious diseases such as HIV and hepatitis.
+Exploring the roles of stigma and discrimination in substance use and other mental disorders, particularly how they affect symptoms and treatment.
+Latest from NIDA
+Image
+Nora's Blog
+Commercial interests contribute to drug use and addiction
+September 26, 2024
+|
+Commercial interests are among the social determinants that contribute to substance use and addictive behaviors
+Image
+News Release
+Xylazine appears to worsen the life-threatening effects of opioids in rats
+June 20, 2023
+|
+NIH study deepens understanding of possible mechanism through which xylazine impacts overdose risk
+Image
+News Release
+Young men at highest risk of schizophrenia linked with cannabis use disorder
+May 4, 2023
+|
+NIH study highlights the need to proactively screen for, prevent, and treat cannabis use disorder among young people
+More information on co-occurring disorders and other health conditions
+Find out more about co-occurring mental health and substance use disorders on the National Institute of Mental Health website.
+Read more about co-occurring disorders and other health conditions on SAMHSA’s website.
+Read about HIV and substance use on the U.S. Centers for Disease Control and Prevention web site.
+Read about dual diagnoses on MedlinePlus, an information service from the National Library of Medicine.
