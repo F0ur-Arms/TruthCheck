@@ -31,7 +31,7 @@ ROUND=${1:?usage: submit_round14.sh 14|15|16|17|18   [EXTRA_ENV=VAR=value,... OU
 PBS=scripts/cluster/eval_baseline.pbs
 
 COMMON="TRUTHCHECK_LLM_BASE_URL=http://cb-gpu-server:8001/v1,TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq"
-COMMON="$COMMON,TRUTHCHECK_RETRIEVAL_POOL=50,TRUTHCHECK_RERANK_KEEP=10"
+COMMON="$COMMON,TRUTHCHECK_RETRIEVAL_POOL=50,TRUTHCHECK_RERANK_KEEP=${KEEP:-10}"
 # The judge's per-label confidences change which claims get a verdict. The repository does not record
 # the value round 13 used (the demo uses 0.82:0.94:0.41); export the same one before running, e.g.
 #   TRUTHCHECK_NLI_LABEL_PRECISION=0.82:0.94:0.41 bash scripts/cluster/submit_round14.sh 14
@@ -41,7 +41,8 @@ else
   echo "WARNING: TRUTHCHECK_NLI_LABEL_PRECISION not set; using the code default (7B precisions)." >&2
 fi
 
-GATE=0.1 PROMPT=v1 MORE=""
+# GATE / PROMPT / KEEP override the round-13 defaults for any round (e.g. GATE=0.05 PROMPT=v3).
+GATE=${GATE:-0.1} PROMPT=${PROMPT:-v1} MORE=""
 case "$ROUND" in
   14) OUT=round14_kb45 ;;
   15) OUT=round15_lanes_v2;   MORE="TRUTHCHECK_QUERY_LANES=v2" ;;
