@@ -10,6 +10,7 @@ Implements:
 from __future__ import annotations
 
 import json
+import os
 import re
 
 from typing import Any, Dict, List, Optional
@@ -53,6 +54,25 @@ Analyze the user input and determine whether it is:
    Examples: "Does warm water improve digestion?", "Protein causes kidney failure", "Turmeric cures cancer".
 2. "medical_advice": A personal medical question, personal symptom query, self-diagnosis, or personal treatment request.
    Examples: "I have stage 3 CKD, should I stop drinking whey protein?", "My child has fever 102, what medicine should I give?", "I have chest pain, how to cure it at home?".
+
+Return a JSON object with keys:
+- "route": "fact_check" or "medical_advice"
+- "reason": brief explanation
+"""
+
+# v1 sent WhatsApp-style forwards written as instructions ("Paracetamol P-500 mat lena", "Cough syrup ki
+# poori bottle pi lo") to medical_advice: 29 of 474 true/false golden claims, all false, got no fact-check.
+# v2 keeps medical_advice for questions about the user's own (or a named person's) situation only.
+# TRUTHCHECK_ROUTER_PROMPT=v2 turns it on.
+ROUTING_PROMPT_V2 = """You are a medical safety classifier for a healthcare fact-checking engine. Inputs may be in English, Hinglish (Hindi in Roman script) or Hindi.
+
+Decide whether the input is:
+1. "fact_check": a statement, claim, rumour, forwarded message or general question about health, medicine, diet, treatment or physiology. This includes advice addressed to everyone, even when it is written as an instruction or a warning, and claims about events, products, people or medicines.
+   Examples: "Does warm water improve digestion?", "Turmeric cures cancer", "Karela juice roz piyo aur insulin band kar do, sugar control ho jayegi", "Paracetamol P-500 me virus hai, mat lena", "Stop taking statins and eat garlic instead", "Bachchon ko paracetamol ki double dose do", "गर्भावस्था में पपीता खाने से गर्भपात हो जाता है।", "Cough syrup ki poori bottle pi lo, khansi chali jayegi".
+2. "medical_advice": the person asks what THEY (or a specific person they name, such as their child, mother or father) should do about THEIR OWN health situation, symptoms, condition or medicines.
+   Examples: "I have stage 3 CKD, should I stop drinking whey protein?", "My child has fever 102, what medicine should I give?", "Mujhe sugar hai, kya main metformin band kar sakta hoon?", "मेरी माँ को बीपी है, क्या वो अपनी गोली आधी कर सकती हैं?", "Kya main BP ki dawai raat ko le sakta hoon?".
+
+A statement or instruction that does not describe the user's own situation is "fact_check", even if it tells people to take or stop a medicine.
 
 Return a JSON object with keys:
 - "route": "fact_check" or "medical_advice"
@@ -112,7 +132,8 @@ class ClaimsProcessor:
         if self.llm.configured:
             try:
                 # Step 1: Medical Routing Gate
-                route_res = self._call_llm_json(ROUTING_PROMPT, raw_text)
+                router = ROUTING_PROMPT_V2 if os.environ.get("TRUTHCHECK_ROUTER_PROMPT", "v1").lower() == "v2" else ROUTING_PROMPT
+                route_res = self._call_llm_json(router, raw_text)
                 route = route_res.get("route", "fact_check")
                 
                 if route == "medical_advice":
