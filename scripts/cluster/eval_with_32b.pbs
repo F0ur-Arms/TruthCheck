@@ -28,20 +28,25 @@ cd ${REPO:?set REPO to the checkout to evaluate}
 OUT=${OUT_DIR:?set OUT_DIR}
 mkdir -p $OUT
 
+# Every job on the GPU node shares its network: two of these jobs on port 8001 collide (13 Nov), so each
+# job takes its own port from its job number.
+PORT=${VLLM_PORT:-$((8100 + ${PBS_JOBID%%.*} % 800))}
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate ~/FoodFactCheck/.conda/truthcheck-vllm-cu125
 export HF_HUB_OFFLINE=1
 echo "vLLM 32B starting $(date) on $(hostname)"
 python -m vllm.entrypoints.openai.api_server \
   --model Qwen/Qwen2.5-32B-Instruct-AWQ --served-model-name qwen2.5-32b-awq \
-  --host 127.0.0.1 --port 8001 --tensor-parallel-size 1 \
+  --host 127.0.0.1 --port $PORT --tensor-parallel-size 1 \
   --gpu-memory-utilization ${VLLM_UTIL:-0.60} --max-model-len ${VLLM_MAXLEN:-4096} --quantization awq \
   > $OUT/vllm.log 2>&1 &
 VLLM_PID=$!
 trap 'kill $VLLM_PID 2>/dev/null' EXIT
 conda deactivate
 
-export TRUTHCHECK_LLM_BASE_URL=http://127.0.0.1:8001/v1 TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq
+# The claim processor counts the LLM as configured only with an API key, even a dummy one.
+export TRUTHCHECK_LLM_BASE_URL=http://127.0.0.1:$PORT/v1 TRUTHCHECK_LLM_MODEL=qwen2.5-32b-awq
+export TRUTHCHECK_LLM_API_KEY=none TRUTHCHECK_LLM_TIMEOUT_SECONDS=60
 export MODE=${MODE:-graph} N=${N:-2}
 if [ -n "${CMD:-}" ]; then
   # CMD: any command to run against the local server instead of an evaluation (e.g. a re-judge test),
